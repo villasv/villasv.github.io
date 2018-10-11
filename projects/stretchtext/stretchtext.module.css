@@ -1,0 +1,59 @@
+/* links here are not real links */
+.unlink:link,
+.unlink:hover,
+.unlink:active,
+.unlink:visited {
+  color: var(--secondary-foreground-color);
+  text-decoration: none;
+}
+
+/* some extra attention for clickable stretchtext */
+.tense {
+  background: rgba(247, 147, 2, 0.2);
+  border-radius: 4px;
+  margin: 0px -2px;
+  padding: 0px 2px;
+}
+
+/* when shrinking, fade to invisible text */
+.container.shrinking,
+.container.shrinking a,
+.container.shrinking a:hover,
+.container.shrinking a:active,
+.container.shrinking a:visited {
+  color: rgba(0, 0, 0, 0);
+}
+
+/* when expanding, fade from invisible text  */
+.container.expanding,
+.container.expanding a,
+.container.expanding a:hover,
+.container.expanding a:active,
+.container.expanding a:visited {
+  color: rgba(0, 0, 0, 0);
+}
+/* also tell child stretchtext to fade background */
+.container.expanding .tense {
+  background: inherit;
+}
+
+/* after fading in, go back to default color */
+.loose {
+  color: inherit;
+}
+
+/* inline span styles */
+.paragraph,
+.blockquote {
+  display: inline-block;
+  margin-top: 16px;
+  margin-bottom: 4px;
+  text-align: justify;
+}
+
+.blockquote {
+  font-style: italic;
+  margin-left: 6px;
+  padding-left: 12px;
+  border-left: 4px solid #ccc;
+}

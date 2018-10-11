@@ -1,0 +1,32 @@
+name: Website Deploy
+
+on:
+  workflow_dispatch: {}
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy:
+    runs-on: ubuntu-20.04
+    steps:
+      - name: Clone
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0 # all history & all branches
+
+      - name: Setup
+        uses: actions/setup-node@v2
+        with:
+          node-version: 18
+          cache: npm
+
+      - name: Build
+        run: npm ci && npm run build
+
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        if: github.ref == 'refs/heads/main'
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./out

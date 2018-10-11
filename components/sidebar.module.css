@@ -1,0 +1,8 @@
+.sidebar {
+  font-size: 14px;
+  max-width: 340px;
+}
+
+.sidebar ul {
+  list-style: none;
+}
