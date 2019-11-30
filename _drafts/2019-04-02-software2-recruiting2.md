@@ -3,12 +3,12 @@ layout: post
 title:  "Recruiting 2.0 comes from Software 2.0"
 ---
 
-# Introduction
-
 When discussing with my friend (and Product Owner in charge) Natália Turrioni,
 one thing became clear about HR metrics: it's hard to pinpoint a metric that
 should *always* increase. This is a bit frustrating because many experiments end
 up with inconclusive results and tentative ad-hoc interpretations.
+
+# Introduction
 
 Let's say we want to make hiring faster and efficient. We can try to decrease
 positions time-to-close. But then we may end up hiring "badly" and increase
