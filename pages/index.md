@@ -1,3 +1,7 @@
+---
+permalink: index.html
+---
+
 # Who I am as a living person
 
 I like to think of myself as a dilettante hopelessly pursuing a promotion to
