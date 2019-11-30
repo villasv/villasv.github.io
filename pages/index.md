@@ -47,13 +47,11 @@ HR](https://www.gupy.io)
 
 # Why I hold these beliefs
 
-If you want to know more about me, you can follow me on social
-media[[5]](#5)[[6]](#6) or read very ocasional thoughts I flush out in my
-blog[[7]](#7).
+If you want to know more about me, you can follow me on social media[[5]](#5) or
+read very ocasional thoughts I flush out in my blog[[6]](#6).
 
 <a id="5">[5]</a> <https://twitter.com/_villasv> <br>
-<a id="6">[6]</a> <http://linkedin.com/in/villasv/> <br>
-<a id="7">[7]</a> [.../pages/blog](/pages/blog) <br>
+<a id="6">[6]</a> [.../pages/blog](/pages/blog) <br>
 
 # When can we have a chat?
 
