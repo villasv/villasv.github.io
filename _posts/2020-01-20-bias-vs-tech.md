@@ -8,9 +8,9 @@ A humanidade possui algo único entre todos os outros animais desse planeta: um
 incrível acúmulo de conhecimento, ferramentas e técnicas que nos empoderam e
 potencializam nos mais diversos cenários e objetivos. Esse apanhado de
 **tecnologia** nos permitiu transcender as possibilidades originalmente
-oferecidas pelos corpos e mentes naturais da nosa espécie.
+oferecidas pelos corpos e mentes naturais da nossa espécie.
 
-Apesar disso, nós ainda somos somos muito semelhantes aos nossos ancestrais
+Apesar disso, nós ainda somos muito semelhantes aos nossos ancestrais
 nômades e caçadores/coletores. As ferramentas que projetamos são reflexo direto
 de nossa experiência, assim como a experiência humana se modificou com o
 surgimento de novas tecnologias.
@@ -21,9 +21,9 @@ surgimento de novas tecnologias.
 Nós humanos somos incrivelmente aptos para fazer associações e reconhecer
 padrões, o que nos permite tomar decisões rápidas e um reflexo involuntário é
 capaz de salvar a sua vida. Essa é uma característica que compartilhamos em
-diferentes níveis com o reino animal e é algo imbutido em nossa natureza.
+diferentes níveis com o reino animal e é algo embutido em nossa natureza.
 
-Essa eficiência decisória é certamente um grande super-poder humano, mas como
+Essa eficiência decisória é certamente um grande superpoder humano, mas como
 tudo na vida, traz um custo associado aos benefícios. Somos rápidos em criar e
 perceber padrões, mas não somos especialmente eficazes em voluntariamente
 resistir ou redirecionar nossos reflexos. Isso faz com que nosso comportamento
@@ -33,7 +33,7 @@ livrar.
 Por exemplo, nós somos naturalmente mais propensos a confiar em pessoas que
 consideramos mais atraentes. Ao ver a pessoa com "bons olhos", temos dificuldade
 de conscientemente identificar o que nos leva a uma opinião ou sensação. Uma
-fonte clássica pra se aprofundar no assunto é o livro "Thinking, Fast and Slow"
+fonte clássica para se aprofundar no assunto é o livro "Thinking, Fast and Slow"
 (por Daniel Kahneman).
 
 
@@ -53,7 +53,7 @@ própria *expertise* em algum tópico.
 
 Inevitavelmente encontramos reflexos dos nossos vieses em nossas tecnologias.
 Quando pensamos em problemas e soluções, estamos vendo o mundo através da lente
-dos nosso vieses e a neutralidade de resultado é impossível. Ao construirmos
+dos nossos vieses e a neutralidade de resultado é impossível. Ao construirmos
 ferramentas, desenhamos seu uso para que seja confortável para nós mesmos e
 aqueles com quem inconscientemente simpatizamos.
 
@@ -110,8 +110,8 @@ pular em conclusões, julgar sem informações suficientes, não ter consciênci
 próprias faculdades mentais.
 
 Tecnologia significa, afinal, empoderamento humano. Podemos escolher fortalecer
-nosso senso de justiça e igualdade, ao invés do nosso instinto de
-autopreservação e predativo.
+nosso senso de justiça e igualdade, ao invés do nosso instinto predador e de
+autopreservação.
 
 
 <br>
