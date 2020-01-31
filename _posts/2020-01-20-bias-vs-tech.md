@@ -113,13 +113,11 @@ Tecnologia significa, afinal, empoderamento humano. Podemos escolher fortalecer
 nosso senso de justiça e igualdade, ao invés do nosso instinto predador e de
 autopreservação.
 
-
 <br>
 
 ---
 
 <br>
-
 
 <a id="1">[1]</a> <https://petapixel.com/2015/09/19/heres-a-look-at-how-color-film-was-originally-biased-toward-white-people/> <br>
 
@@ -127,3 +125,12 @@ autopreservação.
 
 <a id="3">[3]</a> <https://www.newsweek.com/2017/05/19/obesity-childhood-obesity-body-mass-index-bmi-weight-weight-gain-health-595625.html> <br>
 
+<br>
+
+---
+
+<br>
+
+Interessado em conversar mais sobre isso? [Vamos papear][twitter].
+
+[twitter]: https://twitter.com/_villasv/status/1223353025798070279
