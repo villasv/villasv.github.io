@@ -11,7 +11,7 @@ talvez dance, corre melhor que nada. Cozinhar está nos planos.
 
 Menos frequentemente do que poderia, publica um novo ensaio[[1]](#1).
 
-Mais frequentemente do que deveria, papeia na rede social[[2]](#2)[[3]](#3).
+Mais frequentemente do que deveria, papeia nas redes[[2]](#2)[[3]](#3).
 
 <a id="1">[1]</a> [.../pages/essays](/pages/essays) <br>
 <a id="2">[2]</a> <https://twitter.com/_villasv> <br>
