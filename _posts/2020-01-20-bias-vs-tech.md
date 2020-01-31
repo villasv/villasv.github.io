@@ -19,10 +19,9 @@ surgimento de novas tecnologias.
 # A herança primitiva
 
 Nós humanos somos incrivelmente aptos para fazer associações e reconhecer
-padrões, o que nos permite tomar decisões incrivelmente rápidas e um reflexo
-involuntário é capaz de salvar a sua vida. Essa é uma característica que
-compartilhamos em diferentes níveis com o reino animal e é algo imbutido em
-nossa natureza.
+padrões, o que nos permite tomar decisões rápidas e um reflexo involuntário é
+capaz de salvar a sua vida. Essa é uma característica que compartilhamos em
+diferentes níveis com o reino animal e é algo imbutido em nossa natureza.
 
 Essa eficiência decisória é certamente um grande super-poder humano, mas como
 tudo na vida, traz um custo associado aos benefícios. Somos rápidos em criar e
@@ -34,8 +33,8 @@ livrar.
 Por exemplo, nós somos naturalmente mais propensos a confiar em pessoas que
 consideramos mais atraentes. Ao ver a pessoa com "bons olhos", temos dificuldade
 de conscientemente identificar o que nos leva a uma opinião ou sensação. Uma
-fonte clássica pra se aprofundar no assunto é o livro "Rápido Devagar: Duas
-Formas de Pensar" (por Daniel Kahneman).
+fonte clássica pra se aprofundar no assunto é o livro "Thinking, Fast and Slow"
+(por Daniel Kahneman).
 
 
 # O impacto moderno
@@ -63,11 +62,11 @@ aqueles com quem inconscientemente simpatizamos.
 
 Quando pensamos no potencial empoderador da tecnologia e lembramos que ela está
 carregada de características que priorizam a minoria privilegiada que a
-desenvolveu, não é difícil perceber que a inevitabilidade do desequilíbrio se
-agravar.
+desenvolveu, não é difícil perceber a inevitabilidade do agravamento das
+desigualdades.
 
 Se as câmeras são especialmente capazes de capturar a pele branca[[1]](#1),
-cresce a o poder de pessoas brancas definirem os padrões de beleza e arte,
+cresce o poder de pessoas brancas definirem os padrões de beleza e arte,
 crescendo também o investimento tecnológico focado nesse público. A tecnologia
 de fotografia precisou ser pressionada para melhorar as imagens na publicidade
 de produtos escuros como madeira e chocolate, antes de começar a se preocupar
@@ -85,11 +84,12 @@ uma carreira, como juros compostos, contribuindo para a diferença de
 representatividade feminina em cargos de liderança.
 
 Até fórmulas cotidianas e amplamente conhecidas como o IMC[[3]](#3) foram
-criadas com a biologia de público muito específico em mente e hoje influenciam a
-vida de pessoas que não suspeitam estarem sendo julgadas por uma ferramenta tão
-enviesada. A lista de microagressões visíveis e invisíveis causadas pelas
-tecnologias que nós dispomos é longa e, se não lutarmos ativamente por mudança,
-crescente.
+criadas com a biologia de um público muito específico em mente e hoje
+influenciam a vida de pessoas que não suspeitam estarem sendo julgadas por uma
+ferramenta tão enviesada. A lista de micro e macro agressões visíveis e
+invisíveis causadas pelas tecnologias que nós dispomos é longa e, se não
+lutarmos ativamente por mudança, crescente. Muitos outros exemplos estão
+documentados no livro "Weapons of Math Destruction" (por Cathy O'Neil).
 
 
 # O contra-ataque
