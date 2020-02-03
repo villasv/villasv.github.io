@@ -15,7 +15,7 @@ Mais frequentemente do que deveria, papeia nas redes[[2]](#2)[[3]](#3).
 
 <a id="1">[1]</a> [.../pages/essays](/pages/essays) <br>
 <a id="2">[2]</a> <https://twitter.com/_villasv> <br>
-<a id="2">[2]</a> <https://www.instagram.com/villasv/> <br>
+<a id="3">[3]</a> <https://www.instagram.com/villasv/> <br>
 
 # Com tato
 
