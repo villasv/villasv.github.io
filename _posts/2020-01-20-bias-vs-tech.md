@@ -4,16 +4,19 @@ title:  "Vieses vs. Tecnologia"
 image: /assets/images/unfair.jpeg
 ---
 
-A humanidade possui algo único entre todos os outros animais desse planeta: um
-incrível acúmulo de conhecimento, ferramentas e técnicas que nos empoderam e
+Possuímos algo único entre todos os outros animais desse planeta: um crescente
+acúmulo de conhecimento, ferramentas e técnicas que nos empoderam e
 potencializam nos mais diversos cenários e objetivos. Esse apanhado de
-**tecnologia** nos permitiu transcender as possibilidades originalmente
-oferecidas pelos corpos e mentes naturais da nossa espécie.
+tecnologias nos permitiu transcender as possibilidades originalmente oferecidas
+pelos corpos e mentes naturais da nossa espécie.
 
-Apesar disso, nós ainda somos muito semelhantes aos nossos ancestrais
-nômades e caçadores/coletores. As ferramentas que projetamos são reflexo direto
-de nossa experiência, assim como a experiência humana se modificou com o
-surgimento de novas tecnologias.
+Apesar de todo progresso, em alguns aspectos ainda somos muito semelhantes aos
+nossos ancestrais nômades e caçadores/coletores. Tanto quanto a experiência
+humana se modifica com o surgimento de novas tecnologias, as ferramentas que
+projetamos são reflexo direto da nossa história e jornada de conscientização.
+
+
+<!--more-->
 
 
 # A herança primitiva
@@ -119,18 +122,14 @@ autopreservação.
 
 <br>
 
+Interessado em conversar mais sobre isso? [Vamos papear][twitter].
+
+[twitter]: https://twitter.com/_villasv/status/1223353025798070279
+
+<br>
+
 <a id="1">[1]</a> <https://petapixel.com/2015/09/19/heres-a-look-at-how-color-film-was-originally-biased-toward-white-people/> <br>
 
 <a id="2">[2]</a> <https://www.nationalgeographic.com/news/energy/2015/08/150803-gender-bias-affects-office-heating-cooling-temperatures/> <br>
 
 <a id="3">[3]</a> <https://www.newsweek.com/2017/05/19/obesity-childhood-obesity-body-mass-index-bmi-weight-weight-gain-health-595625.html> <br>
-
-<br>
-
----
-
-<br>
-
-Interessado em conversar mais sobre isso? [Vamos papear][twitter].
-
-[twitter]: https://twitter.com/_villasv/status/1223353025798070279
