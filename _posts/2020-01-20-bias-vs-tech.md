@@ -26,7 +26,7 @@ padrões, o que nos permite tomar decisões rápidas e um reflexo involuntário 
 capaz de salvar a sua vida. Essa é uma característica que compartilhamos em
 diferentes níveis com o reino animal e é algo embutido em nossa natureza.
 
-Essa eficiência decisória é certamente um grande superpoder humano, mas como
+Essa eficiência decisória é certamente um grande superpoder humano. Mas, como
 tudo na vida, traz um custo associado aos benefícios. Somos rápidos em criar e
 perceber padrões, mas não somos especialmente eficazes em voluntariamente
 resistir ou redirecionar nossos reflexos. Isso faz com que nosso comportamento
@@ -36,29 +36,29 @@ livrar.
 Por exemplo, nós somos naturalmente mais propensos a confiar em pessoas que
 consideramos mais atraentes. Ao ver a pessoa com "bons olhos", temos dificuldade
 de conscientemente identificar o que nos leva a uma opinião ou sensação. Uma
-fonte clássica para se aprofundar no assunto é o livro "Thinking, Fast and Slow"
-(por Daniel Kahneman).
+fonte clássica para se aprofundar no assunto é o livro "Rápido e Devagar: Duas
+Formas de Pensar" (por Daniel Kahneman).
 
 
 # O impacto moderno
 
-O nome que damos para as *tendências* cognitivas que herdamos é **vieses**. Viés
-é uma palavra carregada, possuindo outras interpretações em diferentes
+O nome que damos para as *tendências* cognitivas que carregamos é **vieses**.
+Viés é uma palavra carregada, possuindo outras interpretações em diferentes
 contextos. Por hora, vamos definir como qualquer tendência pré-estabelecida a
 uma resposta cognitiva - sensação ou opinião - que difere da resposta esperada
-de uma pessoa (fictícia) perfeitamente racional e versada em estatística.
+de uma pessoa (fictícia) perfeitamente racional.
 
-Como você já deve imaginar, vieses estão intimamente relacionados a
-preconceitos. Diversos vieses se unem para resultar em racismo, homofobia,
-intolerância religiosa etc. Vieses também são a causa de problemas mais sutis,
-como uma desproporcional aversão a risco ou a impressão positiva exagerada da
-própria *expertise* em algum tópico.
+Como se pode imaginar, vieses estão intimamente relacionados a preconceitos.
+Diversos vieses se unem para resultar em racismo, homofobia, intolerância
+religiosa, entre muitos outros. Vieses também são a causa de problemas mais
+sutis, como uma desproporcional aversão a risco ou a impressão positiva
+exagerada da própria *expertise* em algum tópico.
 
 Inevitavelmente encontramos reflexos dos nossos vieses em nossas tecnologias.
 Quando pensamos em problemas e soluções, estamos vendo o mundo através da lente
-dos nossos vieses e a neutralidade de resultado é impossível. Ao construirmos
+dos nossos vieses e a neutralidade de resultados é impossível. Ao construirmos
 ferramentas, desenhamos seu uso para que seja confortável para nós mesmos e
-aqueles com quem inconscientemente simpatizamos.
+aqueles com quem inconscientemente empatizamos.
 
 
 # O círculo vicioso
@@ -78,13 +78,11 @@ precisou também se preocupar em utilizar uma inovação tecnológica pensada
 especificamente para a população negra.
 
 Se o ar condicionado do seu escritório foi projetado para agradar o corpo de um
-homem de 40 anos e 70kg[[2]](#2), considerando também a relação com as
-diferentes expectativas sociais de vestimenta diferenciadas para cada gênero,
-não é surpreendente encontrar mulheres que encontram no trabalho mais
-desconforto, descontentamento e a sensação de voz silenciada até em aspectos
-simples como a temperatura da sala. Fatores como esse podem acumular ao longo de
-uma carreira, como juros compostos, contribuindo para a diferença de
-representatividade feminina em cargos de liderança.
+homem de 40 anos e 70kg[[2]](#2), não é surpreendente encontrar mulheres que
+encontram no trabalho mais desconforto, descontentamento e a sensação de voz
+silenciada até em aspectos simples como a temperatura da sala. Fatores como esse
+podem acumular ao longo de uma carreira, como juros compostos, contribuindo para
+a diferença de representatividade feminina em cargos de liderança.
 
 Até fórmulas cotidianas e amplamente conhecidas como o IMC[[3]](#3) foram
 criadas com a biologia de um público muito específico em mente e hoje
@@ -109,8 +107,8 @@ calcular para cada biotipo os indicadores ideais de saúde. Com empatia e,
 principalmente, com diversidade presente no processo criativo de tecnologia,
 podemos democratizar o acesso de cada um ao seu máximo potencial. Nosso máximo
 potencial inclui nos livrar dos impactos negativos na nossa herança primitiva de
-pular em conclusões, julgar sem informações suficientes, não ter consciência das
-próprias faculdades mentais.
+pular em conclusões, julgar sem informações suficientes e não ter consciência
+das próprias faculdades mentais.
 
 Tecnologia significa, afinal, empoderamento humano. Podemos escolher fortalecer
 nosso senso de justiça e igualdade, ao invés do nosso instinto predador e de
@@ -119,12 +117,6 @@ autopreservação.
 <br>
 
 ---
-
-<br>
-
-Interessado em conversar mais sobre isso? [Vamos papear][twitter].
-
-[twitter]: https://twitter.com/_villasv/status/1223353025798070279
 
 <br>
 
