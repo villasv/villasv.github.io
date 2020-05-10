@@ -14,7 +14,7 @@ sensações, sentimentos e pensamentos.
 O que chamamos de "mensagens subliminares" ou "ler entre as entrelinhas" são
 exemplos de tentativas de explorar os sentidos da simbologia presente em um
 texto. Sendo esses sentidos ocultos intencionais ou não, eles evidenciam como a
-linguagem veicula a representação da mentalidade seu interlocutor de forma mais
+linguagem veicula a representação da mentalidade do interlocutor de forma mais
 ampla do que o imediatamente observável.
 
 <!--more-->
@@ -30,22 +30,22 @@ potencializa outras tecnologias.
 O caráter fundamental de algumas tecnologias faz com que algumas decisões gerem
 impactos profundos. A Internet, por exemplo, foi projetada com alguns princípios
 de descentralização e independência que hoje culminam em políticas como a
-Neutralidade da Rede. As decisões decorrentes foram determinantes para o avanço
-da indústria de _streaming_ (outra tecnologia, construída *sobre* a Internet),
-empoderando organizações como a Netflix contra a influência dominante dos
-provedores de telecomunicações.
+Neutralidade da Rede[[1]](#1). As decisões decorrentes foram determinantes para
+o avanço da indústria de _streaming_ (outra tecnologia, construída *sobre* a
+Internet), empoderando organizações como a Netflix contra a influência dominante
+dos provedores de telecomunicações.
 
 Quando falamos da nossa linguagem, não é diferente. Ela é uma tecnologia que
 permeia nossa cultura e também outras tecnologias derivadas, como a legislação.
 Ao falarmos em alterações linguísticas intencionais (como substituir expressões
-como "criado-mudo"[[1]](#1)), temos uma mudança que, apesar de poder parecer
+como "criado-mudo"[[2]](#2)), temos uma mudança que, apesar de poder parecer
 pequena, irá reverberar na forma como pensamos e produzimos tecnologia daqui pra
 frente.
 
 # Subliminares
 
 O perigo da linguagem como tecnologia fundamental é justamente ela ser tão
-natural e automática, frequentemente usada sem inteção clara para cada decisão,
+natural e automática, frequentemente usada sem itenção clara para cada decisão,
 e portanto uma tecnologia muito propensa à influência dos nossos [vieses]({%
 post_url 2020-01-20-bias-vs-tech %}) mais inconscientes. É de se esperar que um
 texto expresse mais do que o significado das palavras nele presentes; ele pode
@@ -118,4 +118,6 @@ como a linguagem ajudam a fabricar os moldes e entender as pessoas.
 
 <br>
 
-<a id="1">[1]</a> <https://propmark.com.br/anunciantes/tokstok-e-mobly-aceitam-pedido-de-etna-para-extinguir-termo-criado-mudo/> <br>
+<a id="1">[1]</a> <https://pt.wikipedia.org/wiki/Neutralidade_da_rede> <br>
+
+<a id="2">[2]</a> <https://propmark.com.br/anunciantes/tokstok-e-mobly-aceitam-pedido-de-etna-para-extinguir-termo-criado-mudo/> <br>
