@@ -73,7 +73,7 @@ alternativa melhor que outros meios de *transporte*.
 
 Já um exemplo que parece não ser tão intencional e que me é familiar por estar
 relacionado a _softwares_ de recrutamento, é o vocabulário utilizado por alguns
-fornecedores de ferramentas:
+fornecedores de ferramentas para Recursos Humanos:
 
 >[Recruiterbox](<https://web.archive.org/web/20200302150808/https://recruiterbox.com/>):
 >Online applicant tracking tools for **the best candidates** and hassle-free
@@ -90,7 +90,7 @@ Observe como o Taleo se destaca ao protagonizar a empresa como a responsável po
 encontrar o que _ela precisa_, enquanto Greenhouse e Recruiterox colocam no
 candidato a responsabilidade de ser _o melhor_. Naturalmente, os clientes das
 empresas (os usuários da tecnologia) tendem a reproduzir esse linguajar que
-pressiona os candidatos à competição, revelando que a nível subconsciente a
+pressiona os candidatos à competição, indicando que a nível subconsciente a
 organização tem uma cultura elitista.
 
 # Impactantes
@@ -99,7 +99,7 @@ O exemplo da Uber é interessante para expor como é possível utilizar da
 linguagem para disfarçar um problema ético da empresa e manipular a interação
 com as leis. O exemplo de ferramentas de RH demonstra o que acontece quando os
 valores da organização vazam através da linguagem e podem ajudar a perpetuar uma
-mentalidade pouco saudável da força de trabalho com a vida profissional.
+mentalidade pouco saudável da força de trabalho em relação à vida profissional.
 
 Apesar de ser comum que as ditas "intenções por trás das palavras" sejam apenas
 extrapolações forçadas pelo leitor, é também perfeitamente natural observar e
@@ -110,7 +110,7 @@ mentalidades não tão surpreendentes (mesmo que abomináveis).
 Analisar a linguagem como tecnologia é importante não somente do ponto de vista
 de justiça social, mas é um recurso poderoso de transformação cultural. Se
 tecnologias são usadas por pessoas para moldar o mundo, tecnologias fundamentais
-como a linguagem ajudam a fabricar os moldes e entender as pessoas.
+como a linguagem ajudam a fabricar os moldes.
 
 <br>
 
