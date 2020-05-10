@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Linguagem e Mentalidade"
-permalink: linguagem-e-mentalidade
+permalink: escrita/linguagem-e-mentalidade
 image: /assets/images/unfair.jpeg
 ---
 

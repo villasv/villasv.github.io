@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Vieses vs. Tecnologia"
-permalink: vieses-vs-tecnologia
+permalink: escrita/vieses-vs-tecnologia
 image: /assets/images/unfair.jpeg
 ---
 
