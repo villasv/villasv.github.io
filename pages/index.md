@@ -3,20 +3,17 @@ permalink: index.html
 title: villasv's
 ---
 
-# Quem
+# Periódicos
 
-Victor Villas é um pensador, escritor e orador - de preferência nesta ordem. Ele
-tem algum sucesso como ouvinte, mas não chega a se destacar. Ele lê, não canta,
-talvez dance, corre melhor que nada. Cozinhar está nos planos.
+Publico um novo ensaio[[1]](#1) mensalmente.
 
-Menos frequentemente do que poderia, publica um novo ensaio[[1]](#1).
+Me expresso na rede social[[2]](#2) irregularmente.
 
-Mais frequentemente do que deveria, papeia nas redes[[2]](#2)[[3]](#3).
-
-<a id="1">[1]</a> [.../pages/essays](/pages/essays) <br>
+<a id="1">[1]</a> [./paginas/ensaios](/paginas/ensaios) <br>
 <a id="2">[2]</a> <https://twitter.com/_villasv> <br>
-<a id="3">[3]</a> <https://www.instagram.com/villasv/> <br>
 
 # Com tato
+
+Meu nome é Victor Villas.
 
 Você pode tentar o [correio eletrônico](mailto:mail@victor.villas).

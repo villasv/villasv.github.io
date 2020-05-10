@@ -4,11 +4,17 @@ title:  "Linguagem e Mentalidade"
 image: /assets/images/unfair.jpeg
 ---
 
-Estamos tão acostumados com a tecnologia da língua portuguesa que a maioria de
-nós reflete pouco sobre o quão incrível ela é. É algo que nos permite formular
-internamente opiniões complexas e visões de mundo e transmiti-las para outras
-pessoas que irão decodificar as decisões linguísticas em seus próprios
-sentimentos, sensações e pensamentos.
+Estamos tão acostumados com a tecnologia da linguagem que podemos precisar de
+muita atenção para refletir sobre o quão incrível ela é: algo que nos permite
+formular internamente opiniões e visões de mundo complexas e transmiti-las para
+outras pessoas que irão decodificar as decisões linguísticas em suas próprias
+sensações, sentimentos e pensamentos.
+
+O que chamamos de "mensagens subliminares" ou "ler entre as entrelinhas" são
+exemplos de tentativas de fazer sentido das múltiplas mensagens contidas em um
+mesmo texto. Intencionais ou não, elas evidenciam como a linguagem veicula a
+representação da mentalidade seu interlocutor de forma mais ampla do que o
+imediatamente observável.
 
 <!--more-->
 
@@ -24,18 +30,19 @@ O caráter fundamental de algumas tecnologias faz com que algumas decisões gere
 impactos tão profundos que são capazes de transformar culturas inteiras em um
 curto espaço de tempo. A Internet, por exemplo, foi projetada com alguns
 princípios de descentralização e independência que hoje culminam em políticas
-como a Neutralidade da Rede (no Marco Civil da Internet) e foram essenciais para
-o avanço da indústria de _streaming_ (outra tecnologia, construída sobre a
-Internet), empoderando organizações como a Netflix que redefiniram
-entretenimento e consumo midiático. Se a Internet tivesse sido criada em outro
+como a Neutralidade da Rede (no Brasil, pelo Marco Civil da Internet) e foram
+essenciais para o avanço da indústria de _streaming_ (outra tecnologia,
+construída sobre a Internet), empoderando organizações como a Netflix que
+redefiniram entretenimento digital. Se a Internet tivesse sido criada em outro
 contexto, em um esforço com outros objetivos, teríamos hoje uma sociedade
 profundamente diferente.
 
 Quando falamos da nossa linguagem, não é diferente. Ela é uma tecnologia que
 permeia nossa cultura e também outras tecnologias derivadas, como a legislação.
-Ao falarmos em evitar expressões como "criado-mudo"[[1]](#1), temos uma mudança
-que, apesar de poder parecer pequena, irá reverberar na forma como pensamos e
-produzimos tecnologia daqui pra frente.
+Ao falarmos em correções linguísticas intencionais (como substituir expressões
+como "criado-mudo"[[1]](#1)), temos uma mudança que, apesar de poder parecer
+pequena, irá reverberar na forma como pensamos e produzimos tecnologia daqui
+pra frente.
 
 # Subliminares
 
@@ -56,13 +63,13 @@ trecho presente em seus termos de serviço:
 > QUE NÃO SÃO EMPREGADOS(AS) E NEM REPRESENTANTES DA UBER, NEM DE QUALQUER DE
 > SUAS AFILIADAS.
 
-Essa decisão de se posicionar como empresa de tecnologia e não de transporte faz
-com que a Uber escape de várias obrigações legais e não precise reconhecer os
-motoristas como funcionários. Porém, a maioria dos usuários que fossem
+Essa decisão de se posicionar como empresa de tecnologia e não de transporte
+faz com que a Uber escape de várias obrigações legais e não precise reconhecer
+os motoristas como funcionários. Porém, a maioria dos usuários que fossem
 perguntados na rua sobre do que se trata a empresa Uber, certamente transporte
 (e logística no caso do Eats) seria tópico central. E qual é a linguagem
-utilizada em alguns anúncios? Mostrar _reviews_ elogiando motoristas 5 estrelas,
-fazendo uso deles como representantes da Uber.
+utilizada em alguns anúncios? Mostrar _reviews_ elogiando motoristas 5
+estrelas, fazendo uso deles como representantes da Uber.
 
 Já um exemplo que parece não ser tão intencional e que me é familiar por estar
 relacionado a _softwares_ de recrutamento, é o vocabulário utilizado pela
