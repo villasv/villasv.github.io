@@ -104,13 +104,13 @@ mentalidade pouco saudável da força de trabalho em relação à vida profissio
 Apesar de ser comum que as ditas "intenções por trás das palavras" sejam apenas
 extrapolações forçadas pelo leitor, é também perfeitamente natural observar e
 questionar escolhas linguísticas. A realidade é que elas não costumam ser tão
-implícitas assim (seja intencionalmente ou inadvertidamente) e em geral revelam
+implícitas (seja intencionalmente ou inadvertidamente) e em geral revelam
 mentalidades não tão surpreendentes (mesmo que abomináveis).
 
 Analisar a linguagem como tecnologia é importante não somente do ponto de vista
 de justiça social, mas é um recurso poderoso de transformação cultural. Se
 tecnologias são usadas por pessoas para moldar o mundo, tecnologias fundamentais
-como a linguagem ajudam a fabricar os moldes.
+como a linguagem dão forma aos moldes.
 
 <br>
 
