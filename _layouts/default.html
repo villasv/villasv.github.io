@@ -35,6 +35,12 @@
     </script>
   </head>
   <body>
+    {% if page.url != "/index.html" %}
+      {% assign path_parts = page.url | split: "/" | shift %}
+      {% assign base_count = path_parts | size | minus: 1 %}
+      {% assign base_url = path_parts | slice: 0, base_count | join: "/" %}
+      <a href="/{{ base_url }}"><-</a>
+    {% endif %}
     {{ content }}
   </body>
 </html>
