@@ -5,12 +5,10 @@ title: villasv's
 
 # Periódicos
 
-Escrevo um novo texto[[1]](#1) mensalmente.
-
-Me expresso na rede social[[2]](#2) irregularmente.
+Escrevo [[1]](#1) um novo texto mensalmente, me expresso na rede social irregularmente.
 
 <a id="1">[1]</a> [./escrita](/escrita) <br>
-<a id="2">[2]</a> <https://twitter.com/_villasv> <br>
+<a id="2">[2]</a> [./leitura](/leitura) <br>
 
 # Com tato
 
