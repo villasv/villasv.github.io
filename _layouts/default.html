@@ -14,6 +14,7 @@
     {% endif %}
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <style type="text/css">
+      h1, h2, h3 { line-height: 1.2; }
       body {
         margin: 40px auto;
         max-width: 700px;
@@ -23,8 +24,10 @@
         color: #444;
         padding: 0 10px;
       }
-      h1, h2, h3 { line-height: 1.2; }
       p { text-align: justify; }
+      .tree { line-height: normal; }
+      .tree a { color: inherit; text-decoration: none; }
+      .tree .directory { font-weight: bold; }
     </style>
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-72154536-2"></script>
     <script>
@@ -39,7 +42,7 @@
       {% assign path_parts = page.url | split: "/" | shift %}
       {% assign base_count = path_parts | size | minus: 1 %}
       {% assign base_url = path_parts | slice: 0, base_count | join: "/" %}
-      <a href="/{{ base_url }}"><-</a>
+      <div class="tree"><a href="/{{ base_url }}">..</a></div>
     {% endif %}
     {{ content }}
   </body>

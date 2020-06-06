@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Vieses vs. Tecnologia"
-permalink: escrita/vieses-vs-tecnologia
+permalink: escrita/vieses_vs_tecnologia
 image: /assets/images/unfair.jpeg
+title:  "Vieses vs. Tecnologia"
+date: 2020-01-20
 ---
 
 Possuímos algo único entre todos os outros animais desse planeta: um crescente
@@ -15,10 +16,6 @@ Apesar de todo progresso, em alguns aspectos ainda somos muito semelhantes aos
 nossos ancestrais nômades e caçadores/coletores. Tanto quanto a experiência
 humana se modifica com o surgimento de novas tecnologias, as ferramentas que
 projetamos são reflexo direto da nossa história e jornada de conscientização.
-
-
-<!--more-->
-
 
 # A herança primitiva
 

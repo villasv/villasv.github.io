@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Linguagem e Mentalidade"
-permalink: escrita/linguagem-e-mentalidade
+permalink: escrita/linguagem_e_mentalidade
 image: /assets/images/unfair.jpeg
+title:  "Linguagem e Mentalidade"
+date: 2020-02-28
 ---
 
 Estamos tão acostumados com a tecnologia da linguagem que podemos precisar de
@@ -17,15 +18,12 @@ texto. Sendo esses sentidos ocultos intencionais ou não, eles evidenciam como a
 linguagem veicula a representação da mentalidade do interlocutor de forma mais
 ampla do que o imediatamente observável.
 
-<!--more-->
-
 # Fundamentais
 
 Sabemos que tecnologia é um mecanismo de potencialização e descobrimos que se
 não houver cuidado em seu processo evolutivo, ela estará também potencializando
-[vieses]({% post_url 2020-01-20-bias-vs-tech %}) e opressão sistêmica. Esse
-fenômeno é especialmente crítico quando se trata de uma tecnologia de base, que
-potencializa outras tecnologias.
+[vieses][] e opressão sistêmica. Esse fenômeno é especialmente crítico quando se
+trata de uma tecnologia de base, que potencializa outras tecnologias.
 
 O caráter fundamental de algumas tecnologias faz com que algumas decisões gerem
 impactos profundos. A Internet, por exemplo, foi projetada com alguns princípios
@@ -46,11 +44,10 @@ frente.
 
 O perigo da linguagem como tecnologia fundamental é justamente ela ser tão
 natural e automática, frequentemente usada sem itenção clara para cada decisão,
-e portanto uma tecnologia muito propensa à influência dos nossos [vieses]({%
-post_url 2020-01-20-bias-vs-tech %}) mais inconscientes. É de se esperar que um
-texto expresse mais do que o significado das palavras nele presentes; ele pode
-trazer dicas quanto à intenção do autor, sua visão de mundo ou até seu estado
-psíquico.
+e portanto uma tecnologia muito propensa à influência dos nossos [vieses][] mais
+inconscientes. É de se esperar que um texto expresse mais do que o significado
+das palavras nele presentes; ele pode trazer dicas quanto à intenção do autor,
+sua visão de mundo ou até seu estado psíquico.
 
 Um exemplo de posicionamento verbal e intencional é a Uber e seus similares como
 Uber Eats, iFood, Loggi etc. Observe o seguinte trecho presente em seus termos
@@ -87,7 +84,7 @@ fornecedores de ferramentas para Recursos Humanos:
 >Find **the talent you need** with the world's most used recruitment platform
 
 Observe como o Taleo se destaca ao protagonizar a empresa como a responsável por
-encontrar o que _ela precisa_, enquanto Greenhouse e Recruiterox colocam no
+encontrar o que _ela precisa_, enquanto Greenhouse e Recruiterbox colocam no
 candidato a responsabilidade de ser _o melhor_. Naturalmente, os clientes das
 empresas (os usuários da tecnologia) tendem a reproduzir esse linguajar que
 pressiona os candidatos à competição, indicando que a nível subconsciente a
@@ -113,6 +110,8 @@ tecnologias são usadas por pessoas para moldar o mundo, tecnologias fundamentai
 como a linguagem dão forma aos moldes.
 
 <br>
+
+[vieses]: /escrita/vieses_vs_tecnologia
 
 ---
 

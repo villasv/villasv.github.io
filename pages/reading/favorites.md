@@ -1,9 +1,9 @@
 ---
-layout: default
+layout: post
 title: Leitura
-permalink: leitura
+permalink: leitura/favoritos
 ---
-<h1>Livros que eu mais gostei</h1>
+<h1>Livros</h1>
 
 <h2>Vida</h2>
 <ul>
