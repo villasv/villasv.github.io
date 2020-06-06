@@ -3,7 +3,7 @@ layout: post
 permalink: escrita/linguagem_e_mentalidade
 image: /assets/images/unfair.jpeg
 title:  "Linguagem e Mentalidade"
-date: 2020-02-28
+date: 2020-03-28
 ---
 
 Estamos tão acostumados com a tecnologia da linguagem que podemos precisar de
