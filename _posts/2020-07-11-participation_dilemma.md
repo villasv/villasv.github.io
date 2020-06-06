@@ -3,7 +3,7 @@ layout: post
 permalink: escrita/dilema_em_participacao
 image: /assets/images/unfair.jpeg
 title:  "Dilema em Participação"
-date: 2020-01-20
+date: 2020-04-11
 ---
 
 Por um lado, a subrepresentatividade de minorias em dados agregados pode gerar
