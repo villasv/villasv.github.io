@@ -43,10 +43,10 @@
   </head>
   <body>
     {% if page.url != "/index.html" %}
-      {% assign path_parts = page.url | split: "/" | shift %}
-      {% assign base_count = path_parts | size | minus: 1 %}
-      {% assign base_url = path_parts | slice: 0, base_count | join: "/" %}
-      <div class="tree"><a href="/{{ base_url }}">..</a></div>
+    {% assign path_parts = page.url | split: "/" | shift %}
+    {% assign base_count = path_parts | size | minus: 1 %}
+    {% assign parent_url = path_parts | slice: 0, base_count | join: "/" %}
+    <div class="tree"><a href="/{{ parent_url }}">..</a></div>
     {% endif %}
     {{ content }}
   </body>
