@@ -6,7 +6,7 @@ permalink: pessoal/brasao_de_armas
 
 # Meu Brasão de Armas
 
-<img src="/pages/personal/coat_of_arms/shield.png" alt="Meu brasão" width="500"/>
+![Meu brasão](/pages/personal/coat_of_arms/shield.png){: width="400"}
 
 ## Simbologia
 
@@ -15,7 +15,7 @@ meus _possíveis_ antepassados, na esquerda uma reinterpretação de um brasão 
 armas associado à família Villas Bôas e na direita uma reinterpretação dos
 brasões de armas da família e cidade de Chaves.
 
-<img src="/pages/personal/coat_of_arms/quadrant_villasboas.png" alt="Quadrante Villas Bôas" width="200"/>
+![Quadrante Villas Bôas](/pages/personal/coat_of_arms/quadrant_villasboas.png){: width="200"}
 
 Em fundo vermelho de força militar, o castelo remonta a conquista e soberania,
 com uma palma sobre sua torre representando a vitória e justiça, enquanto o
@@ -36,7 +36,7 @@ avaliação no grupo de disciplinas militares. Ri ao me imaginar na pele de um t
 Diogo que achou mais apropriado trocar de Rei Pedro e conquistar outro castelo
 do que disciplinar os próprios súditos.
 
-<img src="/pages/personal/coat_of_arms/quadrant_chaves.png" alt="Quadrante Chaves" width="200"/>
+![Quadrante Chaves](/pages/personal/coat_of_arms/quadrant_chaves.png){: width="200"}
 
 Em fundo azul de lealdade e verdade, a ponte sobre águas prateadas referenciando
 a perenidade e paz, a faixa vermelha com uma torre dourada significando a
@@ -60,8 +60,7 @@ Quanto do que construímos hoje esperamos perdurar dois milênios? Para resistir
 ao tempo não basta funcionalidade duradoura mas também forma atemporal; uma
 dualidade que eu identifico central no meu senso de estética.
 
-
-<img src="/pages/personal/coat_of_arms/quadrant_first.png" alt="Primeiro Quadrante" width="200"/>
+![Primeiro Quadrante](/pages/personal/coat_of_arms/quadrant_first.png){: width="200"}
 
 O azul, o milho, o moinho e o cachorro são todos adaptações dos símbolos no
 quadrante Villas Bôas. A intertextualidade é a troca simbólica de estratégia,
@@ -76,7 +75,7 @@ que me são queridos.
 Da história de Diogo Fernandez Villas Bõas, os mesmos fins - vitória, valor,
 valentia - por outros métodos - trabalho, produção, lealdade.
 
-<img src="/pages/personal/coat_of_arms/quadrant_second.png" alt="Segundo Quadrante" width="200"/>
+![Segundo Quadrante](/pages/personal/coat_of_arms/quadrant_second.png){: width="200"}
 
 Um livro preateado com detalhes em ouro e fecho azulado em fundo vermelho, que
 generaliza a turbulência do quadrante Chaves. A construção, o poder, a herança;
@@ -111,7 +110,7 @@ de "terminar o mal" em uma única parte ("Justiça") e a expansão de
 "Slay evil immediately"/"Swift Death to Evil", que são mais literais e perdem a
 musicalidade.
 
-<img src="/assets/images/akusokuzan_vertical.png" alt="Aku Soku Zan (kanji)" width="500"/>
+![Aku Soku Zan (kanji)](/assets/images/akusokuzan_vertical.png){: width="500"}
 
 Apesar de eu ainda apreciar a versão em _kanji_, aprendi a gostar dessa versão
 "Justo Aqui Agora" ainda mais por adequar "Justiça" para 2 sílabas - melhorando
