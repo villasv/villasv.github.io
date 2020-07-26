@@ -3,8 +3,12 @@ layout: default
 title: Escrita
 permalink: escrita
 ---
+
 <div class="tree">
 .
-├── <a href="/escrita/linguagem_e_mentalidade" class="file">linguagem_e_mentalidade.md</a>
-└── <a href="/escrita/vieses_vs_tecnologia" class="file">vieses_vs_tecnologia.md</a>
+{%- assign notes = site.pages | where: "section", "writing" -%}
+{%- for page in notes %}
+{% if forloop.last == false %}├── {% else %}└── {% endif -%}
+<a href="{{page.permalink}}" class="file">{{page.name}}</a>
+{%- endfor %}
 </div>

@@ -9,6 +9,7 @@ revision_date: 2020-03-28
 section: writing
 language: pt-BR
 publish_date: 2020-03-28
+name: linguagem_e_mentalidade
 ---
 
 
@@ -29,7 +30,7 @@ ampla do que o imediatamente observável.
 
 Sabemos que tecnologia é um mecanismo de potencialização e descobrimos que se
 não houver cuidado em seu processo evolutivo, ela estará também potencializando
-[vieses](notion://www.notion.so/escrita/vieses_vs_tecnologia) e opressão sistêmica. Esse fenômeno é especialmente crítico quando se
+vieses e opressão sistêmica. Esse fenômeno é especialmente crítico quando se
 trata de uma tecnologia de base, que potencializa outras tecnologias.
 
 O caráter fundamental de algumas tecnologias faz com que algumas decisões gerem
@@ -50,8 +51,8 @@ frente.
 ## Subliminares
 
 O perigo da linguagem como tecnologia fundamental é justamente ela ser tão
-natural e automática, frequentemente usada sem itenção clara para cada decisão,
-e portanto uma tecnologia muito propensa à influência dos nossos [vieses](notion://www.notion.so/escrita/vieses_vs_tecnologia) mais
+natural e automática, frequentemente usada sem intenção clara para cada decisão,
+e portanto uma tecnologia muito propensa à influência dos nossos vieses mais
 inconscientes. É de se esperar que um texto expresse mais do que o significado
 das palavras nele presentes; ele pode trazer dicas quanto à intenção do autor,
 sua visão de mundo ou até seu estado psíquico.
