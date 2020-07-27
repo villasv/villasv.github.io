@@ -1,0 +1,14 @@
+name: Scheduled Exportation
+on: push
+
+jobs:
+  exportation:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v1
+      - name: Writing Exportation
+        uses: villasv/exportation@latest
+        with:
+          token: SECRET
+          block-url: SECRET
