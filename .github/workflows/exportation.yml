@@ -1,4 +1,4 @@
-name: Scheduled Exportation
+name: Notion Page Exportation
 on: push
 
 jobs:
@@ -7,13 +7,13 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v2
-      - name: Writing Exportation
+      - name: Expor Writing
         uses: villasv/exportation@latest
         env:
           token: ${{ secrets.NOTION_TOKEN }}
         with:
           block: https://www.notion.so/20e536adc4984a6f88f6b02df3f6ab02
-      - name: Git Auto Commit
+      - name: Commit
         uses: stefanzweifel/git-auto-commit-action@v4.4.0
         with:
-          commit_message: Update notion exported files
+          commit_message: Update pages exported from notion
