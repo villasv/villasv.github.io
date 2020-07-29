@@ -9,7 +9,6 @@ revision_date: 2020-03-28
 section: writing
 language: pt-BR
 publish_date: 2020-03-28
-name: linguagem_e_mentalidade
 ---
 
 
