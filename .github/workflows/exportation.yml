@@ -9,6 +9,7 @@ jobs:
         uses: actions/checkout@v1
       - name: Writing Exportation
         uses: villasv/exportation@latest
+        env:
+          token: ${{ secrets.NOTION_TOKEN }}
         with:
-          token: SECRET
-          block-url: SECRET
+          block: https://www.notion.so/20e536adc4984a6f88f6b02df3f6ab02
