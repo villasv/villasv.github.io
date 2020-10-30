@@ -7,7 +7,7 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v2
-      - name: Expor Writing
+      - name: Export Writing
         uses: villasv/exportation@latest
         env:
           token: ${{ secrets.NOTION_TOKEN }}
