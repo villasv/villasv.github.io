@@ -1,14 +1,15 @@
 ---
-layout: notes
-permalink: /escrita/linguagem_e_mentalidade
 cover: https://images.unsplash.com/photo-1594050753831-ebf4b3b52af7?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&ixid=eyJhcHBfaWQiOjYzOTIxfQ
-icon: "\U0001F4DC"
-title: Linguagem e Mentalidade
-status: published
+icon: 📜
+language: pt-BR
+layout: notes
+mind_map: ''
+permalink: /escrita/linguagem_e_mentalidade
+publish_date: 2020-03-28
 revision_date: 2020-03-28
 section: writing
-language: pt-BR
-publish_date: 2020-03-28
+status: published
+title: Linguagem e Mentalidade
 ---
 
 
