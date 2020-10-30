@@ -3,7 +3,6 @@ cover: https://images.unsplash.com/photo-1551332772-f6bc95b9ed1f?ixlib=rb-1.2.1&
 icon: 🛠️
 language: pt-BR
 layout: notes
-mind_map: https://www.dropbox.com/s/pdbtz88v8ha1shc/vieses_vs_tecnologia_mindmap.png
 permalink: /escrita/vieses_vs_tecnologia
 publish_date: 2020-01-20
 revision_date: 2020-07-30

@@ -3,7 +3,6 @@ cover: https://images.unsplash.com/photo-1594050753831-ebf4b3b52af7?ixlib=rb-1.2
 icon: 📜
 language: pt-BR
 layout: notes
-mind_map: ''
 permalink: /escrita/linguagem_e_mentalidade
 publish_date: 2020-03-28
 revision_date: 2020-03-28
