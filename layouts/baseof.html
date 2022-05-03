@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode  }}" dir="ltr">
+<head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="icon" href="{{ "favicon.png" | relURL }}" type="image/x-icon">
+
+    <title>{{ .Title }}</title>
+    <meta name="description" content="{{ default .Summary .Description }}">
+    <style type="text/css">
+        html { padding-left: calc(100vw - 100%); }
+        body {
+          margin: 40px auto;
+          max-width: 700px;
+          line-height: 1.6;
+          font-size: 18px;
+          font-family: 'Courier New', Courier, monospace;
+          color: #444;
+          padding: 0 10px;
+          overflow-wrap: break-word;
+        }
+        h1, h2, h3 { line-height: 1.2; }
+        p { text-align: justify; }
+        img { display: block; margin: auto; max-width: 100%; height: auto; }
+        .highlight { overflow-x: scroll; }
+        .tree { line-height: normal; white-space: pre; overflow-wrap: normal; }
+        .tree a { color: inherit; text-decoration: none; }
+        .directory { font-weight: bold; }
+      </style>
+</head>
+<body>
+  <main class="container flex">
+    {{ .Content }}
+  </main>
+</body>
+</html>
