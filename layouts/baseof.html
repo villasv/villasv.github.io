@@ -14,7 +14,7 @@
           max-width: 700px;
           line-height: 1.6;
           font-size: 18px;
-          font-family: 'Courier New', Courier, monospace;
+          font-family: 'Inter', Roboto, Arial, sans-serif;
           color: #444;
           padding: 0 10px;
           overflow-wrap: break-word;
@@ -25,6 +25,6 @@
       </style>
 </head>
 <body>
-  {{ .Content }}
+  {{ block "main" . }}{{ end }}
 </body>
 </html>
