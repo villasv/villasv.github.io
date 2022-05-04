@@ -24,6 +24,9 @@ jobs:
           path: './obsidian'
           token: ${{ secrets.PAT }}
 
+      - name: Transfer Obsidian notes
+        run: "${GITHUB_WORKSPACE}/obsidian.sh"
+
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
