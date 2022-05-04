@@ -23,6 +23,7 @@
         p { text-align: justify; }
         img { display: block; margin: auto; max-width: 100%; height: auto; }
       </style>
+      {{ block "head" . }}{{ end }}
 </head>
 <body>
   {{ block "main" . }}{{ end }}
