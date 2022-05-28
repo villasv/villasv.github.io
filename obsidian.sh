@@ -10,7 +10,7 @@ do
   SANITIZED_PATH=$(echo "${NOTE_FILE}" \
     | tr '[:upper:]' '[:lower:]' \
     | perl -pe 's/[^\w\n\/. ]//g;' -pe 's/\/ /\//g;' -pe 's/ /-/g;' \
-    | perl -pe 's/notes\///;' -pe 's/\.\/obsidian/notes/;')
+    | perl -pe 's/notes\///;' -pe 's/\.\/obsidian\///;')
   SANITIZED_DIRNAME=$(dirname ${SANITIZED_PATH})
   SANITIZED_BASENAME=$(basename ${SANITIZED_PATH})
   TARGET_DIRNAME="./content/${SANITIZED_DIRNAME}"

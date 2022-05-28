@@ -1,6 +1,7 @@
 ### Build ###
 obsidian
-content/notes
+content/*
+!content/_index.md
 
 ### Hugo ###
 # Generated files by hugo
