@@ -1,16 +1,11 @@
 {{ define "main" }}
-  <h1>Section</h1>
-  <main>
-      {{ .Content }}
-          <ul class="contents">
-          {{ range .Paginator.Pages }}
-              <li>{{.Title}}
-                  <div>
-                    <!-- partial "summary.html" . -->
-                  </div>
-              </li>
-          {{ end }}
-          </ul>
-      <!-- partial "pagination.html" . -->
-  </main>
+<main>
+  <ul>
+  {{ range .Site.RegularPages }}
+  <li>
+    <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+  </li>
+  {{ end }}
+  </ul>
+</main>
 {{ end }}

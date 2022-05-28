@@ -14,6 +14,15 @@ do
   SANITIZED_DIRNAME=$(dirname ${SANITIZED_PATH})
   SANITIZED_BASENAME=$(basename ${SANITIZED_PATH})
   TARGET_DIRNAME="./content/${SANITIZED_DIRNAME}"
+  TARGET_PATH="${TARGET_DIRNAME}/${SANITIZED_BASENAME}"
+  # Create directory structure
   mkdir -p "${TARGET_DIRNAME}"
-  cp "${NOTE_FILE}" "${TARGET_DIRNAME}/${SANITIZED_BASENAME}"
+  echo "" > "${TARGET_PATH}"
+  # Add frontmatter variables
+  NOTE_TITLE=$(basename "${NOTE_FILE}" .md)
+  echo "---" >> "${TARGET_PATH}"
+  echo "title: ${NOTE_TITLE}" >> "${TARGET_PATH}"
+  echo "---" >> "${TARGET_PATH}"
+  # Copy base files
+  cat "${NOTE_FILE}" >> "${TARGET_PATH}"
 done < <(printf '%s\n' "${NOTE_FILES}")

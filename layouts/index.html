@@ -1,7 +1,12 @@
-{{ define "main" }}
-  {{ .Content }}
-{{ end }}
-
 {{ define "head"}}
   {{ partial "relme" . }}
+{{ end }}
+
+{{ define "main" }}
+  {{ .Content }}
+  {{ range .Site.Sections }}
+  <li>
+    <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+  </li>
+  {{ end }}
 {{ end }}
