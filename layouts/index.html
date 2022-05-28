@@ -5,10 +5,12 @@
 {{ define "main" }}
   {{ .Content }}
 
-  <h2>Website Sections</h2>
-  {{ range .Site.Sections }}
-  <li>
-    <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-  </li>
-  {{ end }}
+  <h2>My Notes</h2>
+  <ul>
+    {{ range .Site.Sections }}
+    <li>
+      <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+    </li>
+    {{ end }}
+  </ul>
 {{ end }}
