@@ -2,3 +2,4 @@ baseURL = 'https://victor.villas/'
 languageCode = 'en-us'
 title = "Victor's Website"
 disableKinds = ["taxonomy", "taxonomyTerm"]
+pluralizeListTitles = "false"
