@@ -29,3 +29,17 @@ do
   EXTRA_FRONTMATTER="title: ${NOTE_TITLE}\nurl: ${PERMALINK}"
   perl -i -lpe "print \"${EXTRA_FRONTMATTER}\" if $. == 2" "${PAGE_PATH}"
 done < <(printf '%s\n' "${NOTE_FILES}")
+
+# Remove emoji codes from section urls
+SECTIONS=$(find content ! -name 'content' -type d -maxdepth 1)
+while read SECTION
+do
+  TITLE=$(basename "${SECTION}")
+  PERMALINK=$(basename "${SECTION}" \
+    | tr '[:upper:]' '[:lower:]' \
+    | perl -pe 's/[^\w\n\/. ]//g;' -pe 's/^\s+//g;' -pe 's/ /-/g;')
+  echo "---" >> "${SECTION}/_index.md"
+  echo "title: ${TITLE}" >> "${SECTION}/_index.md"
+  echo "url: ${PERMALINK}" >> "${SECTION}/_index.md"
+  echo "---" >> "${SECTION}/_index.md"
+done < <(printf '%s\n' "${SECTIONS}")
