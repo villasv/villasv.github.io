@@ -1,6 +1,6 @@
 #!/usr/bin/env -S bash -e
 
-find content ! -name 'content' -type d -exec rm -rf "{}" || true
+find content ! -name 'content' -type d -exec rm -rf "{}" +
 if [ ! -d "./obsidian" ]; then
   git clone --depth 1 git@github.com:villasv/obsidian-personal.git ./obsidian
 fi
@@ -20,12 +20,12 @@ do
   mkdir -p "${PAGE_DIRNAME}"
   # Export markdown files
   $OBSIDIAN_EXPORT ./obsidian --start-at "${NOTE_FILE}" --frontmatter=always "${PAGE_PATH}"
-  # Inject frontmatter metadata
+  # Override frontmatter metadata
   NOTE_TITLE=$(basename "${NOTE_FILE}" .md)
-  SANITIZED_PATH=$(echo "${NOTE_FILE}" \
+  PERMALINK=$(echo "${NOTE_FILE}" \
     | tr '[:upper:]' '[:lower:]' \
     | perl -pe 's/[^\w\n\/. ]//g;' -pe 's/\/ /\//g;' -pe 's/ /-/g;' \
-    | perl -pe 's/notes\///;' -pe 's/\.\/obsidian\///;')
-  EXTRA_FRONTMATTER="title: ${NOTE_TITLE}\nurl: ${SANITIZED_PATH}"
+    | perl -pe 's/notes\///;' -pe 's/\.\/obsidian\///;' -pe 's/\.md//g;')
+  EXTRA_FRONTMATTER="title: ${NOTE_TITLE}\nurl: ${PERMALINK}"
   perl -i -lpe "print \"${EXTRA_FRONTMATTER}\" if $. == 2" "${PAGE_PATH}"
 done < <(printf '%s\n' "${NOTE_FILES}")
