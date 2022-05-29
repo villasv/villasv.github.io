@@ -1,11 +1,13 @@
 {{ define "main" }}
-<main>
-  <ul>
-  {{ range .Pages }}
-  <li>
-    <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-  </li>
-  {{ end }}
-  </ul>
-</main>
+  {{ partial "breadcrumbs" . }}
+  <main>
+    <h1>{{ .Title }}</h1>
+    <ul>
+    {{ range .Pages }}
+    <li>
+      <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+    </li>
+    {{ end }}
+    </ul>
+  </main>
 {{ end }}

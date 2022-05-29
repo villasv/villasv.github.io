@@ -1,0 +1,13 @@
+<ul id="breadcrumbs" style="list-style-type: '>'; padding-left: 0;">
+  <li style="display: inline"><a href="/" style="text-decoration: none;">Home</a></li>
+  {{- $.Scratch.Set "url" "" -}}
+  {{- $.Scratch.Set "len" (len (split .RelPermalink "/")) -}}
+  {{- range $idx, $el := (split .RelPermalink "/") -}}
+    {{- if (and (gt (len .) 0) (ne (add $idx 2) ($.Scratch.Get "len"))) -}}
+      {{- $.Scratch.Add "url" (print "/" . ) -}}
+      <li style="display: inline;">
+        > <a href="{{ $.Scratch.Get `url` }}" style="text-decoration: none;">{{ humanize . }}</a>
+      </li>
+    {{- end -}}
+  {{- end -}}
+</ul>
