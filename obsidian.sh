@@ -1,10 +1,14 @@
-#!/usr/bin/env bash
+#!/usr/bin/env bash -ex
 
+find content ! -name 'content' -type d -exec rm -r {} +
 if [ ! -d "./obsidian" ]; then
   git clone --depth 1 git@github.com:villasv/obsidian-personal.git ./obsidian
 fi
 
-NOTE_FILES=$(find . -type f | grep -E "Notes/.*\md$")
+PLATFORM=$(uname)
+OBSIDIAN_EXPORT=./bin/obsidian-export-$PLATFORM
+
+NOTE_FILES=$(find "./obsidian" -type f | grep -E "Notes/.*\md$")
 while read NOTE_FILE
 do
   SANITIZED_PATH=$(echo "${NOTE_FILE}" \
@@ -17,12 +21,10 @@ do
   TARGET_PATH="${TARGET_DIRNAME}/${SANITIZED_BASENAME}"
   # Create directory structure
   mkdir -p "${TARGET_DIRNAME}"
-  echo "" > "${TARGET_PATH}"
-  # Add frontmatter variables
+  # Export markdown files
+  $OBSIDIAN_EXPORT ./obsidian --start-at "${NOTE_FILE}" --frontmatter=always "${TARGET_PATH}"
+  # Inject frontmatter metadata
   NOTE_TITLE=$(basename "${NOTE_FILE}" .md)
-  echo "---" >> "${TARGET_PATH}"
-  echo "title: ${NOTE_TITLE}" >> "${TARGET_PATH}"
-  echo "---" >> "${TARGET_PATH}"
-  # Copy base files
-  cat "${NOTE_FILE}" >> "${TARGET_PATH}"
+  EXTRA_FRONTMATTER="title: ${NOTE_TITLE}"
+  perl -i -lpe "print \"${EXTRA_FRONTMATTER}\" if $. == 2" "${TARGET_PATH}"
 done < <(printf '%s\n' "${NOTE_FILES}")
