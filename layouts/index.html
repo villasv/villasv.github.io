@@ -6,7 +6,7 @@
   {{ .Content }}
 
   <h2>My Notes</h2>
-  <ul>
+  <ul style="list-style: none; padding-left: 0;">
     {{ range .Site.Sections }}
     <li>
       <a href="{{ .RelPermalink }}">{{ .Title }}</a>
