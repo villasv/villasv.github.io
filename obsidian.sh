@@ -8,7 +8,7 @@ fi
 PLATFORM=$(uname)
 OBSIDIAN_EXPORT=./bin/obsidian-export-$PLATFORM
 
-NOTE_FILES=$(find "./obsidian" -type f | grep -E "Notes/.*\md$")
+NOTE_FILES=$(find "./obsidian" -type f | grep -E "(Notes|Files|Photos)/")
 while read NOTE_FILE
 do
   NOTE_PATH=$(echo "${NOTE_FILE}" | perl -pe 's/\.\/obsidian\///;')
