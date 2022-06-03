@@ -20,14 +20,16 @@ do
   mkdir -p "${PAGE_DIRNAME}"
   # Export markdown files
   $OBSIDIAN_EXPORT ./obsidian --start-at "${NOTE_FILE}" --frontmatter=always "${PAGE_PATH}"
-  # Override frontmatter metadata
-  NOTE_TITLE=$(basename "${NOTE_FILE}" .md)
-  PERMALINK=$(echo "${NOTE_FILE}" \
-    | tr '[:upper:]' '[:lower:]' \
-    | perl -pe 's/[^\w\n\/. ]//g;' -pe 's/\/ /\//g;' -pe 's/ /-/g;' \
-    | perl -pe 's/notes\///;' -pe 's/\.\/obsidian\///;' -pe 's/\.md//g;')
-  EXTRA_FRONTMATTER="title: ${NOTE_TITLE}\nurl: ${PERMALINK}"
-  perl -i -lpe "print \"${EXTRA_FRONTMATTER}\" if $. == 2" "${PAGE_PATH}"
+  # Override frontmatter metadata if markdown
+  if [[ "${NOTE_PATH}" == *.md ]]; then
+    NOTE_TITLE=$(basename "${NOTE_FILE}" .md)
+    PERMALINK=$(echo "${NOTE_FILE}" \
+      | tr '[:upper:]' '[:lower:]' \
+      | perl -pe 's/[^\w\n\/. ]//g;' -pe 's/\/ /\//g;' -pe 's/ /-/g;' \
+      | perl -pe 's/notes\///;' -pe 's/\.\/obsidian\///;' -pe 's/\.md//g;')
+    EXTRA_FRONTMATTER="title: ${NOTE_TITLE}\nurl: ${PERMALINK}"
+    perl -i -lpe "print \"${EXTRA_FRONTMATTER}\" if $. == 2" "${PAGE_PATH}"
+  fi
 done < <(printf '%s\n' "${NOTE_FILES}")
 
 # Remove emoji codes from section urls
