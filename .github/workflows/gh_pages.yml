@@ -23,6 +23,7 @@ jobs:
           repository: villasv/obsidian-personal
           path: './obsidian'
           token: ${{ secrets.PAT }}
+          lfs: 'true'
 
       - name: Transfer Obsidian notes
         run: "${GITHUB_WORKSPACE}/obsidian.sh"
