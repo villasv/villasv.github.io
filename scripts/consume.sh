@@ -1,6 +1,8 @@
 #!/usr/bin/env -S bash -u
 
 jqr() { jq -r "$2" <(echo "$1"); }
+yqr() { yq "$2" <(echo "$1"); }
+re1() { [[ "$1" =~ $2 ]] && printf '%s\n' "${BASH_REMATCH[1]}"; }
 
 function handle_issue() {
     issue="$(</dev/stdin)"
@@ -11,9 +13,11 @@ function handle_issue() {
 }
 
 function handle_checkin() {
-    body=$(jqr "$1" '.body')
-    echo "$body"
-    #TODO generate yaml from kvps
+    body="$(jqr "$1" '.body')"
+    datetime=$(yqr "$body" ".Timestamp" | sed 's/[-:T]//g')
+    initials=$(yqr "$body" ".CheckInID" | tr '[:lower:]' '[:upper:]')
+    file_name="${datetime:0:15}${initials:0:8}"
+    yqr "$body" '.' >"./database/check-in/$file_name.yml"
 }
 
 function close_issue() {
