@@ -6,7 +6,7 @@ open_issues="$(curl -L \
     -H "X-GitHub-Api-Version: 2022-11-28" \
     -H "Authorization: Bearer ${GITHUB_TOKEN}" \
     -H "per_page: 100" -H "state: open" \
-    "https://api.github.com/repos/${GITHUB_USER}/${GITHUB_REPO}/issues")"
+    "https://api.github.com/repos/${GITHUB_REPOSITORY}/issues")"
 
 jq --compact-output '.[]' <(echo "$open_issues") |
     cat
