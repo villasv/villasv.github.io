@@ -1,0 +1,23 @@
+name: Issue Curation
+
+on:
+  schedule:
+    - cron: '0 10 * * *'
+
+env:
+  GITHUB_USER: villasv
+  GITHUB_REPO: villasv.github.io
+  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+jobs:
+  deploy:
+    runs-on: ubuntu-20.04
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v2
+        with:
+          submodules: true
+          fetch-depth: 0
+
+      - name: Run Issues Script
+        run: ./scripts/issues.sh
