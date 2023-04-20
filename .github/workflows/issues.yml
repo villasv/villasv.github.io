@@ -9,14 +9,11 @@ env:
   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 jobs:
-  curation:
+  consume:
     runs-on: ubuntu-20.04
     steps:
-      - name: Check out repo
-        uses: actions/checkout@v2
-        with:
-          submodules: true
-          fetch-depth: 0
+      - name: Clone
+        uses: actions/checkout@v3
 
-      - name: Run Issues Script
-        run: ./scripts/issues.sh
+      - name: Run Script
+        run: ./scripts/consume.sh
