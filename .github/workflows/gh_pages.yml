@@ -11,30 +11,18 @@ jobs:
   deploy:
     runs-on: ubuntu-20.04
     steps:
-      - name: Check out hugo website
+      - name: Check out repo
         uses: actions/checkout@v2
         with:
           submodules: true
           fetch-depth: 0
 
-      - name: Check out Obsidian notes
-        uses: actions/checkout@v2
-        with:
-          repository: villasv/obsidian-personal
-          path: './obsidian'
-          token: ${{ secrets.PAT }}
-          lfs: 'true'
-
-      - name: Transfer Obsidian notes
-        run: "${GITHUB_WORKSPACE}/obsidian.sh"
-
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
           hugo-version: 'latest'
-          # extended: true
 
-      - name: Build
+      - name: Build Website
         run: hugo --minify
 
       - name: Deploy
