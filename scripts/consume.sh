@@ -4,21 +4,18 @@ jqr() { jq -r "$2" <(echo "$1"); }
 yqr() { yq "$2" <(echo "$1"); }
 
 function handle_issues() {
-    while read -r line; do
-        handle_issue "$line"
+    while read -r issue; do
+        label=$(jqr "$issue" '.labels[].name')
+        case $label in
+        "check-in") handle_checkin "$issue" ;;
+        esac
     done
-}
-
-function handle_issue() {
-    label=$(jqr "$1" '.labels[].name')
-    echo "<$label>"
-    case $label in
-    "check-in") handle_checkin "$1" ;;
-    esac
 }
 
 function handle_checkin() {
     body="$(jqr "$1" '.body')"
+    #TODO: materialize only if issue is newer than file
+    # materialize
     datetime=$(yqr "$body" ".Timestamp" | sed 's/[-:T]//g')
     initials=$(yqr "$body" ".CheckInID" | tr '[:lower:]' '[:upper:]')
     file_name="${datetime:0:15}${initials:0:8}"
