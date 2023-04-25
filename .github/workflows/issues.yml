@@ -17,3 +17,11 @@ jobs:
 
       - name: Run Script
         run: ./scripts/consume.sh
+
+      - name: GIT commit and push docs
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "villasv@users.noreply.github.com"
+          git add database
+          git commit -m "Automatic update of static artifacts"
+          git push

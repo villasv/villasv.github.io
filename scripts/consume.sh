@@ -2,13 +2,18 @@
 
 jqr() { jq -r "$2" <(echo "$1"); }
 yqr() { yq "$2" <(echo "$1"); }
-re1() { [[ "$1" =~ $2 ]] && printf '%s\n' "${BASH_REMATCH[1]}"; }
+
+function handle_issues() {
+    while read -r line; do
+        handle_issue "$line"
+    done
+}
 
 function handle_issue() {
-    issue="$(</dev/stdin)"
-    label=$(jqr "$issue" '.labels[].name')
+    label=$(jqr "$1" '.labels[].name')
+    echo "<$label>"
     case $label in
-    "check-in") handle_checkin "$issue" ;;
+    "check-in") handle_checkin "$1" ;;
     esac
 }
 
@@ -26,4 +31,4 @@ function close_issue() {
 }
 
 gh issue list --author "$GITHUB_REPOSITORY_OWNER" --state open --limit 100 --json number,body,labels |
-    jq --compact-output '.[]' | handle_issue
+    jq -r --compact-output '.[]' | handle_issues
