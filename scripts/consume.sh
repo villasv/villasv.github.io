@@ -13,13 +13,19 @@ function handle_issues() {
 }
 
 function handle_checkin() {
+    title="$(jqr "$1" '.title')"
     body="$(jqr "$1" '.body')"
+
     #TODO: materialize only if issue is newer than file
-    # materialize
     datetime=$(yqr "$body" ".Timestamp" | sed 's/[-:T]//g')
     initials=$(yqr "$body" ".CheckInID" | tr '[:lower:]' '[:upper:]')
     file_name="${datetime:0:15}${initials:0:8}"
-    yqr "$body" '.' >"./database/check-in/$file_name.yml"
+    file_path="./database/check-in/$file_name.yml"
+    file_modified=$(git log -1 --pretty="format:%ct" "$file_path")
+    echo "$file_modified -> materializing '$title'"
+
+    echo "PlaceName: ${title/Check-In at /}" >"$file_path"
+    echo "$body" >>"$file_path"
 }
 
 function close_issue() {
@@ -27,5 +33,5 @@ function close_issue() {
     gh issue close "$issue_number"
 }
 
-gh issue list --author "$GITHUB_REPOSITORY_OWNER" --state open --limit 100 --json number,body,labels |
+gh issue list --author "$GITHUB_REPOSITORY_OWNER" --state open --limit 100 --json number,title,body,labels |
     jq -r --compact-output '.[]' | handle_issues
