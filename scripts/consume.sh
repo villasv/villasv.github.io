@@ -21,7 +21,7 @@ function handle_checkin() {
     datetime=$(yqr "$body" ".Timestamp" | sed 's/[-:T]//g')
     initials=$(yqr "$body" ".CheckInID" | tr '[:lower:]' '[:upper:]')
     file_name="${datetime:0:15}${initials:0:8}"
-    file_path="./data/check-in/$file_name.yml"
+    file_path="./data/checkin/$file_name.yml"
     file_modified=$(git log -1 --pretty="format:%ct" "$file_path")
     echo "$file_modified -> materializing '$title'"
 
