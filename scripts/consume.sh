@@ -5,7 +5,7 @@ yqr() { yq "$2" <(echo "$1"); }
 
 function handle_issues() {
     while read -r issue; do
-        label=$(jqr "$issue" '.labels[].name')
+        label=$(jqr "$issue" .labels[].name)
         case $label in
         "check-in") handle_checkin "$issue" ;;
         esac
@@ -13,8 +13,9 @@ function handle_issues() {
 }
 
 function handle_checkin() {
-    title="$(jqr "$1" '.title')"
-    body="$(jqr "$1" '.body')"
+    issue=$(jqr "$1" .number)
+    title=$(jqr "$1" .title)
+    body=$(jqr "$1" .body)
 
     #TODO: materialize only if issue is newer than file
     datetime=$(yqr "$body" ".Timestamp" | sed 's/[-:T]//g')
@@ -24,13 +25,12 @@ function handle_checkin() {
     file_modified=$(git log -1 --pretty="format:%ct" "$file_path")
     echo "$file_modified -> materializing '$title'"
 
+    # materialize
     echo "PlaceName: ${title/Check-In at /}" >"$file_path"
     echo "$body" >>"$file_path"
-}
 
-function close_issue() {
-    issue_number=$(jq -r '.number' <(echo "$1"))
-    gh issue close "$issue_number"
+    # consume
+    gh issue close "$issue"
 }
 
 gh issue list --author "$GITHUB_REPOSITORY_OWNER" --state open --limit 100 --json number,title,body,labels |
