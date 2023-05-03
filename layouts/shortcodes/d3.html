@@ -1,0 +1,19 @@
+<script>
+  const dataset = Object.values({{ $.Site.Data.checkin }});
+  const placeCounts = dataset
+      .reduce((acc, checkin) => {
+        const { PlaceName: p } = checkin;
+        acc[p] = acc[p] ? acc[p] + 1 : 1;
+        return acc;
+      }, {});
+  const top10 = Object.entries(placeCounts)
+      .sort(([p1,c1], [p2,c2]) => c2-c1);
+  console.log(placeCounts);
+
+  d3.select("body")
+    .selectAll("p")
+    .data(top10)
+    .enter()
+      .append("p")
+      .text(([place, count]) => `${place}: ${count}`);
+</script>

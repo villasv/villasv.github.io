@@ -9,8 +9,7 @@ flat-file database I manage and you can check out its sources on [GitHub][]. If
 none of that made sense, no worries. I just like my website and wanted to tell
 you about it. Maybe this encourages you to make your own as well?
 
-You can always contact me at [my email][email] if you want to chat about
-anything.
+You can reach me through e-mail ([`mail@victor.villas`][email]).
 
 [email]: mailto:mail@victor.villas
 [GitHub]: https://github.com/villasv/villasv.github.io
