@@ -1,8 +1,3 @@
-### Build ###
-obsidian
-content/*
-!content/_index.md
-
 ### Hugo ###
 # Generated files by hugo
 /public/
