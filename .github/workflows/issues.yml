@@ -15,10 +15,10 @@ jobs:
       - name: Clone
         uses: actions/checkout@v3
 
-      - name: Run Script
+      - name: Consume
         run: ./scripts/consume.sh
 
-      - name: GIT commit and push docs
+      - name: Commit
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "villasv@users.noreply.github.com"

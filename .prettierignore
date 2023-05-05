@@ -1,0 +1,9 @@
+### Node + NextJS ###
+# Dependencies
+node_modules/
+package-lock.json
+
+# Build
+next-env.d.ts
+.next/
+out/
