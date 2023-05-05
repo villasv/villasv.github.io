@@ -1,0 +1,113 @@
+# Reclaiming the Web
+
+https://indieweb.org/why
+
+## Owning a Domain Name
+
+Having an own personal Internet Domain Name is the first step towards building
+an identity and setting up one's own corner of the Web. Because the domain
+serves as a foundation to an online identity, it should be chosen carefully and
+considered permanent as much as possible. A domain costs money, but a cheap one
+costs less than a telephone landline.
+
+There are a few tools like [CunningBot][] that can help choosing a domain name
+and others like [Instant Domain Search][] that can quickly search under which
+TLDs a name is available. There are also tools like [Namechk][] that probe if
+common platforms and social networks will have that name as an available
+handles, which is nice for consistency.
+
+[CunningBot]: https://cunningbot.com
+[Instant Domain Search]: https://instantdomainsearch.com/
+[Namechk]: https://namechk.com
+
+## Custom Email Address
+
+If a purchasing a domain name is like buying a virtual lot of land with a proper
+address, configuring an email inbox on that address would be the equivalent of
+installing a mail box that receives the usual proofs of residency.
+
+Most e-mail providers support adding a custom email address to an existing
+account, requiring minimal work to start using the new address and keeping all
+the old mail. If the current provider doesn't support it, it's likely the Domain
+Registrar that sells the domain will offer an inbox or forwarding service.
+
+Having all your e-mail coming through an address that you own allows you to
+change providers without the hassle of notifying all your contacts and updating
+all your credentials. You just point your address to a different mailbox and
+start receiving new mail there.
+
+## Own Website
+
+Deploying a website into your domain is the foundation for your presence on the
+Web. Control over its content is what makes it yours, the content itself is what
+makes it represent you.
+
+There are many ways to create and operate a website: from all-inclusive builders
+like WordPress, to online hosting a Static Website, to self-hosting a
+fully-fledged web server.
+
+A cheap way to operate a website is to use static website hosting, which is
+often offered freely by several platforms like GitHub, GitLab, Netlify,
+CloudFlare, DigitalOcean and many others. In any case, you're responsible for
+configuring the website generation with a static website generator tool and the
+website publishing with one of these platforms.
+
+## Web Sign-In
+
+If you already [[Use a Custom Email Address]], a simple method is to use email
+authentication supported by [[RelMeAuth]].
+
+[[RelMeAuth]] might support one of the platforms or social networks you have an
+account, but consider a bonus independence point not relying on those to
+authenticate you anywhere.
+
+Additionally, configuring [[IndieAuth]] with IndieAuth.com for authorization
+will allow you to use your email-based [[RelMeAuth]] to sign in to websites that
+don't support [[RelMeAuth]] directly but do support the [[IndieAuth]] standard.
+
+Web Sign-In is an authentication method where the identity is based on a web
+address. A client that supports Web Sign-In will then inspect the given address
+to find an authorization method to use as next step.
+
+One common implementation of Web Sign-In is RelMeAuth, which uses `rel=me` links
+to find a service to which authentication can be delegated. Another option is
+IndieAuth, where the client negotiates with a specified authorization endpoint.
+
+IndieAuth is a protocol for [[Web Sign-In]]. It's a standard on top of [[OAuth]]
+that defines how to obtain an OAuth 2.0 Bearer Token for an End-User represented
+solely by an URL.
+
+The protocol inspects your website for metadata that specifies which
+authentication endpoint you want to use and then proceeds with the OAuth token
+negotiation with that endpoint.
+
+Supporting IndieAuth in a service means letting users bring their own
+authentication provider. This provider can be a website like `micro.blog`, your
+own OpenID proxy, or another [[Web Sign-In]] enabled provider like
+`IndieAuth.com`.
+
+To configure IndieAuth as a user, all you need to do is to inform the
+authorization provider endpoint in your website. For example, when using
+`IndieAuth.com`:
+
+```
+<link rel="authorization_endpoint" href="https://indieauth.com/auth">
+```
+
+> Using `rel="authorization_endpoint"` is deprecated on the IndieAuth spec but
+> it's what IndieAuth.com supports at the moment.
+
+The latest standard can be found at https://indieauth.spec.indieweb.org.
+
+### RelMeAuth
+
+RelMeAuth is a protocol for Web Sign-In. This protocol inspects your website for
+links to other identities of yours that could be used for authentication.
+
+For example, these can be links to your profile on some platform like GitHub or
+social media like Twitter. If the service confirms such profile belongs to the
+same person that operates this website, the protocol knows that it can use this
+service's authentication to confirm your identity.
+
+RelMeAuth also supports different authentication delegates, including Email, SMS
+and a Public (PGP) Key challenge.
