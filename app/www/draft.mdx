@@ -1,0 +1,59 @@
+##### Web Sign-In
+
+If you already [[Use a Custom Email Address]], a simple method is to use email
+authentication supported by [[RelMeAuth]].
+
+[[RelMeAuth]] might support one of the platforms or social networks you have an
+account, but consider a bonus independence point not relying on those to
+authenticate you anywhere.
+
+Additionally, configuring [[IndieAuth]] with IndieAuth.com for authorization
+will allow you to use your email-based [[RelMeAuth]] to sign in to websites that
+don't support [[RelMeAuth]] directly but do support the [[IndieAuth]] standard.
+
+Web Sign-In is an authentication method where the identity is based on a web
+address. A client that supports Web Sign-In will then inspect the given address
+to find an authorization method to use as next step.
+
+One common implementation of Web Sign-In is RelMeAuth, which uses `rel=me` links
+to find a service to which authentication can be delegated. Another option is
+IndieAuth, where the client negotiates with a specified authorization endpoint.
+
+IndieAuth is a protocol for [[Web Sign-In]]. It's a standard on top of [[OAuth]]
+that defines how to obtain an OAuth 2.0 Bearer Token for an End-User represented
+solely by an URL.
+
+The protocol inspects your website for metadata that specifies which
+authentication endpoint you want to use and then proceeds with the OAuth token
+negotiation with that endpoint.
+
+Supporting IndieAuth in a service means letting users bring their own
+authentication provider. This provider can be a website like `micro.blog`, your
+own OpenID proxy, or another [[Web Sign-In]] enabled provider like
+`IndieAuth.com`.
+
+To configure IndieAuth as a user, all you need to do is to inform the
+authorization provider endpoint in your website. For example, when using
+`IndieAuth.com`:
+
+```
+<link rel="authorization_endpoint" href="https://indieauth.com/auth">
+```
+
+> Using `rel="authorization_endpoint"` is deprecated on the IndieAuth spec but
+> it's what IndieAuth.com supports at the moment.
+
+The latest standard can be found at https://indieauth.spec.indieweb.org.
+
+###### RelMeAuth
+
+RelMeAuth is a protocol for Web Sign-In. This protocol inspects your website for
+links to other identities of yours that could be used for authentication.
+
+For example, these can be links to your profile on some platform like GitHub or
+social media like Twitter. If the service confirms such profile belongs to the
+same person that operates this website, the protocol knows that it can use this
+service's authentication to confirm your identity.
+
+RelMeAuth also supports different authentication delegates, including Email, SMS
+and a Public (PGP) Key challenge.
