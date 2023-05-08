@@ -8,7 +8,7 @@ export function List(props: { items: Record<string, JSX.Element> }) {
       }}
     >
       {Object.entries(props.items).map(([key, value]) => (
-        <li>
+        <li key={key}>
           {key} {value}
         </li>
       ))}
