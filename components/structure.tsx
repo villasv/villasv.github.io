@@ -1,4 +1,4 @@
-import styles from "./page.module.css";
+import styles from "./structure.module.css";
 
 export function Container({ children }: { children: React.ReactNode }) {
   return <div className={styles.container}>{children}</div>;

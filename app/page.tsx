@@ -1,5 +1,5 @@
 import { List } from "@/components/list";
-import { Container, Section, Sidebar, Segment } from "@/components/page";
+import { Container, Sidebar } from "@/components/structure";
 import { Email, GitHub } from "@/components/relme";
 
 export const metadata = {
@@ -11,10 +11,6 @@ export default function Page() {
   return (
     <Container>
       <h1>Victor Villas'</h1>
-      <Section>
-        <h2>Latest</h2>
-        <p>Nothing to see here (yet).</p>
-      </Section>
       <Sidebar>
         <h2>A personal website</h2>
         <p>
