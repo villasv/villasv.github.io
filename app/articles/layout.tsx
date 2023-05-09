@@ -1,9 +1,10 @@
-import { Container, Section } from "@/components/structure";
+import { Container } from "@/components/structure";
+import { Article } from "./article";
 
 export default function Layout({ children }: { children: React.ReactNode }) {
   return (
     <Container>
-      <Section>{children}</Section>
+      <Article>{children}</Article>
     </Container>
   );
 }
