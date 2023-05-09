@@ -12,9 +12,10 @@ export default function Page() {
       <div className={styles.sidebar}>
         <h2>A personal website</h2>
         <p>
-          This is my humble abode on the Worldwide Web. It is statically
-          generated from some markdown documents, custom frontend components and
-          a flat-file database.
+          This is my humble site on the World Wide Web. Here I play as
+          cyberspace architect, librarian, and gardener. I do other things out
+          there in the carbonspace as well, which I abstract away into theory
+          here.
         </p>
         <h2>Also me but elsewhere</h2>
         <ul style={{ listStyle: "none" }}>
@@ -25,7 +26,12 @@ export default function Page() {
           </li>
           <li>
             <a rel="me" href="http://github.com/villasv/">
-              💾 GitHub (github.com/villasv)
+              💾 Software (github.com/villasv)
+            </a>
+          </li>
+          <li>
+            <a rel="me" href="https://mastodon.social/@villasbc">
+              💬 Social (mastodon.social/@villasbc)
             </a>
           </li>
         </ul>
