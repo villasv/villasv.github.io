@@ -48,13 +48,15 @@ h3,
 h4,
 h5 {
   line-height: 1.2;
-  margin-top: 8px;
-  margin-bottom: 2px;
+  margin-top: 20px;
+  margin-bottom: 4px;
 }
 p {
   line-height: 1.4;
   text-align: justify;
   overflow-wrap: break-word;
+  margin-top: 15px;
+  margin-bottom: 3px;
 }
 
 a,

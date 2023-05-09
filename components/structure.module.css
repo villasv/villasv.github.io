@@ -4,12 +4,12 @@
 }
 
 .sidebar {
-  max-width: 360px;
   font-size: 14px;
+  max-width: 360px;
 }
 
 .section {
-}
-
-.segment {
+  font-size: 20px;
+  max-width: 720px;
+  margin: auto;
 }
