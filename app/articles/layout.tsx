@@ -1,10 +1,5 @@
-import { Container } from "@/components/structure";
-import { Article } from "./article";
+import styles from "./articles.module.css";
 
 export default function Layout({ children }: { children: React.ReactNode }) {
-  return (
-    <Container>
-      <Article>{children}</Article>
-    </Container>
-  );
+  return <div className={styles.article}>{children}</div>;
 }

@@ -1,6 +1,4 @@
-import { List } from "@/components/list";
-import { Container, Sidebar } from "@/components/structure";
-import { Email, GitHub } from "@/components/relme";
+import styles from "./home.module.css";
 
 export const metadata = {
   title: "Victor's Website",
@@ -9,9 +7,9 @@ export const metadata = {
 
 export default function Page() {
   return (
-    <Container>
+    <div>
       <h1>Victor Villas'</h1>
-      <Sidebar>
+      <div className={styles.sidebar}>
         <h2>A personal website</h2>
         <p>
           This is my humble abode on the Worldwide Web. It is statically
@@ -19,13 +17,19 @@ export default function Page() {
           a flat-file database.
         </p>
         <h2>Also me but elsewhere</h2>
-        <List
-          items={{
-            "📧": <Email />,
-            "💾": <GitHub />,
-          }}
-        />
-      </Sidebar>
-    </Container>
+        <ul style={{ listStyle: "none" }}>
+          <li>
+            <a rel="me" href="mailto:mail@victor.villas">
+              📧 Email (mail@victor.villas)
+            </a>
+          </li>
+          <li>
+            <a rel="me" href="http://github.com/villasv/">
+              💾 GitHub (github.com/villasv)
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
   );
 }

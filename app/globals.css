@@ -1,10 +1,22 @@
 :root {
-  --color-milk: rgb(245, 245, 244);
+  /* color palette */
+  --color-chocolate: rgb(110, 57, 1);
+  --color-cookie: rgb(196, 127, 111);
+  --color-ceramic: rgb(244, 201, 165);
+  --color-milk: rgb(250, 245, 235);
+  --color-crema: rgb(247, 147, 2);
+  --color-cherry: rgb(214, 6, 26);
+  /* extras */
   --color-gray: rgb(130, 130, 130);
-  --color-graphite: rgb(60, 60, 60);
+  --color-graphite: rgb(65, 60, 50);
 
+  /* light color scheme */
   --default-background-color: var(--color-milk);
+  --primary-background-color: var(--color-chocolate);
+  --secondary-background-color: var(--color-cookie);
+  --tertiary-background-color: var(--color-ceramic);
   --default-foreground-color: var(--color-graphite);
+  --primary-foreground-color: var(--color-milk);
 
   --default-font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
     "Helvetica Neue", Arial, "Noto Sans", sans-serif;
@@ -35,14 +47,17 @@ html {
   margin: 0;
 }
 
-html,
-body {
+html {
   margin: 10px;
   max-width: 100vw;
   min-height: 100vh;
   color: var(--default-foreground-color);
   background-color: var(--default-background-color);
   font-family: var(--default-font-family);
+}
+body {
+  max-width: 1280px;
+  margin: auto;
 }
 
 h1,
@@ -63,9 +78,11 @@ p {
 }
 
 a,
-a:visited,
 a:hover,
 a:active {
-  color: #0000ae;
+  color: var(--color-cookie);
   text-decoration: none;
+}
+a:visited {
+  color: var(--color-chocolate);
 }
