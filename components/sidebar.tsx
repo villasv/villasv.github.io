@@ -6,8 +6,9 @@ export function Sidebar() {
       <h2>A personal website</h2>
       <p>
         This is my humble site on the World Wide Web. Here I play as cyberspace
-        architect, librarian, and gardener. I do other things out there in the
-        carbonspace as well, which I abstract away into theory here.
+        architect, librarian, and gardener. Sometimes I'll be doing other things
+        out there in the carbonspace as well, which I abstract away into theory
+        here.
       </p>
       <h2>Also me but elsewhere</h2>
       <ul style={{ listStyle: "none" }}>
