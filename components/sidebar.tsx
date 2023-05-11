@@ -11,7 +11,7 @@ export function Sidebar() {
         here.
       </p>
       <h2>Also me but elsewhere</h2>
-      <ul style={{ listStyle: "none" }}>
+      <ul>
         <li>
           <a rel="me" href="mailto:mail@victor.villas">
             📧 Email (mail@victor.villas)
@@ -26,6 +26,17 @@ export function Sidebar() {
           <a rel="me" href="https://mastodon.social/@villasbc">
             💬 Social (mastodon.social/@villasbc)
           </a>
+        </li>
+        <li>
+          <a rel="me" href="https://bookwyrm.social/user/villasv">
+            📚 Books (bookwyrm.social/user/villasv)
+          </a>
+        </li>
+      </ul>
+      <h2>Long-form Writing</h2>
+      <ul>
+        <li>
+          <a href="/articles/www">🌐 Reclaiming The Web</a>
         </li>
       </ul>
     </div>

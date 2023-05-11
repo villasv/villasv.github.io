@@ -1,5 +1,6 @@
 const withMDX = require("@next/mdx")();
 const withBundleAnalyzer = require("@next/bundle-analyzer")({
+  enabled: process.env.NODE_ENV === "production",
   openAnalyzer: false,
 });
 

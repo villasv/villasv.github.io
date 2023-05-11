@@ -6,8 +6,10 @@ export interface ListPageOpts {
 }
 
 export function listPages(opts: ListPageOpts) {
-  const appDir = path.join(process.cwd(), `app/${opts.route ?? ""}`);
-  const files = fs.readdirSync(appDir);
-  console.log(files);
-  return files.filter((f) => f);
+  const routePrefix = opts.route ?? "";
+  const routeDir = path.join(process.cwd(), `app/${routePrefix}`);
+  return fs
+    .readdirSync(routeDir, { withFileTypes: true })
+    .filter((f) => f.isDirectory())
+    .map((f) => path.join(routePrefix, f.name));
 }
