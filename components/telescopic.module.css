@@ -1,7 +1,6 @@
 .clickable {
-  display: inherit;
-}
-
-.invisible {
-  display: none;
+  background: rgba(247, 147, 2, 0.2);
+  border-radius: 4px;
+  margin: 0px -2px;
+  padding: 0px 3px;
 }

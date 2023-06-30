@@ -1,36 +1,26 @@
 "use client";
 
-import { MouseEvent, useState } from "react";
+import { MouseEvent, ReactNode, useState } from "react";
 import styles from "./telescopic.module.css";
 
+export interface Writable {}
+
 export interface TelescopicTextProps {
-  wrap: React.ReactNode;
-  children: React.ReactNode;
+  wrap: ReactNode;
+  children: ReactNode;
 }
 
+// see https://css-tricks.com/snippets/css/typewriter-effect/
 export function TelescopicText({ wrap, children }: TelescopicTextProps) {
-  const [toggled, setToggle] = useState(false);
+  const [expanded, setExpanded] = useState(false);
   const onClick = (event: MouseEvent) => {
     event.preventDefault(); // don't go anywhere
-    setToggle((toggled) => !toggled);
+    setExpanded((expanded) => !expanded);
   };
 
   return (
-    <span>
-      <a
-        href=""
-        onClick={onClick}
-        className={toggled ? styles.clickable : styles.invisible}
-      >
-        {wrap}
-      </a>
-      <a
-        href=""
-        onClick={onClick}
-        className={toggled ? styles.invisible : styles.clickable}
-      >
-        {children}
-      </a>
-    </span>
+    <a href="" onClick={onClick} className={styles.clickable}>
+      {wrap}{children}
+    </a>
   );
 }
