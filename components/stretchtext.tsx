@@ -18,7 +18,7 @@ export interface StretchTextProps extends PropsWithChildren {
  * Inspired by Ted Nelson's 1967 proposal on hypertext interactivity.
  */
 export function StretchText({ wrap, children }: StretchTextProps) {
-  const stretchSeconds = 5;
+  const stretchSeconds = 0.5;
   const [status, setStatus] = useState(StretchStatus.TENSE);
 
   const onClickStretch = (event: MouseEvent) => {
@@ -26,10 +26,10 @@ export function StretchText({ wrap, children }: StretchTextProps) {
     setStatus(StretchStatus.SHRINKING);
     setTimeout(() => {
       setStatus(StretchStatus.EXPANDING);
+      setTimeout(() => {
+        setStatus(StretchStatus.LOOSE);
+      }, 15);
     }, stretchSeconds * 1000);
-    setTimeout(() => {
-      setStatus(StretchStatus.LOOSE);
-    }, stretchSeconds * 2000);
   };
 
   const wrapped = () =>
