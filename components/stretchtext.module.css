@@ -1,3 +1,8 @@
+.telescopic {
+  width: fit-content;
+  transition: all 5s ease;
+}
+
 .clickable {
   background: rgba(247, 147, 2, 0.2);
   border-radius: 4px;

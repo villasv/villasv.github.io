@@ -1,15 +1,20 @@
-import { TelescopicText as T } from "@/components/telescopic";
+"use client";
+
+import { stretchable } from "@/components/stretchtext";
+
+const fulfilling = stretchable(
+  "fulfilling",
+  <>fulfilling means what</>
+);
+const toBeHappy = stretchable(
+  "to be happy",
+  <>to live a {fulfilling} and cheerful life</>
+);
 
 export default function Page() {
   return (
     <div>
-      <p>
-        I want{" "}
-        <T wrap="to be happy">
-          to live a <T wrap="fulfilling">full</T> and
-          cheerful life
-        </T>
-      </p>
+      <p>I want {toBeHappy}</p>
     </div>
   );
 }
