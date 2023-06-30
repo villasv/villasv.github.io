@@ -1,0 +1,9 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[792],{8290:function(e,t,n){Promise.resolve().then(n.bind(n,7182))},7182:function(e,t,n){"use strict";n.r(t),n.d(t,{default:function(){return a}});var r=n(9268),c=n(6006),l=n(4362),i=n.n(l);function s(e){let{wrap:t,children:n}=e,[l,s]=(0,c.useState)(!1);return(0,r.jsx)("span",{className:i().telescopic,children:l?n:(0,r.jsx)("a",{href:"",onClick:e=>{e.preventDefault(),s(e=>!e)},className:i().clickable,children:l?n:t})})}function o(e,t){return(0,r.jsx)(s,{wrap:e,children:t})}let f=o("fulfilling",(0,r.jsx)(r.Fragment,{children:"fulfilling means what"})),u=o("to be happy",(0,r.jsxs)(r.Fragment,{children:["to live a ",f," and cheerful life"]}));function a(){return(0,r.jsx)("div",{children:(0,r.jsxs)("p",{children:["I want ",u]})})}},4362:function(e){e.exports={telescopic:"stretchtext_telescopic__2MPQc",clickable:"stretchtext_clickable__fD0IV"}},3177:function(e,t,n){"use strict";/**
+ * @license React
+ * react-jsx-runtime.production.min.js
+ *
+ * Copyright (c) Meta Platforms, Inc. and affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */var r=n(6006),c=Symbol.for("react.element"),l=Symbol.for("react.fragment"),i=Object.prototype.hasOwnProperty,s=r.__SECRET_INTERNALS_DO_NOT_USE_OR_YOU_WILL_BE_FIRED.ReactCurrentOwner,o={key:!0,ref:!0,__self:!0,__source:!0};function f(e,t,n){var r,l={},f=null,u=null;for(r in void 0!==n&&(f=""+n),void 0!==t.key&&(f=""+t.key),void 0!==t.ref&&(u=t.ref),t)i.call(t,r)&&!o.hasOwnProperty(r)&&(l[r]=t[r]);if(e&&e.defaultProps)for(r in t=e.defaultProps)void 0===l[r]&&(l[r]=t[r]);return{$$typeof:c,type:e,key:f,ref:u,props:l,_owner:s.current}}t.Fragment=l,t.jsx=f,t.jsxs=f},9268:function(e,t,n){"use strict";e.exports=n(3177)}},function(e){e.O(0,[253,769,744],function(){return e(e.s=8290)}),_N_E=e.O()}]);
