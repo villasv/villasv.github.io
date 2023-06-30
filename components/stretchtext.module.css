@@ -1,11 +1,22 @@
-.telescopic {
-  width: fit-content;
-  transition: all 5s ease;
-}
-
-.clickable {
+.terse {
   background: rgba(247, 147, 2, 0.2);
   border-radius: 4px;
   margin: 0px -2px;
   padding: 0px 3px;
+  transition: all 0.2s ease;
+}
+
+.container a,
+.container a:hover,
+.container a:active,
+.container a:visited {
+  color: var(--secondary-foreground-color);
+}
+
+.container a.fadeOut,
+.container a:hover.fadeOut,
+.container a:active.fadeOut,
+.container a:visited.fadeOut {
+  color: rgba(0, 0, 0, 0);
+  background-color: inherit;
 }

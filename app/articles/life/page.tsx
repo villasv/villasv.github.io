@@ -14,7 +14,7 @@ const toBeHappy = stretchable(
 export default function Page() {
   return (
     <div>
-      <p>I want {toBeHappy}</p>
+      <p>I want {toBeHappy}.</p>
     </div>
   );
 }

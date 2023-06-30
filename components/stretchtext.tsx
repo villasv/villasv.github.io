@@ -3,6 +3,13 @@
 import { MouseEvent, PropsWithChildren, ReactNode, useState } from "react";
 import styles from "./stretchtext.module.css";
 
+enum StretchStatus {
+  TERSE,
+  FADING_TERSE,
+  FADING_LOOSE,
+  LOOSE,
+}
+
 export interface StretchTextProps extends PropsWithChildren {
   wrap: string;
 }
@@ -11,19 +18,36 @@ export interface StretchTextProps extends PropsWithChildren {
  * Inspired by Ted Nelson's 1967 proposal on hypertext interactivity.
  */
 export function StretchText({ wrap, children }: StretchTextProps) {
-  const [expanded, setExpanded] = useState(false);
-  const onClickToggle = (event: MouseEvent) => {
+  const [status, setStatus] = useState(StretchStatus.TERSE);
+
+  const onClickStretch = (event: MouseEvent) => {
     event.preventDefault(); // don't go anywhere
-    setExpanded((expanded) => !expanded);
+    setStatus(StretchStatus.FADING_TERSE);
+    setTimeout(() => {
+      setStatus(StretchStatus.FADING_LOOSE);
+    }, 200);
+    setTimeout(() => {
+      setStatus(StretchStatus.LOOSE);
+    }, 400);
   };
 
+  const unwrapped = () =>
+    [StretchStatus.FADING_LOOSE, StretchStatus.LOOSE].includes(status);
+
   return (
-    <span className={styles.telescopic}>
-      {expanded ? (
+    <span className={styles.container}>
+      {unwrapped() ? (
         children
       ) : (
-        <a href="" onClick={onClickToggle} className={styles.clickable}>
-          {expanded ? children : wrap}
+        <a
+          href=""
+          onClick={onClickStretch}
+          className={[
+            styles.terse,
+            status === StretchStatus.FADING_TERSE ? styles.fadeOut : ''
+          ].join(" ")}
+        >
+          {wrap}
         </a>
       )}
     </span>
