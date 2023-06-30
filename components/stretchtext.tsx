@@ -4,9 +4,9 @@ import { MouseEvent, PropsWithChildren, ReactNode, useState } from "react";
 import styles from "./stretchtext.module.css";
 
 enum StretchStatus {
-  TERSE,
-  FADING_TERSE,
-  FADING_LOOSE,
+  TENSE,
+  SHRINKING,
+  EXPANDING,
   LOOSE,
 }
 
@@ -18,37 +18,47 @@ export interface StretchTextProps extends PropsWithChildren {
  * Inspired by Ted Nelson's 1967 proposal on hypertext interactivity.
  */
 export function StretchText({ wrap, children }: StretchTextProps) {
-  const [status, setStatus] = useState(StretchStatus.TERSE);
+  const stretchSeconds = 5;
+  const [status, setStatus] = useState(StretchStatus.TENSE);
 
   const onClickStretch = (event: MouseEvent) => {
     event.preventDefault(); // don't go anywhere
-    setStatus(StretchStatus.FADING_TERSE);
+    setStatus(StretchStatus.SHRINKING);
     setTimeout(() => {
-      setStatus(StretchStatus.FADING_LOOSE);
-    }, 200);
+      setStatus(StretchStatus.EXPANDING);
+    }, stretchSeconds * 1000);
     setTimeout(() => {
       setStatus(StretchStatus.LOOSE);
-    }, 400);
+    }, stretchSeconds * 2000);
   };
 
-  const unwrapped = () =>
-    [StretchStatus.FADING_LOOSE, StretchStatus.LOOSE].includes(status);
+  const wrapped = () =>
+    [StretchStatus.TENSE, StretchStatus.SHRINKING].includes(status);
 
   return (
     <span className={styles.container}>
-      {unwrapped() ? (
-        children
-      ) : (
+      {wrapped() ? (
         <a
           href=""
           onClick={onClickStretch}
+          style={{ transition: `all ${stretchSeconds}s ease` }}
           className={[
-            styles.terse,
-            status === StretchStatus.FADING_TERSE ? styles.fadeOut : ''
+            styles.tense,
+            status === StretchStatus.SHRINKING ? styles.shrinking : "",
           ].join(" ")}
         >
           {wrap}
         </a>
+      ) : (
+        <span
+          style={{ transition: `all ${stretchSeconds}s ease` }}
+          className={[
+            styles.loose,
+            status === StretchStatus.EXPANDING ? styles.expanding : "",
+          ].join(" ")}
+        >
+          {children}
+        </span>
       )}
     </span>
   );

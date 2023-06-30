@@ -1,9 +1,15 @@
-.terse {
+.tense {
   background: rgba(247, 147, 2, 0.2);
   border-radius: 4px;
   margin: 0px -2px;
-  padding: 0px 3px;
-  transition: all 0.2s ease;
+  padding: 0px 2px;
+  /* shrink-able text */
+  display: inline-block;
+  text-align: left;
+  vertical-align: bottom;
+  white-space: nowrap;
+  overflow: hidden;
+  max-width: 100%;
 }
 
 .container a,
@@ -13,10 +19,26 @@
   color: var(--secondary-foreground-color);
 }
 
-.container a.fadeOut,
-.container a:hover.fadeOut,
-.container a:active.fadeOut,
-.container a:visited.fadeOut {
+.container a.shrinking,
+.container a:hover.shrinking,
+.container a:active.shrinking,
+.container a:visited.shrinking {
+  max-width: 0px;
   color: rgba(0, 0, 0, 0);
   background-color: inherit;
+}
+
+.loose {
+  /* shrink-able text */
+  display: inline-block;
+  text-align: left;
+  vertical-align: bottom;
+  white-space: nowrap;
+  overflow: hidden;
+  max-width: 100%;
+}
+
+.expanding {
+  max-width: 0px;
+  color: rgba(0, 0, 0, 0);
 }
