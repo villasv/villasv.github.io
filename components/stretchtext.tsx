@@ -36,29 +36,28 @@ export function StretchText({ wrap, children }: StretchTextProps) {
     [StretchStatus.TENSE, StretchStatus.SHRINKING].includes(status);
 
   return (
-    <span className={styles.container}>
+    <span
+      style={{ transition: `all ${stretchSeconds}s ease` }}
+      className={[
+        styles.container,
+        {
+          [StretchStatus.TENSE]: styles.tense,
+          [StretchStatus.SHRINKING]: styles.shrinking,
+          [StretchStatus.EXPANDING]: styles.expanding,
+          [StretchStatus.LOOSE]: styles.loose,
+        }[status],
+      ].join(" ")}
+    >
       {wrapped() ? (
         <a
           href=""
           onClick={onClickStretch}
           style={{ transition: `all ${stretchSeconds}s ease` }}
-          className={[
-            styles.tense,
-            status === StretchStatus.SHRINKING ? styles.shrinking : "",
-          ].join(" ")}
         >
           {wrap}
         </a>
       ) : (
-        <span
-          style={{ transition: `all ${stretchSeconds}s ease` }}
-          className={[
-            styles.loose,
-            status === StretchStatus.EXPANDING ? styles.expanding : "",
-          ].join(" ")}
-        >
-          {children}
-        </span>
+        children
       )}
     </span>
   );

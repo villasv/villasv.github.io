@@ -1,3 +1,4 @@
+/* links here are not real links */
 .container a,
 .container a:hover,
 .container a:active,
@@ -5,6 +6,7 @@
   color: var(--secondary-foreground-color);
 }
 
+/* some extra attention for clickable stretchtext */
 .tense {
   background: rgba(247, 147, 2, 0.2);
   border-radius: 4px;
@@ -12,18 +14,29 @@
   padding: 0px 2px;
 }
 
-.container a.shrinking,
-.container a:hover.shrinking,
-.container a:active.shrinking,
-.container a:visited.shrinking {
-  color: rgba(0, 0, 0, 0);
-  background-color: inherit;
-}
-
-.expanding {
+/* when shrinking, fade to invisible text */
+.container.shrinking,
+.container.shrinking a,
+.container.shrinking a:hover,
+.container.shrinking a:active,
+.container.shrinking a:visited {
   color: rgba(0, 0, 0, 0);
 }
 
+/* when expanding, fade from invisible text  */
+.container.expanding,
+.container.expanding a,
+.container.expanding a:hover,
+.container.expanding a:active,
+.container.expanding a:visited {
+  color: rgba(0, 0, 0, 0);
+}
+/* also tell child stretchtext to fade background */
+.container.expanding .tense {
+  background: inherit;
+}
+
+/* after fading in, go back to default color */
 .loose {
   color: inherit;
 }
