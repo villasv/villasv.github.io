@@ -1,6 +1,6 @@
 "use client";
 
-import { stretchable } from "@/components/stretchtext";
+import { stretchable } from "@/projects/stretchtext/stretchtext";
 
 const fulfilling = stretchable("fulfilling", <>fulfilling means what</>);
 

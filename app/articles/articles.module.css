@@ -3,3 +3,7 @@
   max-width: 720px;
   margin: auto;
 }
+
+.article a {
+  text-decoration: underline;
+}

@@ -36,7 +36,7 @@ export function Sidebar() {
       <h2>Long-form Writing</h2>
       <ul>
         <li>
-          <a href="/articles/www">🌐 Reclaiming The Web</a>
+          <a href="/articles/stretch">🧞 Arcane & Blursed StretchText</a>
         </li>
       </ul>
     </div>
