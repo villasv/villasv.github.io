@@ -18,7 +18,7 @@ export interface StretchTextProps extends PropsWithChildren {
 }
 
 export function StretchText({ wrap, children }: StretchTextProps) {
-  const stretchSeconds = 0.5;
+  const stretchSeconds = 0.8;
   const [status, setStatus] = useState(StretchStatus.TENSE);
 
   const onClickStretch = (event: MouseEvent) => {

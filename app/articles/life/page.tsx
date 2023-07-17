@@ -9,7 +9,7 @@ import {
 const InspiredByHenryLucesVisionForTheLifeMagazine = stretchable(
   "Inspired by Henry Luce's vision for the LIFE magazine:",
   <span>
-    <h2>Life: the magazine, the movie, the motto</h2>
+    <h2>Life: the magazine</h2>
     <Blockquote>
       THE PURPOSE: To see life; to see the world; to eyewitness great events; to
       watch the faces of the poor and the gestures of the proud; to see strange
@@ -24,35 +24,45 @@ const InspiredByHenryLucesVisionForTheLifeMagazine = stretchable(
       hereinafter described.
     </Blockquote>
     <Paragraph>
-      LIFE was an influential all-photographic magazine published from 1936 to
-      1972. It produced 1,864 consecutive weekly issues and in its prime it
-      would come to sell more than 10 million copies a week, playing a
-      historical role in photojournalism. Its founder Henry Robinson Luce had an
-      ambitious vision for a picture book magazine he described on its
-      prospectus quoted above, reflecting his thoughts on the purpose of human
-      life itself.
+      That was the purpose of LIFE - an influential all-photographic magazine
+      published from 1936 to 1972,{" "}
+      {stretchable(
+        <>
+          as secretly idealized by Henry Robinson Luce and divulged in a Ben
+          Stiller movie from the 2010's.
+        </>,
+        <>
+          producing 1,864 consecutive weekly issues. In its prime it would come
+          to sell more than 10 million copies a week, playing a historical role
+          in photojournalism. Its founder Henry Robinson Luce had an ambitious
+          vision for a picture book magazine he described on its prospectus
+          quoted above, reflecting on the purpose of human life itself.
+          <br />
+          <Paragraph>
+            That ideal found its way into the 2013 movie "The Secret Life of
+            Walter Mitty", which follows a daydreaming negative assets manager
+            from LIFE magazine venturing into the world while the magazine nears
+            its end with a last print issue. Directed and starred by Ben
+            Stiller, the movie adaptation of the LIFE magazine emphasizes its
+            motto:
+          </Paragraph>
+          <Blockquote>
+            To see the world, things dangerous to come to, to see behind walls,
+            draw closer, to find each other, and to feel.
+          </Blockquote>
+          <Paragraph>
+            That movie had a real imprint on me, in a way that I never forgot
+            the feelings of adventure, curiosity and warmth from that quote. It
+            still feels a bit silly to direct a life based on half-comedy movie,
+            but I vowed to never lose sight of that feeling.
+          </Paragraph>
+        </>
+      )}
     </Paragraph>
     <Paragraph>
-      LIFE magazine condensed that vision statement into a most concise form:
-    </Paragraph>
-    <Blockquote>
-      To see life. To see the world. To see strange things. To see and be
-      amazed.
-    </Blockquote>
-    <Paragraph>
-      That motto found its way into the 2013 movie "The Secret Life of Walter
-      Mitty", which follows a daydreaming negative assets manager from LIFE
-      magazine venturing into the world while the magazine itself nears its end
-      with a last print issue. The movie portrays the LIFE magazine motto:
-    </Paragraph>
-    <Blockquote>
-      To see the world, things dangerous to come to, to see behind walls, draw
-      closer, to find each other, and to feel.
-    </Blockquote>
-    <Paragraph>
-      Drawing from Henry Luce's vision, LIFE's historical motto and the movie
-      adaptation, mixed to my own taste, is how I arrived at a life purpose that
-      resonates with my own daydreaming.
+      Drawing from Henry Luce's vision, LIFE's historical motif and modern
+      adaptation, mixed to my own taste, I arrived at a life purpose formulation
+      that resonates with my own daydreaming.
     </Paragraph>
     <Paragraph>I want to</Paragraph>
   </span>
@@ -63,9 +73,10 @@ const ThatIsThePurposeOfLife = stretchable(
   <span>
     <br />
     <Paragraph>
-      That is the purpose I've chosen to assign to my life. It's as legitimate
-      as any other, but it appeals to me for its sense of fulfillment. It evokes
-      an image of a life design that is rich, comprehensive, whole, complete.
+      That is the purpose I've chosen to assign to <em>my</em> life. It's as
+      legitimate as any other, but it appeals to me for its sense of
+      fulfillment. It evokes an image of a life design that is rich,
+      comprehensive, whole, complete.
     </Paragraph>
   </span>
 );
