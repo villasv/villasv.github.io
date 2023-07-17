@@ -1,3 +1,6 @@
+/**
+ * Inspired by Ted Nelson's 1967 proposal on hypertext interactivity.
+ */
 "use client";
 
 import { MouseEvent, PropsWithChildren, ReactNode, useState } from "react";
@@ -11,12 +14,9 @@ enum StretchStatus {
 }
 
 export interface StretchTextProps extends PropsWithChildren {
-  wrap: string;
+  wrap: ReactNode;
 }
 
-/**
- * Inspired by Ted Nelson's 1967 proposal on hypertext interactivity.
- */
 export function StretchText({ wrap, children }: StretchTextProps) {
   const stretchSeconds = 0.5;
   const [status, setStatus] = useState(StretchStatus.TENSE);
@@ -52,6 +52,7 @@ export function StretchText({ wrap, children }: StretchTextProps) {
         <a
           href=""
           onClick={onClickStretch}
+          className={styles.unlink}
           style={{ transition: `all ${stretchSeconds}s ease` }}
         >
           {wrap}
@@ -63,6 +64,24 @@ export function StretchText({ wrap, children }: StretchTextProps) {
   );
 }
 
-export function stretchable(short: string, long: ReactNode): JSX.Element {
+/**
+ * Like a regular p tag, but using span to mimic the visual characteristics of a
+ * paragraph without restrictions on child elements.
+ * @returns a span container with paragraph styling
+ */
+export function Paragraph({ children }: PropsWithChildren): JSX.Element {
+  return <span className={styles.paragraph}>{children}</span>;
+}
+
+/**
+ * Like a regular blockquote tag, but using span to mimic the visual
+ * characteristics of a blockquote without restrictions on child elements.
+ * @returns a span container with blockquote styling
+ */
+export function Blockquote({ children }: PropsWithChildren): JSX.Element {
+  return <span className={styles.blockquote}>{children}</span>;
+}
+
+export function stretchable(short: ReactNode, long: ReactNode): JSX.Element {
   return <StretchText wrap={short}>{long}</StretchText>;
 }

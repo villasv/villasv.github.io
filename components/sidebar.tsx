@@ -6,9 +6,8 @@ export function Sidebar() {
       <h2>A personal website</h2>
       <p>
         This is my humble site on the World Wide Web. Here I play as cyberspace
-        architect, librarian, and gardener. Sometimes I'll be doing other things
-        out there in the carbonspace as well, which I abstract away into theory
-        here.
+        architect, librarian, and digital gardener. Sometimes I write about
+        things I do out there on the carbonspace as well.
       </p>
       <h2>Also me but elsewhere</h2>
       <ul>
@@ -33,8 +32,11 @@ export function Sidebar() {
           </a>
         </li>
       </ul>
-      <h2>Long-form Writing</h2>
+      <h2>Writing</h2>
       <ul>
+        <li>
+          <a href="/articles/life">⏳ Life, The Universe and Everything</a>
+        </li>
         <li>
           <a href="/articles/stretch">🧞 Arcane & Blursed StretchText</a>
         </li>

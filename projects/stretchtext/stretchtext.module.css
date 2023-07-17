@@ -1,9 +1,10 @@
 /* links here are not real links */
-.container a,
-.container a:hover,
-.container a:active,
-.container a:visited {
+.unlink:link,
+.unlink:hover,
+.unlink:active,
+.unlink:visited {
   color: var(--secondary-foreground-color);
+  text-decoration: none;
 }
 
 /* some extra attention for clickable stretchtext */
@@ -39,4 +40,20 @@
 /* after fading in, go back to default color */
 .loose {
   color: inherit;
+}
+
+/* inline span styles */
+.paragraph,
+.blockquote {
+  display: inline-block;
+  margin-top: 16px;
+  margin-bottom: 4px;
+  text-align: justify;
+}
+
+.blockquote {
+  font-style: italic;
+  margin-left: 6px;
+  padding-left: 12px;
+  border-left: 4px solid #ccc;
 }

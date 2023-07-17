@@ -1,7 +1,7 @@
 .article {
   font-size: 20px;
   max-width: 720px;
-  margin: auto;
+  margin: 40px auto 80px auto;
 }
 
 .article a {
