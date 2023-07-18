@@ -87,7 +87,7 @@ const ThatIsThePurposeOfLife = stretchable(
 export default function Page() {
   return (
     <div>
-      <h1>On Life, the Universe, and Everything</h1>
+      <h1>⏳ Life, the Universe, and Everything</h1>
       <Paragraph>
         {InspiredByHenryLucesLIFE} to see life; to see the world; to witness
         great events; the faces of the poor and the gestures of the proud; to
