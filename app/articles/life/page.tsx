@@ -6,8 +6,8 @@ import {
   Blockquote,
 } from "@/projects/stretchtext/stretchtext";
 
-const InspiredByHenryLucesVisionForTheLifeMagazine = stretchable(
-  "Inspired by Henry Luce's vision for the LIFE magazine:",
+const InspiredByHenryLucesLIFE = stretchable(
+  <>Inspired by Henry Luce's LIFE:</>,
   <span>
     <h2>Life: the magazine</h2>
     <Blockquote>
@@ -28,8 +28,8 @@ const InspiredByHenryLucesVisionForTheLifeMagazine = stretchable(
       published from 1936 to 1972,{" "}
       {stretchable(
         <>
-          as secretly idealized by Henry Robinson Luce and divulged in a Ben
-          Stiller movie from the 2010's.
+          as idealized by Henry Luce and divulged in a Ben Stiller movie from
+          the 2010's.
         </>,
         <>
           producing 1,864 consecutive weekly issues. In its prime it would come
@@ -48,14 +48,14 @@ const InspiredByHenryLucesVisionForTheLifeMagazine = stretchable(
           </Paragraph>
           <Blockquote>
             To see the world, things dangerous to come to, to see behind walls,
-            draw closer, to find each other, and to feel.
+            draw closer, to find each other, and to <em>feel</em>.
           </Blockquote>
           <Paragraph>
             That movie had a real imprint on me, in a way that I never forgot
             the feelings of adventure, curiosity and warmth from that quote.
             When I later discovered the original vision of the real world iconic
             LIFE, it was even more touching. I vowed to never lose sight of that
-            feeling.
+            aspiration.
           </Paragraph>
         </>
       )}
@@ -72,12 +72,14 @@ const InspiredByHenryLucesVisionForTheLifeMagazine = stretchable(
 const ThatIsThePurposeOfLife = stretchable(
   <>That is the purpose of life.</>,
   <span>
+    That is the purpose of life.
     <br />
     <Paragraph>
-      That is the purpose I've chosen to assign to <em>my</em> life. It's as
-      legitimate as any other, but it appeals to me for its sense of
-      fulfillment. It evokes an image of a life design that is rich,
-      comprehensive, whole, complete.
+      <em>My</em> life, to be specific. It's a purpose as legitimate as any
+      others might have. It appeals to me, for its sense of fulfillment. It
+      evokes an image of a life design that is rich, comprehensive, whole,
+      complete. Yours doesn't have to be the same. It probably shouldn't be the
+      same.
     </Paragraph>
   </span>
 );
@@ -87,13 +89,13 @@ export default function Page() {
     <div>
       <h1>On Life, the Universe, and Everything</h1>
       <Paragraph>
-        {InspiredByHenryLucesVisionForTheLifeMagazine} to see life; to see the
-        world; to witness great events; the faces of the poor and the gestures
-        of the proud; to see strange things; to see humankind's work and
-        discoveries; to see things far away, things hidden behind walls and
-        within rooms; things dangerous to come to; to see and take pleasure in
-        seeing; to see and be amazed; to see and be instructed; to draw closer,
-        find each other, and to feel. {ThatIsThePurposeOfLife}
+        {InspiredByHenryLucesLIFE} to see life; to see the world; to witness
+        great events; the faces of the poor and the gestures of the proud; to
+        see strange things; to see humankind's work and discoveries; to see
+        things far away, things hidden behind walls and within rooms; things
+        dangerous to come to; to see and take pleasure in seeing; to see and be
+        amazed; to see and be instructed; to draw closer, find each other, and
+        to feel. {ThatIsThePurposeOfLife}
       </Paragraph>
     </div>
   );
