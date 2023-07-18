@@ -52,9 +52,10 @@ const InspiredByHenryLucesVisionForTheLifeMagazine = stretchable(
           </Blockquote>
           <Paragraph>
             That movie had a real imprint on me, in a way that I never forgot
-            the feelings of adventure, curiosity and warmth from that quote. It
-            still feels a bit silly to direct a life based on half-comedy movie,
-            but I vowed to never lose sight of that feeling.
+            the feelings of adventure, curiosity and warmth from that quote.
+            When I later discovered the original vision of the real world iconic
+            LIFE, it was even more touching. I vowed to never lose sight of that
+            feeling.
           </Paragraph>
         </>
       )}
