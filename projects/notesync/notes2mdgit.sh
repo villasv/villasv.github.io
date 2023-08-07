@@ -5,6 +5,15 @@ set -e
 DEFAULT_ICLOUD_SHORTCUTS_DIR="$HOME/Library/Mobile Documents/iCloud~is~workflow~my~workflows/Documents"
 NOTES_DIR="$DEFAULT_ICLOUD_SHORTCUTS_DIR/notes"
 
+# Path to website repository
+WWW="$HOME/Projects/victor.villas"
+
+# Clean slate
+rm -rf "$NOTES_DIR"
+
+# Run the Export Notes Shortcut
+shortcuts run 'Export Notes'
+
 # Load Homebrew to add utilities to PATH
 export PATH="/opt/homebrew/opt/libpq/bin:$PATH"
 eval "$(/opt/homebrew/bin/brew shellenv)"
@@ -26,4 +35,7 @@ for file in "$NOTES_DIR"/*; do
   # convert to markdown
   md_file="${file/txt/md}"
   pandoc --from=html --to=markdown <"$html_file" >"$md_file"
+  # copy to website repo
+  note_file="$WWW/notes/$(basename "$md_file")"
+  cp "$md_file" "$note_file"
 done
