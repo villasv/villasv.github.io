@@ -12,6 +12,7 @@ WWW="$HOME/Projects/victor.villas"
 rm -rf "$NOTES_DIR"
 
 # Run the Export Notes Shortcut
+# It exports notes using HTML into $NOTES_DIR
 shortcuts run 'Export Notes'
 
 # Load Homebrew to add utilities to PATH
