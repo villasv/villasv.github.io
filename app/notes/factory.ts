@@ -20,7 +20,7 @@ export async function getAllNotes(
     subpaths.map(async (fileName) => {
       const relativeSubpath = path.join(notesPath, fileName);
       return (await fs.stat(relativeSubpath)).isDirectory()
-        ? getAllNotes(relativeSubpath) // TODO: recursive call
+        ? getAllNotes(relativeSubpath)
         : [await loadNote(relativeSubpath)];
     })
   );
@@ -36,11 +36,12 @@ export async function getNoteBySlug(slug: string): Promise<Note> {
 
 async function loadNote(relativePath: string): Promise<Note> {
   const fileContent = await fs.readFile(relativePath, { encoding: "utf-8" });
+  const noteFolder = path.parse(path.parse(relativePath).dir).base;
   return {
     slug: maybeGetNoteSlug(fileContent) || relativePath.replace(/\..*/, ""),
     title: maybeGetNoteTitle(fileContent),
     content: fileContent,
-    folder: terse(path.parse(path.parse(relativePath).dir).base),
+    folder: terse(noteFolder).replace("-pages", ""),
   };
 }
 
