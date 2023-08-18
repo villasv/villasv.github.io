@@ -8,6 +8,7 @@ export interface Note {
   slug: string;
   title: string | null;
   content: string;
+  folder: string;
 }
 
 export async function getAllNotes(
@@ -39,6 +40,7 @@ async function loadNote(relativePath: string): Promise<Note> {
     slug: maybeGetNoteSlug(fileContent) || relativePath.replace(/\..*/, ""),
     title: maybeGetNoteTitle(fileContent),
     content: fileContent,
+    folder: terse(path.parse(path.parse(relativePath).dir).base),
   };
 }
 
@@ -51,9 +53,15 @@ function maybeGetNoteTitle(markdown: string): string | null {
 function maybeGetNoteSlug(markdown: string): string | null {
   const title = maybeGetNoteTitle(markdown);
   if (!title) return null;
-  return title
+  return terse(title);
+}
+
+function terse(text: string): string {
+  return text
     .replace(/[\W_]/g, "-")
     .replace(/\s/g, "-")
     .replace(/-+/g, "-")
+    .replace(/^-+/g, "")
+    .replace(/-+$/g, "")
     .toLowerCase();
 }

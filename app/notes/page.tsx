@@ -7,7 +7,7 @@ export default async function Page() {
       <ol>
         {notes.map((note, index) => (
           <li key={index}>
-            <a href={"notes/" + note.slug}>{note.title}</a>
+            <a href={`notes/${note.folder}/${note.slug}`}>{note.title}</a>
           </li>
         ))}
       </ol>
