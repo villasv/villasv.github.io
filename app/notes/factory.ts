@@ -10,13 +10,20 @@ export interface Note {
   content: string;
 }
 
-export async function getAllNotes(): Promise<Note[]> {
+export async function getAllNotes(
+  notesPath: string = NOTES_PATH
+): Promise<Note[]> {
   if (NOTES_CACHE) return NOTES_CACHE;
-  const notesFiles = await fs.readdir(NOTES_PATH);
-  NOTES_CACHE = await Promise.all(
-    notesFiles.map((noteFile) => loadNote(noteFile))
+  const subpaths = await fs.readdir(notesPath);
+  const files = await Promise.all(
+    subpaths.map(async (fileName) => {
+      const relativeSubpath = path.join(notesPath, fileName);
+      return (await fs.stat(relativeSubpath)).isDirectory()
+        ? getAllNotes(relativeSubpath) // TODO: recursive call
+        : [await loadNote(relativeSubpath)];
+    })
   );
-  return NOTES_CACHE;
+  return (NOTES_CACHE = files.flat());
 }
 
 export async function getNoteBySlug(slug: string): Promise<Note> {
@@ -26,18 +33,17 @@ export async function getNoteBySlug(slug: string): Promise<Note> {
   return note;
 }
 
-async function loadNote(fileName: string): Promise<Note> {
-  const relativePath = path.join(NOTES_PATH, fileName);
+async function loadNote(relativePath: string): Promise<Note> {
   const fileContent = await fs.readFile(relativePath, { encoding: "utf-8" });
   return {
-    slug: maybeGetNoteSlug(fileContent) || fileName.replace(/\..*/, ""),
+    slug: maybeGetNoteSlug(fileContent) || relativePath.replace(/\..*/, ""),
     title: maybeGetNoteTitle(fileContent),
     content: fileContent,
   };
 }
 
 function maybeGetNoteTitle(markdown: string): string | null {
-  const titles = markdown.match(/(?<=#)[\w\s]*/);
+  const titles = markdown.match(/(?<=#)[^\n]*/);
   if (!titles) return null;
   return titles[0].trim();
 }

@@ -11,7 +11,6 @@ export default function Page() {
     <div>
       <h1>Victor Villas'</h1>
       <Sidebar />
-      <Feed />
     </div>
   );
 }
