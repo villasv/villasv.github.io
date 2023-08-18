@@ -27,6 +27,12 @@ export async function getAllNotes(
   return (NOTES_CACHE = files.flat());
 }
 
+export async function isPathToNote(pathParts: string[]): Promise<boolean> {
+  if (!NOTES_CACHE) await getAllNotes();
+  const slug = pathParts[pathParts.length - 1];
+  return (NOTES_CACHE?.findIndex((n) => n.slug === slug) ?? -1) >= 0;
+}
+
 export async function getNoteBySlug(slug: string): Promise<Note> {
   if (!NOTES_CACHE) await getAllNotes();
   const note = NOTES_CACHE?.find((n) => n.slug === slug);
