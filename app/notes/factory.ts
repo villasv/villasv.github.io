@@ -51,5 +51,9 @@ function maybeGetNoteTitle(markdown: string): string | null {
 function maybeGetNoteSlug(markdown: string): string | null {
   const title = maybeGetNoteTitle(markdown);
   if (!title) return null;
-  return title.replace(/\s/g, "-").toLowerCase();
+  return title
+    .replace(/[\W_]/g, "-")
+    .replace(/\s/g, "-")
+    .replace(/-+/g, "-")
+    .toLowerCase();
 }
