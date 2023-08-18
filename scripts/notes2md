@@ -9,7 +9,7 @@ NOTES_DIR="$DEFAULT_ICLOUD_SHORTCUTS_DIR/notes"
 WWW="$HOME/Projects/victor.villas"
 
 # Clean slate
-rm -rf "$NOTES_DIR"
+rm -rf "$NOTES_DIR" "$WWW"/notes/**/*
 
 # Run the Export Notes Shortcut
 # It exports notes using HTML into $NOTES_DIR
@@ -24,7 +24,7 @@ export NVM_DIR="$HOME/.nvm"
 source "$NVM_DIR/nvm.sh"
 source "$NVM_DIR/bash_completion"
 
-for file in "$NOTES_DIR"/*; do
+for file in "$NOTES_DIR"/**/*.txt; do
   # fix exported file format
   html_file="${file/txt/html}"
   mv "$file" "$html_file"
@@ -37,6 +37,9 @@ for file in "$NOTES_DIR"/*; do
   md_file="${file/txt/md}"
   pandoc --from=html --to=markdown <"$html_file" >"$md_file"
   # copy to website repo
-  note_file="$WWW/notes/$(basename "$md_file")"
-  cp "$md_file" "$note_file"
+  parent_dir=$(basename "$(dirname "$md_file")")
+  file_name=$(basename "$md_file")
+  note_dir="$WWW/notes/$parent_dir"
+  mkdir -p "$note_dir"
+  cp "$md_file" "$note_dir/$file_name"
 done

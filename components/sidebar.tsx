@@ -3,13 +3,22 @@ import styles from "./sidebar.module.css";
 export function Sidebar() {
   return (
     <div className={styles.sidebar}>
-      <h2>A personal website</h2>
+      <h2>digital garden</h2>
       <p>
-        This is my humble site on the World Wide Web. Here I play as cyberspace
-        architect, librarian, and digital gardener. Sometimes I write about
-        things I do out there on the carbonspace as well.
+        This is my humble site on the World Wide Web, where I curate my notes .
       </p>
-      <h2>Also me but elsewhere</h2>
+      <ul>
+        <li>
+          AK Waitman's <a href="notes/cuisine">🥘 Personal Chef</a>
+        </li>
+        <li>
+          AK Waitman's <a href="notes/coffee">☕ Resident Barista</a>
+        </li>
+        <li>
+          AK Waitman's <a href="notes/athletics">👟 Fitness Coach</a>
+        </li>
+      </ul>
+      <h2>me elsewhere</h2>
       <ul>
         <li>
           <a rel="me" href="mailto:mail@victor.villas">
@@ -30,15 +39,6 @@ export function Sidebar() {
           <a rel="me" href="https://bookwyrm.social/user/villasv">
             📚 Books (bookwyrm.social/user/villasv)
           </a>
-        </li>
-      </ul>
-      <h2>Words of affirmation</h2>
-      <ul>
-        <li>
-          <a href="/articles/life">⏳ Life, The Universe and Everything</a>
-        </li>
-        <li>
-          <a href="/articles/stretch">🧞 Arcane & Blursed StretchText</a>
         </li>
       </ul>
     </div>
