@@ -8,7 +8,8 @@ export interface Note {
   slug: string;
   title: string | null;
   content: string;
-  folder: string;
+  relativeUrl: string;
+  relativePath: string;
 }
 
 export async function getAllNotes(
@@ -41,13 +42,18 @@ export async function getNoteBySlug(slug: string): Promise<Note> {
 }
 
 async function loadNote(relativePath: string): Promise<Note> {
-  const fileContent = await fs.readFile(relativePath, { encoding: "utf-8" });
-  const noteFolder = path.parse(path.parse(relativePath).dir).base;
+  const name = path.parse(relativePath).base.replace(/\..*/, "");
+  const folder = path.parse(path.parse(relativePath).dir).base;
+  const content = await fs.readFile(relativePath, { encoding: "utf-8" });
+
+  const slug = maybeGetNoteSlug(content) || name;
+  const url = path.join(terse(folder).replace("-pages", ""), slug);
   return {
-    slug: maybeGetNoteSlug(fileContent) || relativePath.replace(/\..*/, ""),
-    title: maybeGetNoteTitle(fileContent),
-    content: fileContent,
-    folder: terse(noteFolder).replace("-pages", ""),
+    slug,
+    title: maybeGetNoteTitle(content),
+    content,
+    relativeUrl: url,
+    relativePath: path.join(...relativePath.split("/").slice(1)),
   };
 }
 

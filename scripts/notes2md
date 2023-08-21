@@ -34,7 +34,7 @@ for file in "$NOTES_DIR"/**/*.txt; do
   sed -i "" -E 's|<p class="p4"><b>(.*)</b></p>|<h2>\1</h2>|g' "$html_file"
   sed -i "" -E 's|<p class="p2"><b>(.*)</b></p>|<h3>\1</h3>|g' "$html_file"
   # convert to markdown
-  md_file="${file/txt/md}"
+  md_file="${file/txt/mdx}"
   pandoc --from=html --to=markdown <"$html_file" >"$md_file"
   # copy to website repo
   parent_dir=$(basename "$(dirname "$md_file")")
