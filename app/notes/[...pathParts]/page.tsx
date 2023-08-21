@@ -10,7 +10,7 @@ export interface PageProps {
 export async function generateStaticParams(): Promise<PageProps["params"][]> {
   const notes = await getAllNotes();
   const notesProps = notes.flatMap((note) => [
-    ...note.relativeUrl.split("/").map((part, index, array) => ({
+    ...note.pageSubpath.split("/").map((part, index, array) => ({
       pathParts: [...array.slice(0, index), part],
     })),
   ]);
@@ -31,8 +31,8 @@ export default async function TocOrNote({ params: { pathParts } }: PageProps) {
   if (!isNote) return <TableOfContents />;
 
   const slug = pathParts[pathParts.length - 1];
-  const { relativePath } = await getNoteBySlug(slug);
-  const { default: Note } = await import(`notes/${relativePath}`);
+  const { fileSubpath } = await getNoteBySlug(slug);
+  const { default: Note } = await import(`notes/${fileSubpath}`);
   return (
     <article>
       <Note />

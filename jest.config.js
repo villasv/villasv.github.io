@@ -3,7 +3,7 @@ const wrapJestConfig = nextJest({ dir: "./" });
 
 /** @type {import('jest').Config} */
 const jestConfig = {
-  collectCoverageFrom: ["lib/**/*.{js,jsx,ts,tsx}"],
+  collectCoverageFrom: ["{app,components}/**/*.{js,ts}"],
   coverageThreshold: {
     global: {
       lines: 0,
