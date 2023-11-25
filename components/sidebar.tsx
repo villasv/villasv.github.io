@@ -3,19 +3,23 @@ import styles from "./sidebar.module.css";
 export function Sidebar() {
   return (
     <div className={styles.sidebar}>
-      <h2>digital garden</h2>
-      <p>
-        This is my humble site on the World Wide Web, where I curate my notes .
-      </p>
+      <h1>Victor Villas</h1>
       <ul>
+        <li>Husband,</li>
         <li>
-          AK Waitman's <a href="notes/cuisine">🥘 Personal Chef</a>
+          <a href="cooking">🥘 Personal Chef</a>,
         </li>
         <li>
-          AK Waitman's <a href="notes/coffee">☕ Resident Barista</a>
+          <a href="brewing">☕ Resident Barista</a>,
         </li>
         <li>
-          AK Waitman's <a href="notes/athletics">👟 Fitness Coach</a>
+          <a href="running">👟 Street Runner</a>,
+        </li>
+        <li>
+          <a href="hiking">🏕️ Outdoors Explorer</a>,
+        </li>
+        <li>
+          <a href="thinking">🧠 Opinionated Human</a>.
         </li>
       </ul>
       <h2>me elsewhere</h2>

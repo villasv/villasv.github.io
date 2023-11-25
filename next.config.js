@@ -7,7 +7,6 @@ const withBundleAnalyzer = require("@next/bundle-analyzer")({
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   output: "export",
-  experimental: { appDir: true },
   images: { unoptimized: true },
 };
 

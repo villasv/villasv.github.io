@@ -4,7 +4,7 @@ import {
   getNoteSlug,
   getNoteTitle,
   getPageSubpath,
-} from "@/app/notes/factory";
+} from "@/components/notes/factory";
 
 describe("Notes Factory", () => {
   describe(getNoteSlug.name, () => {
