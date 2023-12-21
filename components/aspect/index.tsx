@@ -9,7 +9,7 @@ export interface AspectProps {
   base: string;
 }
 
-export async function Aspect({ base }: AspectProps) {
+export async function AspectIndex({ base }: AspectProps) {
   const subPages = await listPages("app", base, 1);
   return (
     <div className={styles.aspect}>

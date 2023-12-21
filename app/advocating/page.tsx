@@ -1,5 +1,5 @@
-import { Aspect } from "@/components/aspect";
+import { AspectIndex } from "@/components/aspect";
 
 export default async function Page() {
-  return <Aspect base="advocating" />;
+  return <AspectIndex base="advocating" />;
 }
