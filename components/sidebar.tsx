@@ -7,19 +7,19 @@ export function Sidebar() {
       <ul>
         <li>Husband,</li>
         <li>
-          <a href="cooking">🥘 Personal Chef</a>,
+          <a href="cooking">🥘 Cook</a>,
         </li>
         <li>
-          <a href="brewing">☕ Resident Barista</a>,
+          <a href="brewing">☕ Barista</a>,
         </li>
         <li>
-          <a href="running">👟 Street Runner</a>,
+          <a href="running">👟 Runner</a>,
         </li>
         <li>
-          <a href="hiking">🏕️ Outdoors Explorer</a>,
+          <a href="hiking">🏕️ Explorer</a>,
         </li>
         <li>
-          <a href="thinking">🧠 Opinionated Human</a>.
+          <a href="advocating">📢 Advocate</a>.
         </li>
       </ul>
       <h2>me elsewhere</h2>

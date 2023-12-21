@@ -1,5 +1,5 @@
 import { Aspect } from "@/components/aspect";
 
 export default async function Page() {
-  return <Aspect base="thinking" />;
+  return <Aspect base="cooking" />;
 }
