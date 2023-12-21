@@ -1,16 +1,17 @@
+import path from "path";
 import { listPages } from "@/components/factory";
 import styles from "./aspect.module.css";
 
 export interface AspectProps {
   /**
-   * will introspect app/${base}/.../page.tsx
-   * ${domain}/${base}/...
+   * The base relative path to search child subdirectories defining page files.
+   * Will introspect app/${base}/..., defaults to __dirname of component.
    */
-  base: string;
+  base?: string;
 }
 
 export async function AspectIndex({ base }: AspectProps) {
-  const subPages = await listPages("app", base, 1);
+  const subPages = await listPages("app", base ?? path.basename(__dirname), 1);
   return (
     <div className={styles.aspect}>
       <ol>
