@@ -5,7 +5,7 @@ export function Sidebar() {
     <div className={styles.sidebar}>
       <h1>Victor Villas</h1>
       <ul>
-        <li>Husband,</li>
+        <li>🔗 Husband,</li>
         <li>
           <a href="food">🥘 Cook</a>,
         </li>
@@ -13,13 +13,13 @@ export function Sidebar() {
           <a href="coffee">☕ Barista</a>,
         </li>
         <li>
-          <a href="sport">👟 Runner</a>,
+          <a href="sport">👟 Athlete</a>,
         </li>
         <li>
           <a href="world">🏕️ Explorer</a>,
         </li>
         <li>
-          <a href="advocating">📢 Advocate</a>.
+          <a href="words">📝 Writer</a>.
         </li>
       </ul>
       <h2>me elsewhere</h2>
