@@ -18,7 +18,7 @@ const NEXT_PAGE_FILES = ["page.tsx", "page.mdx"];
 export async function listPages(
   basePath: string,
   relativePath: string,
-  skipLevel: number
+  skipLevel: number,
 ): Promise<Page[]> {
   const children = await fs.readdir(path.join(basePath, relativePath));
   const pages = await Promise.all(
@@ -29,14 +29,14 @@ export async function listPages(
         : NEXT_PAGE_FILES.includes(fileName) && skipLevel <= 0
           ? [await loadPage({ basePath, relativePath, fileName })]
           : [];
-    })
+    }),
   );
   return pages.flat();
 }
 
 async function getPageTitle(
   filePath: string,
-  content: string
+  content: string,
 ): Promise<string | undefined> {
   if (filePath.endsWith("mdx")) {
     return getPageTitleFromMarkdown(filePath);
@@ -52,7 +52,7 @@ async function getPageTitle(
       const mdxRelativePath = mdxMatch[1];
       const mdxPath = path.join(
         path.dirname(filePath),
-        mdxRelativePath + ".mdx"
+        mdxRelativePath + ".mdx",
       );
       return getPageTitleFromMarkdown(mdxPath);
     }
@@ -60,7 +60,7 @@ async function getPageTitle(
 }
 
 async function getPageTitleFromMarkdown(
-  filePath: string
+  filePath: string,
 ): Promise<string | undefined> {
   const markdown = await fs.readFile(filePath, { encoding: "utf-8" });
   const titles = markdown.match(/(?<=^#\s+)[^\n]*/m);

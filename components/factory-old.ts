@@ -22,7 +22,7 @@ export interface Note {
 }
 
 export async function getAllNotes(
-  notesPath: string = NOTES_PATH
+  notesPath: string = NOTES_PATH,
 ): Promise<Note[]> {
   if (NOTES_CACHE) return NOTES_CACHE;
   const subpaths = await fs.readdir(notesPath);
@@ -32,7 +32,7 @@ export async function getAllNotes(
       return (await fs.stat(relativeSubpath)).isDirectory()
         ? getAllNotes(relativeSubpath)
         : [await loadNote(relativeSubpath)];
-    })
+    }),
   );
   return (NOTES_CACHE = files.flat());
 }

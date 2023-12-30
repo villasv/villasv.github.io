@@ -23,7 +23,7 @@ const LifeWasAStronglyPurposed = stretchable(
       hereinafter described.
     </Blockquote>
     <Paragraph>That was the purpose of LIFE - an</Paragraph>
-  </>
+  </>,
 );
 
 const idealizedByHenryLuceAndPortrayedInABenStillerMovie = stretchable(
@@ -55,7 +55,7 @@ const idealizedByHenryLuceAndPortrayedInABenStillerMovie = stretchable(
       the original vision of the real world iconic LIFE, it was even more
       touching. I vowed to never lose sight of that aspiration.
     </Paragraph>
-  </>
+  </>,
 );
 
 const InspiredByHenryLucesLIFE = stretchable(
@@ -72,7 +72,7 @@ const InspiredByHenryLucesLIFE = stretchable(
       that resonates with my own daydreaming.
     </Paragraph>
     <Paragraph>I want to</Paragraph>
-  </span>
+  </span>,
 );
 
 const ThatIsThePurposeOfLife = stretchable(
@@ -87,7 +87,7 @@ const ThatIsThePurposeOfLife = stretchable(
       complete. Yours doesn't have to be the same. It probably shouldn't be the
       same.
     </Paragraph>
-  </span>
+  </span>,
 );
 
 export default function Page() {
