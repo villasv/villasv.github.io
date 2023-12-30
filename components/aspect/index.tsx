@@ -1,12 +1,16 @@
-import path from "path";
 import { listPages } from "@/components/factory";
 import styles from "./aspect.module.css";
 
-export interface AspectProps {}
+export interface AspectProps {
+  /**
+   * The base folder name used to list all sub pages in the aspect root page.
+   * Will inspect all files matching app/(aspects)/{base}/.../page.*
+   */
+  base: string;
+}
 
-export async function AspectIndex({}: AspectProps) {
-  const cwd = path.basename(__dirname);
-  const subPages = await listPages("app/(aspects)", cwd, 1);
+export async function AspectIndex({ base }: AspectProps) {
+  const subPages = await listPages("app/(aspects)", base, 1);
   return (
     <div className={styles.aspect}>
       <ol>
