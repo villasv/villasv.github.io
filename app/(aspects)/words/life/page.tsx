@@ -38,6 +38,7 @@ const idealizedByHenryLuceAndPortrayedInABenStillerMovie = stretchable(
     a picture book magazine he described on its prospectus quoted above,
     reflecting on the purpose of human life itself.
     <br />
+    <h2>Universe of Mitty</h2>
     <Paragraph>
       That ideal found its way into the 2013 movie "The Secret Life of Walter
       Mitty", which follows a daydreaming negative assets manager from LIFE
@@ -50,28 +51,29 @@ const idealizedByHenryLuceAndPortrayedInABenStillerMovie = stretchable(
       closer, to find each other, and to <em>feel</em>.
     </Blockquote>
     <Paragraph>
-      That movie had a real imprint on me, in a way that I never forgot the
+      The movie had a real imprint on me, in a way that I never forgot the
       feelings of adventure and warmth from that quote. When I later discovered
-      the original vision of the real world iconic LIFE, it was even more
-      touching. I vowed to never lose sight of that aspiration.
+      the original vision of the real world iconic LIFE, I vowed to never lose
+      sight of that aspiration.
     </Paragraph>
   </>,
 );
 
-const InspiredByHenryLucesLIFE = stretchable(
-  <>Inspired by Henry Luce's LIFE:</>,
+const InspiredByLIFE = stretchable(
+  <>Inspired by LIFE:</>,
   <span>
-    <h2>Life: the magazine</h2>
+    <h2>Life the magazine</h2>
     <Paragraph>
       {LifeWasAStronglyPurposed} influential photographic magazine published
       from 1936 to 1972 {idealizedByHenryLuceAndPortrayedInABenStillerMovie}
     </Paragraph>
+    <h2>Everything there is</h2>
     <Paragraph>
       Drawing from Henry Luce's vision, LIFE's historical motif and modern
       adaptation, mixed to my own taste, I arrived at a life purpose formulation
-      that resonates with my own daydreaming.
+      that resonates with my own inner world and its multitudes:
     </Paragraph>
-    <Paragraph>I want to</Paragraph>
+    <Paragraph>-</Paragraph>
   </span>,
 );
 
@@ -81,11 +83,7 @@ const ThatIsThePurposeOfLife = stretchable(
     That is the purpose of life.
     <br />
     <Paragraph>
-      <em>My</em> life, to be specific. It's a purpose as legitimate as any
-      others might have. It appeals to me, for its sense of fulfillment. It
-      evokes an image of a life design that is rich, comprehensive, whole,
-      complete. Yours doesn't have to be the same. It probably shouldn't be the
-      same.
+      <em>My</em> life, to be specific, and to each their own.
     </Paragraph>
   </span>,
 );
@@ -95,13 +93,13 @@ export default function Page() {
     <div>
       <h1>⏳ Life, the Universe, and Everything</h1>
       <Paragraph>
-        {InspiredByHenryLucesLIFE} to see life; to see the world; to witness
-        great events; the faces of the poor and the gestures of the proud; to
-        see strange things; to see humankind's work and discoveries; to see
-        things far away, things hidden behind walls and within rooms; things
-        dangerous to come to; to see and take pleasure in seeing; to see and be
-        amazed; to see and be instructed; to draw closer, find each other, and
-        to feel. {ThatIsThePurposeOfLife}
+        {InspiredByLIFE} To see life; to see the world; to witness great events;
+        to know the faces of the poor and the gestures of the proud; to see
+        strange things; to see humankind's work and discoveries; to see things
+        far away, things hidden behind walls and within rooms; things dangerous
+        to come to; to see and take pleasure in seeing; to see and be amazed; to
+        see and be instructed; to draw closer, find each other, and to feel.{" "}
+        {ThatIsThePurposeOfLife}
       </Paragraph>
     </div>
   );
