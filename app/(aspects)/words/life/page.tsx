@@ -35,7 +35,7 @@ const idealizedByHenryLuceAndPortrayedInABenStillerMovie = stretchable(
     producing 1,864 consecutive weekly issues. In its prime it would come to
     sell more than 10 million copies a week, playing a historical role in
     photojournalism. Its founder Henry Robinson Luce had an ambitious vision for
-    a picture book magazine he described on its prospectus quoted above,
+    a picture book magazine he described in its prospectus quoted above,
     reflecting on the purpose of human life itself.
     <br />
     <h2>Universe of Mitty</h2>
@@ -43,7 +43,7 @@ const idealizedByHenryLuceAndPortrayedInABenStillerMovie = stretchable(
       That ideal found its way into the 2013 movie "The Secret Life of Walter
       Mitty", which follows a daydreaming negative assets manager from LIFE
       magazine venturing into the world while the magazine nears its end with a
-      last print issue. Directed and starred by Ben Stiller, the movie
+      last print issue. Directed by and starring Ben Stiller, the movie
       adaptation of the LIFE magazine emphasizes its motto:
     </Paragraph>
     <Blockquote>
@@ -53,7 +53,7 @@ const idealizedByHenryLuceAndPortrayedInABenStillerMovie = stretchable(
     <Paragraph>
       The movie had a real imprint on me, in a way that I never forgot the
       feelings of adventure and warmth from that quote. When I later discovered
-      the original vision of the real world iconic LIFE, I vowed to never lose
+      the original vision of the real-world iconic LIFE, I vowed to never lose
       sight of that aspiration.
     </Paragraph>
   </>,
@@ -70,7 +70,7 @@ const InspiredByLIFE = stretchable(
     <h2>Everything there is</h2>
     <Paragraph>
       Drawing from Henry Luce's vision, LIFE's historical motif and modern
-      adaptation, mixed to my own taste, I arrived at a life purpose formulation
+      adaptation, mixed to my tastes, I arrived at a life purpose formulation
       that resonates with my own inner world and its multitudes:
     </Paragraph>
     <Paragraph>-</Paragraph>

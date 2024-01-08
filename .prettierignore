@@ -1,4 +1,7 @@
 ### Node + NextJS ###
+# MDX
+*.mdx
+
 # Dependencies
 node_modules/
 package-lock.json
