@@ -10,7 +10,9 @@ export function Sidebar() {
           {/* <a href="food">🥘 Cook</a>, */}
           🥘 Cook,
         </li>
-        <li>{/* <a href="coffee">☕ Barista</a>, */}☕ Barista,</li>
+        <li>
+          <a href="coffee">☕ Barista</a>,
+        </li>
         <li>
           {/* <a href="sport">👟 Athlete</a>, */}
           👟 Athlete,

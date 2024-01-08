@@ -1,3 +1,7 @@
+import {
+    StretchText
+} from "@/projects/stretchtext/stretchtext";
+
 # 🧞 Arcane & Blursed StretchText
 
 The web is built on HyperText Markup Language (HTML), [proposed in 1990][html]
@@ -22,10 +26,10 @@ amazingly complex data visualization.
 [D3]: https://d3js.org
 
 Yet most medium-to-long-form writing (like this one) is still mostly confined to
-print media presentation and structure, except for the occasional embedded audio
-or video. This seemingly staleness is not due to the lack of creativity. The
-person who coined the term "hypertext" had already [proposed StretchText in
-1967][stretchtext].
+print media presentation and structure, except for the occasional embedded
+interactive media, mostly supporting material. This seemingly staleness is not
+due to the lack of creativity. The person who coined the term "hypertext" had
+already [proposed StretchText in 1967][stretchtext].
 
 [stretchtext]: https://xanadu.com/XUarchive/htn8.tif
 
@@ -45,20 +49,21 @@ ought to be some reason to it. After [writing some myself][life] and reading it
 many times over, I think I can extrapolate from my own experience and the
 reasons why I'm probably not going to use it much more either.
 
-[life]: /articles/life
+[life]: /words/life
 
 ## Increased effort
 
-When using stretchtext one doesn't have to concern themselves with the task of
-reducing the overall scope to target a specific audience, as each level of
-interest and expertise will self guide - in theory - to the appropriate level of
+When using stretchtext, in theory, one doesn't have to concern themselves with
+the task of reducing the overall scope to target a specific audience, as each
+level of interest and expertise should self guide to the appropriate level of
 detail.
 
 In practice, that means writing for multiple possible audiences at the same time
-and planning ahead how to weave those two (three, four...) texts into a single
-current of ideas. Instead of deciding whether to add a foot note (don't!), a
-separate paragraph, or link to a separate document; there's now another set of
-choices to be made at every turn.
+and planning how to weave those two (three, four...) texts into a single current
+of ideas. Instead of the usual segmentation mechanisms like foot notes, separate
+paragraphs, links to a separate document or a mere subordinate clause, there's
+now another set of choices to be made regarding how deep that information is
+hidden and how cohesive is the surrounding content with or without that segment.
 
 Doesn't sound too hard, but stretching words into expanded forms within parent
 sentences requires writing similar to poetry. If stretching whole sentences to
@@ -71,45 +76,28 @@ and highly increases the rewriting and rewording loop.
 Even if a reader is already optimally served by the current level of detail,
 they will expand deeper _just to be sure_. The reader cannot tell what is their
 ideal level of detail until they shoot past it, as there's usually no means of
-previewing the collapsed content. Going further, it's likely that most readers
-will expand the vast majority of collapsed content simply out of curiosity (or
-[FOMO][]) anyway.
+previewing the collapsed content. Worse yet, it's likely that most readers will
+expand the vast majority of collapsed content simply out of curiosity or
+<StretchText wrap="FOMO">FOMO (Fear Of Missing Out)</StretchText> anyway.
 
-[FOMO]: https://en.wikipedia.org/wiki/Fear_of_missing_out
+Readers that would otherwise have read the whole text can run out of patience
+for clicking and re-reading; and readers that would have benefited from the
+terser form will repeatedly experience the regret of unnecessary expansions
+before they learn to live with the anxiety of not knowing what's behind the
+curtain.
 
-Readers that would read the whole text can run out of patience for clicking and
-re-reading; and readers that would have benefited from the terser form will
-repeatedly experience the regret of unnecessary expansions before they learn to
-live with the anxiety of not knowing what's behind the curtain.
-
-That's probably why many platforms offer preview popovers on mouse hover instead
-of stretchable embedded content: tooltip panes are cheap and ephemeral. The
-reader doesn't feel pressured to read or follow up content just because it
+That's probably why many modern platforms offer preview popovers on mouse hover
+instead of stretchable embedded content: tooltip panes are cheap and ephemeral.
+The reader doesn't feel pressured to read or follow up content just because it
 popped up. We're used to dismissing popups. Popovers provide clearly demarcated
-context switching and the reader expects the current document to be
-self-contained on its purpose without them.
-
-## Unnatural flow
-
-Reading documents with StretchText is hard both on its final render form and on
-its source code form because natural language can be described with hierarchy
-but we're bad at processing anything other than small and heavily skewed trees -
-very close to simple linked lists - and StretchText (much like excessive use of
-parenthesis, passive voice and order inversions of subordinate sentences or
-sentences that are too long with too many flow interruptions) introduces highly
-balanced and hierarchically complex structures, leaving the reader with a train
-of though nearly impossible to track and make sense in one go.
-
-That's bad writing because it yields uncomfortable reading. StretchText ins't
-cause nor cure for bad writing, but because it's so hard to use well it will
-most often get in the way.
+context switching and the reader expects those to be related but self contained.
 
 # Future as Fringe Tech
 
 Given the big costs and difficulty of positive returns, the application of
 StretchText is probably destined to remain rare. Its alternatives like
-hyperlinks and conceptual successors like hovering commentary tooltips will
-remain the preferred choices for tucking away additional content.
+hyperlinks and conceptual successors like hovering tooltips will remain the
+preferred choices for tucking away additional content.
 
 It also remains true that StretchText is _enticing_. It's more interactive,
 exercises curiosity, it's _different_. Because it's so difficult to get it
