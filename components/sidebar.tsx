@@ -7,22 +7,28 @@ export function Sidebar() {
       <ul>
         <li>🔗 Husband,</li>
         <li>
-          {/* <a href="food">🥘 Cook</a>, */}
-          🥘 Cook,
+          <a href="civil">🗳️ Citizen</a>,
+        </li>
+        <li>
+          <a href="words">📝 Writer</a>,
+        </li>
+        <li>
+          <a href="tech">🔩 Technologist</a>,
         </li>
         <li>
           <a href="coffee">☕ Barista</a>,
         </li>
         <li>
-          {/* <a href="sport">👟 Athlete</a>, */}
-          👟 Athlete,
+          {/* <a href="food">🥘 Cook</a>, */}
+          🥘 Cook,
         </li>
         <li>
           {/* <a href="world">🏕️ Explorer</a>, */}
           🏕️ Explorer,
         </li>
         <li>
-          <a href="words">📝 Writer</a>.
+          {/* <a href="sport">👟 Athlete</a>, */}
+          👟 Athlete.
         </li>
       </ul>
       <h2>me elsewhere</h2>
