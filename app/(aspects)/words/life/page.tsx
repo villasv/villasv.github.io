@@ -38,68 +38,46 @@ const idealizedByHenryLuceAndPortrayedInABenStillerMovie = stretchable(
     a picture book magazine he described in its prospectus quoted above,
     reflecting on the purpose of human life itself.
     <br />
-    <h2>Universe of Mitty</h2>
     <Paragraph>
       That ideal found its way into the 2013 movie "The Secret Life of Walter
-      Mitty", which follows a daydreaming negative assets manager from LIFE
-      magazine venturing into the world while the magazine nears its end with a
-      last print issue. Directed by and starring Ben Stiller, the movie
+      Mitty", which follows a daydreaming photographic assets manager from LIFE
+      magazine as he ventures into the world while the magazine nears its end
+      with a last print issue. Directed by and starring Ben Stiller, the movie
       adaptation of the LIFE magazine emphasizes its motto:
     </Paragraph>
     <Blockquote>
       To see the world, things dangerous to come to, to see behind walls, draw
       closer, to find each other, and to <em>feel</em>.
     </Blockquote>
-    <Paragraph>
-      The movie had a real imprint on me, in a way that I never forgot the
-      feelings of adventure and warmth from that quote. When I later discovered
-      the original vision of the real-world iconic LIFE, I vowed to never lose
-      sight of that aspiration.
-    </Paragraph>
   </>,
 );
 
-const InspiredByLIFE = stretchable(
-  <>Inspired by LIFE:</>,
+const InspiredByHenryLucesLIFE = stretchable(
+  <>Inspired by Henry Luce's LIFE:</>,
   <span>
-    <h2>Life the magazine</h2>
     <Paragraph>
       {LifeWasAStronglyPurposed} influential photographic magazine published
       from 1936 to 1972 {idealizedByHenryLuceAndPortrayedInABenStillerMovie}
     </Paragraph>
-    <h2>Everything there is</h2>
     <Paragraph>
       Drawing from Henry Luce's vision, LIFE's historical motif and modern
-      adaptation, mixed to my tastes, I arrived at a life purpose formulation
-      that resonates with my own inner world and its multitudes:
+      adaptation, reworded and adapted to my tastes, here it goes a motto I've
+      committed to my heart:
     </Paragraph>
     <Paragraph>-</Paragraph>
-  </span>,
-);
-
-const ThatIsThePurposeOfLife = stretchable(
-  <>That is the purpose of life.</>,
-  <span>
-    That is the purpose of life.
-    <br />
-    <Paragraph>
-      <em>My</em> life, to be specific, and to each their own.
-    </Paragraph>
   </span>,
 );
 
 export default function Page() {
   return (
     <div>
-      <h1>⏳ Life, the Universe, and Everything</h1>
+      <h1>⏳ The Purpose of LIFE</h1>
       <Paragraph>
-        {InspiredByLIFE} To see life; to see the world; to witness great events;
-        to know the faces of the poor and the gestures of the proud; to see
-        strange things; to see humankind's work and discoveries; to see things
-        far away, things hidden behind walls and within rooms; things dangerous
-        to come to; to see and take pleasure in seeing; to see and be amazed; to
-        see and be instructed; to draw closer, find each other, and to feel.{" "}
-        {ThatIsThePurposeOfLife}
+        {InspiredByHenryLucesLIFE} To experience the world; to witness great
+        events; to uncover the struggles of the poor and the ambitions of the
+        powerful; to observe things far away, things dangerous to come to, the
+        hidden and the strange; to stay curious and to be instructed; to draw
+        closer, and to feel. That is the purpose of life.
       </Paragraph>
     </div>
   );
