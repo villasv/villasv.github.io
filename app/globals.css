@@ -55,6 +55,7 @@ html {
   color: var(--default-foreground-color);
   background-color: var(--default-background-color);
   font-family: var(--default-font-family);
+  font-size: 20px;
 }
 body {
   max-width: 1280px;

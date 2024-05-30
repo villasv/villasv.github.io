@@ -7,50 +7,50 @@ export function Sidebar() {
       <ul>
         <li>🔗 Husband,</li>
         <li>
-          <a href="civil">🗳️ Citizen</a>,
+          <a href="civil">🗳️ citizen</a>,
         </li>
         <li>
-          <a href="words">📝 Writer</a>,
+          <a href="words">📝 writer</a>,
         </li>
         <li>
-          <a href="tech">🔩 Technologist</a>,
+          <a href="tech">🔩 technologist</a>,
         </li>
         <li>
-          <a href="coffee">☕ Barista</a>,
+          <a href="coffee">☕ barista</a>,
         </li>
         <li>
           {/* <a href="food">🥘 Cook</a>, */}
-          🥘 Cook,
+          🥘 cook,
         </li>
         <li>
           {/* <a href="world">🏕️ Explorer</a>, */}
-          🏕️ Explorer,
+          🏕️ explorer,
         </li>
         <li>
           {/* <a href="sport">👟 Athlete</a>, */}
-          👟 Athlete.
+          👟 athlete.
         </li>
       </ul>
       <h2>me elsewhere</h2>
       <ul>
         <li>
           <a rel="me" href="mailto:mail@victor.villas">
-            📧 Email (mail@victor.villas)
+            📧 Email
           </a>
         </li>
         <li>
           <a rel="me" href="http://github.com/villasv/">
-            💾 Software (github.com/villasv)
+            💾 GitHub
           </a>
         </li>
         <li>
           <a rel="me" href="https://mastodon.social/@villasbc">
-            💬 Social (mastodon.social/@villasbc)
+            💬 Mastodon
           </a>
         </li>
         <li>
           <a rel="me" href="https://bookwyrm.social/user/villasv">
-            📚 Books (bookwyrm.social/user/villasv)
+            📚 BookWyrm
           </a>
         </li>
       </ul>
