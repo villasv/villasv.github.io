@@ -1,1 +1,0 @@
-(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[976],{8279:function(e,n,t){Promise.resolve().then(t.t.bind(t,7580,23))},7580:function(e){e.exports={article:"page_article__3REzu"}}},function(e){e.O(0,[971,69,744],function(){return e(e.s=8279)}),_N_E=e.O()}]);
