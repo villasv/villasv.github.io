@@ -23,7 +23,7 @@ const LifeWasAStronglyPurposed = stretchable(
       hereinafter described.
     </Blockquote>
     <Paragraph>That was the purpose of LIFE - an</Paragraph>
-  </>,
+  </>
 );
 
 const idealizedByHenryLuceAndPortrayedInABenStillerMovie = stretchable(
@@ -32,24 +32,24 @@ const idealizedByHenryLuceAndPortrayedInABenStillerMovie = stretchable(
     2010's.
   </>,
   <>
-    producing 1,864 consecutive weekly issues. In its prime it would come to
+    producing 1,864 consecutive weekly issues. In its prime, it would come to
     sell more than 10 million copies a week, playing a historical role in
-    photojournalism. Its founder Henry Robinson Luce had an ambitious vision for
-    a picture book magazine he described in its prospectus quoted above,
-    reflecting on the purpose of human life itself.
+    photojournalism. Its founder, Henry Robinson Luce, had an ambitious vision
+    for a picture book magazine he described in its prospectus, reflecting on
+    the purpose of human life itself.
     <br />
     <Paragraph>
       That ideal found its way into the 2013 movie "The Secret Life of Walter
       Mitty", which follows a daydreaming photographic assets manager from LIFE
       magazine as he ventures into the world while the magazine nears its end
-      with a last print issue. Directed by and starring Ben Stiller, the movie
+      with one last print issue. Directed by and starring Ben Stiller, the movie
       adaptation of the LIFE magazine emphasizes its motto:
     </Paragraph>
     <Blockquote>
       To see the world, things dangerous to come to, to see behind walls, draw
       closer, to find each other, and to <em>feel</em>.
     </Blockquote>
-  </>,
+  </>
 );
 
 const InspiredByHenryLucesLIFE = stretchable(
@@ -61,11 +61,11 @@ const InspiredByHenryLucesLIFE = stretchable(
     </Paragraph>
     <Paragraph>
       Drawing from Henry Luce's vision, LIFE's historical motif and modern
-      adaptation, reworded and adapted to my tastes, here it goes a motto I've
+      adaptation, reworded and adapted to my tastes, here it goes, a motto I've
       committed to my heart:
     </Paragraph>
     <Paragraph>-</Paragraph>
-  </span>,
+  </span>
 );
 
 export default function Page() {
@@ -74,10 +74,11 @@ export default function Page() {
       <h1>⏳ The Purpose of LIFE</h1>
       <Paragraph>
         {InspiredByHenryLucesLIFE} To experience the world; to witness great
-        events; to uncover the struggles of the poor and the ambitions of the
-        powerful; to observe things far away, things dangerous to come to, the
-        hidden and the strange; to stay curious and to be instructed; to draw
-        closer, and to feel. That is the purpose of life.
+        events; to comprehend the struggles of the poor and the ambitions of the
+        powerful; to discover multitudes, things far away, things hidden behind
+        walls, things dangerous to come to; to stay curious and to be
+        instructed; to draw closer, to find each other, and to feel. That is the
+        purpose of life.
       </Paragraph>
     </div>
   );
