@@ -7,10 +7,10 @@ export function Sidebar() {
       <ul>
         <li>🔗 Husband,</li>
         <li>
-          <a href="civil">🗳️ citizen</a>,
+          <a href="words">📝 writer</a>,
         </li>
         <li>
-          <a href="words">📝 writer</a>,
+          <a href="civil">🗳️ citizen</a>,
         </li>
         <li>
           <a href="tech">🔩 technologist</a>,
