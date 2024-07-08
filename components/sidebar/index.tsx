@@ -1,34 +1,27 @@
-import styles from "./sidebar.module.css";
+import styles from "./styles.module.css";
 
 export function Sidebar() {
   return (
     <div className={styles.sidebar}>
-      <h1>Victor Villas</h1>
+      <h1>
+        <a href="/">Victor Villas</a>
+      </h1>
       <ul>
         <li>🔗 Husband,</li>
         <li>
-          <a href="words">📝 writer</a>,
+          <a href="/civil">🗳️ citizen</a>,
         </li>
         <li>
-          <a href="civil">🗳️ citizen</a>,
+          <a href="/coffee">☕ barista</a>,
+        </li>
+        <li>🥘 cook,</li>
+        <li>🏕️ explorer,</li>
+        <li>👟 athlete,</li>
+        <li>
+          <a href="/tech">🔩 tinkerer</a>,
         </li>
         <li>
-          <a href="tech">🔩 technologist</a>,
-        </li>
-        <li>
-          <a href="coffee">☕ barista</a>,
-        </li>
-        <li>
-          {/* <a href="food">🥘 Cook</a>, */}
-          🥘 cook,
-        </li>
-        <li>
-          {/* <a href="world">🏕️ Explorer</a>, */}
-          🏕️ explorer,
-        </li>
-        <li>
-          {/* <a href="sport">👟 Athlete</a>, */}
-          👟 athlete.
+          <a href="/words">📝 writer</a>.
         </li>
       </ul>
       <h2>me elsewhere</h2>

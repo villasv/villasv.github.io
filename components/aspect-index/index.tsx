@@ -1,5 +1,5 @@
 import { listPages } from "@/components/factory";
-import styles from "./aspect.module.css";
+import styles from "./styles.module.css";
 
 export interface AspectProps {
   /**
