@@ -1,0 +1,42 @@
+/* centered content with responsive sidebar */
+.aspect-wrapper {
+  display: flex;
+  justify-content: center;
+  max-width: 960px;
+  margin: 40px auto 80px auto;
+}
+
+.sidebar-floater {
+  position: absolute;
+  justify-content: center;
+  width: calc(30%);
+  left: 0;
+}
+.sidebar {
+  width: 240px;
+  font-size: 16px;
+  margin: 28px auto 0 auto;
+}
+
+.content {
+  max-width: 680px;
+  margin: 0 auto 0 auto;
+}
+.home-link {
+  font-size: 26px;
+}
+.content a {
+  text-decoration: underline;
+}
+
+/* replace sidebar with home link on narrow screen */
+@media (min-width: 1281px) {
+  .home-link {
+    display: none;
+  }
+}
+@media (max-width: 1280px) {
+  .sidebar {
+    display: none;
+  }
+}

@@ -1,3 +1,5 @@
+import { Sidebar } from "@/components/sidebar";
+
 export const metadata = {
   title: "Victor's Website",
   description: "on the independent web",
@@ -10,5 +12,5 @@ export const metadata = {
 };
 
 export default function Page() {
-  return <div></div>;
+  return <Sidebar />;
 }
