@@ -9,7 +9,7 @@
 .sidebar-floater {
   position: absolute;
   justify-content: center;
-  width: calc(30%);
+  width: calc(25%);
   left: 0;
 }
 .sidebar {
