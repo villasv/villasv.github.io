@@ -14,6 +14,9 @@ export function Sidebar() {
         <li>
           <a href="/coffee">☕ barista</a>,
         </li>
+        <li>
+          <a href="/cycle">🚲 cyclist</a>,
+        </li>
         <li>🥘 cook,</li>
         <li>🏕️ explorer,</li>
         <li>👟 athlete,</li>
