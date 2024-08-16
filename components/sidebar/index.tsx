@@ -18,8 +18,6 @@ export function Sidebar() {
           <a href="/cycle">🚲 cyclist</a>,
         </li>
         <li>🥘 cook,</li>
-        <li>🏕️ explorer,</li>
-        <li>👟 athlete,</li>
         <li>
           <a href="/tech">🔩 tinkerer</a>,
         </li>
