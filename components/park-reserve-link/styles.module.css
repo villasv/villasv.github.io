@@ -1,0 +1,18 @@
+a.link,
+a.link:hover,
+a.link:active,
+a.link:visited {
+  display: inline-block;
+  text-decoration: none;
+  color: var(--color-milk);
+  background-color: rgb(78, 123, 53);
+  padding: 2px 12px;
+  margin: 4px;
+  border-radius: 4px;
+  font-size: 60%;
+  font-family: "Noto Sans", sans-serif;
+}
+
+a.link:hover {
+  background-color: rgb(61, 104, 40);;
+}
