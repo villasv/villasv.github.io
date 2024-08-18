@@ -1,4 +1,4 @@
-import { ParksOrg, ParkReserveLink } from "@/components/park-reserve-link";
+import { Park, ParkReserveLink } from "@/components/park-reserve-link";
 
 # 🏕️ Bike Packing
 
@@ -15,21 +15,18 @@ Resources: [BC Parks Camping][bc-parks] // [Parks Canada Camping][pc-parks] //
 ### [Parks Canada Sites][parks-canada]
 [parks-canada]: https://web.archive.org/web/20240526195011/https://www.canadream.com/Website/media/Files/Parks-Canada-Discovery-Pass-Brochure-Map.pdf
 
-#### [K6: Fort Langley][langley-nhs] <ParkReserveLink org={ParksOrg.ParksCanada} />
+#### [K6: Fort Langley][langley-nhs] <ParkReserveLink park={Park.FortLangleyNHS} />
 [langley-nhs]: https://parks.canada.ca/lhn-nhs/bc/langley
 
 - ~30 km cycling from King George
 - ~50 km cycling from Waterfront via Central Valley Greenway
 - ⛺ oTENTik available (May 15 to Sept 15)
 
-Still waiting for an opportunity to try this one. Reservation spots for the
-historic site campgrounds are hard to come by.
-
 #### [K7: Gulf Islands National Park Reserve][gulf-np]
 [gulf-np]:https://parks.canada.ca/pn-np/bc/gulf
 
-- ⛺ frontcountry campgrounds available (May 15 to Sept 30)
-- 🪵 backcountry campgrounds available all year round
+- ⛺ frontcountry campsites available (May 15 to Sept 30)
+- 🪵 backcountry campsites available all year round
 
 Routes to Swartz Bay:
 
@@ -47,21 +44,25 @@ Three frontcountry campgrounds: SMONEĆTEN on Vancouver Island, Prior Centennial
 on Pender Island, and Sidney Spit on Sidney Island. Backcountry campgrounds are
 accessible year round but are not regularly maintained from Oct 1 to May 14.
 
-##### [SMONEĆTEN][smonecten]
+##### [SMONEĆTEN][smonecten] <ParkReserveLink park={Park.SMONEĆTEN} />
 [smonecten]: https://parks.canada.ca/pn-np/bc/gulf/activ/camping/campinglavantpays-frontcountrycamping#McDonald
 
 The most bike-friendly campground is SMONEĆTEN, with access to the Lochside
 Cycling Trail (from Swartz Bay to Downtown Victoria) and walk-in sites close to
-entrance in pleasant wooded area, with a communal campfire ring. From Swartz Bay
-to SMONEĆTEN via Swartz Bay Road it's about three more kms. The downside of this
-campsite is being next to a highway; depending on the campsite position it's
-possible to hear traffic noise.
+entrance in pleasant wooded area, and a communal campfire ring. From Swartz Bay
+to SMONEĆTEN via Swartz Bay Road it's about 3 km. The downside of this campsite
+is being next to a highway; depending on the campsite position it's possible to
+hear traffic noise.
 
 ##### Prior Centennial
 
 ##### Pender Island
 
 Ferry from Tsawwassen to Mayne Island then another to Pender Island.
+
+##### Shingle Bay
+
+##### Narvaez Bay
 
 #### K8: Fisgard Lighthouse
 
