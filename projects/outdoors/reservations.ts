@@ -11,55 +11,111 @@ export enum Org {
   BCParks,
 }
 
-export enum Group {
-  Frontcountry = 0,
-  Backcountry = 1,
-  Accommodations = 2,
-  DayUse = 3,
+export enum ReservationGroup {
+  FrontcountryCampground = "0",
+  BackcountryCampground = "1",
+  ParkAccommodation = "2",
+  DayUse = "3",
 }
 
-export enum Category {
-  Campsite = 0,
-  Accommodation = 1,
-  GroupCampsite = 2,
-  BackcountryCampsite = 5,
-  BackcountryZone = 7,
+export enum FrontcountryCategory {
+  FrontcountryCampsite = "0",
+  GroupCampsite = "2",
 }
 
-export enum EquipmentClass {
+export enum AccommodationCategory {
+  Accommodation = "1",
+}
+
+export enum BackcountryCategory {
+  BackcountryCampsite = "5",
+  BackcountryZone = "7",
+}
+
+export enum CampingEquipmentType {
   Frontcountry = "-32768",
   Backcountry = "-32767",
 }
 
-export enum FrontcountryEquip {
+export enum FrontcountryCampingEquipment {
   SmallTent = "-32768",
   MediumTent = "-32767",
   LargeTent = "-32766",
   VanOrPickup = "-32765",
 }
 
-export interface FrontcountryEquipSpec {
-  type: EquipmentClass.Frontcountry;
-  subtype: FrontcountryEquip[];
+export interface FrontcountryAllowedEquipment {
+  type: CampingEquipmentType.Frontcountry;
+  equipment: FrontcountryCampingEquipment[];
 }
 
-export type EquipmentSpec = FrontcountryEquipSpec;
+export enum BackcountryCampingEquipment {
+  OneTent = "-32758",
+  TwoTents = "-32757",
+  ThreeTents = "-32756",
+  FourTents = "-32755",
+}
 
-export interface ParkInfo {
+export interface BackcountryAllowedEquipment {
+  type: CampingEquipmentType.Backcountry;
+  equipment: BackcountryCampingEquipment[];
+}
+
+export interface ParkAccommodation {
   org: Org;
-  group: Group;
-  category: Category;
+  reservationGroup: ReservationGroup.ParkAccommodation;
+  reservationCategory: AccommodationCategory.Accommodation;
   mapId: string;
   resourceLocationId?: string;
-  equipment?: EquipmentSpec;
 }
 
-function getParkInfo(park: Park): ParkInfo {
-  return PARKS[park];
+export interface FrontcountryCampground {
+  org: Org;
+  reservationGroup: ReservationGroup.FrontcountryCampground;
+  reservationCategory: FrontcountryCategory;
+  mapId: string;
+  resourceLocationId?: string;
+  allowedEquipment: FrontcountryAllowedEquipment;
+}
+
+export interface BackcountryCampground {
+  org: Org;
+  reservationGroup: ReservationGroup.BackcountryCampground;
+  reservationCategory: BackcountryCategory;
+  mapId: string;
+  resourceLocationId?: string;
+  allowedEquipment: BackcountryAllowedEquipment;
+}
+
+export interface FrontAndBackcountryCampgrounds {
+  frontcountry: FrontcountryCampground;
+  backcountry: BackcountryCampground;
+}
+
+export type Campground =
+  | ParkAccommodation
+  | FrontcountryCampground
+  | BackcountryCampground;
+
+export type Searchable = Campground | FrontAndBackcountryCampgrounds;
+
+function getSearchInfo(
+  park: Park,
+  preferType: CampingEquipmentType = CampingEquipmentType.Frontcountry
+): Campground {
+  const info = SEARCHABLE_SITES[park];
+  if ("frontcountry" in info && "backcountry" in info) {
+    return {
+      [CampingEquipmentType.Frontcountry]: info.frontcountry,
+      [CampingEquipmentType.Backcountry]: info.backcountry,
+    }[preferType];
+  }
+  return info;
 }
 
 export interface ParkReserveParams {
   park: Park;
+  preferType?: CampingEquipmentType;
   checkInDate?: Date;
   checkOutDate?: Date;
   searchTime?: Date;
@@ -67,18 +123,18 @@ export interface ParkReserveParams {
 
 export function getReservationUrl({
   park,
-  checkInDate,
-  checkOutDate,
-  searchTime,
+  preferType, // defaults to frontcountry if available
+  checkInDate, // defaults to today
+  checkOutDate, // defaults to tomorrow
+  searchTime, // defaults to now
 }: ParkReserveParams): string {
-  const { org, group, category, mapId, resourceLocationId, equipment } =
-    getParkInfo(park);
-  const url = new URL(baseUrl(org));
-  url.searchParams.set("searchTabGroupId", group.toString());
-  url.searchParams.set("bookingCategoryId", category.toString());
-  url.searchParams.set("mapId", mapId);
-  if (resourceLocationId)
-    url.searchParams.set("resourceLocationId", resourceLocationId);
+  const info = getSearchInfo(park, preferType);
+  const url = new URL(baseUrl(info.org));
+  url.searchParams.set("searchTabGroupId", info.reservationGroup);
+  url.searchParams.set("bookingCategoryId", info.reservationCategory);
+  url.searchParams.set("mapId", info.mapId);
+  if (info.resourceLocationId)
+    url.searchParams.set("resourceLocationId", info.resourceLocationId);
 
   const [t1, t2] = todayAndTomorrow();
   url.searchParams.set(
@@ -99,9 +155,10 @@ export function getReservationUrl({
   );
   url.searchParams.set("flexibleSearch", "[false,false,null,1]"); // TODO how to use this?
 
-  if (equipment) {
-    url.searchParams.set("equipmentId", equipment.type);
-    url.searchParams.set("subEquipmentId", equipment.subtype[0]);
+  if ("allowedEquipment" in info) {
+    const { type, equipment } = info.allowedEquipment;
+    url.searchParams.set("equipmentId", type);
+    url.searchParams.set("subEquipmentId", equipment[0]);
     url.searchParams.set("filterData", "{}");
   } else {
     url.searchParams.set("filterData", '{"-32756":"[[1],0,0,0]"}'); // TODO how to use this?
@@ -118,53 +175,73 @@ function baseUrl(org: Org): string {
   }
 }
 
-const _defaultEquipSpec: EquipmentSpec = {
-  type: EquipmentClass.Frontcountry,
-  subtype: [
-    FrontcountryEquip.SmallTent,
-    FrontcountryEquip.MediumTent,
-    FrontcountryEquip.LargeTent,
-  ],
+const DEFAULT_FRONTCOUNTRY_CAMPGROUND_INFO: Omit<
+  FrontcountryCampground,
+  "org" | "mapId"
+> = {
+  reservationGroup: ReservationGroup.FrontcountryCampground,
+  reservationCategory: FrontcountryCategory.FrontcountryCampsite,
+  allowedEquipment: {
+    type: CampingEquipmentType.Frontcountry,
+    equipment: [
+      FrontcountryCampingEquipment.SmallTent,
+      FrontcountryCampingEquipment.MediumTent,
+      FrontcountryCampingEquipment.LargeTent,
+    ],
+  },
+};
+const DEFAULT_BACKCOUNTRY_CAMPGROUND_INFO: Omit<
+  BackcountryCampground,
+  "org" | "mapId"
+> = {
+  reservationGroup: ReservationGroup.BackcountryCampground,
+  reservationCategory: BackcountryCategory.BackcountryCampsite,
+  allowedEquipment: {
+    type: CampingEquipmentType.Backcountry,
+    equipment: [
+      BackcountryCampingEquipment.OneTent,
+      BackcountryCampingEquipment.TwoTents,
+    ],
+  },
 };
 
-const PARKS: Record<Park, ParkInfo> = {
+const SEARCHABLE_SITES: Record<Park, Searchable> = {
   [Park.FortLangleyNHS]: {
     org: Org.ParksCanada,
-    group: Group.Accommodations,
-    category: Category.Accommodation,
+    reservationGroup: ReservationGroup.ParkAccommodation,
+    reservationCategory: AccommodationCategory.Accommodation,
     mapId: "-2147483535",
     resourceLocationId: "-2147483623",
   },
   [Park.GulfIslandsNPR]: {
-    org: Org.ParksCanada,
-    group: Group.Frontcountry,
-    category: Category.Campsite,
-    mapId: "-2147483478",
-    equipment: _defaultEquipSpec,
+    frontcountry: {
+      ...DEFAULT_FRONTCOUNTRY_CAMPGROUND_INFO,
+      org: Org.ParksCanada,
+      mapId: "-2147483478",
+    },
+    backcountry: {
+      ...DEFAULT_BACKCOUNTRY_CAMPGROUND_INFO,
+      org: Org.ParksCanada,
+      mapId: "-2147483151",
+    },
   },
   [Park.SMONEĆTEN]: {
+    ...DEFAULT_FRONTCOUNTRY_CAMPGROUND_INFO,
     org: Org.ParksCanada,
-    group: Group.Frontcountry,
-    category: Category.Campsite,
     mapId: "-2147483477",
     resourceLocationId: "-2147483601",
-    equipment: _defaultEquipSpec,
   },
   [Park.PriorCentennial]: {
+    ...DEFAULT_FRONTCOUNTRY_CAMPGROUND_INFO,
     org: Org.ParksCanada,
-    group: Group.Frontcountry,
-    category: Category.Campsite,
     mapId: "-2147483475",
     resourceLocationId: "-2147483600",
-    equipment: _defaultEquipSpec,
   },
   [Park.SidneySpit]: {
+    ...DEFAULT_FRONTCOUNTRY_CAMPGROUND_INFO,
     org: Org.ParksCanada,
-    group: Group.Frontcountry,
-    category: Category.Campsite,
     mapId: "-2147483476",
     resourceLocationId: "-2147483599",
-    equipment: _defaultEquipSpec,
   },
 };
 

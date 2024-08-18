@@ -1,4 +1,4 @@
-import { getReservationUrl, Park } from "./reservations";
+import { CampingEquipmentType, getReservationUrl, Park } from "./reservations";
 
 describe(getReservationUrl.name, () => {
   const defaultArgs = {
@@ -30,7 +30,7 @@ describe(getReservationUrl.name, () => {
     expect(url).toBe(expectedUrl);
   });
 
-  it("should work for Gulf Islands National Park Reserve", () => {
+  it("should work for Gulf Islands National Park Reserve (frontcountry)", () => {
     const url = getReservationUrl({
       park: Park.GulfIslandsNPR,
       ...defaultArgs,
@@ -38,10 +38,10 @@ describe(getReservationUrl.name, () => {
     const expectedUrl = [
       "https://reservation.pc.gc.ca/create-booking/results",
       "?searchTabGroupId=0", // frontcountry
-      "&bookingCategoryId=0", // campsite
+      "&bookingCategoryId=0", // frontcountry campsite
       "&mapId=-2147483478",
       ...defaultParams,
-      "&equipmentId=-32768", // tent or vehicle
+      "&equipmentId=-32768", // frontcountry equipment
       "&subEquipmentId=-32768", // small tent
       "&filterData=%7B%7D", // no filter
     ].join("");
@@ -56,11 +56,11 @@ describe(getReservationUrl.name, () => {
     const expectedUrl = [
       "https://reservation.pc.gc.ca/create-booking/results",
       "?searchTabGroupId=0", // frontcountry
-      "&bookingCategoryId=0", // campsite
+      "&bookingCategoryId=0", // frontcountry campsite
       "&mapId=-2147483477",
       "&resourceLocationId=-2147483601",
       ...defaultParams,
-      "&equipmentId=-32768", // tent or vehicle
+      "&equipmentId=-32768", // frontcountry equipment
       "&subEquipmentId=-32768", // small tent
       "&filterData=%7B%7D", // no filter
     ].join("");
@@ -74,14 +74,33 @@ describe(getReservationUrl.name, () => {
     });
     const expectedUrl = [
       "https://reservation.pc.gc.ca/create-booking/results",
-      "?searchTabGroupId=0",
-      "&bookingCategoryId=0",
+      "?searchTabGroupId=0", // frontcountry
+      "&bookingCategoryId=0", // frontcountry campsite
       "&mapId=-2147483475",
       "&resourceLocationId=-2147483600",
       ...defaultParams,
-      "&equipmentId=-32768",
-      "&subEquipmentId=-32768",
-      "&filterData=%7B%7D",
+      "&equipmentId=-32768", // frontcountry equipment
+      "&subEquipmentId=-32768", // small tent
+      "&filterData=%7B%7D", // no filter
+    ].join("");
+    expect(url).toBe(expectedUrl);
+  });
+
+  it("should work for Gulf Islands National Park Reserve (backcountry)", () => {
+    const url = getReservationUrl({
+      park: Park.GulfIslandsNPR,
+      preferType: CampingEquipmentType.Backcountry,
+      ...defaultArgs,
+    });
+    const expectedUrl = [
+      "https://reservation.pc.gc.ca/create-booking/results",
+      "?searchTabGroupId=1", // backcountry
+      "&bookingCategoryId=5", // backcountry campsite
+      "&mapId=-2147483151",
+      ...defaultParams,
+      "&equipmentId=-32767", // backcountry equipment
+      "&subEquipmentId=-32758", // single tent
+      "&filterData=%7B%7D", // no filter
     ].join("");
     expect(url).toBe(expectedUrl);
   });
