@@ -30,6 +30,24 @@ describe(getReservationUrl.name, () => {
     expect(url).toBe(expectedUrl);
   });
 
+  it("should work for Gulf Islands National Park Reserve", () => {
+    const url = getReservationUrl({
+      park: Park.GulfIslandsNPR,
+      ...defaultArgs,
+    });
+    const expectedUrl = [
+      "https://reservation.pc.gc.ca/create-booking/results",
+      "?searchTabGroupId=0", // frontcountry
+      "&bookingCategoryId=0", // campsite
+      "&mapId=-2147483478",
+      ...defaultParams,
+      "&equipmentId=-32768", // tent or vehicle
+      "&subEquipmentId=-32768", // small tent
+      "&filterData=%7B%7D", // no filter
+    ].join("");
+    expect(url).toBe(expectedUrl);
+  });
+
   it("should work for SMONEĆTEN", () => {
     const url = getReservationUrl({
       park: Park.SMONEĆTEN,

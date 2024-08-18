@@ -1,7 +1,9 @@
 export enum Park {
   FortLangleyNHS,
+  GulfIslandsNPR,
   SMONEĆTEN,
   PriorCentennial,
+  SidneySpit,
 }
 
 export enum Org {
@@ -48,7 +50,7 @@ export interface ParkInfo {
   group: Group;
   category: Category;
   mapId: string;
-  resourceLocationId: string;
+  resourceLocationId?: string;
   equipment?: EquipmentSpec;
 }
 
@@ -75,7 +77,8 @@ export function getReservationUrl({
   url.searchParams.set("searchTabGroupId", group.toString());
   url.searchParams.set("bookingCategoryId", category.toString());
   url.searchParams.set("mapId", mapId);
-  url.searchParams.set("resourceLocationId", resourceLocationId);
+  if (resourceLocationId)
+    url.searchParams.set("resourceLocationId", resourceLocationId);
 
   const [t1, t2] = todayAndTomorrow();
   url.searchParams.set(
@@ -132,6 +135,13 @@ const PARKS: Record<Park, ParkInfo> = {
     mapId: "-2147483535",
     resourceLocationId: "-2147483623",
   },
+  [Park.GulfIslandsNPR]: {
+    org: Org.ParksCanada,
+    group: Group.Frontcountry,
+    category: Category.Campsite,
+    mapId: "-2147483478",
+    equipment: _defaultEquipSpec,
+  },
   [Park.SMONEĆTEN]: {
     org: Org.ParksCanada,
     group: Group.Frontcountry,
@@ -146,6 +156,14 @@ const PARKS: Record<Park, ParkInfo> = {
     category: Category.Campsite,
     mapId: "-2147483475",
     resourceLocationId: "-2147483600",
+    equipment: _defaultEquipSpec,
+  },
+  [Park.SidneySpit]: {
+    org: Org.ParksCanada,
+    group: Group.Frontcountry,
+    category: Category.Campsite,
+    mapId: "-2147483476",
+    resourceLocationId: "-2147483599",
     equipment: _defaultEquipSpec,
   },
 };

@@ -8,7 +8,7 @@ import styles from "./styles.module.css";
 export async function ParkReserveLink(props: ParkReserveParams) {
   const url = getReservationUrl(props);
   return (
-    <a href={url.toString()} className={styles.link}>
+    <a target="_blank" href={url.toString()} className={styles.link}>
       Reserve
     </a>
   );
