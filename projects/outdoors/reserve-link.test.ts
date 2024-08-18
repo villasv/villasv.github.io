@@ -12,6 +12,18 @@ describe(getReservationUrl.name, () => {
     "&searchTime=2024-01-02T15%3A04%3A05",
     "&flexibleSearch=%5Bfalse%2Cfalse%2Cnull%2C1%5D",
   ];
+  const defaultFrontcountryParams = [
+    ...defaultParams,
+    "&equipmentId=-32768", // frontcountry equipment
+    "&subEquipmentId=-32768", // small tent
+    "&filterData=%7B%7D", // no filter
+  ];
+  const defaultBackcountryParams = [
+    ...defaultParams,
+    "&equipmentId=-32767", // backcountry equipment
+    "&subEquipmentId=-32758", // single tent
+    "&filterData=%7B%7D", // no filter
+  ];
 
   it("should work for Fort Langley National Historic Site", () => {
     const url = getReservationUrl({
@@ -40,10 +52,7 @@ describe(getReservationUrl.name, () => {
       "?searchTabGroupId=0", // frontcountry
       "&bookingCategoryId=0", // frontcountry campsite
       "&mapId=-2147483478",
-      ...defaultParams,
-      "&equipmentId=-32768", // frontcountry equipment
-      "&subEquipmentId=-32768", // small tent
-      "&filterData=%7B%7D", // no filter
+      ...defaultFrontcountryParams,
     ].join("");
     expect(url).toBe(expectedUrl);
   });
@@ -59,10 +68,7 @@ describe(getReservationUrl.name, () => {
       "&bookingCategoryId=0", // frontcountry campsite
       "&mapId=-2147483477",
       "&resourceLocationId=-2147483601",
-      ...defaultParams,
-      "&equipmentId=-32768", // frontcountry equipment
-      "&subEquipmentId=-32768", // small tent
-      "&filterData=%7B%7D", // no filter
+      ...defaultFrontcountryParams,
     ].join("");
     expect(url).toBe(expectedUrl);
   });
@@ -78,10 +84,7 @@ describe(getReservationUrl.name, () => {
       "&bookingCategoryId=0", // frontcountry campsite
       "&mapId=-2147483475",
       "&resourceLocationId=-2147483600",
-      ...defaultParams,
-      "&equipmentId=-32768", // frontcountry equipment
-      "&subEquipmentId=-32768", // small tent
-      "&filterData=%7B%7D", // no filter
+      ...defaultFrontcountryParams,
     ].join("");
     expect(url).toBe(expectedUrl);
   });
@@ -97,10 +100,39 @@ describe(getReservationUrl.name, () => {
       "?searchTabGroupId=1", // backcountry
       "&bookingCategoryId=5", // backcountry campsite
       "&mapId=-2147483151",
-      ...defaultParams,
-      "&equipmentId=-32767", // backcountry equipment
-      "&subEquipmentId=-32758", // single tent
-      "&filterData=%7B%7D", // no filter
+      ...defaultBackcountryParams,
+    ].join("");
+    expect(url).toBe(expectedUrl);
+  });
+
+  it("should work for Narvaez Bay (Saturna Island)", () => {
+    const url = getReservationUrl({
+      park: Park.NarvaezBay,
+      ...defaultArgs,
+    });
+    const expectedUrl = [
+      "https://reservation.pc.gc.ca/create-booking/results",
+      "?searchTabGroupId=1", // backcountry
+      "&bookingCategoryId=5", // backcountry campsite
+      "&mapId=-2147483471",
+      "&resourceLocationId=-2147483598",
+      ...defaultBackcountryParams,
+    ].join("");
+    expect(url).toBe(expectedUrl);
+  });
+
+  it("should work for Shingle Bay (Pender Island)", () => {
+    const url = getReservationUrl({
+      park: Park.ShingleBay,
+      ...defaultArgs,
+    });
+    const expectedUrl = [
+      "https://reservation.pc.gc.ca/create-booking/results",
+      "?searchTabGroupId=1", // backcountry
+      "&bookingCategoryId=5", // backcountry campsite
+      "&mapId=-2147483473",
+      "&resourceLocationId=-2147483598",
+      ...defaultBackcountryParams,
     ].join("");
     expect(url).toBe(expectedUrl);
   });

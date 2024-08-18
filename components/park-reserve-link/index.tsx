@@ -1,6 +1,7 @@
 import {
   getReservationUrl,
   Park,
+  CampingEquipmentType,
   ParkReserveParams,
 } from "@/projects/outdoors/reservations";
 import styles from "./styles.module.css";
@@ -14,4 +15,4 @@ export async function ParkReserveLink(props: ParkReserveParams) {
   );
 }
 
-export { Park };
+export { Park, CampingEquipmentType };

@@ -4,6 +4,8 @@ export enum Park {
   SMONEĆTEN,
   PriorCentennial,
   SidneySpit,
+  NarvaezBay,
+  ShingleBay,
 }
 
 export enum Org {
@@ -242,6 +244,18 @@ const SEARCHABLE_SITES: Record<Park, Searchable> = {
     org: Org.ParksCanada,
     mapId: "-2147483476",
     resourceLocationId: "-2147483599",
+  },
+  [Park.NarvaezBay]: {
+    ...DEFAULT_BACKCOUNTRY_CAMPGROUND_INFO,
+    org: Org.ParksCanada,
+    mapId: "-2147483471",
+    resourceLocationId: "-2147483598",
+  },
+  [Park.ShingleBay]: {
+    ...DEFAULT_BACKCOUNTRY_CAMPGROUND_INFO,
+    org: Org.ParksCanada,
+    mapId: "-2147483473",
+    resourceLocationId: "-2147483598",
   },
 };
 
