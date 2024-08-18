@@ -1,6 +1,7 @@
 export enum Park {
   FortLangleyNHS,
   SMONEĆTEN,
+  PriorCentennial,
 }
 
 export enum Org {
@@ -23,24 +24,24 @@ export enum Category {
   BackcountryZone = 7,
 }
 
-export enum EquipmentType {
-  TentOrVehicle = "-32768",
-  TentsOnly = "-32767",
+export enum EquipmentClass {
+  Frontcountry = "-32768",
+  Backcountry = "-32767",
 }
 
-export enum TentOrVehicleSubtype {
+export enum FrontcountryEquip {
   SmallTent = "-32768",
   MediumTent = "-32767",
   LargeTent = "-32766",
   VanOrPickup = "-32765",
 }
 
-export interface TentOrVehicleSpec {
-  equipment: EquipmentType.TentOrVehicle;
-  subtype: TentOrVehicleSubtype[];
+export interface FrontcountryEquipSpec {
+  type: EquipmentClass.Frontcountry;
+  subtype: FrontcountryEquip[];
 }
 
-export type EquipmentSpec = TentOrVehicleSpec;
+export type EquipmentSpec = FrontcountryEquipSpec;
 
 export interface ParkInfo {
   org: Org;
@@ -68,7 +69,8 @@ export function getReservationUrl({
   checkOutDate,
   searchTime,
 }: ParkReserveParams): string {
-  const { org, group, category, mapId, resourceLocationId } = getParkInfo(park);
+  const { org, group, category, mapId, resourceLocationId, equipment } =
+    getParkInfo(park);
   const url = new URL(baseUrl(org));
   url.searchParams.set("searchTabGroupId", group.toString());
   url.searchParams.set("bookingCategoryId", category.toString());
@@ -93,7 +95,14 @@ export function getReservationUrl({
     (searchTime ?? new Date()).toLocaleString("sv").replace(" ", "T")
   );
   url.searchParams.set("flexibleSearch", "[false,false,null,1]"); // TODO how to use this?
-  url.searchParams.set("filterData", '{"-32756":"[[1],0,0,0]"}'); // TODO how to use this?
+
+  if (equipment) {
+    url.searchParams.set("equipmentId", equipment.type);
+    url.searchParams.set("subEquipmentId", equipment.subtype[0]);
+    url.searchParams.set("filterData", "{}");
+  } else {
+    url.searchParams.set("filterData", '{"-32756":"[[1],0,0,0]"}'); // TODO how to use this?
+  }
   return url.toString();
 }
 
@@ -105,6 +114,15 @@ function baseUrl(org: Org): string {
       throw new Error(`${org} not mapped to a reservation website`);
   }
 }
+
+const _defaultEquipSpec: EquipmentSpec = {
+  type: EquipmentClass.Frontcountry,
+  subtype: [
+    FrontcountryEquip.SmallTent,
+    FrontcountryEquip.MediumTent,
+    FrontcountryEquip.LargeTent,
+  ],
+};
 
 const PARKS: Record<Park, ParkInfo> = {
   [Park.FortLangleyNHS]: {
@@ -120,10 +138,15 @@ const PARKS: Record<Park, ParkInfo> = {
     category: Category.Campsite,
     mapId: "-2147483477",
     resourceLocationId: "-2147483601",
-    equipment: {
-      equipment: EquipmentType.TentOrVehicle,
-      subtype: [TentOrVehicleSubtype.SmallTent],
-    },
+    equipment: _defaultEquipSpec,
+  },
+  [Park.PriorCentennial]: {
+    org: Org.ParksCanada,
+    group: Group.Frontcountry,
+    category: Category.Campsite,
+    mapId: "-2147483475",
+    resourceLocationId: "-2147483600",
+    equipment: _defaultEquipSpec,
   },
 };
 

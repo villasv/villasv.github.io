@@ -42,8 +42,28 @@ describe(getReservationUrl.name, () => {
       "&mapId=-2147483477",
       "&resourceLocationId=-2147483601",
       ...defaultParams,
-      "&filterData=%7B%7D&equipmentId=-32768",
+      "&equipmentId=-32768", // tent or vehicle
+      "&subEquipmentId=-32768", // small tent
+      "&filterData=%7B%7D", // no filter
+    ].join("");
+    expect(url).toBe(expectedUrl);
+  });
+
+  it("should work for Prior Centennial", () => {
+    const url = getReservationUrl({
+      park: Park.PriorCentennial,
+      ...defaultArgs,
+    });
+    const expectedUrl = [
+      "https://reservation.pc.gc.ca/create-booking/results",
+      "?searchTabGroupId=0",
+      "&bookingCategoryId=0",
+      "&mapId=-2147483475",
+      "&resourceLocationId=-2147483600",
+      ...defaultParams,
+      "&equipmentId=-32768",
       "&subEquipmentId=-32768",
+      "&filterData=%7B%7D",
     ].join("");
     expect(url).toBe(expectedUrl);
   });
