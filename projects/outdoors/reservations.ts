@@ -6,6 +6,7 @@ export enum Park {
   SidneySpit,
   NarvaezBay,
   ShingleBay,
+  FisgardLighthouseNHS,
 }
 
 export enum Org {
@@ -257,6 +258,13 @@ const SEARCHABLE_SITES: Record<Park, Searchable> = {
     mapId: "-2147483473",
     resourceLocationId: "-2147483598",
   },
+  [Park.FisgardLighthouseNHS]: {
+    org: Org.ParksCanada,
+    reservationGroup: ReservationGroup.ParkAccommodation,
+    reservationCategory: AccommodationCategory.Accommodation,
+    mapId: "-2147483533",
+    resourceLocationId: "-2147483622",
+  }
 };
 
 /**
