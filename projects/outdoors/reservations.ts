@@ -7,6 +7,11 @@ export enum Park {
   NarvaezBay,
   ShingleBay,
   FisgardLighthouseNHS,
+  PacificRimNPR,
+  // GreenPoint,
+  // BrokenGroupIslands,
+  // KeehaBeach,
+  // WestCoastTrail,
 }
 
 export enum Org {
@@ -90,30 +95,38 @@ export interface BackcountryCampground {
   allowedEquipment: BackcountryAllowedEquipment;
 }
 
-export interface FrontAndBackcountryCampgrounds {
-  frontcountry: FrontcountryCampground;
-  backcountry: BackcountryCampground;
+export interface ParkCampgrounds {
+  accommodation?: ParkAccommodation;
+  frontcountry?: FrontcountryCampground;
+  backcountry?: BackcountryCampground;
 }
+
+export type ParkWithCampgrounds =
+  | (ParkCampgrounds & { accommodation: ParkAccommodation })
+  | (ParkCampgrounds & { frontcountry: FrontcountryCampground })
+  | (ParkCampgrounds & { backcountry: BackcountryCampground });
 
 export type Campground =
   | ParkAccommodation
   | FrontcountryCampground
   | BackcountryCampground;
 
-export type Searchable = Campground | FrontAndBackcountryCampgrounds;
+export type Searchable = Campground | ParkWithCampgrounds;
 
 function getSearchInfo(
   park: Park,
   preferType: CampingEquipmentType = CampingEquipmentType.Frontcountry
 ): Campground {
   const info = SEARCHABLE_SITES[park];
-  if ("frontcountry" in info && "backcountry" in info) {
-    return {
-      [CampingEquipmentType.Frontcountry]: info.frontcountry,
-      [CampingEquipmentType.Backcountry]: info.backcountry,
-    }[preferType];
-  }
-  return info;
+  if ("org" in info) return info;
+
+  return {
+    [CampingEquipmentType.Frontcountry]:
+      // TODO: TypeScript is not clever enough to know one of these will be present
+      info.frontcountry ?? info.accommodation ?? info.backcountry,
+    [CampingEquipmentType.Backcountry]:
+      info.backcountry ?? info.frontcountry ?? info.accommodation,
+  }[preferType];
 }
 
 export interface ParkReserveParams {
@@ -264,7 +277,32 @@ const SEARCHABLE_SITES: Record<Park, Searchable> = {
     reservationCategory: AccommodationCategory.Accommodation,
     mapId: "-2147483533",
     resourceLocationId: "-2147483622",
-  }
+  },
+  [Park.PacificRimNPR]: {
+    accommodation: {},
+    frontcountry: {
+      ...DEFAULT_FRONTCOUNTRY_CAMPGROUND_INFO,
+      org: Org.ParksCanada,
+      mapId: "-2147483316",
+    },
+    backcountry: {
+      ...DEFAULT_BACKCOUNTRY_CAMPGROUND_INFO,
+      org: Org.ParksCanada,
+      mapId: "-2147483575",
+    },
+  },
+  // [Park.GreenPoint]: {
+  //   org: Org.ParksCanada,
+  // },
+  // [Park.BrokenGroupIslands]: {
+  //   org: Org.ParksCanada,
+  // },
+  // [Park.KeehaBeach]: {
+  //   org: Org.ParksCanada,
+  // },
+  // [Park.WestCoastTrail]: {
+  //   org: Org.ParksCanada,
+  // },
 };
 
 /**

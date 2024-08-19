@@ -136,4 +136,19 @@ describe(getReservationUrl.name, () => {
     ].join("");
     expect(url).toBe(expectedUrl);
   });
+
+  it("should work for Pacific Rim Park Reserve (frontcountry)", () => {
+    const url = getReservationUrl({
+      park: Park.PacificRimNPR,
+      ...defaultArgs,
+    });
+    const expectedUrl = [
+      "https://reservation.pc.gc.ca/create-booking/results",
+      "?searchTabGroupId=0", // frontcountry
+      "&bookingCategoryId=0", // frontcountry campsite
+      "&mapId=-2147483316",
+      ...defaultFrontcountryParams,
+    ].join("");
+    expect(url).toBe(expectedUrl);
+  });
 });
