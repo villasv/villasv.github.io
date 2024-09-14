@@ -115,7 +115,7 @@ export type Searchable = Campground | ParkWithCampgrounds;
 
 function getSearchInfo(
   park: Park,
-  preferType: CampingEquipmentType = CampingEquipmentType.Frontcountry
+  preferType: CampingEquipmentType = CampingEquipmentType.Frontcountry,
 ): Campground {
   const info = SEARCHABLE_SITES[park];
   if ("org" in info) return info;
@@ -159,11 +159,11 @@ export function getReservationUrl({
   const [t1, t2] = todayAndTomorrow();
   url.searchParams.set(
     "startDate",
-    (checkInDate ?? t1).toLocaleDateString("sv")
+    (checkInDate ?? t1).toLocaleDateString("sv"),
   );
   url.searchParams.set(
     "endDate",
-    (checkOutDate ?? t2).toLocaleDateString("sv")
+    (checkOutDate ?? t2).toLocaleDateString("sv"),
   );
 
   url.searchParams.set("nights", "1"); // TODO: compute
@@ -171,7 +171,7 @@ export function getReservationUrl({
   url.searchParams.set("partySize", "2"); // TODO: prop param
   url.searchParams.set(
     "searchTime",
-    (searchTime ?? new Date()).toLocaleString("sv").replace(" ", "T")
+    (searchTime ?? new Date()).toLocaleString("sv").replace(" ", "T"),
   );
   url.searchParams.set("flexibleSearch", "[false,false,null,1]"); // TODO how to use this?
 

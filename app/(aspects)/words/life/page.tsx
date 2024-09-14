@@ -23,7 +23,7 @@ const LifeWasAStronglyPurposed = stretchable(
       hereinafter described.
     </Blockquote>
     <Paragraph>That was the purpose of LIFE - an</Paragraph>
-  </>
+  </>,
 );
 
 const idealizedByHenryLuceAndPortrayedInABenStillerMovie = stretchable(
@@ -49,7 +49,7 @@ const idealizedByHenryLuceAndPortrayedInABenStillerMovie = stretchable(
       To see the world, things dangerous to come to, to see behind walls, draw
       closer, to find each other, and to <em>feel</em>.
     </Blockquote>
-  </>
+  </>,
 );
 
 const InspiredByHenryLucesLIFE = stretchable(
@@ -65,7 +65,7 @@ const InspiredByHenryLucesLIFE = stretchable(
       committed to my heart:
     </Paragraph>
     <Paragraph>-</Paragraph>
-  </span>
+  </span>,
 );
 
 export default function Page() {
