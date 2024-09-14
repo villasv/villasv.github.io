@@ -31,13 +31,13 @@ export enum FrontcountryCategory {
   GroupCampsite = "2",
 }
 
-export enum AccommodationCategory {
-  Accommodation = "1",
-}
-
 export enum BackcountryCategory {
   BackcountryCampsite = "5",
   BackcountryZone = "7",
+}
+
+export enum AccommodationCategory {
+  Accommodation = "1",
 }
 
 export enum CampingEquipmentType {
@@ -120,13 +120,17 @@ function getSearchInfo(
   const info = SEARCHABLE_SITES[park];
   if ("org" in info) return info;
 
-  return {
-    [CampingEquipmentType.Frontcountry]:
-      // TODO: TypeScript is not clever enough to know one of these will be present
-      info.frontcountry ?? info.accommodation ?? info.backcountry,
-    [CampingEquipmentType.Backcountry]:
-      info.backcountry ?? info.frontcountry ?? info.accommodation,
-  }[preferType];
+  return (
+    {
+      [CampingEquipmentType.Frontcountry]:
+        info.frontcountry ?? info.accommodation ?? info.backcountry,
+      [CampingEquipmentType.Backcountry]:
+        info.backcountry ?? info.frontcountry ?? info.accommodation,
+    }[preferType] ||
+    (() => {
+      throw new Error("Somehow missing campground info");
+    })()
+  );
 }
 
 export interface ParkReserveParams {
@@ -279,7 +283,7 @@ const SEARCHABLE_SITES: Record<Park, Searchable> = {
     resourceLocationId: "-2147483622",
   },
   [Park.PacificRimNPR]: {
-    accommodation: {},
+    // accommodation: {},
     frontcountry: {
       ...DEFAULT_FRONTCOUNTRY_CAMPGROUND_INFO,
       org: Org.ParksCanada,
