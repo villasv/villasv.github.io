@@ -12,10 +12,10 @@ export function Sidebar() {
           <a href="/civil">🗳️ citizen</a>,
         </li>
         <li>
-          <a href="/coffee">☕ barista</a>,
+          <a href="/outdoor">🗺️ outdoorsy</a>,
         </li>
         <li>
-          <a href="/cycle">🚲 cyclist</a>,
+          <a href="/coffee">☕ barista</a>,
         </li>
         <li>🥘 cook,</li>
         <li>
@@ -43,8 +43,8 @@ export function Sidebar() {
           </a>
         </li>
         <li>
-          <a rel="me" href="https://bookwyrm.social/user/villasv">
-            📚 BookWyrm
+          <a rel="me" href="http://neodb.social/users/villasv/">
+            📚 NeoDB
           </a>
         </li>
       </ul>
