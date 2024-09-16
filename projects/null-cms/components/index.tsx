@@ -15,12 +15,11 @@ function sanitizeBasedir(base: string): string {
 }
 
 // dirname is evaluated as a parameter at invocation time by the caller module
-export function Index({ base = (() => __dirname)() }: IndexProps) {
+export async function Index({ base = (() => __dirname)() }: IndexProps) {
   const sanitizedBase = sanitizeBasedir(base);
-  const subPages: any[] = []; // await listPages(sanitizedBase, ".", 1);
+  const subPages = await listPages(sanitizedBase, ".", 1);
   return (
     <div>
-      <p>{sanitizedBase}</p>
       <ol>
         {subPages.map((subPage, index) => (
           <li key={index}>
