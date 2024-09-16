@@ -71,7 +71,7 @@ const InspiredByHenryLucesLIFE = stretchable(
 export default function Page() {
   return (
     <div>
-      <h1>⏳ The Purpose of LIFE</h1>
+      <h1>The Purpose of LIFE</h1>
       <Paragraph>
         {InspiredByHenryLucesLIFE} To experience the world; to witness great
         events; to comprehend the struggles of the poor and the ambitions of the
