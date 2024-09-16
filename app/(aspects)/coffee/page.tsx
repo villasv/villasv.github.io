@@ -1,7 +1,8 @@
 import path from "path";
-import { AspectIndex } from "@/components/aspect-index";
+import { Index } from "@/projects/null-cms/components";
 
 const cwd = path.basename(__dirname);
 export default async function Page() {
-  return <AspectIndex base={cwd} />;
+  console.log(__dirname)
+  return <Index />;
 }
