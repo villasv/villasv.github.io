@@ -14,7 +14,7 @@ function sanitizeBasedir(base: string): string {
   return sourcesBasedir;
 }
 
-// dirname is evaluated as a parameter at invocation time by the invoking module
+// dirname is evaluated as a parameter at invocation time by the caller module
 export async function Index({ base = (() => __dirname)() }: IndexProps) {
   const sanitizedBase = sanitizeBasedir(base);
   const subPages = await listPages(sanitizedBase, ".", 1);
