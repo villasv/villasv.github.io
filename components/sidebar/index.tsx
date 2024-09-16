@@ -17,7 +17,9 @@ export function Sidebar() {
         <li>
           <a href="/coffee">☕ barista</a>,
         </li>
-        <li>🥘 cook,</li>
+        <li>
+          <a href="/food">🥘 cook,</a>,
+        </li>
         <li>
           <a href="/tech">🔩 tinkerer</a>,
         </li>
