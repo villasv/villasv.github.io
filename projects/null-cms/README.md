@@ -11,7 +11,7 @@ Placing the `Index` component on a `page.tsx` under `app/some/route`:
 import { Index } from "null-cms/components";
 
 export default async function Page() {
-  return <Index />;
+  return <Index base=${__dirname} />;
 }
 ```
 

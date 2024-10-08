@@ -1,10 +1,11 @@
+import path from "path";
 import { listPages } from "@/projects/null-cms/pages";
 
 export interface IndexProps {
   /**
    * The base folder name used to list all sub pages in the aspect root page.
    */
-  base?: string;
+  base: string;
 }
 
 function sanitizeBasedir(base: string): string {
@@ -15,9 +16,13 @@ function sanitizeBasedir(base: string): string {
 }
 
 // dirname is evaluated as a parameter at invocation time by the caller module
-export async function Index({ base = (() => __dirname)() }: IndexProps) {
+export async function Index({ base }: IndexProps) {
   const sanitizedBase = sanitizeBasedir(base);
-  const subPages = await listPages(sanitizedBase, ".", 1);
+  const rootPath = path.dirname(sanitizedBase);
+  const relativeBase = path.basename(sanitizedBase);
+  const subPages = await listPages(rootPath, relativeBase);
+  console.log(sanitizedBase);
+  console.log(subPages.map((sp) => sp.relativePath));
   return (
     <div>
       <ol>

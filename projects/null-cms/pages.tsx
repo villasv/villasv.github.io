@@ -15,18 +15,25 @@ export interface Page {
 // TODO: read from next config based on extensions
 const NEXT_PAGE_FILES = ["page.tsx", "page.mdx"];
 
+/**
+ *
+ * @param basePath the base directory, will not compose the relative path
+ * @param relativePath
+ * @param levelSkips will not output anything until recurred this amount of times
+ * @returns
+ */
 export async function listPages(
   basePath: string,
-  relativePath: string,
-  skipLevel: number,
+  relativePath: string = ".",
+  levelSkips: number = 1,
 ): Promise<Page[]> {
   const children = await fs.readdir(path.join(basePath, relativePath));
   const pages = await Promise.all(
     children.map(async (fileName) => {
       const childPath = path.join(basePath, relativePath, fileName);
       return (await fs.stat(childPath)).isDirectory()
-        ? listPages(basePath, path.join(relativePath, fileName), skipLevel - 1)
-        : NEXT_PAGE_FILES.includes(fileName) && skipLevel <= 0
+        ? listPages(basePath, path.join(relativePath, fileName), levelSkips - 1)
+        : NEXT_PAGE_FILES.includes(fileName) && levelSkips <= 0
           ? [await loadPage({ basePath, relativePath, fileName })]
           : [];
     }),
