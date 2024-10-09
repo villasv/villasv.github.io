@@ -73,12 +73,11 @@ export default function Page() {
     <div>
       <h1>The Purpose of LIFE</h1>
       <Paragraph>
-        {InspiredByHenryLucesLIFE} To experience the world; to witness great
-        events; to comprehend the struggles of the poor and the ambitions of the
-        powerful; to discover multitudes, things far away, things hidden behind
-        walls, things dangerous to come to; to stay curious and to be
-        instructed; to draw closer, to find each other, and to feel. That is the
-        purpose of life.
+        {InspiredByHenryLucesLIFE} To experience the world; to discover
+        multitudes, things far away, hidden behind walls, things dangerous to
+        come to; to witness the struggles and ambitions of humankind; to stay
+        curious and to be instructed; to draw closer, to find each other, and to
+        feel. That is the purpose of life.
       </Paragraph>
     </div>
   );
