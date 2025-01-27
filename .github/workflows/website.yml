@@ -2,6 +2,8 @@ name: Website Deploy
 
 on:
   workflow_dispatch: {}
+  schedule:
+    - cron: "0 10 * * *"
   push:
     branches:
       - main
@@ -11,12 +13,12 @@ jobs:
     runs-on: ubuntu-20.04
     steps:
       - name: Clone
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
           fetch-depth: 0 # all history & all branches
 
       - name: Setup
-        uses: actions/setup-node@v2
+        uses: actions/setup-node@v4
         with:
           node-version: 20
           cache: npm
