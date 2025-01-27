@@ -69,7 +69,7 @@ export function StretchText({ wrap, children }: StretchTextProps) {
  * paragraph without restrictions on child elements.
  * @returns a span container with paragraph styling
  */
-export function Paragraph({ children }: PropsWithChildren): JSX.Element {
+export function Paragraph({ children }: PropsWithChildren): React.JSX.Element {
   return <span className={styles.paragraph}>{children}</span>;
 }
 
@@ -78,10 +78,10 @@ export function Paragraph({ children }: PropsWithChildren): JSX.Element {
  * characteristics of a blockquote without restrictions on child elements.
  * @returns a span container with blockquote styling
  */
-export function Blockquote({ children }: PropsWithChildren): JSX.Element {
+export function Blockquote({ children }: PropsWithChildren): React.JSX.Element {
   return <span className={styles.blockquote}>{children}</span>;
 }
 
-export function stretchable(short: ReactNode, long: ReactNode): JSX.Element {
+export function stretchable(short: ReactNode, long: ReactNode): React.JSX.Element {
   return <StretchText wrap={short}>{long}</StretchText>;
 }
