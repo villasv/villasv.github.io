@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Victor Villa's News]]></title>
+        <description><![CDATA[The combined feed of my online stuff.]]></description>
+        <link>https://victor.villas</link>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Mon, 27 Jan 2025 06:57:58 GMT</lastBuildDate>
+        <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Victor Villas © 2025]]></copyright>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Instagram import fails silently for posts with videos. Can’t post a new video because it’s HEIC (almost everything on my phone is nowadays?), and the app doesn’t support videos at all yet.</p><p>Pixelfed meets my photography needs - not many - but it’s really not there as an Instagram replacement for the social part. Hoping it gets there soon, don’t wanna see a “bluesky but for photos and short videos” show up. Maybe I should be trying loops.video instead?</p>]]></description>
+            <link>https://mastodon.social/@villasbc/113892253439941598</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/113892253439941598</guid>
+            <pubDate>Sun, 26 Jan 2025 02:17:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>The issue was that Safari unzips the export automatically, and simply compressing it back doesn’t perfectly reverse the operation.</p><p>Downloaded the export with Firefox and things just worked.</p>]]></description>
+            <link>https://mastodon.social/@villasbc/113891111967166341</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/113891111967166341</guid>
+            <pubDate>Sat, 25 Jan 2025 21:27:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p><a href="https://mastodon.social/tags/Portuguese" class="mention hashtag" rel="tag">#<span>Portuguese</span></a> might not be the among the most relevant languages of the world economy, but <a href="https://mastodon.social/tags/Brazilians" class="mention hashtag" rel="tag">#<span>Brazilians</span></a> go hard on social networks so I like to think we&#39;re a meaningful audience to think about.</p><p>With that in mind... I wish <a href="https://mastodon.social/tags/fediverse" class="mention hashtag" rel="tag">#<span>fediverse</span></a>  developers knew that &quot;fedi&quot; in Portuguese pronunciation sounds like &quot;stinks&quot;, so a website like <a href="https://mastodon.social/tags/Pixelfed" class="mention hashtag" rel="tag">#<span>Pixelfed</span></a> literally sounds like &quot;pixel stinks&quot;.</p><p>It doesn&#39;t sound similar to, it sounds exactly so. I will never not be embarrassed of saying Pixelfed out loud to family.</p>]]></description>
+            <link>https://mastodon.social/@villasbc/113887575837575567</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/113887575837575567</guid>
+            <pubDate>Sat, 25 Jan 2025 06:28:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Found a clue here: <a href="https://github.com/pixelfed/pixelfed/pull/5510" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">github.com/pixelfed/pixelfed/p</span><span class="invisible">ull/5510</span></a></p><p>&quot;The export may contain files in the webp or heic file formats, this media is not supported&quot;</p><p>But looks like there are other issues involved: <a href="https://github.com/pixelfed/pixelfed/issues/5114" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">github.com/pixelfed/pixelfed/i</span><span class="invisible">ssues/5114</span></a></p>]]></description>
+            <link>https://mastodon.social/@villasbc/113882054356775790</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/113882054356775790</guid>
+            <pubDate>Fri, 24 Jan 2025 07:04:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Any <a href="https://mastodon.social/tags/pixelfed" class="mention hashtag" rel="tag">#<span>pixelfed</span></a> wizard out there knows what&#39;s up with Instagram import? Can&#39;t make it work for the life of me, it&#39;s a fresh IG export, v0.12.4 Pixelfed instance. All I get is &quot;Invalid import archive&quot;.</p><p>Looks like this issue is common but I found no reproducible workarounds out there.</p>]]></description>
+            <link>https://mastodon.social/@villasbc/113875511646921065</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/113875511646921065</guid>
+            <pubDate>Thu, 23 Jan 2025 03:20:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>I was hoping to self host before migrating to minimize how many times I migrate accounts, but I can’t keep supporting Meta just because it takes me ages to figure out how to build Pixelfed images :-)</p><p>So <a href="https://pxlfd.ca/victor" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="">pxlfd.ca/victor</span><span class="invisible"></span></a> is my new home for oversharing moments and amateurish photography 🎉 hit me up over there or reply with your profile so I can populate my feed with the right people 🙏 </p><p><a href="https://mastodon.social/tags/SocialBC" class="mention hashtag" rel="tag">#<span>SocialBC</span></a></p>]]></description>
+            <link>https://mastodon.social/@villasbc/113870181720740706</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/113870181720740706</guid>
+            <pubDate>Wed, 22 Jan 2025 04:44:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Reminds me of “The God that Failed” by Metallica, understanding its lyrics was a turning point in my teenage years <a href="https://mastodon.social/@antiquated/113836322931181773" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">mastodon.social/@antiquated/11</span><span class="invisible">3836322931181773</span></a></p>]]></description>
+            <link>https://mastodon.social/@villasbc/113839294584167631</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/113839294584167631</guid>
+            <pubDate>Thu, 16 Jan 2025 17:49:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>How much of a dirtbag you need to be to cause your lawyer to fire you as a client and smear your name?</p><p>This guy probably has a hundred times the capacity for self censorship than that of the average human being and he still chose to lead with that. <a href="https://infosec.exchange/@kurtseifried/113828141997311874" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">infosec.exchange/@kurtseifried</span><span class="invisible">/113828141997311874</span></a></p>]]></description>
+            <link>https://mastodon.social/@villasbc/113833229264510802</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/113833229264510802</guid>
+            <pubDate>Wed, 15 Jan 2025 16:07:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Ah yes the main quality of immigrants… the need to survive immersed in systemic oppression.</p><p>And to this day this rhetoric survives in the form of “they’re taking away our unskilled jobs!” <a href="https://mastodon.social/@antiquated/113827624657335818" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">mastodon.social/@antiquated/11</span><span class="invisible">3827624657335818</span></a></p>]]></description>
+            <link>https://mastodon.social/@villasbc/113828546393617646</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/113828546393617646</guid>
+            <pubDate>Tue, 14 Jan 2025 20:16:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Six dollars was of course a lot in 1827 but it’s still funny to not do that math and read this as a lowkey insult <a href="https://mastodon.social/@antiquated/113824841691695534" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">mastodon.social/@antiquated/11</span><span class="invisible">3824841691695534</span></a></p>]]></description>
+            <link>https://mastodon.social/@villasbc/113827566798614319</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/113827566798614319</guid>
+            <pubDate>Tue, 14 Jan 2025 16:07:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>This week has been a big “I told you so” moment for all the <a href="https://mastodon.social/tags/fediverse" class="mention hashtag" rel="tag">#<span>fediverse</span></a> admins that defederated <a href="https://mastodon.social/tags/threads" class="mention hashtag" rel="tag">#<span>threads</span></a> from the get go due to moderation concerns.</p><p>And it’s sad to think that eventually the naysayers will get the marks on Bluesky too.</p>]]></description>
+            <link>https://mastodon.social/@villasbc/113807135632893658</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/113807135632893658</guid>
+            <pubDate>Sat, 11 Jan 2025 01:31:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p><a href="https://mastodon.social/tags/QuartaCapa" class="mention hashtag" rel="tag">#<span>QuartaCapa</span></a> sobre mudar de opinião… 40 Ways To Be Miserable me convenceu que existe livro de autoajuda que presta.</p><p>E Simple Path to Wealth me convenceu a parar de me achar esperto e só fazer o que todo mundo deveria fazer com os investimentos. <a href="https://social.vivaldi.net/@quartacapa/113790676886711394" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">social.vivaldi.net/@quartacapa</span><span class="invisible">/113790676886711394</span></a></p>]]></description>
+            <link>https://mastodon.social/@villasbc/113795471843671992</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/113795471843671992</guid>
+            <pubDate>Thu, 09 Jan 2025 00:05:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p><a href="https://mastodon.social/tags/Questrade" class="mention hashtag" rel="tag">#<span>Questrade</span></a> running YouTube ads telling me that renting a condo (instead of buying a house with a yard) is for suckers. For a company that tries to self position in opposition to the big banks, they sure are holding hands in financial illiteracy.</p>]]></description>
+            <link>https://mastodon.social/@villasbc/113782472097044322</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/113782472097044322</guid>
+            <pubDate>Mon, 06 Jan 2025 16:59:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Sounds simple, right? But I only know of one: Monk Mode (<a href="https://apps.apple.com/ca/app/monk-mode/id1561444285" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">apps.apple.com/ca/app/monk-mod</span><span class="invisible">e/id1561444285</span></a>). It’s fine and works for me, but it’s abandoned and would be nice to have a modern version with promising app intents, shortcuts and/or Siri.</p><p><a href="https://mastodon.social/tags/ios" class="mention hashtag" rel="tag">#<span>ios</span></a> <a href="https://mastodon.social/tags/technology" class="mention hashtag" rel="tag">#<span>technology</span></a> (2/2)</p>]]></description>
+            <link>https://mastodon.social/@villasbc/113771817896801183</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/113771817896801183</guid>
+            <pubDate>Sat, 04 Jan 2025 19:49:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Anyone recommends an <a href="https://mastodon.social/tags/AppleWatch" class="mention hashtag" rel="tag">#<span>AppleWatch</span></a> <a href="https://mastodon.social/tags/meditation" class="mention hashtag" rel="tag">#<span>meditation</span></a> app that’s not subscription-based? Something I can do a one time purchase and the only feature that matters is that I can start a timer and when completed the data is added to Apple Health. I don’t even care about heart monitoring data. I only want the mindful minutes counting. (1/2)</p>]]></description>
+            <link>https://mastodon.social/@villasbc/113771817867908512</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/113771817867908512</guid>
+            <pubDate>Sat, 04 Jan 2025 19:49:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>This lame timeline is reaching dumbass singularity <a href="https://mstdn.ca/@AlisonCreekside/113765489018782923" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">mstdn.ca/@AlisonCreekside/1137</span><span class="invisible">65489018782923</span></a></p>]]></description>
+            <link>https://mastodon.social/@villasbc/113767517871366517</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/113767517871366517</guid>
+            <pubDate>Sat, 04 Jan 2025 01:35:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>What a weird bug in <a href="https://mastodon.social/tags/iOS" class="mention hashtag" rel="tag">#<span>iOS</span></a> Shortcuts: the Speak text action &quot;Rate&quot; parameter only affects the first _sentence_ of a text. So if I pass it &quot;Good morning! Have a great day!&quot;, setting the rate to the lowest value only slows down the &quot;good morning&quot; part 🥴</p>]]></description>
+            <link>https://mastodon.social/@villasbc/113750269389714665</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/113750269389714665</guid>
+            <pubDate>Wed, 01 Jan 2025 00:29:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>The <a href="https://mastodon.social/tags/riddle" class="mention hashtag" rel="tag">#<span>riddle</span></a> of private property</p><p>No lock guards me, yet none can steal.<br />My weight is yours alone to feel.</p><p>No force can strike me from your name,<br />No law can alter what’s the same.<br />Passing years can&#39;t do me ill.<br />Immutable, yours to shape at will.</p><p>Who am I?</p>]]></description>
+            <link>https://mastodon.social/@villasbc/113748765250282766</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/113748765250282766</guid>
+            <pubDate>Tue, 31 Dec 2024 18:06:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p><a href="https://mastodon.social/tags/QuartaCapa" class="mention hashtag" rel="tag">#<span>QuartaCapa</span></a> livros para dar de presente, os melhores pra mim são os de mesa. Meu favorito é o “Am I Overthinking This?” de Michelle Rial, sucesso instantâneo com todo mundo que folheou.</p>]]></description>
+            <link>https://mastodon.social/@villasbc/113714965019149360</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/113714965019149360</guid>
+            <pubDate>Wed, 25 Dec 2024 18:51:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p><a href="https://mastodon.social/tags/TerCinema" class="mention hashtag" rel="tag">#<span>TerCinema</span></a> de Natal</p><p>It’s Christmas Eve in Tinseltown and Sin-Dee is back on the block. Upon hearing that her pimp boyfriend hasn’t been faithful during the 28 days she was locked up, the working girl and her best friend, Alexandra, embark on a mission to get to the bottom of the scandalous rumor. Their rip-roaring odyssey leads them through various subcultures of Los Angeles, including an Armenian family dealing with their own repercussions of infidelity.</p><p><a href="https://letterboxd.com/film/tangerine/" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="">letterboxd.com/film/tangerine/</span><span class="invisible"></span></a></p>]]></description>
+            <link>https://mastodon.social/@villasbc/113709226885369575</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/113709226885369575</guid>
+            <pubDate>Tue, 24 Dec 2024 18:31:47 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
