@@ -6,7 +6,7 @@
     "dev": "next dev",
     "lint": "next lint",
     "format": "prettier --write .",
-    "build": "next build",
+    "build": "next build && node scripts/generate-rss.js",
     "test": "jest --coverage"
   },
   "dependencies": {
