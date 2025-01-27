@@ -1,54 +1,61 @@
 const RSS = require("rss");
 const fs = require("fs");
 const path = require("path");
+const { XMLParser } = require("fast-xml-parser");
 
-const feedUrls = [
-  "http://mastodon.social/@villasbc.rss",
-  // Add more RSS feed URLs here
-];
+const parser = new XMLParser();
+const feedUrls = ["http://mastodon.social/@villasbc.rss"];
+
+const feed = new RSS({
+  title: "Victor Villa's News",
+  description: "The combined feed of my online stuff.",
+  feed_url: "https://victor.villas/feed.xml",
+  site_url: "https://victor.villas",
+  copyright: "Victor Villas © 2025",
+});
 
 async function fetchFeed(url) {
-  const response = await fetch(url);
-  if (!response.ok) {
-    throw new Error(`Failed to fetch feed: ${url} - ${response.statusText}`);
+  try {
+    const response = await fetch(url);
+    if (!response.ok) {
+      throw new Error(`Failed to fetch feed: ${url} - ${response.statusText}`);
+    }
+
+    const rawXml = await response.text();
+    const parsedData = parser.parse(rawXml);
+
+    const items = parsedData.rss.channel.item || [];
+    return items.map((item) => ({
+      title: item.title,
+      link: item.link,
+      date: new Date(item.pubDate),
+      description: item.description || "",
+    }));
+  } catch (error) {
+    console.error(`Error fetching/parsing feed from ${url}:`, error);
+    return [];
   }
-  return response.text(); // Raw XML
 }
 
 async function generateMergedRSS() {
-  const combinedItems = [];
+  const allFeedItems = await Promise.all(feedUrls.map(fetchFeed));
 
-  for (const url of feedUrls) {
-    try {
-      const rawFeed = await fetchFeed(url);
-      combinedItems.push(rawFeed); // Add raw XML for now (we'll parse it later)
-    } catch (err) {
-      console.error(`Error fetching feed from ${url}:`, err);
-    }
-  }
-
-  const feed = new RSS({
-    title: "Victor Villa's News",
-    description: "The combined feed of my online stuff.",
-    feed_url: "https://victor.villas/feed.xml",
-    site_url: "https://victor.villas",
-    copyright: "Victor Villas © 2025",
-  });
-
-  // Add placeholder items (replace with parsed data later)
-  combinedItems.forEach((item, index) => {
-    feed.item({
-      title: `Placeholder Title ${index + 1}`,
-      url: `https://example.com/item${index + 1}`,
-      date: new Date(),
-      description: `Placeholder description for item ${index + 1}`,
+  allFeedItems
+    .flat()
+    .sort((a, b) => b.date - a.date)
+    .forEach((item) => {
+      feed.item({
+        title: item.title,
+        url: item.link,
+        date: item.date,
+        description: item.description,
+      });
     });
-  });
 
-  return feed.xml({ indent: true }); // Generate RSS XML
+  return feed.xml({ indent: true });
 }
 
-async function writeRSSFile() {
+async function buildRSSFile() {
   try {
     const rss = await generateMergedRSS();
     const outputPath = path.join(process.cwd(), "public", "feed.xml");
@@ -60,4 +67,4 @@ async function writeRSSFile() {
   }
 }
 
-writeRSSFile();
+buildRSSFile();

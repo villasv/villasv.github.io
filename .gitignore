@@ -1,3 +1,6 @@
+### Statically Generated Stuff
+public/feed.xml
+
 # dependencies
 /node_modules
 /.pnp
