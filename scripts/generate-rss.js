@@ -4,10 +4,13 @@ const path = require("path");
 const { XMLParser } = require("fast-xml-parser");
 
 const parser = new XMLParser();
-const feedUrls = ["http://mastodon.social/@villasbc.rss"];
+const feedUrls = [
+  "http://mastodon.social/@villasbc.rss",
+  "https://pxlfd.ca/users/victor.atom",
+];
 
 const feed = new RSS({
-  title: "Victor Villa's News",
+  title: "Victor Villas' Feed",
   description: "The combined feed of my online stuff.",
   feed_url: "https://victor.villas/feed.xml",
   site_url: "https://victor.villas",
@@ -24,13 +27,27 @@ async function fetchFeed(url) {
     const rawXml = await response.text();
     const parsedData = parser.parse(rawXml);
 
-    const items = parsedData.rss.channel.item || [];
-    return items.map((item) => ({
-      title: item.title,
-      link: item.link,
-      date: new Date(item.pubDate),
-      description: item.description || "",
-    }));
+    if (parsedData.rss) {
+      // Parse RSS feed
+      const items = parsedData.rss.channel.item || [];
+      return items.map((item) => ({
+        title: item.title,
+        link: item.link,
+        date: new Date(item.pubDate),
+        description: item.description || "",
+      }));
+    } else if (parsedData.feed) {
+      // Parse Atom feed
+      const items = parsedData.feed.entry || [];
+      return items.map((item) => ({
+        title: item.title,
+        link: item.link.href,
+        date: new Date(item.updated || item.published),
+        description: item.content || item.summary || "",
+      }));
+    } else {
+      throw new Error("Unknown feed format");
+    }
   } catch (error) {
     console.error(`Error fetching/parsing feed from ${url}:`, error);
     return [];
