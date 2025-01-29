@@ -7,6 +7,7 @@ const parser = new XMLParser();
 const feedUrls = [
   "http://mastodon.social/@villasbc.rss",
   "https://pxlfd.ca/users/victor.atom",
+  "https://neodb.social/@villasv/rss",
 ];
 
 const feed = new RSS({
