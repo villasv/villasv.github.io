@@ -4,12 +4,19 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 29 Jan 2025 07:13:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jan 2025 10:01:58 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2025]]></copyright>
         <item>
             <title><![CDATA[Comment]]></title>
-            <description><![CDATA[<p>started watching <a href="https://neodb.social/~neodb~/tv/season/6d3XZOiiiuuiHERDMSrBJh" rel="nofollow">Disclaimer</a> 🌕🌕🌕🌑🌑  <br>Recommended by a few friends. Interesting premise and trailer. Halfway through, I can definitely say that the directors succeeded in making me uncomfortable watching the emotional violence of young Catherine over Jonathan, but I think the same could be achieved with less explicit sex screening... oof, I&#x27;m not used to it.&lt;<br></p>]]></description>
+            <description><![CDATA[<p>wants to watch <a href="https://neodb.social/~neodb~/movie/0WsTXtNQQEVs0NuUa0e3fy" rel="nofollow">I’m Still Here</a> </p><p></p>]]></description>
+            <link>https://neodb.social/@villasv/posts/407331959682557840/</link>
+            <guid isPermaLink="true">https://neodb.social/@villasv/posts/407331959682557840/</guid>
+            <pubDate>Wed, 29 Jan 2025 07:31:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Comment]]></title>
+            <description><![CDATA[<p>started watching <a href="https://neodb.social/~neodb~/tv/season/6d3XZOiiiuuiHERDMSrBJh" rel="nofollow">Disclaimer</a> 🌕🌕🌕🌑🌑  <br>Recommended by a few friends. Interesting premise and trailer. Halfway through, I can definitely say that the directors succeeded in making me uncomfortable watching the emotional violence of young Catherine over Jonathan, but I think the same could be achieved with less explicit sex screening... oof, I&#x27;m not used to it.<br></p>]]></description>
             <link>https://neodb.social/@villasv/posts/407318101685439072/</link>
             <guid isPermaLink="true">https://neodb.social/@villasv/posts/407318101685439072/</guid>
             <pubDate>Wed, 29 Jan 2025 06:36:42 GMT</pubDate>
@@ -279,13 +286,6 @@
             <link>https://neodb.social/@villasv/posts/389450020802063168/</link>
             <guid isPermaLink="true">https://neodb.social/@villasv/posts/389450020802063168/</guid>
             <pubDate>Tue, 10 Dec 2024 23:15:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Comment]]></title>
-            <description><![CDATA[<p>finished reading <a href="https://neodb.social/~neodb~/book/2Yhai80GbXvFbBxJBJt1LF" rel="nofollow">Cork Dork</a> 🌕🌕🌕🌕🌑  <br>It&#x27;s quite an entertaining read for most of the time. I find it pretty impressive that the author managed to develop their skills enough to actually perform as a sommelier. Even though she doesn&#x27;t have too much skin in the game because she&#x27;s an author first and foremost and it&#x27;s in on this adventure with the goal of writing a book - not making a living out of wines - she actually gets pretty far, farther than people who actually work on this will get. Maybe she won the genetics lottery for flavour perception, or maybe it&#x27;s all fruit of her hard work; in any case it&#x27;s pretty amazing that a random person could train to geo-guess wines.<br></p>]]></description>
-            <link>https://neodb.social/@villasv/posts/6536483552223040/</link>
-            <guid isPermaLink="true">https://neodb.social/@villasv/posts/6536483552223040/</guid>
-            <pubDate>Tue, 21 May 2019 06:12:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
