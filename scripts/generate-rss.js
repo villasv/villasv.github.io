@@ -18,41 +18,43 @@ const feed = new RSS({
   copyright: "Victor Villas © 2025",
 });
 
+function getTitle(item) {
+  const title = item.title?.trim();
+  // Use generic "Post" title for Mastodon posts
+  if (!title) return "Post";
+  // Replace NeoDB ugly titles with a generic one
+  if (/^.+@neodb\.social #\d+$/.test(title)) return "Comment";
+
+  return title;
+}
+
+function extractItemData(item) {
+  return {
+    title: getTitle(item),
+    link: item.link?.href || item.link,
+    date: new Date(item.updated || item.published || item.pubDate),
+    description:
+      item.content?.["#text"] ||
+      item.content ||
+      item.summary ||
+      item.description ||
+      "",
+  };
+}
+
 async function fetchFeed(url) {
-  try {
-    const response = await fetch(url);
-    if (!response.ok) {
-      throw new Error(`Failed to fetch feed: ${url} - ${response.statusText}`);
-    }
+  const response = await fetch(url);
+  if (!response.ok)
+    throw new Error(`Failed to fetch ${url}: (${response.statusText})`);
 
-    const rawXml = await response.text();
-    const parsedData = parser.parse(rawXml);
+  const rawXml = await response.text();
+  const parsedData = parser.parse(rawXml);
+  const items =
+    parsedData?.rss?.channel?.item || // RSS format
+    parsedData?.feed?.entry || // Atom format
+    [];
 
-    if (parsedData.rss) {
-      // Parse RSS feed
-      const items = parsedData.rss.channel.item || [];
-      return items.map((item) => ({
-        title: item.title,
-        link: item.link,
-        date: new Date(item.pubDate),
-        description: item.description || "",
-      }));
-    } else if (parsedData.feed) {
-      // Parse Atom feed
-      const items = parsedData.feed.entry || [];
-      return items.map((item) => ({
-        title: item.title,
-        link: item.link.href,
-        date: new Date(item.updated || item.published),
-        description: item.content || item.summary || "",
-      }));
-    } else {
-      throw new Error("Unknown feed format");
-    }
-  } catch (error) {
-    console.error(`Error fetching/parsing feed from ${url}:`, error);
-    return [];
-  }
+  return items.map(extractItemData);
 }
 
 async function generateMergedRSS() {
