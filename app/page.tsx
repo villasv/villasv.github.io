@@ -1,5 +1,6 @@
 import { Feed } from "@/components/feed";
 import { Sidebar } from "@/components/sidebar";
+import styles from "./(aspects)/styles.module.css";
 
 export const metadata = {
   title: "Victor's Website",
@@ -21,9 +22,15 @@ export const metadata = {
 
 export default function Page() {
   return (
-    <div>
-      <Sidebar />
-      {/* <Feed /> */}
+    <div className={styles["aspect-wrapper"]}>
+      <div className={styles["sidebar-floater"]}>
+        <div className={styles["sidebar"]}>
+          <Sidebar />
+        </div>
+      </div>
+      <div className={styles["content"]}>
+        <Feed />
+      </div>
     </div>
   );
 }

@@ -6,8 +6,14 @@ export function Sidebar() {
       <h1>
         <a href="/">Victor Villas</a>
       </h1>
+      <p>
+        Born at 356.42 ppm CO₂ <br />
+        🇨🇦 Living the good life in YVR <br />
+        🇧🇷 Inner voice speaks in pt_BR <br />
+        💻 Paying bills with software
+      </p>
       <ul>
-        <li>🔗 Husband,</li>
+        {/* <li>🔗 Husband,</li>
         <li>
           <a href="/civil">🗳️ citizen</a>,
         </li>
@@ -25,7 +31,7 @@ export function Sidebar() {
         </li>
         <li>
           <a href="/words">📝 writer</a>.
-        </li>
+        </li> */}
       </ul>
       <h2>me elsewhere</h2>
       <ul>
