@@ -4,9 +4,38 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 30 Jan 2025 10:02:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Jan 2025 02:53:53 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2025]]></copyright>
+        <item>
+            <title><![CDATA[Post]]></title>
+            <description><![CDATA[<p>I&#39;ve known several decent humans that ended up working at companies that are straight up evil (like me, if I can indulge in thinking myself decent)... and I can sort of feel the Corrosion of Character settling in.</p><p><a href="https://archive.nytimes.com/www.nytimes.com/books/first/s/sennett-character.html?ref=libros.astraed.co" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">archive.nytimes.com/www.nytime</span><span class="invisible">s.com/books/first/s/sennett-character.html?ref=libros.astraed.co</span></a></p>]]></description>
+            <link>https://mastodon.social/@villasbc/113919292350967236</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/113919292350967236</guid>
+            <pubDate>Thu, 30 Jan 2025 20:54:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Garibaldi Lake Trail
+
+#hiking #mushrooms #coldweather #graydays]]></title>
+            <description><![CDATA[
+			<img id="rss_item_790660117523971543" src="https://pxlfd.s3.bhs.io.cloud.ovh.net/public/m/_v2/787457243232363937/634f2a4e4-291f24/QEriBUTkNnpz/gYK4MXujDdmEaCp0CmkAT85AxSzm3bdTDNkU0DLu.jpg" alt="">
+			<p style="padding:10px;">Garibaldi Lake Trail<br />
+<br />
+<a href="https://pxlfd.ca/discover/tags/hiking?src=hash" title="#hiking" class="u-url hashtag" rel="external nofollow noopener">#hiking</a> <a href="https://pxlfd.ca/discover/tags/mushrooms?src=hash" title="#mushrooms" class="u-url hashtag" rel="external nofollow noopener">#mushrooms</a> <a href="https://pxlfd.ca/discover/tags/coldweather?src=hash" title="#coldweather" class="u-url hashtag" rel="external nofollow noopener">#coldweather</a> <a href="https://pxlfd.ca/discover/tags/graydays?src=hash" title="#graydays" class="u-url hashtag" rel="external nofollow noopener">#graydays</a></p>
+			]]></description>
+            <guid isPermaLink="false">Garibaldi Lake Trail
+
+#hiking #mushrooms #coldweather #graydays</guid>
+            <pubDate>Thu, 30 Jan 2025 19:21:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Post]]></title>
+            <description><![CDATA[<p>Not looking forward to the year 2035 when social media is inundated with astroturfing LLM bots specialized in quarrelling and they learn to gaslight us by accusing us of being LLMs.</p>]]></description>
+            <link>https://mastodon.social/@villasbc/113918263383031267</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/113918263383031267</guid>
+            <pubDate>Thu, 30 Jan 2025 16:32:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Comment]]></title>
             <description><![CDATA[<p>wants to watch <a href="https://neodb.social/~neodb~/movie/0WsTXtNQQEVs0NuUa0e3fy" rel="nofollow">I’m Still Here</a> </p><p></p>]]></description>
@@ -218,13 +247,6 @@
             <pubDate>Wed, 01 Jan 2025 00:29:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Post]]></title>
-            <description><![CDATA[<p>The <a href="https://mastodon.social/tags/riddle" class="mention hashtag" rel="tag">#<span>riddle</span></a> of private property</p><p>No lock guards me, yet none can steal.<br />My weight is yours alone to feel.</p><p>No force can strike me from your name,<br />No law can alter what’s the same.<br />Passing years can&#39;t do me ill.<br />Immutable, yours to shape at will.</p><p>Who am I?</p>]]></description>
-            <link>https://mastodon.social/@villasbc/113748765250282766</link>
-            <guid isPermaLink="true">https://mastodon.social/@villasbc/113748765250282766</guid>
-            <pubDate>Tue, 31 Dec 2024 18:06:55 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Comment]]></title>
             <description><![CDATA[<p>wants to read <a href="https://neodb.social/~neodb~/book/2tLqcslB6PRlvHLynRfP1t" rel="nofollow">Paved Paradise: How Parking Explains the World</a> <br>Shared by a Vision Zero friend<br></p>]]></description>
             <link>https://neodb.social/@villasv/posts/395344348363117240/</link>
@@ -244,13 +266,6 @@
             <link>https://neodb.social/@villasv/posts/394968446730943184/</link>
             <guid isPermaLink="true">https://neodb.social/@villasv/posts/394968446730943184/</guid>
             <pubDate>Thu, 26 Dec 2024 04:43:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Post]]></title>
-            <description><![CDATA[<p><a href="https://mastodon.social/tags/QuartaCapa" class="mention hashtag" rel="tag">#<span>QuartaCapa</span></a> livros para dar de presente, os melhores pra mim são os de mesa. Meu favorito é o “Am I Overthinking This?” de Michelle Rial, sucesso instantâneo com todo mundo que folheou.</p>]]></description>
-            <link>https://mastodon.social/@villasbc/113714965019149360</link>
-            <guid isPermaLink="true">https://mastodon.social/@villasbc/113714965019149360</guid>
-            <pubDate>Wed, 25 Dec 2024 18:51:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Comment]]></title>
