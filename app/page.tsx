@@ -4,10 +4,17 @@ export const metadata = {
   title: "Victor's Website",
   description: "on the independent web",
   icons: {
-    other: {
-      rel: "authorization_endpoint",
-      url: "https://indieauth.com/auth",
-    },
+    other: [
+      {
+        rel: "alternate",
+        type: "application/rss+xml",
+        url: "https://victor.villas/feed.xml",
+      },
+      {
+        rel: "authorization_endpoint",
+        url: "https://indieauth.com/auth",
+      },
+    ],
   },
 };
 

@@ -49,6 +49,11 @@ export function Sidebar() {
             📚 NeoDB
           </a>
         </li>
+        <li>
+          <a href="/feed.xml" target="_blank" rel="noopener noreferrer">
+            📡 RSS Feed
+          </a>
+        </li>
       </ul>
     </div>
   );
