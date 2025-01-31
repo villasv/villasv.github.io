@@ -54,7 +54,9 @@ async function fetchFeed(url) {
     parsedData?.feed?.entry || // Atom format
     [];
 
-  return items.map(extractItemData);
+  // if feed contains a single entry, it might return as object instead of array
+  if (!Array.isArray(items)) return [items].map(extractItemData);
+  else return items.map(extractItemData);
 }
 
 async function generateMergedRSS() {
