@@ -21,9 +21,16 @@ const feed = new RSS({
 function getTitle(item) {
   const title = item.title?.trim();
   // Use generic "Post" title for Mastodon posts
-  if (!title) return "Post";
-  // Replace NeoDB ugly titles with a generic one
-  if (/^.+@neodb\.social #\d+$/.test(title)) return "Comment";
+  if (!title) return "Comment";
+  // Replace NeoDB ugly titles with better ones
+  if (/^.+@neodb\.social #\d+$/.test(title)) {
+    const match = item.description.match(/(wants|started|finished)\s+(\w+)/i);
+    if (!match) return "Comment";
+    return match
+      .slice(1)
+      .join(" ")
+      .replace(/^\w/, (c) => c.toUpperCase());
+  }
 
   return title;
 }
