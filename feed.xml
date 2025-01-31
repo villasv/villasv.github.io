@@ -4,9 +4,16 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 31 Jan 2025 03:42:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Jan 2025 16:03:22 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2025]]></copyright>
+        <item>
+            <title><![CDATA[Comment]]></title>
+            <description><![CDATA[<p>20 years in the <a href="https://mastodon.social/tags/web" class="mention hashtag" rel="tag">#<span>web</span></a> and it&#39;s all still so fragmented. ActivityPub is promising, but is it going to be enough?</p><p>I have to convince my friends to join at least one of <a href="https://mastodon.social/tags/Mastodon" class="mention hashtag" rel="tag">#<span>Mastodon</span></a> or <a href="https://mastodon.social/tags/Pixelfed" class="mention hashtag" rel="tag">#<span>Pixelfed</span></a> to keep in touch. Until they make the crossing we&#39;re practically cut off. I&#39;m seriously thinking of starting a <a href="https://mastodon.social/tags/newsletter" class="mention hashtag" rel="tag">#<span>newsletter</span></a>... <a href="https://mastodon.social/tags/email" class="mention hashtag" rel="tag">#<span>email</span></a> the one open protocol everyone uses.</p><p>Family, workplace, masters, college, high school. In all of my AFK social circles, I&#39;m still the only one here. This is a bit depressing.</p>]]></description>
+            <link>https://mastodon.social/@villasbc/113921159414788127</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/113921159414788127</guid>
+            <pubDate>Fri, 31 Jan 2025 04:49:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Comment]]></title>
             <description><![CDATA[<p>I&#39;ve known several decent humans that ended up working at companies that are straight up evil (like me, if I can indulge in thinking myself decent)... and I can sort of feel the Corrosion of Character settling in.</p><p><a href="https://archive.nytimes.com/www.nytimes.com/books/first/s/sennett-character.html?ref=libros.astraed.co" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">archive.nytimes.com/www.nytime</span><span class="invisible">s.com/books/first/s/sennett-character.html?ref=libros.astraed.co</span></a></p>]]></description>
@@ -15,18 +22,15 @@
             <pubDate>Thu, 30 Jan 2025 20:54:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Garibaldi Lake Trail
-
-#hiking #mushrooms #coldweather #graydays]]></title>
+            <title><![CDATA[Media]]></title>
             <description><![CDATA[
 			<img id="rss_item_790660117523971543" src="https://pxlfd.s3.bhs.io.cloud.ovh.net/public/m/_v2/787457243232363937/634f2a4e4-291f24/QEriBUTkNnpz/gYK4MXujDdmEaCp0CmkAT85AxSzm3bdTDNkU0DLu.jpg" alt="">
 			<p style="padding:10px;">Garibaldi Lake Trail<br />
 <br />
 <a href="https://pxlfd.ca/discover/tags/hiking?src=hash" title="#hiking" class="u-url hashtag" rel="external nofollow noopener">#hiking</a> <a href="https://pxlfd.ca/discover/tags/mushrooms?src=hash" title="#mushrooms" class="u-url hashtag" rel="external nofollow noopener">#mushrooms</a> <a href="https://pxlfd.ca/discover/tags/coldweather?src=hash" title="#coldweather" class="u-url hashtag" rel="external nofollow noopener">#coldweather</a> <a href="https://pxlfd.ca/discover/tags/graydays?src=hash" title="#graydays" class="u-url hashtag" rel="external nofollow noopener">#graydays</a></p>
 			]]></description>
-            <guid isPermaLink="false">Garibaldi Lake Trail
-
-#hiking #mushrooms #coldweather #graydays</guid>
+            <link>https://pxlfd.ca/p/victor/790660117523971543</link>
+            <guid isPermaLink="true">https://pxlfd.ca/p/victor/790660117523971543</guid>
             <pubDate>Thu, 30 Jan 2025 19:21:01 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +41,7 @@
             <pubDate>Thu, 30 Jan 2025 16:32:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Wants to]]></title>
+            <title><![CDATA[Wants to watch]]></title>
             <description><![CDATA[<p>wants to watch <a href="https://neodb.social/~neodb~/movie/0WsTXtNQQEVs0NuUa0e3fy" rel="nofollow">I’m Still Here</a> </p><p></p>]]></description>
             <link>https://neodb.social/@villasv/posts/407331959682557840/</link>
             <guid isPermaLink="true">https://neodb.social/@villasv/posts/407331959682557840/</guid>
@@ -240,14 +244,7 @@
             <pubDate>Thu, 02 Jan 2025 06:37:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Comment]]></title>
-            <description><![CDATA[<p>What a weird bug in <a href="https://mastodon.social/tags/iOS" class="mention hashtag" rel="tag">#<span>iOS</span></a> Shortcuts: the Speak text action &quot;Rate&quot; parameter only affects the first _sentence_ of a text. So if I pass it &quot;Good morning! Have a great day!&quot;, setting the rate to the lowest value only slows down the &quot;good morning&quot; part 🥴</p>]]></description>
-            <link>https://mastodon.social/@villasbc/113750269389714665</link>
-            <guid isPermaLink="true">https://mastodon.social/@villasbc/113750269389714665</guid>
-            <pubDate>Wed, 01 Jan 2025 00:29:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Wants to]]></title>
+            <title><![CDATA[Wants to read]]></title>
             <description><![CDATA[<p>wants to read <a href="https://neodb.social/~neodb~/book/2tLqcslB6PRlvHLynRfP1t" rel="nofollow">Paved Paradise: How Parking Explains the World</a> <br>Shared by a Vision Zero friend<br></p>]]></description>
             <link>https://neodb.social/@villasv/posts/395344348363117240/</link>
             <guid isPermaLink="true">https://neodb.social/@villasv/posts/395344348363117240/</guid>
@@ -282,21 +279,21 @@
             <pubDate>Tue, 24 Dec 2024 18:38:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Wants to]]></title>
+            <title><![CDATA[Wants to read]]></title>
             <description><![CDATA[<p>wants to read <a href="https://neodb.social/~neodb~/book/4TYpdFBqx4FwTL3cqhANIg" rel="nofollow">Frostbike</a> <br>Mentioned by Shifter on a winter cycling video<br></p>]]></description>
             <link>https://neodb.social/@villasv/posts/391220178467419792/</link>
             <guid isPermaLink="true">https://neodb.social/@villasv/posts/391220178467419792/</guid>
             <pubDate>Sun, 15 Dec 2024 20:29:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Wants to]]></title>
+            <title><![CDATA[Wants to watch]]></title>
             <description><![CDATA[<p>wants to watch <a href="https://neodb.social/~neodb~/movie/4xl8yuamP3ELqieeC44P4U" rel="nofollow">Your Fat Friend</a> <br>As a a listener of the Maintenance Phase podcast, I look forward to whatever Aubrey Gordon is involved in.<br></p>]]></description>
             <link>https://neodb.social/@villasv/posts/389450492346956768/</link>
             <guid isPermaLink="true">https://neodb.social/@villasv/posts/389450492346956768/</guid>
             <pubDate>Tue, 10 Dec 2024 23:17:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Wants to]]></title>
+            <title><![CDATA[Wants to watch]]></title>
             <description><![CDATA[<p>wants to watch <a href="https://neodb.social/~neodb~/tv/season/6RkQhcuFbSxufmxXdziYj3" rel="nofollow">The China Century</a> <br>Recommended to me via knowledge.ca, curious to see how modern China is portrayed by ABC<br></p>]]></description>
             <link>https://neodb.social/@villasv/posts/389450020802063168/</link>
             <guid isPermaLink="true">https://neodb.social/@villasv/posts/389450020802063168/</guid>
