@@ -1,3 +1,4 @@
+import { Feed } from "@/components/feed";
 import { Sidebar } from "@/components/sidebar";
 
 export const metadata = {
@@ -19,5 +20,10 @@ export const metadata = {
 };
 
 export default function Page() {
-  return <Sidebar />;
+  return (
+    <div>
+      <Sidebar />
+      {/* <Feed /> */}
+    </div>
+  );
 }

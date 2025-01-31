@@ -19,12 +19,22 @@ const feed = new RSS({
 });
 
 function getTitle(item) {
-  const title = item.title?.trim();
-  // Use generic "Post" title for Mastodon posts
-  if (!title) return "Comment";
+  const id = item.id || item.guid;
+  const desc = item.description || item.content || item.summary;
+
+  // Use generic title for Mastodon posts
+  if (id.includes("mastodon.social")) {
+    return "Comment"; // TODO: what best describes a mastodon 'tweet' without saying toot?
+  }
+
+  // Use generic title for Pixelfed posts
+  if (id.includes("pxlfd.ca")) {
+    return "Media"; // TODO: what best describes a Pixelfed 'post'
+  }
+
   // Replace NeoDB ugly titles with better ones
-  if (/^.+@neodb\.social #\d+$/.test(title)) {
-    const match = item.description.match(/(wants|started|finished)\s+(\w+)/i);
+  if (id.includes("neodb.social")) {
+    const match = desc.match(/(wants to|started|finished)\s+(\w+)/i);
     if (!match) return "Comment";
     return match
       .slice(1)
@@ -32,13 +42,13 @@ function getTitle(item) {
       .replace(/^\w/, (c) => c.toUpperCase());
   }
 
-  return title;
+  return item.title?.trim() || "Post";
 }
 
 function extractItemData(item) {
   return {
     title: getTitle(item),
-    link: item.link?.href || item.link,
+    link: item.link?.href || item.link || item.id,
     date: new Date(item.updated || item.published || item.pubDate),
     description:
       item.content?.["#text"] ||

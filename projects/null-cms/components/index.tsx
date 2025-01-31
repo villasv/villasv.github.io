@@ -21,8 +21,6 @@ export async function Index({ base }: IndexProps) {
   const rootPath = path.dirname(sanitizedBase);
   const relativeBase = path.basename(sanitizedBase);
   const subPages = await listPages(rootPath, relativeBase);
-  console.log(sanitizedBase);
-  console.log(subPages.map((sp) => sp.relativePath));
   return (
     <div>
       <ol>
