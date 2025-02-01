@@ -4,9 +4,16 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 31 Jan 2025 23:04:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Feb 2025 01:32:12 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2025]]></copyright>
+        <item>
+            <title><![CDATA[Comment]]></title>
+            <description><![CDATA[<p>Red flags growing tall and agitated. So strange to see a psychologist make such a strong case for binary-categorizing people as externalizers and pretty much giving them all flaws and sins of this world.</p><p>The book is very light in citations, so it’s mostly a person stating things. Not just a random person, of course, a professional and domain specialist, but still. Suspiciously thin supporting material. Reads as if written by the kind of therapist that would never not side with their client narrative if said client is  labeled “internalizer”.</p><p>—<br><a href="https://neodb.social/book/6S6nTGAgbE1Qkm1HWGDPIh" rel="nofollow">Adult Children of Emotionally Immature Parents</a> 40%</p>]]></description>
+            <link>https://neodb.social/@villasv/posts/408314013901428304/</link>
+            <guid isPermaLink="true">https://neodb.social/@villasv/posts/408314013901428304/</guid>
+            <pubDate>Sat, 01 Feb 2025 00:34:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Comment]]></title>
             <description><![CDATA[<p>20 years in the <a href="https://mastodon.social/tags/web" class="mention hashtag" rel="tag">#<span>web</span></a> and it&#39;s all still so fragmented. ActivityPub is promising, but is it going to be enough?</p><p>I have to convince my friends to join at least one of <a href="https://mastodon.social/tags/Mastodon" class="mention hashtag" rel="tag">#<span>Mastodon</span></a> or <a href="https://mastodon.social/tags/Pixelfed" class="mention hashtag" rel="tag">#<span>Pixelfed</span></a> to keep in touch. Until they make the crossing we&#39;re practically cut off. I&#39;m seriously thinking of starting a <a href="https://mastodon.social/tags/newsletter" class="mention hashtag" rel="tag">#<span>newsletter</span></a>... <a href="https://mastodon.social/tags/email" class="mention hashtag" rel="tag">#<span>email</span></a> the one open protocol everyone uses.</p><p>Family, workplace, masters, college, high school. In all of my AFK social circles, I&#39;m still the only one here. This is a bit depressing.</p>]]></description>
@@ -291,13 +298,6 @@
             <link>https://neodb.social/@villasv/posts/389450492346956768/</link>
             <guid isPermaLink="true">https://neodb.social/@villasv/posts/389450492346956768/</guid>
             <pubDate>Tue, 10 Dec 2024 23:17:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Wants to watch]]></title>
-            <description><![CDATA[<p>wants to watch <a href="https://neodb.social/~neodb~/tv/season/6RkQhcuFbSxufmxXdziYj3" rel="nofollow">The China Century</a> <br>Recommended to me via knowledge.ca, curious to see how modern China is portrayed by ABC<br></p>]]></description>
-            <link>https://neodb.social/@villasv/posts/389450020802063168/</link>
-            <guid isPermaLink="true">https://neodb.social/@villasv/posts/389450020802063168/</guid>
-            <pubDate>Tue, 10 Dec 2024 23:15:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
