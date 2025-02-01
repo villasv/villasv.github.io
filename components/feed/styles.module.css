@@ -30,9 +30,9 @@
   word-break: break-all;
 }
 
-.feed-item img {
-  max-width: 80%;
+.item .content img {
+  max-width: 90%;
   height: auto;
   display: block;
-  margin: 10px auto;
+  margin: 16px auto;
 }
