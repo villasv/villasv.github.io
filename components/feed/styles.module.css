@@ -26,13 +26,10 @@
   color: #999;
 }
 
-.item .content a {
+/* better line wrap for big urls coming from Mastodon */
+.item .content a span {
   word-break: break-all;
 }
-/*
- * TODO: apply break-all only to span of class ellipsis and invisible
- * TODO: apply display:none to the first span of class invisible (https)
-*/
 
 .item .content img {
   max-width: 90%;
