@@ -27,7 +27,8 @@
 }
 
 /* better line wrap for big urls coming from Mastodon */
-.item .content a span {
+.item .content a :global(span.invisible),
+.item .content a :global(span.ellipsis) {
   word-break: break-all;
 }
 
