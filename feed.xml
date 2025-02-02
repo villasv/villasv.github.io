@@ -4,9 +4,23 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 02 Feb 2025 19:04:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Feb 2025 21:04:18 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2025]]></copyright>
+        <item>
+            <title><![CDATA[Comment]]></title>
+            <description><![CDATA[<p>I posted some photos of my Garibaldi Lake <a href="https://mastodon.social/tags/hike" class="mention hashtag" rel="tag">#<span>hike</span></a> last autumn on <a href="https://mastodon.social/tags/Pixelfed" class="mention hashtag" rel="tag">#<span>Pixelfed</span></a> which is foremost a photo of the lake but also has some pictures of some pretty <a href="https://mastodon.social/tags/mushrooms" class="mention hashtag" rel="tag">#<span>mushrooms</span></a> we’ve seen along the trail.</p><p>The <a href="https://mastodon.social/tags/RSS" class="mention hashtag" rel="tag">#<span>RSS</span></a> feed from Pixelfed includes only the first photo from the carrousel so the hashtags make it look like I was hiking high on mushrooms.</p><p>Not a big deal but it’s a funny example of the design challenges for open platforms that have to support wild ranges of interfaces.</p>]]></description>
+            <link>https://mastodon.social/@villasbc/113935971215174637</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/113935971215174637</guid>
+            <pubDate>Sun, 02 Feb 2025 19:35:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Wants to watch]]></title>
+            <description><![CDATA[<p>wants to watch <a href="https://neodb.social/~neodb~/movie/2oPVNWZ0qu4gxr7N6JJuZm" rel="nofollow">Come from Away</a> <br>Shared by Senator Paula Simons on Mastodon. I’m not big on musicals but this one being Canadian themed fits the moment.<br></p>]]></description>
+            <link>https://neodb.social/@villasv/posts/408956300036454584/</link>
+            <guid isPermaLink="true">https://neodb.social/@villasv/posts/408956300036454584/</guid>
+            <pubDate>Sun, 02 Feb 2025 19:06:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Comment]]></title>
             <description><![CDATA[<p>Red flags growing tall and agitated. So strange to see a psychologist make such a strong case for binary-categorizing people as externalizers and pretty much giving them all flaws and sins of this world.</p><p>The book is very light in citations, so it’s mostly a person stating things. Not just a random person, of course, a professional and domain specialist, but still. Suspiciously thin supporting material. Reads as if written by the kind of therapist that would never not side with their client narrative if said client is  labeled “internalizer”.</p><p>—<br><a href="https://neodb.social/book/6S6nTGAgbE1Qkm1HWGDPIh" rel="nofollow">Adult Children of Emotionally Immature Parents</a> 40%</p>]]></description>
@@ -216,13 +230,6 @@
             <pubDate>Sat, 04 Jan 2025 02:49:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Comment]]></title>
-            <description><![CDATA[<p>This lame timeline is reaching dumbass singularity <a href="https://mstdn.ca/@AlisonCreekside/113765489018782923" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">mstdn.ca/@AlisonCreekside/1137</span><span class="invisible">65489018782923</span></a></p>]]></description>
-            <link>https://mastodon.social/@villasbc/113767517871366517</link>
-            <guid isPermaLink="true">https://mastodon.social/@villasbc/113767517871366517</guid>
-            <pubDate>Sat, 04 Jan 2025 01:35:57 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Finished watching]]></title>
             <description><![CDATA[<p>finished watching <a href="https://neodb.social/~neodb~/tv/6VZQXtGpHKPRLjsnLagZEb" rel="nofollow">Drops of God</a> 🌕🌕🌑🌑🌑  <br>The series starts with a psychosomatic superpower outage, which gets unreasonably resolved in a flash. I don’t understand why the series had to make Camille be so sensitive to alcohol that she bleeds like a fountain after a shot/kiss, proceeds to confirm this to be a result of trauma with a lengthy brain-doctor scene, only to resolve this major life condition in a single moment of clarity. The writers could not make up their mind whether her childhood was traumatic or not, and suddenly it does a 180. Instead of a major trauma, what’s left from her childhood is the bounty of all her training, exposed slowly in a sequence of “time to unlock more true potential” episodes.</p><p>This contortion takes nearly a third the series for no good reason other than an attempt to reconcile common East-Asian tropes (hard training, wisdom of seniors) with common Western tropes (rural rich, sacrifices for success, life scars, youth freedom). It doesn’t work well to me, and for the most part I was more interested in Issei as a character because he was made complex in a similar way but without glaring inconsistencies.<br></p>]]></description>
             <link>https://neodb.social/@villasv/posts/398039015913770840/</link>
@@ -291,13 +298,6 @@
             <link>https://neodb.social/@villasv/posts/391220178467419792/</link>
             <guid isPermaLink="true">https://neodb.social/@villasv/posts/391220178467419792/</guid>
             <pubDate>Sun, 15 Dec 2024 20:29:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Wants to watch]]></title>
-            <description><![CDATA[<p>wants to watch <a href="https://neodb.social/~neodb~/movie/4xl8yuamP3ELqieeC44P4U" rel="nofollow">Your Fat Friend</a> <br>As a a listener of the Maintenance Phase podcast, I look forward to whatever Aubrey Gordon is involved in.<br></p>]]></description>
-            <link>https://neodb.social/@villasv/posts/389450492346956768/</link>
-            <guid isPermaLink="true">https://neodb.social/@villasv/posts/389450492346956768/</guid>
-            <pubDate>Tue, 10 Dec 2024 23:17:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
