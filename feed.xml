@@ -4,9 +4,16 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 03 Feb 2025 19:04:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Feb 2025 21:04:20 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2025]]></copyright>
+        <item>
+            <title><![CDATA[Comment]]></title>
+            <description><![CDATA[<p>So today I was able to post a <a href="https://mastodon.social/tags/Pixelfed" class="mention hashtag" rel="tag">#<span>Pixelfed</span></a> story using a video from my gallery. I thought <a href="https://mastodon.social/tags/iOS" class="mention hashtag" rel="tag">#<span>iOS</span></a> shortcuts would give me an easy way to convert HEVC to MP4 but no dice (possible but not easy). Instead the lowest friction method is to send myself the video using Telegram/WhatsApp and save the output, which is H.264. Quality goes down but it’s the price for now.</p><p>Hoping that HEVC support comes out soon so I can save this work and post crispy videos of snowfall ❄️</p>]]></description>
+            <link>https://mastodon.social/@villasbc/113941880830130750</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/113941880830130750</guid>
+            <pubDate>Mon, 03 Feb 2025 20:38:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Comment]]></title>
             <description><![CDATA[<p>I posted some photos of my Garibaldi Lake <a href="https://mastodon.social/tags/hike" class="mention hashtag" rel="tag">#<span>hike</span></a> last autumn on <a href="https://mastodon.social/tags/Pixelfed" class="mention hashtag" rel="tag">#<span>Pixelfed</span></a> which is foremost a photo of the lake but also has some pictures of some pretty <a href="https://mastodon.social/tags/mushrooms" class="mention hashtag" rel="tag">#<span>mushrooms</span></a> we’ve seen along the trail.</p><p>The <a href="https://mastodon.social/tags/RSS" class="mention hashtag" rel="tag">#<span>RSS</span></a> feed from Pixelfed includes only the first photo from the carrousel so the hashtags make it look like I was hiking high on mushrooms.</p><p>Not a big deal but it’s a funny example of the design challenges for open platforms that have to support wild ranges of interfaces.</p>]]></description>
@@ -199,13 +206,6 @@
             <description><![CDATA[<p>Sounds simple, right? But I only know of one: Monk Mode (<a href="https://apps.apple.com/ca/app/monk-mode/id1561444285" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">apps.apple.com/ca/app/monk-mod</span><span class="invisible">e/id1561444285</span></a>). It’s fine and works for me, but it’s abandoned and would be nice to have a modern version with promising app intents, shortcuts and/or Siri.</p><p><a href="https://mastodon.social/tags/ios" class="mention hashtag" rel="tag">#<span>ios</span></a> <a href="https://mastodon.social/tags/technology" class="mention hashtag" rel="tag">#<span>technology</span></a> (2/2)</p>]]></description>
             <link>https://mastodon.social/@villasbc/113771817896801183</link>
             <guid isPermaLink="true">https://mastodon.social/@villasbc/113771817896801183</guid>
-            <pubDate>Sat, 04 Jan 2025 19:49:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Comment]]></title>
-            <description><![CDATA[<p>Anyone recommends an <a href="https://mastodon.social/tags/AppleWatch" class="mention hashtag" rel="tag">#<span>AppleWatch</span></a> <a href="https://mastodon.social/tags/meditation" class="mention hashtag" rel="tag">#<span>meditation</span></a> app that’s not subscription-based? Something I can do a one time purchase and the only feature that matters is that I can start a timer and when completed the data is added to Apple Health. I don’t even care about heart monitoring data. I only want the mindful minutes counting. (1/2)</p>]]></description>
-            <link>https://mastodon.social/@villasbc/113771817867908512</link>
-            <guid isPermaLink="true">https://mastodon.social/@villasbc/113771817867908512</guid>
             <pubDate>Sat, 04 Jan 2025 19:49:30 GMT</pubDate>
         </item>
         <item>
