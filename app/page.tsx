@@ -1,5 +1,4 @@
 import { Feed } from "@/components/feed";
-import styles from "./styles.module.css";
 
 export const metadata = {
   title: "Victor's Website",

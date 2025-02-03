@@ -76,9 +76,7 @@ export default function Layout({ children }: { children: React.ReactNode }) {
             </div>
           </div>
           <div className={styles.content}>
-            <div className={styles.topbar}>
-              {socials.flatMap((s, i) => [i > 0 ? "//" : "", s])}
-            </div>
+            <div className={styles.topbar}>{...socials}</div>
             {children}
           </div>
         </div>
