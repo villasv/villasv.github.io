@@ -2,19 +2,19 @@ import "./globals.css";
 import styles from "./styles.module.css";
 
 const socials = [
-  <a rel="me" href="https://mastodon.social/@villasbc">
+  <a key={1} rel="me" href="https://mastodon.social/@villasbc">
     💬 Mastodon
   </a>,
-  <a rel="me" href="http://pxlfd.ca/users/victor">
+  <a key={2} rel="me" href="http://pxlfd.ca/users/victor">
     📷 Pixelfed
   </a>,
-  <a rel="me" href="http://neodb.social/users/villasv/">
+  <a key={3} rel="me" href="http://neodb.social/users/villasv/">
     📚 NeoDB
   </a>,
-  <a href="/feed.xml" target="_blank" rel="noopener noreferrer">
+  <a key={4} href="/feed.xml" target="_blank" rel="noopener noreferrer">
     📡 RSS Feed
   </a>,
-  <a>📨 Newsletter</a>,
+  <a key={5}>📨 Newsletter</a>,
 ];
 
 export default function Layout({ children }: { children: React.ReactNode }) {
@@ -57,8 +57,8 @@ export default function Layout({ children }: { children: React.ReactNode }) {
                 </ul>
                 <h2>me elsewhere</h2>
                 <ul>
-                  {socials.map((s) => (
-                    <li>{s}</li>
+                  {socials.map((s, i) => (
+                    <li key={i}>{s}</li>
                   ))}
                   <br />
                   <li>
