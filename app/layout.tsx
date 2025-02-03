@@ -12,7 +12,7 @@ const socials = [
     📚 NeoDB
   </a>,
   <a key={4} href="/feed.xml" target="_blank" rel="noopener noreferrer">
-    📡 RSS Feed
+    📡 RSS
   </a>,
   <a key={5}>📨 Newsletter</a>,
 ];
