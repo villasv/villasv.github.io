@@ -1,0 +1,57 @@
+/* wrapper to contain centered content plus sidebar */
+.wrapper {
+  display: flex;
+  justify-content: center;
+  max-width: 960px;
+  margin: 40px auto 80px auto;
+}
+
+/* floater to contain sidebar with absolute positioning so it doesn't affect the
+calculation of its parent width so content can be centered without sidebar */
+.floater {
+  position: absolute;
+  justify-content: center;
+  width: calc(25%);
+  left: 0;
+}
+/* sidebar centered inside the floater to have it somewhat responsive */
+.sidebar {
+  width: 240px;
+  font-size: 16px;
+  margin: 28px auto 0 auto;
+}
+.sidebar ul {
+  list-style: none;
+}
+
+/* sidebar should not show if the window is too narrow */
+@media (max-width: 1280px) {
+  .sidebar {
+    display: none;
+  }
+}
+
+.content {
+  max-width: 720px;
+  margin: 0 auto 0 auto;
+}
+.content a {
+  text-decoration: underline;
+}
+
+/* alternative to the sidebar for narrow windows, a compact "topbar" */
+.topbar {
+  font-size: 12px;
+  display: flex;
+  justify-content: center;
+}
+.content .topbar a {
+  text-decoration: none;
+  margin: 0px 4px;
+}
+/* topbar should not show if the window is large enough for a sidebar */
+@media (min-width: 1281px) {
+  .topbar {
+    display: none;
+  }
+}
