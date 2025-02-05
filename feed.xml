@@ -4,9 +4,16 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 05 Feb 2025 19:04:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Feb 2025 21:04:26 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2025]]></copyright>
+        <item>
+            <title><![CDATA[Comment]]></title>
+            <description><![CDATA[<p>Winter cycling can be amazing.</p><p><a href="https://mastodon.social/tags/wintercycling" class="mention hashtag" rel="tag">#<span>wintercycling</span></a> <a href="https://mastodon.social/tags/bikecommute" class="mention hashtag" rel="tag">#<span>bikecommute</span></a> <a href="https://mastodon.social/tags/cycling" class="mention hashtag" rel="tag">#<span>cycling</span></a> <a href="https://mastodon.social/tags/vancouver" class="mention hashtag" rel="tag">#<span>vancouver</span></a></p>]]></description>
+            <link>https://mastodon.social/@villasbc/113952448621107287</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/113952448621107287</guid>
+            <pubDate>Wed, 05 Feb 2025 17:26:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Comment]]></title>
             <description><![CDATA[<p>OK, kind of giving up on <a href="https://mastodon.social/tags/Pixelfed" class="mention hashtag" rel="tag">#<span>Pixelfed</span></a> for videos for now. Video format hassles and UI complications aside, I just realized that video posts are not federating and are not visible in the RSS feed.</p><p>This combination is a dealbreaker for an <a href="https://mastodon.social/tags/Instagram" class="mention hashtag" rel="tag">#<span>Instagram</span></a> replacement for me, so I guess I’ll be dumping would-be stories into Mastodon directly for a while to see how it goes.</p>]]></description>
@@ -193,13 +200,6 @@
             <link>https://mastodon.social/@villasbc/113795471843671992</link>
             <guid isPermaLink="true">https://mastodon.social/@villasbc/113795471843671992</guid>
             <pubDate>Thu, 09 Jan 2025 00:05:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Comment]]></title>
-            <description><![CDATA[<p><a href="https://mastodon.social/tags/Questrade" class="mention hashtag" rel="tag">#<span>Questrade</span></a> running YouTube ads telling me that renting a condo (instead of buying a house with a yard) is for suckers. For a company that tries to self position in opposition to the big banks, they sure are holding hands in financial illiteracy.</p>]]></description>
-            <link>https://mastodon.social/@villasbc/113782472097044322</link>
-            <guid isPermaLink="true">https://mastodon.social/@villasbc/113782472097044322</guid>
-            <pubDate>Mon, 06 Jan 2025 16:59:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Started reading]]></title>
