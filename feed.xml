@@ -4,9 +4,16 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 05 Feb 2025 01:32:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Feb 2025 05:05:00 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2025]]></copyright>
+        <item>
+            <title><![CDATA[Comment]]></title>
+            <description><![CDATA[<p>OK, kind of giving up on <a href="https://mastodon.social/tags/Pixelfed" class="mention hashtag" rel="tag">#<span>Pixelfed</span></a> for videos for now. Video format hassles and UI complications aside, I just realized that video posts are not federating and are not visible in the RSS feed.</p><p>This combination is a dealbreaker for an <a href="https://mastodon.social/tags/Instagram" class="mention hashtag" rel="tag">#<span>Instagram</span></a> replacement for me, so I guess I’ll be dumping would-be stories into Mastodon directly for a while to see how it goes.</p>]]></description>
+            <link>https://mastodon.social/@villasbc/113949325108277817</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/113949325108277817</guid>
+            <pubDate>Wed, 05 Feb 2025 04:11:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Comment]]></title>
             <description><![CDATA[<p>So today I was able to post a <a href="https://mastodon.social/tags/Pixelfed" class="mention hashtag" rel="tag">#<span>Pixelfed</span></a> story using a video from my gallery. I thought <a href="https://mastodon.social/tags/iOS" class="mention hashtag" rel="tag">#<span>iOS</span></a> shortcuts would give me an easy way to convert HEVC to MP4 but no dice (possible but not easy). Instead the lowest friction method is to send myself the video using Telegram/WhatsApp and save the output, which is H.264. Quality goes down but it’s the price for now.</p><p>Hoping that HEVC support comes out soon so I can save this work and post crispy videos of snowfall ❄️</p>]]></description>
@@ -200,13 +207,6 @@
             <link>https://neodb.social/@villasv/posts/398905288616769496/</link>
             <guid isPermaLink="true">https://neodb.social/@villasv/posts/398905288616769496/</guid>
             <pubDate>Mon, 06 Jan 2025 01:27:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Comment]]></title>
-            <description><![CDATA[<p>Sounds simple, right? But I only know of one: Monk Mode (<a href="https://apps.apple.com/ca/app/monk-mode/id1561444285" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">apps.apple.com/ca/app/monk-mod</span><span class="invisible">e/id1561444285</span></a>). It’s fine and works for me, but it’s abandoned and would be nice to have a modern version with promising app intents, shortcuts and/or Siri.</p><p><a href="https://mastodon.social/tags/ios" class="mention hashtag" rel="tag">#<span>ios</span></a> <a href="https://mastodon.social/tags/technology" class="mention hashtag" rel="tag">#<span>technology</span></a> (2/2)</p>]]></description>
-            <link>https://mastodon.social/@villasbc/113771817896801183</link>
-            <guid isPermaLink="true">https://mastodon.social/@villasbc/113771817896801183</guid>
-            <pubDate>Sat, 04 Jan 2025 19:49:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Finished reading]]></title>
