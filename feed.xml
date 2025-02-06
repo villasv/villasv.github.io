@@ -4,9 +4,19 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 06 Feb 2025 07:05:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Feb 2025 09:05:06 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2025]]></copyright>
+        <item>
+            <title><![CDATA[Media]]></title>
+            <description><![CDATA[
+			<img id="rss_item_793017654934515063" src="https://pxlfd.s3.bhs.io.cloud.ovh.net/public/m/_v2/787457243232363937/758e75a50-ddd61a/I9e90b5zk5zJ/bjuoC2g20iNl7mWY6cdqwOM45oc8QWPlRfesrD5n.jpg" alt="Me and Aline side by side smiling in Whistler Village">
+			<p style="padding:10px;">Happy as if it's sunny in Whistler</p>
+			]]></description>
+            <link>https://pxlfd.ca/p/victor/793017654934515063</link>
+            <guid isPermaLink="true">https://pxlfd.ca/p/victor/793017654934515063</guid>
+            <pubDate>Thu, 06 Feb 2025 07:29:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Comment]]></title>
             <description><![CDATA[<p>Winter cycling can be amazing.</p><p><a href="https://mastodon.social/tags/wintercycling" class="mention hashtag" rel="tag">#<span>wintercycling</span></a> <a href="https://mastodon.social/tags/bikecommute" class="mention hashtag" rel="tag">#<span>bikecommute</span></a> <a href="https://mastodon.social/tags/cycling" class="mention hashtag" rel="tag">#<span>cycling</span></a> <a href="https://mastodon.social/tags/vancouver" class="mention hashtag" rel="tag">#<span>vancouver</span></a></p>]]></description>
@@ -66,7 +76,7 @@
         <item>
             <title><![CDATA[Media]]></title>
             <description><![CDATA[
-			<img id="rss_item_790660117523971543" src="https://pxlfd.s3.bhs.io.cloud.ovh.net/public/m/_v2/787457243232363937/634f2a4e4-291f24/QEriBUTkNnpz/gYK4MXujDdmEaCp0CmkAT85AxSzm3bdTDNkU0DLu.jpg" alt="">
+			<img id="rss_item_790660117523971543" src="https://pxlfd.s3.bhs.io.cloud.ovh.net/public/m/_v2/787457243232363937/634f2a4e4-291f24/QEriBUTkNnpz/gYK4MXujDdmEaCp0CmkAT85AxSzm3bdTDNkU0DLu.jpg" alt="A view of the lake under a cold and cloudy gray sky">
 			<p style="padding:10px;">Garibaldi Lake Trail<br />
 <br />
 <a href="https://pxlfd.ca/discover/tags/hiking?src=hash" title="#hiking" class="u-url hashtag" rel="external nofollow noopener">#hiking</a> <a href="https://pxlfd.ca/discover/tags/mushrooms?src=hash" title="#mushrooms" class="u-url hashtag" rel="external nofollow noopener">#mushrooms</a> <a href="https://pxlfd.ca/discover/tags/coldweather?src=hash" title="#coldweather" class="u-url hashtag" rel="external nofollow noopener">#coldweather</a> <a href="https://pxlfd.ca/discover/tags/graydays?src=hash" title="#graydays" class="u-url hashtag" rel="external nofollow noopener">#graydays</a></p>
