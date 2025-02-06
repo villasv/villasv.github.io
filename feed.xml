@@ -4,16 +4,9 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 06 Feb 2025 01:32:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Feb 2025 05:05:14 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2025]]></copyright>
-        <item>
-            <title><![CDATA[Comment]]></title>
-            <description><![CDATA[<p>Aproveitando essa <a href="https://mastodon.social/tags/QuartaCapa" class="mention hashtag" rel="tag">#<span>QuartaCapa</span></a> de livros acadêmicos, qual é o material moderno para aprender mais sobre a nossa gramática?</p><p>Não é pra concurso, é só para (re-?)aprender mesmo.</p>]]></description>
-            <link>https://mastodon.social/@villasbc/113953665574394468</link>
-            <guid isPermaLink="true">https://mastodon.social/@villasbc/113953665574394468</guid>
-            <pubDate>Wed, 05 Feb 2025 22:35:45 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Comment]]></title>
             <description><![CDATA[<p>Winter cycling can be amazing.</p><p><a href="https://mastodon.social/tags/wintercycling" class="mention hashtag" rel="tag">#<span>wintercycling</span></a> <a href="https://mastodon.social/tags/bikecommute" class="mention hashtag" rel="tag">#<span>bikecommute</span></a> <a href="https://mastodon.social/tags/cycling" class="mention hashtag" rel="tag">#<span>cycling</span></a> <a href="https://mastodon.social/tags/vancouver" class="mention hashtag" rel="tag">#<span>vancouver</span></a></p>]]></description>
@@ -200,6 +193,13 @@
             <link>https://mastodon.social/@villasbc/113807135632893658</link>
             <guid isPermaLink="true">https://mastodon.social/@villasbc/113807135632893658</guid>
             <pubDate>Sat, 11 Jan 2025 01:31:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Comment]]></title>
+            <description><![CDATA[<p><a href="https://mastodon.social/tags/QuartaCapa" class="mention hashtag" rel="tag">#<span>QuartaCapa</span></a> sobre mudar de opinião… 40 Ways To Be Miserable me convenceu que existe livro de autoajuda que presta.</p><p>E Simple Path to Wealth me convenceu a parar de me achar esperto e só fazer o que todo mundo deveria fazer com os investimentos. <a href="https://social.vivaldi.net/@quartacapa/113790676886711394" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">social.vivaldi.net/@quartacapa</span><span class="invisible">/113790676886711394</span></a></p>]]></description>
+            <link>https://mastodon.social/@villasbc/113795471843671992</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/113795471843671992</guid>
+            <pubDate>Thu, 09 Jan 2025 00:05:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Started reading]]></title>
