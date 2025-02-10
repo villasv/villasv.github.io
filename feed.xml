@@ -4,9 +4,16 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 10 Feb 2025 05:05:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Feb 2025 07:05:11 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2025]]></copyright>
+        <item>
+            <title><![CDATA[Wants to watch]]></title>
+            <description><![CDATA[<p>wants to watch <a href="https://neodb.social/~neodb~/movie/53EW7sfathqfQicSZQg6p7" rel="nofollow">The Necessities of Life</a> </p><p></p>]]></description>
+            <link>https://neodb.social/@villasv/posts/411671506209555408/</link>
+            <guid isPermaLink="true">https://neodb.social/@villasv/posts/411671506209555408/</guid>
+            <pubDate>Mon, 10 Feb 2025 06:55:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Wants to read]]></title>
             <description><![CDATA[<p>wants to read <a href="https://neodb.social/~neodb~/book/0Oozr0MFkyNaLzlE1cczNf" rel="nofollow">Let&#x27;s Talk About Aging Parents: A Real-Life Guide to Solving Problems with 27 Essential Conversations</a> <br>I was not expecting to be involved with this material in my 30s, but since COVID happened never has mortality really left the rotation of late night reflections so here we are.<br></p>]]></description>
@@ -301,13 +308,6 @@
             <link>https://neodb.social/@villasv/posts/394969060217674128/</link>
             <guid isPermaLink="true">https://neodb.social/@villasv/posts/394969060217674128/</guid>
             <pubDate>Thu, 26 Dec 2024 04:46:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Finished watching]]></title>
-            <description><![CDATA[<p>finished watching <a href="https://neodb.social/~neodb~/movie/2ihdXqHhI57WYoxVj7GpmU" rel="nofollow">The Wizard of Oz</a> 🌕🌕🌕🌗🌑  <br>Re-watched this classic to have more context for the newly launched Wicked. I now remember why I disliked the lion.<br></p>]]></description>
-            <link>https://neodb.social/@villasv/posts/394968446730943184/</link>
-            <guid isPermaLink="true">https://neodb.social/@villasv/posts/394968446730943184/</guid>
-            <pubDate>Thu, 26 Dec 2024 04:43:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
