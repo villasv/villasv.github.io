@@ -4,9 +4,16 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 10 Feb 2025 23:04:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Feb 2025 01:31:58 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2025]]></copyright>
+        <item>
+            <title><![CDATA[Comment]]></title>
+            <description><![CDATA[<p>Unfortunately NA motonormativity runs so deep that I won’t live to see this here. Maybe congestion pricing if I’m lucky. <a href="https://mastodon.nl/@rrustema020/113981240845244201" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">mastodon.nl/@rrustema020/11398</span><span class="invisible">1240845244201</span></a></p>]]></description>
+            <link>https://mastodon.social/@villasbc/113982241788234830</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/113982241788234830</guid>
+            <pubDate>Mon, 10 Feb 2025 23:43:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Wants to watch]]></title>
             <description><![CDATA[<p>wants to watch <a href="https://neodb.social/~neodb~/movie/53EW7sfathqfQicSZQg6p7" rel="nofollow">The Necessities of Life</a> </p><p></p>]]></description>
@@ -231,13 +238,6 @@
             <link>https://mastodon.social/@villasbc/113807135632893658</link>
             <guid isPermaLink="true">https://mastodon.social/@villasbc/113807135632893658</guid>
             <pubDate>Sat, 11 Jan 2025 01:31:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Comment]]></title>
-            <description><![CDATA[<p><a href="https://mastodon.social/tags/QuartaCapa" class="mention hashtag" rel="tag">#<span>QuartaCapa</span></a> sobre mudar de opinião… 40 Ways To Be Miserable me convenceu que existe livro de autoajuda que presta.</p><p>E Simple Path to Wealth me convenceu a parar de me achar esperto e só fazer o que todo mundo deveria fazer com os investimentos. <a href="https://social.vivaldi.net/@quartacapa/113790676886711394" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">social.vivaldi.net/@quartacapa</span><span class="invisible">/113790676886711394</span></a></p>]]></description>
-            <link>https://mastodon.social/@villasbc/113795471843671992</link>
-            <guid isPermaLink="true">https://mastodon.social/@villasbc/113795471843671992</guid>
-            <pubDate>Thu, 09 Jan 2025 00:05:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Started reading]]></title>
