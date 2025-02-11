@@ -4,9 +4,16 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 11 Feb 2025 15:05:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Feb 2025 17:04:39 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2025]]></copyright>
+        <item>
+            <title><![CDATA[Wants to read]]></title>
+            <description><![CDATA[<p>wants to read <a href="https://neodb.social/~neodb~/book/3udEvou1qB6GS2lHtl0wFx" rel="nofollow">The Anthropologists</a> </p><p></p>]]></description>
+            <link>https://neodb.social/@villasv/posts/412168977110410464/</link>
+            <guid isPermaLink="true">https://neodb.social/@villasv/posts/412168977110410464/</guid>
+            <pubDate>Tue, 11 Feb 2025 15:52:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Comment]]></title>
             <description><![CDATA[<p>Anthropomorphism has an opposite: Anthropectomy is the practice of withholding human characteristics from other animals.</p><p>—<br><a href="https://neodb.social/book/77foTxelPVvkedcPcgl1ZM" rel="nofollow">Playing Possum</a> 25%</p>]]></description>
@@ -301,13 +308,6 @@
             <link>https://neodb.social/@villasv/posts/397533937362013192/</link>
             <guid isPermaLink="true">https://neodb.social/@villasv/posts/397533937362013192/</guid>
             <pubDate>Thu, 02 Jan 2025 06:37:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Wants to read]]></title>
-            <description><![CDATA[<p>wants to read <a href="https://neodb.social/~neodb~/book/2tLqcslB6PRlvHLynRfP1t" rel="nofollow">Paved Paradise: How Parking Explains the World</a> <br>Shared by a Vision Zero friend<br></p>]]></description>
-            <link>https://neodb.social/@villasv/posts/395344348363117240/</link>
-            <guid isPermaLink="true">https://neodb.social/@villasv/posts/395344348363117240/</guid>
-            <pubDate>Fri, 27 Dec 2024 05:37:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
