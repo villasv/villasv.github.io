@@ -1,7 +1,7 @@
 import "./globals.css";
 import styles from "./styles.module.css";
 
-const socials = [
+const links = [
   <a key={1} rel="me" href="https://mastodon.social/@villasbc">
     💬 Mastodon
   </a>,
@@ -14,7 +14,10 @@ const socials = [
   <a key={4} href="/feed.xml" target="_blank" rel="noopener noreferrer">
     📡 RSS
   </a>,
-  <a key={5}>📨 Newsletter</a>,
+  <a key={5}>📨 Newsletter (WIP)</a>,
+  <a key={6} href="/notes">
+    📓 Notes
+  </a>,
 ];
 
 export default function Layout({ children }: { children: React.ReactNode }) {
@@ -57,7 +60,7 @@ export default function Layout({ children }: { children: React.ReactNode }) {
                 </ul>
                 <h2>me elsewhere</h2>
                 <ul>
-                  {socials.map((s, i) => (
+                  {links.map((s, i) => (
                     <li key={i}>{s}</li>
                   ))}
                   <br />
@@ -76,7 +79,7 @@ export default function Layout({ children }: { children: React.ReactNode }) {
             </div>
           </div>
           <div className={styles.content}>
-            <div className={styles.topbar}>{...socials}</div>
+            <div className={styles.topbar}>{...links}</div>
             {children}
           </div>
         </div>
