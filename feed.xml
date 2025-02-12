@@ -4,9 +4,23 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 12 Feb 2025 15:05:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Feb 2025 17:04:35 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2025]]></copyright>
+        <item>
+            <title><![CDATA[Comment]]></title>
+            <description><![CDATA[<p>cc <span class="h-card" translate="no"><a href="https://social.growyourown.services/@FediTips" class="u-url mention">@<span>FediTips</span></a></span></p>]]></description>
+            <link>https://mastodon.social/@villasbc/113991867737657727</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/113991867737657727</guid>
+            <pubDate>Wed, 12 Feb 2025 16:31:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Comment]]></title>
+            <description><![CDATA[<p>Anyone out there working on <a href="https://mastodon.social/tags/fediverse" class="mention hashtag" rel="tag">#<span>fediverse</span></a> Strava/Slopes/etc?</p>]]></description>
+            <link>https://mastodon.social/@villasbc/113991866320635459</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/113991866320635459</guid>
+            <pubDate>Wed, 12 Feb 2025 16:30:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Comment]]></title>
             <description><![CDATA[<p>A little bit of trumpology doesn’t really calm my nerves but at least things that were incomprehensible horrors are now merely horrors.</p><p><a href="https://mastodon.social/tags/CanPoli" class="mention hashtag" rel="tag">#<span>CanPoli</span></a> <a href="https://mastodon.social/tags/USPol" class="mention hashtag" rel="tag">#<span>USPol</span></a> <a href="https://mastodon.online/@justinling/113986221558762208" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">mastodon.online/@justinling/11</span><span class="invisible">3986221558762208</span></a></p>]]></description>
@@ -238,20 +252,6 @@
             <link>https://mastodon.social/@villasbc/113839294584167631</link>
             <guid isPermaLink="true">https://mastodon.social/@villasbc/113839294584167631</guid>
             <pubDate>Thu, 16 Jan 2025 17:49:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Comment]]></title>
-            <description><![CDATA[<p>How much of a dirtbag you need to be to cause your lawyer to fire you as a client and smear your name?</p><p>This guy probably has a hundred times the capacity for self censorship than that of the average human being and he still chose to lead with that. <a href="https://infosec.exchange/@kurtseifried/113828141997311874" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">infosec.exchange/@kurtseifried</span><span class="invisible">/113828141997311874</span></a></p>]]></description>
-            <link>https://mastodon.social/@villasbc/113833229264510802</link>
-            <guid isPermaLink="true">https://mastodon.social/@villasbc/113833229264510802</guid>
-            <pubDate>Wed, 15 Jan 2025 16:07:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Comment]]></title>
-            <description><![CDATA[<p>Ah yes the main quality of immigrants… the need to survive immersed in systemic oppression.</p><p>And to this day this rhetoric survives in the form of “they’re taking away our unskilled jobs!” <a href="https://mastodon.social/@antiquated/113827624657335818" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">mastodon.social/@antiquated/11</span><span class="invisible">3827624657335818</span></a></p>]]></description>
-            <link>https://mastodon.social/@villasbc/113828546393617646</link>
-            <guid isPermaLink="true">https://mastodon.social/@villasbc/113828546393617646</guid>
-            <pubDate>Tue, 14 Jan 2025 20:16:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Started reading]]></title>
