@@ -60,7 +60,10 @@ export default function Layout({ children }: { children: React.ReactNode }) {
             </div>
           </div>
           <div className={styles.content}>
-            <div className={styles.topbar}>{...links}</div>
+            <div className={styles.topbar}>
+              <a href="/">📒 Updates</a>
+              {...links}
+            </div>
             {children}
           </div>
         </div>
