@@ -4,9 +4,16 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 13 Feb 2025 19:04:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Feb 2025 21:04:26 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2025]]></copyright>
+        <item>
+            <title><![CDATA[Comment]]></title>
+            <description><![CDATA[<p>Stupid truck kills person, Mounties issue warning, people continue getting stupider trucks, police gets more budget.</p><p>Just North America things. <a href="https://flipboard.com/@cbcnews/british-columbia-i8sdok9nz/-/a-Zofdnf4GQcqozM--QyII-g%3Aa%3A107108217-%2F0" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">flipboard.com/@cbcnews/british</span><span class="invisible">-columbia-i8sdok9nz/-/a-Zofdnf4GQcqozM--QyII-g%3Aa%3A107108217-%2F0</span></a></p>]]></description>
+            <link>https://mastodon.social/@villasbc/113998317621155847</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/113998317621155847</guid>
+            <pubDate>Thu, 13 Feb 2025 19:51:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Comment]]></title>
             <description><![CDATA[<p>This is incredible. Super timely. I just watched a <span class="h-card" translate="no"><a href="https://mstdn.social/@fedihost" class="u-url mention">@<span>fedihost</span></a></span> podcast about the challenge of bringing I cities to the fediverse and this kind of grassroots effort is blowing my mind on its effectiveness. <a href="https://socialbc.ca/@chris/113980763976318326" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">socialbc.ca/@chris/11398076397</span><span class="invisible">6318326</span></a></p>]]></description>
@@ -245,13 +252,6 @@
             <link>https://mastodon.social/@villasbc/113875511646921065</link>
             <guid isPermaLink="true">https://mastodon.social/@villasbc/113875511646921065</guid>
             <pubDate>Thu, 23 Jan 2025 03:20:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Comment]]></title>
-            <description><![CDATA[<p>I was hoping to self host before migrating to minimize how many times I migrate accounts, but I can’t keep supporting Meta just because it takes me ages to figure out how to build Pixelfed images :-)</p><p>So <a href="https://pxlfd.ca/victor" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="">pxlfd.ca/victor</span><span class="invisible"></span></a> is my new home for oversharing moments and amateurish photography 🎉 hit me up over there or reply with your profile so I can populate my feed with the right people 🙏 </p><p><a href="https://mastodon.social/tags/SocialBC" class="mention hashtag" rel="tag">#<span>SocialBC</span></a></p>]]></description>
-            <link>https://mastodon.social/@villasbc/113870181720740706</link>
-            <guid isPermaLink="true">https://mastodon.social/@villasbc/113870181720740706</guid>
-            <pubDate>Wed, 22 Jan 2025 04:44:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Started reading]]></title>
