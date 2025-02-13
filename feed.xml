@@ -4,9 +4,16 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 13 Feb 2025 21:04:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Feb 2025 23:04:53 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2025]]></copyright>
+        <item>
+            <title><![CDATA[Comment]]></title>
+            <description><![CDATA[<p>Decentralized social media still has a lot of rough edges but the email analogy the concrete tips go a long way. <a href="https://video.fedihost.co/videos/watch/2fdb8e23-6ef1-4cac-853d-a5e104ba82cb" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">video.fedihost.co/videos/watch</span><span class="invisible">/2fdb8e23-6ef1-4cac-853d-a5e104ba82cb</span></a></p>]]></description>
+            <link>https://mastodon.social/@villasbc/113998664608163112</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/113998664608163112</guid>
+            <pubDate>Thu, 13 Feb 2025 21:19:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Comment]]></title>
             <description><![CDATA[<p>Stupid truck kills person, Mounties issue warning, people continue getting stupider trucks, police gets more budget.</p><p>Just North America things. <a href="https://flipboard.com/@cbcnews/british-columbia-i8sdok9nz/-/a-Zofdnf4GQcqozM--QyII-g%3Aa%3A107108217-%2F0" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">flipboard.com/@cbcnews/british</span><span class="invisible">-columbia-i8sdok9nz/-/a-Zofdnf4GQcqozM--QyII-g%3Aa%3A107108217-%2F0</span></a></p>]]></description>
@@ -245,13 +252,6 @@
             <link>https://mastodon.social/@villasbc/113882054356775790</link>
             <guid isPermaLink="true">https://mastodon.social/@villasbc/113882054356775790</guid>
             <pubDate>Fri, 24 Jan 2025 07:04:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Comment]]></title>
-            <description><![CDATA[<p>Any <a href="https://mastodon.social/tags/pixelfed" class="mention hashtag" rel="tag">#<span>pixelfed</span></a> wizard out there knows what&#39;s up with Instagram import? Can&#39;t make it work for the life of me, it&#39;s a fresh IG export, v0.12.4 Pixelfed instance. All I get is &quot;Invalid import archive&quot;.</p><p>Looks like this issue is common but I found no reproducible workarounds out there.</p>]]></description>
-            <link>https://mastodon.social/@villasbc/113875511646921065</link>
-            <guid isPermaLink="true">https://mastodon.social/@villasbc/113875511646921065</guid>
-            <pubDate>Thu, 23 Jan 2025 03:20:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Started reading]]></title>
