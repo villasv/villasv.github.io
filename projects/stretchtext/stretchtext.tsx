@@ -82,6 +82,9 @@ export function Blockquote({ children }: PropsWithChildren): React.JSX.Element {
   return <span className={styles.blockquote}>{children}</span>;
 }
 
-export function stretchable(short: ReactNode, long: ReactNode): React.JSX.Element {
+export function stretchable(
+  short: ReactNode,
+  long: ReactNode,
+): React.JSX.Element {
   return <StretchText wrap={short}>{long}</StretchText>;
 }

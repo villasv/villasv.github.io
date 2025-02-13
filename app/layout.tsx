@@ -2,21 +2,21 @@ import "./globals.css";
 import styles from "./styles.module.css";
 
 const links = [
-  <a key={1} rel="me" href="https://mastodon.social/@villasbc">
-    💬 Mastodon
+  <a key={1} href="/notes">
+    📓 Notes
   </a>,
-  <a key={2} rel="me" href="http://pxlfd.ca/users/victor">
-    📷 Pixelfed
-  </a>,
-  <a key={3} rel="me" href="http://neodb.social/users/villasv/">
-    📚 NeoDB
-  </a>,
-  <a key={4} href="/feed.xml" target="_blank" rel="noopener noreferrer">
+  <a key={2} href="/feed.xml" target="_blank" rel="noopener noreferrer">
     📡 RSS
   </a>,
-  <a key={5}>📨 Newsletter (WIP)</a>,
-  <a key={6} href="/notes">
-    📓 Notes
+  <a key={3}>📨 Newsletter (WIP)</a>,
+  <a key={4} rel="me" href="https://mastodon.social/@villasbc">
+    💬 Mastodon
+  </a>,
+  <a key={5} rel="me" href="http://pxlfd.ca/users/victor">
+    📷 Pixelfed
+  </a>,
+  <a key={6} rel="me" href="http://neodb.social/users/villasv/">
+    📚 NeoDB
   </a>,
 ];
 
@@ -38,32 +38,13 @@ export default function Layout({ children }: { children: React.ReactNode }) {
                   💻 Paying bills with software
                 </p>
                 <ul>
-                  {/* <li>🔗 Husband,</li>
-                      <li>
-                        <a href="/civil">🗳️ citizen</a>,
-                      </li>
-                      <li>
-                        <a href="/outdoor">🗺️ outdoorsy</a>,
-                      </li>
-                      <li>
-                        <a href="/coffee">☕ barista</a>,
-                      </li>
-                      <li>
-                        <a href="/food">🥘 cook</a>,
-                      </li>
-                      <li>
-                        <a href="/tech">🔩 tinkerer</a>,
-                      </li>
-                      <li>
-                        <a href="/words">📝 writer</a>.
-                      </li> */}
-                </ul>
-                <h2>me elsewhere</h2>
-                <ul>
                   {links.map((s, i) => (
                     <li key={i}>{s}</li>
                   ))}
                   <br />
+                </ul>
+                <h2>me elsewhere</h2>
+                <ul>
                   <li>
                     <a rel="me" href="mailto:mail@victor.villas">
                       📧 Email

@@ -24,6 +24,12 @@
       "@/*": ["./*"]
     }
   },
-  "include": ["**/*.ts", "**/*.tsx", ".next/types/**/*.ts", "scripts/generate-rss.js"],
+  "include": [
+    "**/*.ts",
+    "**/*.tsx",
+    ".next/types/**/*.ts",
+    "scripts/generate-rss.js",
+    "app/notes/now/page.mdx"
+  ],
   "exclude": ["node_modules", "scripts"]
 }

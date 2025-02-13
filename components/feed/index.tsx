@@ -40,7 +40,10 @@ export function Feed() {
               {item.title || "Untitled Post"}
             </a>
             <p className={styles.datetime}>{dateFormat(item)}</p>
-            <div className={styles.content} dangerouslySetInnerHTML={{ __html: item.description }} />
+            <div
+              className={styles.content}
+              dangerouslySetInnerHTML={{ __html: item.description }}
+            />
           </li>
         ))}
       </ul>

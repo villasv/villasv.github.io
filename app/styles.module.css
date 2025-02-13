@@ -49,7 +49,7 @@ calculation of its parent width so content can be centered without sidebar */
 .content .topbar a {
   text-decoration: none;
   margin: 0px 4px;
-  white-space: nowrap
+  white-space: nowrap;
 }
 /* topbar should not show if the window is large enough for a sidebar */
 @media (min-width: 1281px) {
