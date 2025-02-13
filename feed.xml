@@ -4,9 +4,16 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 13 Feb 2025 17:04:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Feb 2025 19:04:30 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2025]]></copyright>
+        <item>
+            <title><![CDATA[Comment]]></title>
+            <description><![CDATA[<p>This is incredible. Super timely. I just watched a <span class="h-card" translate="no"><a href="https://mstdn.social/@fedihost" class="u-url mention">@<span>fedihost</span></a></span> podcast about the challenge of bringing I cities to the fediverse and this kind of grassroots effort is blowing my mind on its effectiveness. <a href="https://socialbc.ca/@chris/113980763976318326" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">socialbc.ca/@chris/11398076397</span><span class="invisible">6318326</span></a></p>]]></description>
+            <link>https://mastodon.social/@villasbc/113997704118472732</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/113997704118472732</guid>
+            <pubDate>Thu, 13 Feb 2025 17:15:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Comment]]></title>
             <description><![CDATA[<p>cc <span class="h-card" translate="no"><a href="https://social.growyourown.services/@FediTips" class="u-url mention">@<span>FediTips</span></a></span></p>]]></description>
@@ -245,13 +252,6 @@
             <link>https://mastodon.social/@villasbc/113870181720740706</link>
             <guid isPermaLink="true">https://mastodon.social/@villasbc/113870181720740706</guid>
             <pubDate>Wed, 22 Jan 2025 04:44:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Comment]]></title>
-            <description><![CDATA[<p>Reminds me of “The God that Failed” by Metallica, understanding its lyrics was a turning point in my teenage years <a href="https://mastodon.social/@antiquated/113836322931181773" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">mastodon.social/@antiquated/11</span><span class="invisible">3836322931181773</span></a></p>]]></description>
-            <link>https://mastodon.social/@villasbc/113839294584167631</link>
-            <guid isPermaLink="true">https://mastodon.social/@villasbc/113839294584167631</guid>
-            <pubDate>Thu, 16 Jan 2025 17:49:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Started reading]]></title>
