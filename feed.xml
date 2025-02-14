@@ -4,9 +4,16 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 14 Feb 2025 17:04:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Feb 2025 19:04:33 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2025]]></copyright>
+        <item>
+            <title><![CDATA[Comment]]></title>
+            <description><![CDATA[<p><a href="https://mastodon.social/tags/Pixelfed" class="mention hashtag" rel="tag">#<span>Pixelfed</span></a> seems to have good momentum, as dan continues to churn out code at a wild pace.</p><p>Still, it’s still quite not there as an Instagram replacement for me, and I’m afraid the project is competing for attention with Loops, the other project from same author.</p><p>So I have been looking for alternatives, and today I found out about <span class="h-card" translate="no"><a href="https://frequency.app/@frequency" class="u-url mention">@<span>frequency</span></a></span>: open source backend is a mastodon fork, polished app, friendly and sensible maintainers. Following it closely 👀 <a href="https://mastodon.social/@jesseplusplus/113891449411033309" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">mastodon.social/@jesseplusplus</span><span class="invisible">/113891449411033309</span></a></p>]]></description>
+            <link>https://mastodon.social/@villasbc/114003711408691178</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/114003711408691178</guid>
+            <pubDate>Fri, 14 Feb 2025 18:43:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Comment]]></title>
             <description><![CDATA[<p>My <a href="https://mastodon.social/tags/introduction" class="mention hashtag" rel="tag">#<span>introduction</span></a> post is actually a page that I&#39;ll be trying (not too hard) to keep up to date:</p><p><a href="https://victor.villas/notes/now" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="">victor.villas/notes/now</span><span class="invisible"></span></a></p><p>These days I decided that saying what I&#39;m up to is more important than trying to state who I am.</p>]]></description>
@@ -34,13 +41,6 @@
             <link>https://mastodon.social/@villasbc/113997704118472732</link>
             <guid isPermaLink="true">https://mastodon.social/@villasbc/113997704118472732</guid>
             <pubDate>Thu, 13 Feb 2025 17:15:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Comment]]></title>
-            <description><![CDATA[<p>cc <span class="h-card" translate="no"><a href="https://social.growyourown.services/@FediTips" class="u-url mention">@<span>FediTips</span></a></span></p>]]></description>
-            <link>https://mastodon.social/@villasbc/113991867737657727</link>
-            <guid isPermaLink="true">https://mastodon.social/@villasbc/113991867737657727</guid>
-            <pubDate>Wed, 12 Feb 2025 16:31:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Comment]]></title>
