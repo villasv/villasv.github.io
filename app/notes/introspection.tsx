@@ -14,6 +14,10 @@ export function relativeToAppDir(relativeBasePath: string): string {
   return path.relative(NEXT_APP_DIR, relativeBasePath);
 }
 
+export function relativeRoute(absoluteBasePath: string): string {
+  return relativeToAppDir(relativeToProject(absoluteBasePath));
+}
+
 export interface Page {
   title: string;
   sourceFilePath: string;
@@ -21,6 +25,12 @@ export interface Page {
 }
 
 /**
+ * Returns a list of page objects found in the given directory and its
+ * descendants. Because this function is primarily the starting point of
+ * introspection, translating file paths into rich objects with extra metadata,
+ * it is easier to start with relativePath relative to the project directory
+ * (therefore including the App Dir).
+ *
  * @param relativePath the base directory to recursively search for page sources
  * @param levelSkips hierarchy levels to disconsider, to skip the root itself
  */
@@ -28,7 +38,6 @@ export async function listPages(
   relativePath: string,
   levelSkips = 1,
 ): Promise<Page[]> {
-  console.log({ relativePath });
   const children = await fs.readdir(relativePath);
   const pages = await Promise.all(
     children.map(async (childName) => {
@@ -40,7 +49,6 @@ export async function listPages(
           : [];
     }),
   );
-  console.log(pages);
   return pages.flat();
 }
 
