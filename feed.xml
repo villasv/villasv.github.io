@@ -4,9 +4,16 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 14 Feb 2025 01:32:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Feb 2025 05:05:04 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2025]]></copyright>
+        <item>
+            <title><![CDATA[Comment]]></title>
+            <description><![CDATA[<p>My <a href="https://mastodon.social/tags/introduction" class="mention hashtag" rel="tag">#<span>introduction</span></a> post is actually a page that I&#39;ll be trying (not too hard) to keep up to date:</p><p><a href="https://victor.villas/notes/now" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="">victor.villas/notes/now</span><span class="invisible"></span></a></p><p>These days I decided that saying what I&#39;m up to is more important than trying to state who I am.</p>]]></description>
+            <link>https://mastodon.social/@villasbc/113999838196589961</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/113999838196589961</guid>
+            <pubDate>Fri, 14 Feb 2025 02:18:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Comment]]></title>
             <description><![CDATA[<p>Decentralized social media still has a lot of rough edges but the email analogy the concrete tips go a long way. <a href="https://video.fedihost.co/videos/watch/2fdb8e23-6ef1-4cac-853d-a5e104ba82cb" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">video.fedihost.co/videos/watch</span><span class="invisible">/2fdb8e23-6ef1-4cac-853d-a5e104ba82cb</span></a></p>]]></description>
@@ -245,13 +252,6 @@
             <link>https://mastodon.social/@villasbc/113887575837575567</link>
             <guid isPermaLink="true">https://mastodon.social/@villasbc/113887575837575567</guid>
             <pubDate>Sat, 25 Jan 2025 06:28:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Comment]]></title>
-            <description><![CDATA[<p>Found a clue here: <a href="https://github.com/pixelfed/pixelfed/pull/5510" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">github.com/pixelfed/pixelfed/p</span><span class="invisible">ull/5510</span></a></p><p>&quot;The export may contain files in the webp or heic file formats, this media is not supported&quot;</p><p>But looks like there are other issues involved: <a href="https://github.com/pixelfed/pixelfed/issues/5114" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">github.com/pixelfed/pixelfed/i</span><span class="invisible">ssues/5114</span></a></p>]]></description>
-            <link>https://mastodon.social/@villasbc/113882054356775790</link>
-            <guid isPermaLink="true">https://mastodon.social/@villasbc/113882054356775790</guid>
-            <pubDate>Fri, 24 Jan 2025 07:04:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Started reading]]></title>
