@@ -1,32 +1,27 @@
-import path from "path";
-import { listPages } from "@/projects/null-cms/pages";
+import {
+  listPages,
+  relativeToProject,
+} from "@/projects/null-cms/introspection";
 
 export interface IndexProps {
   /**
-   * The base folder name used to list all sub pages in the aspect root page.
+   * The root folder in the file system that will serve as basis for walking
+   * directories searching for publish-able pages. Typically __dirname will be
+   * used to serve all pages with descendant AppDir routes in the application.
    */
-  base: string;
+  baseFilePath: string;
 }
 
-function sanitizeBasedir(base: string): string {
-  // split by .next/server to support compile-time __dirname usage
-  const nextServerParts = base.split(".next/server/");
-  const sourcesBasedir = nextServerParts[nextServerParts.length - 1];
-  return sourcesBasedir;
-}
-
-// dirname is evaluated as a parameter at invocation time by the caller module
-export async function Index({ base }: IndexProps) {
-  const sanitizedBase = sanitizeBasedir(base);
-  const rootPath = path.dirname(sanitizedBase);
-  const relativeBase = path.basename(sanitizedBase);
-  const subPages = await listPages(rootPath, relativeBase);
+export async function Index({ baseFilePath }: IndexProps) {
+  const baseRelativeToProject = relativeToProject(baseFilePath);
+  console.log({ baseFilePath, baseRelativeToProject });
+  const subPages = await listPages(baseRelativeToProject);
   return (
     <div>
       <ol>
         {subPages.map((subPage, index) => (
           <li key={index}>
-            <a href={subPage.relativePath}>{subPage.title}</a>
+            <a href={subPage.resourceRoute}>{subPage.title}</a>
           </li>
         ))}
       </ol>
