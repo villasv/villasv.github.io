@@ -32,8 +32,8 @@ calculation of its parent width so content can be centered without sidebar */
 }
 
 .content {
+  width: 100%; /* helps masonry layout of notes, wrapper div already has margin auto */
   max-width: 720px;
-  margin: 0 auto 0 auto;
 }
 .content a {
   text-decoration: underline;

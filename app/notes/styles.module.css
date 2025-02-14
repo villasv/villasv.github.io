@@ -1,0 +1,11 @@
+.index {
+  display: inline-block;
+  width: 100%; /* Use the full available width to make sure more columns fit */
+  column-width: 250px;
+}
+
+.section {
+  break-inside: avoid; /* Prevent cards from splitting between columns */
+  padding: 8px;
+  /* border: 1px solid #ddd; */
+}
