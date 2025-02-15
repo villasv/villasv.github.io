@@ -4,9 +4,16 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 14 Feb 2025 23:04:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Feb 2025 01:31:41 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2025]]></copyright>
+        <item>
+            <title><![CDATA[Comment]]></title>
+            <description><![CDATA[<p><span class="h-card" translate="no"><a href="https://frequency.app/@frequency" class="u-url mention">@<span>frequency</span></a></span> Discovered another <a href="https://mastodon.social/tags/PixelfedAlternative" class="mention hashtag" rel="tag">#<span>PixelfedAlternative</span></a> besides frequency.app thanks to <span class="h-card" translate="no"><a href="https://mastodon.art/@bluszcz" class="u-url mention">@<span>bluszcz</span></a></span></p><p>The vernissage.photos and the Impressia iOS app. It looks like they were related but split in two separate projects? These seem even more focused on photography.</p>]]></description>
+            <link>https://mastodon.social/@villasbc/114005312948082603</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/114005312948082603</guid>
+            <pubDate>Sat, 15 Feb 2025 01:30:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Comment]]></title>
             <description><![CDATA[<p><a href="https://mastodon.social/tags/Pixelfed" class="mention hashtag" rel="tag">#<span>Pixelfed</span></a> seems to have good momentum, as dan continues to churn out code at a wild pace.</p><p>Still, it’s still quite not there as an Instagram replacement for me, and I’m afraid the project is competing for attention with Loops, the other project from same author.</p><p>So I have been looking for alternatives, and today I found out about <span class="h-card" translate="no"><a href="https://frequency.app/@frequency" class="u-url mention">@<span>frequency</span></a></span>: open source backend is a mastodon fork, polished app, friendly and sensible maintainers. Following it closely 👀 <a href="https://mastodon.social/@jesseplusplus/113891449411033309" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">mastodon.social/@jesseplusplus</span><span class="invisible">/113891449411033309</span></a></p>]]></description>
@@ -245,13 +252,6 @@
             <link>https://mastodon.social/@villasbc/113891111967166341</link>
             <guid isPermaLink="true">https://mastodon.social/@villasbc/113891111967166341</guid>
             <pubDate>Sat, 25 Jan 2025 21:27:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Comment]]></title>
-            <description><![CDATA[<p><a href="https://mastodon.social/tags/Portuguese" class="mention hashtag" rel="tag">#<span>Portuguese</span></a> might not be the among the most relevant languages of the world economy, but <a href="https://mastodon.social/tags/Brazilians" class="mention hashtag" rel="tag">#<span>Brazilians</span></a> go hard on social networks so I like to think we&#39;re a meaningful audience to think about.</p><p>With that in mind... I wish <a href="https://mastodon.social/tags/fediverse" class="mention hashtag" rel="tag">#<span>fediverse</span></a>  developers knew that &quot;fedi&quot; in Portuguese pronunciation sounds like &quot;stinks&quot;, so a website like <a href="https://mastodon.social/tags/Pixelfed" class="mention hashtag" rel="tag">#<span>Pixelfed</span></a> literally sounds like &quot;pixel stinks&quot;.</p><p>It doesn&#39;t sound similar to, it sounds exactly so. I will never not be embarrassed of saying Pixelfed out loud to family.</p>]]></description>
-            <link>https://mastodon.social/@villasbc/113887575837575567</link>
-            <guid isPermaLink="true">https://mastodon.social/@villasbc/113887575837575567</guid>
-            <pubDate>Sat, 25 Jan 2025 06:28:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Started reading]]></title>
