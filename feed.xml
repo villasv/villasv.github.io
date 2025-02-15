@@ -4,12 +4,19 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 15 Feb 2025 01:31:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Feb 2025 05:04:57 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2025]]></copyright>
         <item>
             <title><![CDATA[Comment]]></title>
-            <description><![CDATA[<p><span class="h-card" translate="no"><a href="https://frequency.app/@frequency" class="u-url mention">@<span>frequency</span></a></span> Discovered another <a href="https://mastodon.social/tags/PixelfedAlternative" class="mention hashtag" rel="tag">#<span>PixelfedAlternative</span></a> besides frequency.app thanks to <span class="h-card" translate="no"><a href="https://mastodon.art/@bluszcz" class="u-url mention">@<span>bluszcz</span></a></span></p><p>The vernissage.photos and the Impressia iOS app. It looks like they were related but split in two separate projects? These seem even more focused on photography.</p>]]></description>
+            <description><![CDATA[<p>Unfortunately what I need isn’t really photography, which is what all three federated services deliver. My main needs are 1) Stories, 2) Highlights, 3) carousel posts mixing image and video. That’s the state of the art that would make an <a href="https://mastodon.social/tags/Instagram" class="mention hashtag" rel="tag">#<span>Instagram</span></a> replacement for me.</p>]]></description>
+            <link>https://mastodon.social/@villasbc/114005334518047288</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/114005334518047288</guid>
+            <pubDate>Sat, 15 Feb 2025 01:35:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Comment]]></title>
+            <description><![CDATA[<p>Discovered another <a href="https://mastodon.social/tags/PixelfedAlternative" class="mention hashtag" rel="tag">#<span>PixelfedAlternative</span></a> besides frequency.app thanks to <span class="h-card" translate="no"><a href="https://mastodon.art/@bluszcz" class="u-url mention">@<span>bluszcz</span></a></span></p><p>The vernissage.photos and the Impressia iOS app. It looks like they were related but split in two separate projects? These seem even more focused on photography.</p>]]></description>
             <link>https://mastodon.social/@villasbc/114005312948082603</link>
             <guid isPermaLink="true">https://mastodon.social/@villasbc/114005312948082603</guid>
             <pubDate>Sat, 15 Feb 2025 01:30:22 GMT</pubDate>
@@ -245,13 +252,6 @@
             <link>https://mastodon.social/@villasbc/113892253439941598</link>
             <guid isPermaLink="true">https://mastodon.social/@villasbc/113892253439941598</guid>
             <pubDate>Sun, 26 Jan 2025 02:17:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Comment]]></title>
-            <description><![CDATA[<p>The issue was that Safari unzips the export automatically, and simply compressing it back doesn’t perfectly reverse the operation.</p><p>Downloaded the export with Firefox and things just worked.</p>]]></description>
-            <link>https://mastodon.social/@villasbc/113891111967166341</link>
-            <guid isPermaLink="true">https://mastodon.social/@villasbc/113891111967166341</guid>
-            <pubDate>Sat, 25 Jan 2025 21:27:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Started reading]]></title>
