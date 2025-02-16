@@ -4,9 +4,16 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 16 Feb 2025 17:04:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Feb 2025 19:04:53 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2025]]></copyright>
+        <item>
+            <title><![CDATA[Comment]]></title>
+            <description><![CDATA[<p>This Friday for the first time I took a <a href="https://mastodon.social/tags/seaplane" class="mention hashtag" rel="tag">#<span>seaplane</span></a> from <a href="https://mastodon.social/tags/Vancouver" class="mention hashtag" rel="tag">#<span>Vancouver</span></a> to <a href="https://mastodon.social/tags/VictoriaBC" class="mention hashtag" rel="tag">#<span>VictoriaBC</span></a>. It&#39;s incredible. Beautiful scenery, downtown to downtown in 35 minutes, check-in in 20 minutes - quicker than BC Ferries as a pedestrian... The noise isn&#39;t as bad as I thought, but it&#39;s still a solid 90 dB so an earplug is welcome.</p><p>The worst of it is the smell and the pollution from the fuel, and obviously the price. It&#39;s ten times the price of public transit for the route, but it&#39;s nearly ten times faster!</p>]]></description>
+            <link>https://mastodon.social/@villasbc/114014908398789974</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/114014908398789974</guid>
+            <pubDate>Sun, 16 Feb 2025 18:10:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Comment]]></title>
             <description><![CDATA[<p>Unfortunately what I need isn’t really photography, which is what all three federated services deliver. My main needs are 1) Stories, 2) Highlights, 3) carousel posts mixing image and video. That’s the state of the art that would make an <a href="https://mastodon.social/tags/Instagram" class="mention hashtag" rel="tag">#<span>Instagram</span></a> replacement for me.</p>]]></description>
@@ -245,13 +252,6 @@
             <link>https://mastodon.social/@villasbc/113903599829065451</link>
             <guid isPermaLink="true">https://mastodon.social/@villasbc/113903599829065451</guid>
             <pubDate>Tue, 28 Jan 2025 02:23:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Comment]]></title>
-            <description><![CDATA[<p>Instagram import fails silently for posts with videos. Can’t post a new video because it’s HEIC (almost everything on my phone is nowadays?), and the app doesn’t support videos at all yet.</p><p>Pixelfed meets my photography needs - not many - but it’s really not there as an Instagram replacement for the social part. Hoping it gets there soon, don’t wanna see a “bluesky but for photos and short videos” show up. Maybe I should be trying loops.video instead?</p>]]></description>
-            <link>https://mastodon.social/@villasbc/113892253439941598</link>
-            <guid isPermaLink="true">https://mastodon.social/@villasbc/113892253439941598</guid>
-            <pubDate>Sun, 26 Jan 2025 02:17:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Started reading]]></title>
