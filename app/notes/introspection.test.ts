@@ -15,4 +15,3 @@ describe(relativeToAppDir.name, () => {
     expect(relativeToAppDir(relativeBasePath)).toBe(expected);
   });
 });
-
