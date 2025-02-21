@@ -4,9 +4,16 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 21 Feb 2025 05:05:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Feb 2025 07:05:03 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2025]]></copyright>
+        <item>
+            <title><![CDATA[Started watching]]></title>
+            <description><![CDATA[<p>started watching <a href="https://neodb.social/~neodb~/tv/season/2TBK6FTzcI4s8QAMG1Dvyq" rel="nofollow">North of North</a> 🌕🌕🌕🌕🌑  <br>The showcase of Inuk culture and the life at Nunavut is super interesting and the series even packs a few not so subtle punches on the relationship between Canadian institutions and native peoples. It&#x27;s sometimes corny and predictable, but at the same time every episode has a fresh and unique touch.<br></p>]]></description>
+            <link>https://neodb.social/@villasv/posts/415642926700757640/</link>
+            <guid isPermaLink="true">https://neodb.social/@villasv/posts/415642926700757640/</guid>
+            <pubDate>Fri, 21 Feb 2025 05:56:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Comment]]></title>
             <description><![CDATA[<p>Great piece.</p><p><a href="https://thewalrus.ca/common-sense-politics" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">thewalrus.ca/common-sense-poli</span><span class="invisible">tics</span></a></p><p>How to reconcile the anti-intellectualism that serves as a foundation for the denial of science with the apparent technocratic positivism behind the defense of tech oligarchs?</p><p>The answer is grievance. <a href="https://mastodon.social/tags/Politics" class="mention hashtag" rel="tag">#<span>Politics</span></a> of resentment. An angry bunch is an engaged bunch.</p>]]></description>
@@ -301,13 +308,6 @@
             <link>https://neodb.social/@villasv/posts/397537485253017680/</link>
             <guid isPermaLink="true">https://neodb.social/@villasv/posts/397537485253017680/</guid>
             <pubDate>Thu, 02 Jan 2025 06:52:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Finished watching]]></title>
-            <description><![CDATA[<p>finished watching <a href="https://neodb.social/~neodb~/tv/season/43pfu3O7tC0nF3EsR1xx6j" rel="nofollow">Shrinking</a> 🌕🌕🌕🌗🌑  <br>The main character is disgusting, but the writers do a good job of force feeding us some empathy towards him using increasing doses of relatable struggles, pure hearted decisions and context for how he came to be the current mess. The other characters bring good laughs and a chuckle here and there, which lightens the load. By the end of the season, I&#x27;m invested in getting to know more about Gaby, Paul, and even Derek.<br></p>]]></description>
-            <link>https://neodb.social/@villasv/posts/397535306052145008/</link>
-            <guid isPermaLink="true">https://neodb.social/@villasv/posts/397535306052145008/</guid>
-            <pubDate>Thu, 02 Jan 2025 06:43:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
