@@ -4,9 +4,16 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 21 Feb 2025 15:05:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Feb 2025 17:04:35 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2025]]></copyright>
+        <item>
+            <title><![CDATA[Comment]]></title>
+            <description><![CDATA[<p>“This government does not represent us”</p><p>Yes it does, it’s literally called representative democracy.</p><p>I have been there before (Bolsonaro), and while I get the <a href="https://mastodon.social/tags/NotMyPresident" class="mention hashtag" rel="tag">#<span>NotMyPresident</span></a> chant, this cannot be used to excuse oneself from the consequences of these representatives.</p><p>“I did not vote for this” isn’t a free pass, it’s the bare minimum.</p>]]></description>
+            <link>https://mastodon.social/@villasbc/114042890266867091</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/114042890266867091</guid>
+            <pubDate>Fri, 21 Feb 2025 16:46:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Started watching]]></title>
             <description><![CDATA[<p>started watching <a href="https://neodb.social/~neodb~/tv/season/2TBK6FTzcI4s8QAMG1Dvyq" rel="nofollow">North of North</a> 🌕🌕🌕🌕🌑  <br>The showcase of Inuk culture and the life at Nunavut is super interesting and the series even packs a few not so subtle punches on the relationship between Canadian institutions and native peoples. It&#x27;s sometimes corny and predictable, but at the same time every episode has a fresh and unique touch.<br></p>]]></description>
@@ -219,13 +226,6 @@
             <link>https://neodb.social/@villasv/posts/408314013901428304/</link>
             <guid isPermaLink="true">https://neodb.social/@villasv/posts/408314013901428304/</guid>
             <pubDate>Sat, 01 Feb 2025 00:34:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Comment]]></title>
-            <description><![CDATA[<p>20 years in the <a href="https://mastodon.social/tags/web" class="mention hashtag" rel="tag">#<span>web</span></a> and it&#39;s all still so fragmented. ActivityPub is promising, but is it going to be enough?</p><p>I have to convince my friends to join at least one of <a href="https://mastodon.social/tags/Mastodon" class="mention hashtag" rel="tag">#<span>Mastodon</span></a> or <a href="https://mastodon.social/tags/Pixelfed" class="mention hashtag" rel="tag">#<span>Pixelfed</span></a> to keep in touch. Until they make the crossing we&#39;re practically cut off. I&#39;m seriously thinking of starting a <a href="https://mastodon.social/tags/newsletter" class="mention hashtag" rel="tag">#<span>newsletter</span></a>... <a href="https://mastodon.social/tags/email" class="mention hashtag" rel="tag">#<span>email</span></a> the one open protocol everyone uses.</p><p>Family, workplace, masters, college, high school. In all of my AFK social circles, I&#39;m still the only one here. This is a bit depressing.</p>]]></description>
-            <link>https://mastodon.social/@villasbc/113921159414788127</link>
-            <guid isPermaLink="true">https://mastodon.social/@villasbc/113921159414788127</guid>
-            <pubDate>Fri, 31 Jan 2025 04:49:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Media]]></title>
