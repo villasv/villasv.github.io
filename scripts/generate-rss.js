@@ -15,7 +15,7 @@ const feed = new RSS({
   description: "The combined feed of my online stuff.",
   feed_url: "https://victor.villas/feed.xml",
   site_url: "https://victor.villas",
-  copyright: "Victor Villas © 2025",
+  copyright: `Victor Villas © ${new Date().getFullYear()}`,
 });
 
 function getTitle(item) {
