@@ -4,7 +4,7 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 22 Feb 2025 21:05:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Feb 2025 23:04:37 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2025]]></copyright>
         <item>
@@ -30,7 +30,7 @@
         </item>
         <item>
             <title><![CDATA[Comment]]></title>
-            <description><![CDATA[<p>For anyone interested in reading a weekly curated best moments of humankind&#39;s woodcraft, the <a href="https://mastodon.social/tags/newsletter" class="mention hashtag" rel="tag">#<span>newsletter</span></a> is <a href="https://buttondown.com/perfectsentences" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="">buttondown.com/perfectsentences</span><span class="invisible"></span></a></p>]]></description>
+            <description><![CDATA[<p>For anyone interested in reading a weekly curated best moments of humankind&#39;s wordcraft, the <a href="https://mastodon.social/tags/newsletter" class="mention hashtag" rel="tag">#<span>newsletter</span></a> is <a href="https://buttondown.com/perfectsentences" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="">buttondown.com/perfectsentences</span><span class="invisible"></span></a></p>]]></description>
             <link>https://mastodon.social/@villasbc/114038620208327214</link>
             <guid isPermaLink="true">https://mastodon.social/@villasbc/114038620208327214</guid>
             <pubDate>Thu, 20 Feb 2025 22:40:50 GMT</pubDate>
