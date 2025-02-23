@@ -25,6 +25,8 @@ jobs:
 
       - name: Build
         run: npm ci && npm run build
+        env:
+          NEODB_PAT: ${{ secrets.NEODB_PAT }}
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
