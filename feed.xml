@@ -4,9 +4,16 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 23 Feb 2025 19:04:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Feb 2025 21:04:31 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2025]]></copyright>
+        <item>
+            <title><![CDATA[Started reading]]></title>
+            <description><![CDATA[<p>started reading <a href="https://neodb.social/~neodb~/book/2MDiC3Qu6SPYpzk82Glbaa" rel="nofollow">Invisible Cities</a> <br>Recommended by the gentleman of The Paper Hound as a read to lose myself in<br></p>]]></description>
+            <link>https://neodb.social/@villasv/posts/416590416624139720/</link>
+            <guid isPermaLink="true">https://neodb.social/@villasv/posts/416590416624139720/</guid>
+            <pubDate>Sun, 23 Feb 2025 20:41:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Comment]]></title>
             <description><![CDATA[<p>“This government does not represent us”</p><p>Yes it does, it’s literally called representative democracy.</p><p>I have been there before (Bolsonaro), and while I get the <a href="https://mastodon.social/tags/NotMyPresident" class="mention hashtag" rel="tag">#<span>NotMyPresident</span></a> chant, this cannot be used to excuse oneself from the consequences of these representatives.</p><p>“I did not vote for this” isn’t a free pass, it’s the bare minimum.</p>]]></description>
@@ -301,13 +308,6 @@
             <link>https://neodb.social/@villasv/posts/398039015913770840/</link>
             <guid isPermaLink="true">https://neodb.social/@villasv/posts/398039015913770840/</guid>
             <pubDate>Fri, 03 Jan 2025 16:04:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Started watching]]></title>
-            <description><![CDATA[<p>started watching <a href="https://neodb.social/~neodb~/tv/season/5sdynnrcx8H7vT1H5eCwRv" rel="nofollow">Shrinking</a> 🌕🌕🌕🌕🌑  <br>Season two, looking good so far. Jimmy is slightly more decent as a character and the story branches out to showcase the rest of the cast a bit more, even Brian gets a substantial subplot of his own.<br></p>]]></description>
-            <link>https://neodb.social/@villasv/posts/397537485253017680/</link>
-            <guid isPermaLink="true">https://neodb.social/@villasv/posts/397537485253017680/</guid>
-            <pubDate>Thu, 02 Jan 2025 06:52:02 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -770,6 +770,57 @@
       {
         "shelf_type": "progress",
         "visibility": 0,
+        "post_id": "416590416624139720",
+        "item": {
+          "type": "Edition",
+          "title": "Invisible Cities",
+          "description": "Imaginary conversations between Marco Polo and his host, the Chinese ruler Kublai Khan, conjure up cities of magical times. “Of all tasks, describing the contents of a book is the most difficult and in the case of a marvelous invention like Invisible Cities, perfectly irrelevant” (Gore Vidal). Translated by William Weaver. A Helen and Kurt Wolff Book\nOne of the world's best storytellers, Italo Calvino (Invisible Cities) pinpoints for future generations the universal values for literature. Here are his works, methods, intentions, and hopes.",
+          "localized_title": [
+            {
+              "lang": "en",
+              "text": "Invisible Cities"
+            }
+          ],
+          "localized_description": [
+            {
+              "lang": "en",
+              "text": "Imaginary conversations between Marco Polo and his host, the Chinese ruler Kublai Khan, conjure up cities of magical times. “Of all tasks, describing the contents of a book is the most difficult and in the case of a marvelous invention like Invisible Cities, perfectly irrelevant” (Gore Vidal). Translated by William Weaver. A Helen and Kurt Wolff Book\nOne of the world's best storytellers, Italo Calvino (Invisible Cities) pinpoints for future generations the universal values for literature. Here are his works, methods, intentions, and hopes."
+            }
+          ],
+          "cover_image_url": "https://neodb.social/m/book/2021/09/15e5c14d48-462e-4191-a78b-3db2c4209719.jpg",
+          "rating": 9.6,
+          "rating_count": 21,
+          "brief": "Imaginary conversations between Marco Polo and his host, the Chinese ruler Kublai Khan, conjure up cities of magical times. “Of all tasks, describing the contents of a book is the most difficult and in the case of a marvelous invention like Invisible Cities, perfectly irrelevant” (Gore Vidal). Translated by William Weaver. A Helen and Kurt Wolff Book\nOne of the world's best storytellers, Italo Calvino (Invisible Cities) pinpoints for future generations the universal values for literature. Here are his works, methods, intentions, and hopes.",
+          "id": "https://neodb.social/book/2MDiC3Qu6SPYpzk82Glbaa",
+          "uuid": "2MDiC3Qu6SPYpzk82Glbaa",
+          "url": "/book/2MDiC3Qu6SPYpzk82Glbaa",
+          "api_url": "/api/book/2MDiC3Qu6SPYpzk82Glbaa",
+          "category": "book",
+          "parent_uuid": null,
+          "display_title": "Invisible Cities",
+          "external_resources": [
+            {
+              "url": "https://book.douban.com/subject/1456407/"
+            },
+            {
+              "url": "https://www.goodreads.com/book/show/49605492"
+            },
+            {
+              "url": "https://www.goodreads.com/book/show/9809"
+            },
+            {
+              "url": "https://www.goodreads.com/book/show/53615207"
+            }
+          ]
+        },
+        "created_time": "2025-02-23T20:41:35.137Z",
+        "comment_text": "Recommended by the gentleman of The Paper Hound as a read to lose myself in",
+        "rating_grade": null,
+        "tags": []
+      },
+      {
+        "shelf_type": "progress",
+        "visibility": 0,
         "post_id": "411239333061154096",
         "item": {
           "type": "Edition",
