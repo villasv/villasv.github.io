@@ -18,8 +18,9 @@ const CATEGORIES = [
   // "collection",
 ];
 
-async function fetchShelf(shelf, category) {
-  const url = `${baseUrl}/api/user/${username}/shelf/${shelf}?category=${category}`;
+async function fetchShelf(shelf, category, page = 1) {
+  console.log(`Fetching ${shelf}/${category} page ${page}...`);
+  const url = `${baseUrl}/api/user/${username}/shelf/${shelf}?category=${category}&page=${page}`;
   const res = await fetch(url, {
     headers: {
       "Content-Type": "application/json",
@@ -29,7 +30,15 @@ async function fetchShelf(shelf, category) {
   if (!res.ok) {
     throw new Error(`Failed fetch ${shelf}/${category}: ${res.statusText}`);
   }
-  return res.json();
+  const responseBody = await res.json();
+  if (responseBody["pages"] > page) {
+    return [
+      ...responseBody["data"],
+      ...(await fetchShelf(shelf, category, page + 1)),
+    ];
+  } else {
+    return responseBody["data"];
+  }
 }
 
 async function fetchData() {
@@ -37,7 +46,6 @@ async function fetchData() {
   for (const category of CATEGORIES) {
     data[category] = {};
     for (const shelf of SHELVES) {
-      console.log(`Fetching ${shelf}/${category}...`);
       data[category][shelf] = await fetchShelf(shelf, category);
       // sleep for 1 second to avoid throttling
       await new Promise((resolve) => setTimeout(resolve, 1000));

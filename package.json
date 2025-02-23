@@ -6,8 +6,9 @@
     "dev": "next dev",
     "lint": "next lint",
     "format": "prettier --write .",
-    "build": "npm run build-feed && next build",
+    "build": "npm run build-feed && npm run build-neodb && next build",
     "build-feed": "node scripts/generate-rss.js",
+    "build-neodb": "node scripts/generate-neodb.js",
     "test": "jest --coverage"
   },
   "dependencies": {

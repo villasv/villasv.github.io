@@ -1,5 +1,6 @@
 ### Statically Generated Stuff ###
 public/feed.xml
+public/neodb.json
 
 ### NodeJS ###
 # dependencies
