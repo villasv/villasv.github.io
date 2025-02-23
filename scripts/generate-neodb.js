@@ -30,7 +30,9 @@ async function fetchShelf(shelf, category, page = 1) {
   if (!res.ok) {
     throw new Error(`Failed fetch ${shelf}/${category}: ${res.statusText}`);
   }
-  const responseBody = await res.json();
+  // replace all big integers with strings to avoid precision loss
+  const responseText = (await res.text()).replace(/:\s*(\d{16,})/g, ':"$1"');
+  const responseBody = JSON.parse(responseText);
   if (responseBody["pages"] > page) {
     return [
       ...responseBody["data"],
