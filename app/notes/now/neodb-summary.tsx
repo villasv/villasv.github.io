@@ -9,9 +9,18 @@ export default function NeoDBSummary() {
           Collection("Recently read", getCollection("book", "complete")),
           Collection("Currently reading", getCollection("book", "progress")),
           Collection("Next up I have", getCollection("book", "wishlist")),
-          Collection("Recently watched", getCollection("movie", "complete")),
-          Collection("Now watching", getCollection("movie", "progress")),
-          Collection("Up next we have", getCollection("movie", "wishlist")),
+          Collection(
+            "Recently watched",
+            getCollection(["movie", "tv"], "complete"),
+          ),
+          Collection(
+            "Now watching",
+            getCollection(["movie", "tv"], "progress"),
+          ),
+          Collection(
+            "Up next we have",
+            getCollection(["movie", "tv"], "wishlist"),
+          ),
         ].filter((el) => !!el),
       )}
     </>
