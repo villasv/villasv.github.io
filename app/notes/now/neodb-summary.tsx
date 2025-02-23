@@ -6,12 +6,12 @@ export default function NeoDBSummary() {
     <>
       {concatWithSpaces(
         [
-          Collection("Recently read", getCollection("book", "complete")),
+          Collection("Recently read", getCollection("book", "complete", 2)),
           Collection("Currently reading", getCollection("book", "progress")),
-          Collection("Next up I have", getCollection("book", "wishlist")),
+          Collection("Next I'll have", getCollection("book", "wishlist", 1)),
           Collection(
             "Recently watched",
-            getCollection(["movie", "tv"], "complete"),
+            getCollection(["movie", "tv"], "complete", 2),
           ),
           Collection(
             "Now watching",
@@ -19,7 +19,7 @@ export default function NeoDBSummary() {
           ),
           Collection(
             "Up next we have",
-            getCollection(["movie", "tv"], "wishlist"),
+            getCollection(["movie", "tv"], "wishlist", 1),
           ),
         ].filter((el) => !!el),
       )}

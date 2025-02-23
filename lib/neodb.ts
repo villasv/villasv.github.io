@@ -29,6 +29,7 @@ export interface NeoDBRecord {
 export function getCollection(
   categories: Category | Category[],
   shelves: Shelf | Shelf[],
+  maxItems = 3,
 ): NeoDBRecord[] {
   if (!Array.isArray(categories)) categories = [categories];
   if (!Array.isArray(shelves)) shelves = [shelves];
@@ -45,6 +46,6 @@ export function getCollection(
   const c = cutoff.toISOString();
   return data
     .sort((a, b) => b.created_time.localeCompare(a.created_time))
-    .slice(0, 3)
+    .slice(0, maxItems)
     .filter((item) => item.created_time.localeCompare(c) > 0);
 }
