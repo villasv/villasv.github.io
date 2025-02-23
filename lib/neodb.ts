@@ -39,7 +39,12 @@ export function getCollection(
       data.push(...items);
     }
   }
+  // cutoff is 3 months ago
+  const cutoff = new Date();
+  cutoff.setMonth(new Date().getMonth() - 3);
+  const c = cutoff.toISOString();
   return data
     .sort((a, b) => b.created_time.localeCompare(a.created_time))
-    .slice(0, 3);
+    .slice(0, 3)
+    .filter((item) => item.created_time.localeCompare(c) > 0);
 }
