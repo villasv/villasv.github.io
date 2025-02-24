@@ -4,9 +4,16 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 24 Feb 2025 01:32:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Feb 2025 05:05:24 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2025]]></copyright>
+        <item>
+            <title><![CDATA[Finished watching]]></title>
+            <description><![CDATA[<p>finished watching <a href="https://neodb.social/~neodb~/movie/1UUr7zhAViZPd7e9mAjUs1" rel="nofollow">Oblivion</a> 🌕🌕🌗🌑🌑  <br>Airplane rewatch. Entertaining, even if not one of the greats. Great visuals, good acting. Some of the tropes are glaring and tiring. The New Yorker military grade man that builds his promised lake house for a romance that survives memory wiping technology. The plot core is decent sci fi, but several gaps make it easy target for criticism. Almost everything surrounding the scavengers is a bit of a mess, and the apparent stinginess in deploying drones, and the on and off surveillance capabilities of the enemies.</p><p>The ending is the weakest bit. The movie wrecks its already shaky defensibility by adding a totally unnecessary time skip, just to present us a kid. It’s basic and kind of stupid how that unfolds (and its implications).<br></p>]]></description>
+            <link>https://neodb.social/@villasv/posts/416695381755537024/</link>
+            <guid isPermaLink="true">https://neodb.social/@villasv/posts/416695381755537024/</guid>
+            <pubDate>Mon, 24 Feb 2025 03:38:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Started reading]]></title>
             <description><![CDATA[<p>started reading <a href="https://neodb.social/~neodb~/book/2MDiC3Qu6SPYpzk82Glbaa" rel="nofollow">Invisible Cities</a> <br>Recommended by the gentleman of The Paper Hound as a read to lose myself in<br></p>]]></description>
@@ -301,13 +308,6 @@
             <link>https://neodb.social/@villasv/posts/398201277344646208/</link>
             <guid isPermaLink="true">https://neodb.social/@villasv/posts/398201277344646208/</guid>
             <pubDate>Sat, 04 Jan 2025 02:49:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Finished watching]]></title>
-            <description><![CDATA[<p>finished watching <a href="https://neodb.social/~neodb~/tv/6VZQXtGpHKPRLjsnLagZEb" rel="nofollow">Drops of God</a> 🌕🌕🌑🌑🌑  <br>The series starts with a psychosomatic superpower outage, which gets unreasonably resolved in a flash. I don’t understand why the series had to make Camille be so sensitive to alcohol that she bleeds like a fountain after a shot/kiss, proceeds to confirm this to be a result of trauma with a lengthy brain-doctor scene, only to resolve this major life condition in a single moment of clarity. The writers could not make up their mind whether her childhood was traumatic or not, and suddenly it does a 180. Instead of a major trauma, what’s left from her childhood is the bounty of all her training, exposed slowly in a sequence of “time to unlock more true potential” episodes.</p><p>This contortion takes nearly a third the series for no good reason other than an attempt to reconcile common East-Asian tropes (hard training, wisdom of seniors) with common Western tropes (rural rich, sacrifices for success, life scars, youth freedom). It doesn’t work well to me, and for the most part I was more interested in Issei as a character because he was made complex in a similar way but without glaring inconsistencies.<br></p>]]></description>
-            <link>https://neodb.social/@villasv/posts/398039015913770840/</link>
-            <guid isPermaLink="true">https://neodb.social/@villasv/posts/398039015913770840/</guid>
-            <pubDate>Fri, 03 Jan 2025 16:04:56 GMT</pubDate>
         </item>
     </channel>
 </rss>

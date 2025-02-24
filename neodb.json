@@ -2310,8 +2310,8 @@
             }
           ],
           "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/08/11/bf45f90f-617e-4386-8425-b3bbca31cea8.jpg",
-          "rating": 8.5,
-          "rating_count": 14,
+          "rating": 8.6,
+          "rating_count": 15,
           "brief": "影片根据马塞洛·鲁本斯·派瓦撰写的同名回忆录改编，原著讲述了鲁本斯·派瓦的母亲尤妮斯·派瓦，在丈夫成为1964年控制巴西的军事政权的受害者后，被迫重塑自我，成为了一名运动人士。",
           "id": "https://neodb.social/movie/0WsTXtNQQEVs0NuUa0e3fy",
           "uuid": "0WsTXtNQQEVs0NuUa0e3fy",
@@ -2386,6 +2386,141 @@
     ],
     "progress": [],
     "complete": [
+      {
+        "shelf_type": "complete",
+        "visibility": 0,
+        "post_id": "416695381755537024",
+        "item": {
+          "type": "Movie",
+          "title": "遗落战境",
+          "description": "2017年，母星遭到毁灭的外星流亡者入侵地球。人类虽然用核武器打败对手，但也付出失去家园的惨痛代价。在接下来将近半个世纪的时光中，人类移民泰坦星（土卫六），不过仍有极少部分人类留在故土，扫荡残存的外星掠夺者。杰克·哈珀（汤姆·克鲁斯 Tom Cruise 饰）与维多利亚（安德丽亚·瑞斯波罗格 Andrea Riseborough 饰）即是留守者中的一员，他们的主要任务为保障遍布各地守护水萃取塔的无人机正常运行。看似永无止境的任务终于接近尾声，而就在此刻，不明飞行器坠落一处无人区。杰克在当地发现数名人类伤员，可是他们却遭到无人机的屠杀。危急时刻，杰克救下了一个名为茱莉亚（欧嘉·柯瑞兰寇 Olga Kurylenko 饰）的女子。\n这一事件令杰克无意中知晓了掠夺者以及自身背后隐藏的秘密……",
+          "localized_title": [
+            {
+              "lang": "zh-cn",
+              "text": "遗落战境"
+            },
+            {
+              "lang": "en",
+              "text": "Oblivion"
+            },
+            {
+              "lang": "ko",
+              "text": "攻‧元2077(港)"
+            },
+            {
+              "lang": "zh-cn",
+              "text": "遗忘星球"
+            },
+            {
+              "lang": "zh-cn",
+              "text": "地平线"
+            },
+            {
+              "lang": "zh-cn",
+              "text": "遗忘"
+            },
+            {
+              "lang": "fr",
+              "text": "Oblivion"
+            },
+            {
+              "lang": "de",
+              "text": "Oblivion"
+            },
+            {
+              "lang": "nn",
+              "text": "Oblivion"
+            },
+            {
+              "lang": "nb",
+              "text": "Oblivion"
+            },
+            {
+              "lang": "no",
+              "text": "Oblivion"
+            },
+            {
+              "lang": "sv",
+              "text": "Oblivion"
+            },
+            {
+              "lang": "da",
+              "text": "Oblivion"
+            }
+          ],
+          "localized_description": [
+            {
+              "lang": "zh-cn",
+              "text": "2017年，母星遭到毁灭的外星流亡者入侵地球。人类虽然用核武器打败对手，但也付出失去家园的惨痛代价。在接下来将近半个世纪的时光中，人类移民泰坦星（土卫六），不过仍有极少部分人类留在故土，扫荡残存的外星掠夺者。杰克·哈珀（汤姆·克鲁斯 Tom Cruise 饰）与维多利亚（安德丽亚·瑞斯波罗格 Andrea Riseborough 饰）即是留守者中的一员，他们的主要任务为保障遍布各地守护水萃取塔的无人机正常运行。看似永无止境的任务终于接近尾声，而就在此刻，不明飞行器坠落一处无人区。杰克在当地发现数名人类伤员，可是他们却遭到无人机的屠杀。危急时刻，杰克救下了一个名为茱莉亚（欧嘉·柯瑞兰寇 Olga Kurylenko 饰）的女子。\n这一事件令杰克无意中知晓了掠夺者以及自身背后隐藏的秘密……"
+            },
+            {
+              "lang": "fr",
+              "text": "2077, Jack Harper, en station sur la planète Terre dont toute la population a été évacuée, est en charge de la sécurité et de la réparation des drones. Suite à des décennies de guerre contre une force extra-terrestre terrifiante qui a ravagé la Terre, Jack fait partie d’une gigantesque opération d’extraction des dernières ressources nécessaires à la survie des siens. Sa mission touche à sa fin. Dans à peine deux semaines, il rejoindra le reste des survivants dans une colonie spatiale à des milliers de kilomètres de cette planète dévastée qu’il considère néanmoins comme son chez-lui. Vivant et patrouillant à très haute altitude de ce qu’il reste de la Terre, la vie \"céleste\" de Jack est bouleversée quand il assiste au crash d’un vaisseau spatial et décide de porter secours à la belle inconnue qu’il renferme..."
+            },
+            {
+              "lang": "de",
+              "text": "Die Erdoberfläche ist bis zur Unkenntlichkeit zerstört und eine brutale Alienrasse, die sich noch immer in den Trümmern verschanzt, macht den Aufenthalt lebensgefährlich. Nur wenige wagen sich auf den verwüsteten Planeten, um dort wertvolle Artefakte zu sammeln und die Extraktion lebenswichtiger Ressourcen für den Abtransport auf einen der Saturn-Monde zu überwachen, der ein neues Zuhause für die verbliebene Menschheit darstellen soll.  Von \"Missioncontrol\" entsandt, soll auch der Soldat Jack an die Erdoberfläche reisen, um dort die Verteidigungs-Drohnen zu reparieren, welche die Städte vor Alienübergriffen schützen. Dafür muss er seine Frau zurücklassen. Kaum auf der unwirtlichen Erdoberfläche angekommen, trifft er auf eine mysteriöse Astronautin in einer abgestürzten Rettungskapsel. Durch sie stößt Jack auf ein Geheimnis, dass sein gesamtes Weltbild infrage stellt."
+            },
+            {
+              "lang": "nn",
+              "text": "Høyt over en krigsherjet fremtidig jordklode vedlikeholder kommandør Jack Harper planetens forsvarsdroner, når et skadet romskip ankommer territoriet hans."
+            },
+            {
+              "lang": "nb",
+              "text": "Høyt over en krigsherjet fremtidig jordklode vedlikeholder kommandør Jack Harper planetens forsvarsdroner, når et skadet romskip ankommer territoriet hans."
+            },
+            {
+              "lang": "no",
+              "text": "En enestående filmopplevelse med Tom Cruise i rollen som Jack Harper, en droneretaratør som forsøker å redde de siste restene av Jorden og menneskeheten. Tilværelsen hans på den svevende patruljestasjonen flere tusen meter over bakken tar derimot en bår vending når han redder en mystisk, vakker fremmed fra et styrtet romskip. Hennes ankomst utløser en rekke hendelser som tvinger ham til å sette spørsmålstegn ved alt han trodde han visste. Med ett ligger menneskehetens skjebne i Jacks hender. Oscar-vinner Morgan Freeman slår seg sammen med Cruise i dette visuelt heftige actioneventyret fra regissøren av Tron: Legacy og produsenten av Rise of the Planet of the Apes."
+            },
+            {
+              "lang": "sv",
+              "text": "Jack Harper är en av de sista robot-reparatörerna stationerad på en övergiven, nästan intill ödelagd jord. Jacks uppdrag, som är en del av en massiv operation för att utvinna viktiga resurser efter årtionden av krig mot ett skrämmande hot kallade Scavs, är nästan fullbordat. En dag raseras Jacks tillvaro plötsligt när han räddar en vacker främling från ett kraschlandat rymdskepp. Hennes ankomst utlöser en kedja av händelser som tvingar honom att ifrågasätta allt han trott på, och plötsligt ligger hela mänsklighetens framtid i hans händer."
+            },
+            {
+              "lang": "en",
+              "text": "Jack Harper is one of the last few drone repairmen stationed on Earth. Part of a massive operation to extract vital resources after decades of war with a terrifying threat known as the Scavs, Jack’s mission is nearly complete. His existence is brought crashing down when he rescues a beautiful  stranger from a downed spacecraft. Her arrival triggers a chain of events that  forces him to question everything he knows and puts the fate of humanity in his hands."
+            },
+            {
+              "lang": "da",
+              "text": "I år 2077 har en krig mod invaderende rumvæsener gjort Jorden ubeboelig. Soldaten Jack Harper er udstationeret fra Titan som dronereparatør og bor på en svævende kontrolstation. Kort tid før hans mission er slut, styrter et rumskib ned med en smuk, ung kvinde ombord. Hendes ankomst tvinger Jack til at reevaluere alt, hvad han troede, han vidste om krigen, sig selv og det samfund, han er en del af."
+            },
+            {
+              "lang": "zh-cn",
+              "text": "2017年，母星遭到毁灭的外星流亡者入侵地球。人类虽然用核武器打败对手，但也付出失去家园的惨痛代价。在接下来将近半个世纪的时光中，人类移民泰坦星（土卫六），不过仍有极少部分人类留在故土，扫荡残存的外星掠夺者。杰克·哈珀（汤姆·克鲁斯 Tom Cruise 饰）与维多利亚（安德丽亚·瑞斯波罗格 Andrea Riseborough 饰）即是留守者中的一员，他们的主要任务为保障遍布各地守护水萃取塔的无人机正常运行。看似永无止境的任务终于接近尾声，而就在此刻，不明飞行器坠落一处无人区。杰克在当地发现数名人类伤员，可是他们却遭到无人机的屠杀。危急时刻，杰克救下了一个名为茱莉亚（欧嘉·柯瑞兰寇 Olga Kurylenko 饰）的女子。\r\n　　这一事件令杰克无意中知晓了掠夺者以及自身背后隐藏的秘密……"
+            }
+          ],
+          "cover_image_url": "https://neodb.social/m/movie/2021/09/155b0f163b-6c45-41a7-ae52-d2efc29bcaae.jpg",
+          "rating": 6.8,
+          "rating_count": 424,
+          "brief": "2017年，母星遭到毁灭的外星流亡者入侵地球。人类虽然用核武器打败对手，但也付出失去家园的惨痛代价。在接下来将近半个世纪的时光中，人类移民泰坦星（土卫六），不过仍有极少部分人类留在故土，扫荡残存的外星掠夺者。杰克·哈珀（汤姆·克鲁斯 Tom Cruise 饰）与维多利亚（安德丽亚·瑞斯波罗格 Andrea Riseborough 饰）即是留守者中的一员，他们的主要任务为保障遍布各地守护水萃取塔的无人机正常运行。看似永无止境的任务终于接近尾声，而就在此刻，不明飞行器坠落一处无人区。杰克在当地发现数名人类伤员，可是他们却遭到无人机的屠杀。危急时刻，杰克救下了一个名为茱莉亚（欧嘉·柯瑞兰寇 Olga Kurylenko 饰）的女子。\n这一事件令杰克无意中知晓了掠夺者以及自身背后隐藏的秘密……",
+          "id": "https://neodb.social/movie/1UUr7zhAViZPd7e9mAjUs1",
+          "uuid": "1UUr7zhAViZPd7e9mAjUs1",
+          "url": "/movie/1UUr7zhAViZPd7e9mAjUs1",
+          "api_url": "/api/movie/1UUr7zhAViZPd7e9mAjUs1",
+          "category": "movie",
+          "parent_uuid": null,
+          "display_title": "遗落战境",
+          "external_resources": [
+            {
+              "url": "https://movie.douban.com/subject/3895511/"
+            },
+            {
+              "url": "https://minreol.dk/movie/0i8BlNgctyOTDQPxfr1pky"
+            },
+            {
+              "url": "https://bgm.tv/subject/519052"
+            },
+            {
+              "url": "https://www.themoviedb.org/movie/75612"
+            }
+          ]
+        },
+        "created_time": "2025-02-24T03:38:40.760Z",
+        "comment_text": "Airplane rewatch. Entertaining, even if not one of the greats. Great visuals, good acting. Some of the tropes are glaring and tiring. The New Yorker military grade man that builds his promised lake house for a romance that survives memory wiping technology. The plot core is decent sci fi, but several gaps make it easy target for criticism. Almost everything surrounding the scavengers is a bit of a mess, and the apparent stinginess in deploying drones, and the on and off surveillance capabilities of the enemies.\r\n\r\nThe ending is the weakest bit. The movie wrecks its already shaky defensibility by adding a totally unnecessary time skip, just to present us a kid. It’s basic and kind of stupid how that unfolds (and its implications).",
+        "rating_grade": 5,
+        "tags": []
+      },
       {
         "shelf_type": "complete",
         "visibility": 0,
