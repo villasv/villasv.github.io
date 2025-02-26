@@ -4,9 +4,16 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 25 Feb 2025 23:04:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Feb 2025 01:32:29 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2025]]></copyright>
+        <item>
+            <title><![CDATA[Comment]]></title>
+            <description><![CDATA[<p>Hey <span class="h-card" translate="no"><a href="https://mas.to/@TechConnectify" class="u-url mention">@<span>TechConnectify</span></a></span>, saw your video today and found this other related content. If you have some time to kill reading a personal account from someone experiencing the extremes of algorithmic complacency:</p><p><a href="https://thewalrus.ca/at-3-a-m-i-turned-to-ai-for-comfort-that-was-my-first-mistake/" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">thewalrus.ca/at-3-a-m-i-turned</span><span class="invisible">-to-ai-for-comfort-that-was-my-first-mistake/</span></a></p><p>Side note, I just sent you this using &quot;Quiet public&quot;, which is a badly publicized &quot;hide post from search and trends&quot; flag.</p>]]></description>
+            <link>https://mastodon.social/@villasbc/114067586709279739</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/114067586709279739</guid>
+            <pubDate>Wed, 26 Feb 2025 01:27:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Finished watching]]></title>
             <description><![CDATA[<p>finished watching <a href="https://neodb.social/~neodb~/movie/1Ko8MoPr0MYHgrrEAD2r08" rel="nofollow">Old</a> 🌕🌕🌑🌑🌑  <br>An interesting premise baited me into watching something I should have known better, given the trailer already shows a jumble of fodder characters.</p><p>Some lines of dialogue are straight up garbage. Also, what a shit touch to portray the therapist with totally useless interjections. Someone in this film crew doesn&#x27;t seem to believe this to be a real profession.</p><p>The plot tries too hard. I was willing to accept the selective effects of the aging vs growing with the unnecessary addition of high speed scarring, along the mysterious blockade that impedes people from leaving. That&#x27;s a bit too out there already in terms of bio sci fi, but workable as a premise. But it gets murkier on the details, like the specifics of some deaths.</p><p>And apparently this multi-billion dollar company and its scientists are smart enough to develop a cure for epilepsy but cannot find a way to plug a coral reef. If it&#x27;s safe to swim out of the beach using it, it shouldn&#x27;t be hard to hire an unsuspecting diver to plug it, or at least install better surveillance on it?</p><p>And who is in charge of tidying up the beach? The most fantastical feature of this geography would not be its aging properties but the capacity to fully reset the entire surface of the beach from any sort of remains from the previous cohort, without human intervention, while still keeping a bunch of things close to the rocks easy to dig up. Imagine the odds<br></p>]]></description>
@@ -226,13 +233,6 @@
             <link>https://mastodon.social/@villasbc/113941880830130750</link>
             <guid isPermaLink="true">https://mastodon.social/@villasbc/113941880830130750</guid>
             <pubDate>Mon, 03 Feb 2025 20:38:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Comment]]></title>
-            <description><![CDATA[<p>I posted some photos of my Garibaldi Lake <a href="https://mastodon.social/tags/hike" class="mention hashtag" rel="tag">#<span>hike</span></a> last autumn on <a href="https://mastodon.social/tags/Pixelfed" class="mention hashtag" rel="tag">#<span>Pixelfed</span></a> which is foremost a photo of the lake but also has some pictures of some pretty <a href="https://mastodon.social/tags/mushrooms" class="mention hashtag" rel="tag">#<span>mushrooms</span></a> we’ve seen along the trail.</p><p>The <a href="https://mastodon.social/tags/RSS" class="mention hashtag" rel="tag">#<span>RSS</span></a> feed from Pixelfed includes only the first photo from the carrousel so the hashtags make it look like I was hiking high on mushrooms.</p><p>Not a big deal but it’s a funny example of the design challenges for open platforms that have to support wild ranges of interfaces.</p>]]></description>
-            <link>https://mastodon.social/@villasbc/113935971215174637</link>
-            <guid isPermaLink="true">https://mastodon.social/@villasbc/113935971215174637</guid>
-            <pubDate>Sun, 02 Feb 2025 19:35:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Wants to watch]]></title>
