@@ -2069,6 +2069,48 @@
       {
         "shelf_type": "complete",
         "visibility": 0,
+        "post_id": "6617658432178792",
+        "item": {
+          "type": "Edition",
+          "title": "The Beatles",
+          "description": "在线阅读本书\n\"Irresistible....A captivating picture that hasn't beenseen before....THE BEATLES amplifies and corrects some of what is knownabout the band's formative years.... It powerfully evokes both theexcitement and the price of such a sudden rise.\" --NEW YORK TIMES At last in paperback: the biography the Beatles deserve. It's all here, rawand right--the highs and the lows, the love and the rivalry, the awe andthe jealousy, the drugs, the tears, the thrill, the magic never to berepeated--in a vast, exuberantly acclaimed book that's as brilliant andjoyous and revelatory as a Beatles record itself.",
+          "localized_title": [
+            {
+              "lang": "en",
+              "text": "The Beatles"
+            }
+          ],
+          "localized_description": [
+            {
+              "lang": "zh-cn",
+              "text": "在线阅读本书\n\"Irresistible....A captivating picture that hasn't beenseen before....THE BEATLES amplifies and corrects some of what is knownabout the band's formative years.... It powerfully evokes both theexcitement and the price of such a sudden rise.\" --NEW YORK TIMES At last in paperback: the biography the Beatles deserve. It's all here, rawand right--the highs and the lows, the love and the rivalry, the awe andthe jealousy, the drugs, the tears, the thrill, the magic never to berepeated--in a vast, exuberantly acclaimed book that's as brilliant andjoyous and revelatory as a Beatles record itself."
+            }
+          ],
+          "cover_image_url": "https://neodb.social/m/book/2021/11/27381519c0-a479-4d13-8cd9-5b485bd27dbf.jpg",
+          "rating": null,
+          "rating_count": 1,
+          "brief": "在线阅读本书\n\"Irresistible....A captivating picture that hasn't beenseen before....THE BEATLES amplifies and corrects some of what is knownabout the band's formative years.... It powerfully evokes both theexcitement and the price of such a sudden rise.\" --NEW YORK TIMES At last in paperback: the biography the Beatles deserve. It's all here, rawand right--the highs and the lows, the love and the rivalry, the awe andthe jealousy, the drugs, the tears, the thrill, the magic never to berepeated--in a vast, exuberantly acclaimed book that's as brilliant andjoyous and revelatory as a Beatles record itself.",
+          "id": "https://neodb.social/book/6ysE3FRlE3h0zx7zrEuxgH",
+          "uuid": "6ysE3FRlE3h0zx7zrEuxgH",
+          "url": "/book/6ysE3FRlE3h0zx7zrEuxgH",
+          "api_url": "/api/book/6ysE3FRlE3h0zx7zrEuxgH",
+          "category": "book",
+          "parent_uuid": null,
+          "display_title": "The Beatles",
+          "external_resources": [
+            {
+              "url": "https://book.douban.com/subject/2827989/"
+            }
+          ]
+        },
+        "created_time": "2019-12-31T06:12:00Z",
+        "comment_text": "I don't know how to evaluate Bob Spitz work, whether it's accurate or simplistic, but it feels well researched and based on credible records. I guess it was a fine work, but the experience of listening to this audiobook wasn't that great, coming from someone that was mildly curious. There's only so much one can do to spice up a bibliography that doesn't derail into fiction. Halfway through I was listening the audiobook on 1.75x not really caring if something got lost.\r\n\r\nI did learn a thing or two. John was a self absorbed dickhead; Paul was a bit nicer but not by a long margin; Gorge was stuck under their shadow; and Ringo was surviving the ride. They were brilliant musicians, very misguided and suggestible to bullshit. Understandable, considering their context and  the whirlwind that must be becoming world famous in your early twenties.\r\n\r\nThis was the ultimate Beatles read, in the sense that I don't plan on ever reading anything about them ever again.",
+        "rating_grade": 4,
+        "tags": []
+      },
+      {
+        "shelf_type": "complete",
+        "visibility": 0,
         "post_id": "6536483552223040",
         "item": {
           "type": "Edition",

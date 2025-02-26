@@ -4,7 +4,7 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 26 Feb 2025 19:04:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Feb 2025 21:04:49 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2025]]></copyright>
         <item>
@@ -282,20 +282,6 @@
             <pubDate>Wed, 29 Jan 2025 06:36:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Started reading]]></title>
-            <description><![CDATA[<p>started reading <a href="https://neodb.social/~neodb~/book/6S6nTGAgbE1Qkm1HWGDPIh" rel="nofollow">Adult Children of Emotionally Immature Parents</a> <br>A bit late to reading this famous one, got it as an audiobook loan from the Vancouver Public Library.<br></p>]]></description>
-            <link>https://neodb.social/@villasv/posts/407313650154195792/</link>
-            <guid isPermaLink="true">https://neodb.social/@villasv/posts/407313650154195792/</guid>
-            <pubDate>Wed, 29 Jan 2025 06:19:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Finished reading]]></title>
-            <description><![CDATA[<p>finished reading <a href="https://neodb.social/~neodb~/book/6RUxcK3zMGYJWy4t7zTva5" rel="nofollow">Crucial Conversations</a> 🌕🌕🌕🌗🌑  <br>One of the few decent books for self-development and interpersonal skills. Reading the book won&#x27;t make anyone an empathetic and eloquent leader, but it does provide a framework to think about conversations that went wrong. Building safety, a shared pool of meaning, identifying crucial conversations before they happen or as they emerge... it&#x27;s mostly common sense or being a decent listener, but the merit of the author is in organizing and making you focus and think about several little confounding factors.<br></p>]]></description>
-            <link>https://neodb.social/@villasv/posts/398252184702446216/</link>
-            <guid isPermaLink="true">https://neodb.social/@villasv/posts/398252184702446216/</guid>
-            <pubDate>Sat, 04 Jan 2025 06:12:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Finished reading]]></title>
             <description><![CDATA[<p>finished reading <a href="https://neodb.social/~neodb~/book/3AGJYaT61Ucxvc1ZySrGuS" rel="nofollow">AI Superpowers</a> 🌕🌕🌕🌑🌑  <br>I like that the book presents a point of view that helps me understand a bit more the government role and technology development in China, escaping from the monolithic Silicon Valley ideology that embodies most talk about innovation and government intervention in &quot;the west&quot;. If you don&#x27;t read much about China and/or most of what you read related to Startups is from the USA, this is a good break from the gospel of &quot;the lean startup&quot; and the tyranny of infinitely scalable SaaS.</p><p>It was a bit rough to finish the read, though. It gets repetitive often, so I had a recurring feeling that the book could be half as long. There are few problematic points the author glosses over: capitalizing on poverty and precarious work conditions, cutthroat competition as role model, success measured by size and power. These might happen to be Dr. Lee&#x27;s own personal biases slipping through. But in the end this discomfort might be a reflection of my own western bias, as I had a hard time ignoring the differences in values when studying a mostly strategic analysis on growth and innovation.<br></p>]]></description>
             <link>https://neodb.social/@villasv/posts/6672016611074128/</link>
@@ -308,6 +294,20 @@
             <link>https://neodb.social/@villasv/posts/6640836155991552/</link>
             <guid isPermaLink="true">https://neodb.social/@villasv/posts/6640836155991552/</guid>
             <pubDate>Wed, 04 Mar 2020 05:12:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Finished reading]]></title>
+            <description><![CDATA[<p>finished reading <a href="https://neodb.social/~neodb~/book/6ysE3FRlE3h0zx7zrEuxgH" rel="nofollow">The Beatles</a> 🌕🌕🌑🌑🌑  <br>I don&#x27;t know how to evaluate Bob Spitz work, whether it&#x27;s accurate or simplistic, but it feels well researched and based on credible records. I guess it was a fine work, but the experience of listening to this audiobook wasn&#x27;t that great, coming from someone that was mildly curious. There&#x27;s only so much one can do to spice up a bibliography that doesn&#x27;t derail into fiction. Halfway through I was listening the audiobook on 1.75x not really caring if something got lost.</p><p>I did learn a thing or two. John was a self absorbed dickhead; Paul was a bit nicer but not by a long margin; Gorge was stuck under their shadow; and Ringo was surviving the ride. They were brilliant musicians, very misguided and suggestible to bullshit. Understandable, considering their context and  the whirlwind that must be becoming world famous in your early twenties.</p><p>This was the ultimate Beatles read, in the sense that I don&#x27;t plan on ever reading anything about them ever again.<br></p>]]></description>
+            <link>https://neodb.social/@villasv/posts/6617658432178792/</link>
+            <guid isPermaLink="true">https://neodb.social/@villasv/posts/6617658432178792/</guid>
+            <pubDate>Tue, 31 Dec 2019 06:12:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Started reading]]></title>
+            <description><![CDATA[<p>started reading <a href="https://neodb.social/~neodb~/book/6ysE3FRlE3h0zx7zrEuxgH" rel="nofollow">The Beatles</a> <br>My father loves The Beatles, and I dig the occasional song that still makes it to the radio. Mildly curious to learn more about their saga.<br></p>]]></description>
+            <link>https://neodb.social/@villasv/posts/6603510207816328/</link>
+            <guid isPermaLink="true">https://neodb.social/@villasv/posts/6603510207816328/</guid>
+            <pubDate>Fri, 22 Nov 2019 05:12:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
