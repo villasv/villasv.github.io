@@ -821,48 +821,6 @@
       {
         "shelf_type": "progress",
         "visibility": 0,
-        "post_id": "411239333061154096",
-        "item": {
-          "type": "Edition",
-          "title": "Playing Possum",
-          "description": "When the opossum feels threatened, she becomes paralyzed. Her body temperature plummets, her breathing and heart rates drop to a minimum, and her glands simulate the smell of a putrefying corpse. Playing Possum explores what the opossum and other creatures can teach us about how we and other species understand mortality, and demonstrates that the concept of death, far from being a uniquely human attribute, is widespread in the animal kingdom.\nWith humor and empathy, Susana Monsó tells the stories of ants who attend their own funerals, chimpanzees who clean the teeth of their dead, dogs who snack on their caregivers, crows who avoid the places where they saw a carcass, elephants obsessed with collecting ivory, and whales who carry their dead for weeks. Monsó, one of today’s leading experts on animal cognition and ethics, shows how there are more ways to conceive of mortality than the human way, and challenges the notion that the only emotional reactions to death worthy of our attention are ones that resemble our own.\nBlending philosophical insight with new evidence from behavioral science and comparative psychology, Playing Possum dispels the anthropocentric biases that cloud our understanding of the natural world, and reveals that, when it comes to death and dying, we are just another animal.",
-          "localized_title": [
-            {
-              "lang": "en",
-              "text": "Playing Possum"
-            }
-          ],
-          "localized_description": [
-            {
-              "lang": "en",
-              "text": "When the opossum feels threatened, she becomes paralyzed. Her body temperature plummets, her breathing and heart rates drop to a minimum, and her glands simulate the smell of a putrefying corpse. Playing Possum explores what the opossum and other creatures can teach us about how we and other species understand mortality, and demonstrates that the concept of death, far from being a uniquely human attribute, is widespread in the animal kingdom.\nWith humor and empathy, Susana Monsó tells the stories of ants who attend their own funerals, chimpanzees who clean the teeth of their dead, dogs who snack on their caregivers, crows who avoid the places where they saw a carcass, elephants obsessed with collecting ivory, and whales who carry their dead for weeks. Monsó, one of today’s leading experts on animal cognition and ethics, shows how there are more ways to conceive of mortality than the human way, and challenges the notion that the only emotional reactions to death worthy of our attention are ones that resemble our own.\nBlending philosophical insight with new evidence from behavioral science and comparative psychology, Playing Possum dispels the anthropocentric biases that cloud our understanding of the natural world, and reveals that, when it comes to death and dying, we are just another animal."
-            }
-          ],
-          "cover_image_url": "https://neodb.social/m/item/doubanbook/2024/12/31/1944c0c5-9348-4ab3-abf7-bb9af20e0b78.jpg",
-          "rating": null,
-          "rating_count": 0,
-          "brief": "When the opossum feels threatened, she becomes paralyzed. Her body temperature plummets, her breathing and heart rates drop to a minimum, and her glands simulate the smell of a putrefying corpse. Playing Possum explores what the opossum and other creatures can teach us about how we and other species understand mortality, and demonstrates that the concept of death, far from being a uniquely human attribute, is widespread in the animal kingdom.\nWith humor and empathy, Susana Monsó tells the stories of ants who attend their own funerals, chimpanzees who clean the teeth of their dead, dogs who snack on their caregivers, crows who avoid the places where they saw a carcass, elephants obsessed with collecting ivory, and whales who carry their dead for weeks. Monsó, one of today’s leading experts on animal cognition and ethics, shows how there are more ways to conceive of mortality than the human way, and challenges the notion that the only emotional reactions to death worthy of our attention are ones that resemble our own.\nBlending philosophical insight with new evidence from behavioral science and comparative psychology, Playing Possum dispels the anthropocentric biases that cloud our understanding of the natural world, and reveals that, when it comes to death and dying, we are just another animal.",
-          "id": "https://neodb.social/book/77foTxelPVvkedcPcgl1ZM",
-          "uuid": "77foTxelPVvkedcPcgl1ZM",
-          "url": "/book/77foTxelPVvkedcPcgl1ZM",
-          "api_url": "/api/book/77foTxelPVvkedcPcgl1ZM",
-          "category": "book",
-          "parent_uuid": null,
-          "display_title": "Playing Possum",
-          "external_resources": [
-            {
-              "url": "https://book.douban.com/subject/36755368/"
-            }
-          ]
-        },
-        "created_time": "2025-02-09T02:18:17.345Z",
-        "comment_text": "Randomly came across this browsing nonfiction audiobooks available via Vancouver Public Library, and what a good surprise.",
-        "rating_grade": null,
-        "tags": []
-      },
-      {
-        "shelf_type": "progress",
-        "visibility": 0,
         "post_id": "398905288616769496",
         "item": {
           "type": "Edition",
@@ -1040,6 +998,48 @@
       }
     ],
     "complete": [
+      {
+        "shelf_type": "complete",
+        "visibility": 0,
+        "post_id": "417647812822363576",
+        "item": {
+          "type": "Edition",
+          "title": "Playing Possum",
+          "description": "When the opossum feels threatened, she becomes paralyzed. Her body temperature plummets, her breathing and heart rates drop to a minimum, and her glands simulate the smell of a putrefying corpse. Playing Possum explores what the opossum and other creatures can teach us about how we and other species understand mortality, and demonstrates that the concept of death, far from being a uniquely human attribute, is widespread in the animal kingdom.\nWith humor and empathy, Susana Monsó tells the stories of ants who attend their own funerals, chimpanzees who clean the teeth of their dead, dogs who snack on their caregivers, crows who avoid the places where they saw a carcass, elephants obsessed with collecting ivory, and whales who carry their dead for weeks. Monsó, one of today’s leading experts on animal cognition and ethics, shows how there are more ways to conceive of mortality than the human way, and challenges the notion that the only emotional reactions to death worthy of our attention are ones that resemble our own.\nBlending philosophical insight with new evidence from behavioral science and comparative psychology, Playing Possum dispels the anthropocentric biases that cloud our understanding of the natural world, and reveals that, when it comes to death and dying, we are just another animal.",
+          "localized_title": [
+            {
+              "lang": "en",
+              "text": "Playing Possum"
+            }
+          ],
+          "localized_description": [
+            {
+              "lang": "en",
+              "text": "When the opossum feels threatened, she becomes paralyzed. Her body temperature plummets, her breathing and heart rates drop to a minimum, and her glands simulate the smell of a putrefying corpse. Playing Possum explores what the opossum and other creatures can teach us about how we and other species understand mortality, and demonstrates that the concept of death, far from being a uniquely human attribute, is widespread in the animal kingdom.\nWith humor and empathy, Susana Monsó tells the stories of ants who attend their own funerals, chimpanzees who clean the teeth of their dead, dogs who snack on their caregivers, crows who avoid the places where they saw a carcass, elephants obsessed with collecting ivory, and whales who carry their dead for weeks. Monsó, one of today’s leading experts on animal cognition and ethics, shows how there are more ways to conceive of mortality than the human way, and challenges the notion that the only emotional reactions to death worthy of our attention are ones that resemble our own.\nBlending philosophical insight with new evidence from behavioral science and comparative psychology, Playing Possum dispels the anthropocentric biases that cloud our understanding of the natural world, and reveals that, when it comes to death and dying, we are just another animal."
+            }
+          ],
+          "cover_image_url": "https://neodb.social/m/item/doubanbook/2024/12/31/1944c0c5-9348-4ab3-abf7-bb9af20e0b78.jpg",
+          "rating": null,
+          "rating_count": 1,
+          "brief": "When the opossum feels threatened, she becomes paralyzed. Her body temperature plummets, her breathing and heart rates drop to a minimum, and her glands simulate the smell of a putrefying corpse. Playing Possum explores what the opossum and other creatures can teach us about how we and other species understand mortality, and demonstrates that the concept of death, far from being a uniquely human attribute, is widespread in the animal kingdom.\nWith humor and empathy, Susana Monsó tells the stories of ants who attend their own funerals, chimpanzees who clean the teeth of their dead, dogs who snack on their caregivers, crows who avoid the places where they saw a carcass, elephants obsessed with collecting ivory, and whales who carry their dead for weeks. Monsó, one of today’s leading experts on animal cognition and ethics, shows how there are more ways to conceive of mortality than the human way, and challenges the notion that the only emotional reactions to death worthy of our attention are ones that resemble our own.\nBlending philosophical insight with new evidence from behavioral science and comparative psychology, Playing Possum dispels the anthropocentric biases that cloud our understanding of the natural world, and reveals that, when it comes to death and dying, we are just another animal.",
+          "id": "https://neodb.social/book/77foTxelPVvkedcPcgl1ZM",
+          "uuid": "77foTxelPVvkedcPcgl1ZM",
+          "url": "/book/77foTxelPVvkedcPcgl1ZM",
+          "api_url": "/api/book/77foTxelPVvkedcPcgl1ZM",
+          "category": "book",
+          "parent_uuid": null,
+          "display_title": "Playing Possum",
+          "external_resources": [
+            {
+              "url": "https://book.douban.com/subject/36755368/"
+            }
+          ]
+        },
+        "created_time": "2025-02-26T18:43:18.035Z",
+        "comment_text": "As a non biologist, this book was a super interesting listen for the compilation of studies regarding animal behavior and the respective anthropomorphism/anthropectomy we tend to color them. This is the rare non-fiction book that does NOT draw the reader towards The One Book mindset - where a concept is overstretched until it becomes a hammer capable of nailing all screws known to humankind.\r\n\r\nI think the structural design of the book works well. As expected from a philosopher, the thesis is built from the ground up and a lot of effort is put into what these concepts are _not_ saying. I like it, but I can imagine that readers not used to the extra precision and nitpicking common to philosophy writers will find it a bit dry or dense at times.\r\n\r\nThe one small gripe I have is that after all this effort, the final chapter ends up playing like a shortcut. The case for animals having a concept of death brought by the distinction between tonic immobility and thanatosis (faking death, aka playing possum) and what this tells us about predators is mostly not dependant on the framework the book invests in building. It's such a strong case, it feels like the core issue is answered by reading the first two or three chapters plus the last one, and everything in between is superfluous - but even the filler was very interesting to me, so it was time well spent anyway.",
+        "rating_grade": 9,
+        "tags": []
+      },
       {
         "shelf_type": "complete",
         "visibility": 0,
@@ -1727,48 +1727,6 @@
       {
         "shelf_type": "complete",
         "visibility": 0,
-        "post_id": "266343001621637280",
-        "item": {
-          "type": "Edition",
-          "title": "Foreverland: On the Divine Tedium of Marriage",
-          "description": "If falling in love is the peak of human experience, then marriage is the slow descent down that mountain, on a trail built from conflict, compromise, and nagging doubts. Considering the limited economic advantages to marriage, the deluge of other mate options a swipe away, and the fact that almost half of all marriages in the United States end in divorce anyway, why do so many of us still chain ourselves to one human being for life?\nIn\n, Heather Havrilesky illustrates the delights, aggravations, and sublime calamities of her marriage over the span of fifteen years, charting an unpredictable course from meeting her one true love to slowly learning just how much energy is required to keep that love aflame. This refreshingly honest portrait of a marriage reveals that our relationships are not simply \"happy\" or \"unhappy,\" but something much murkier--at once unsavory, taxing, and deeply satisfying. With tales of fumbled proposals, harrowing suburban migrations, external temptations, and the bewildering insults of growing older,\nis a work of rare candor and insight. Havrilesky traces a path from daydreaming about forever for the first time to understanding what a tedious, glorious drag forever can be.",
-          "localized_title": [
-            {
-              "lang": "en",
-              "text": "Foreverland: On the Divine Tedium of Marriage"
-            }
-          ],
-          "localized_description": [
-            {
-              "lang": "en",
-              "text": "If falling in love is the peak of human experience, then marriage is the slow descent down that mountain, on a trail built from conflict, compromise, and nagging doubts. Considering the limited economic advantages to marriage, the deluge of other mate options a swipe away, and the fact that almost half of all marriages in the United States end in divorce anyway, why do so many of us still chain ourselves to one human being for life?\nIn\n, Heather Havrilesky illustrates the delights, aggravations, and sublime calamities of her marriage over the span of fifteen years, charting an unpredictable course from meeting her one true love to slowly learning just how much energy is required to keep that love aflame. This refreshingly honest portrait of a marriage reveals that our relationships are not simply \"happy\" or \"unhappy,\" but something much murkier--at once unsavory, taxing, and deeply satisfying. With tales of fumbled proposals, harrowing suburban migrations, external temptations, and the bewildering insults of growing older,\nis a work of rare candor and insight. Havrilesky traces a path from daydreaming about forever for the first time to understanding what a tedious, glorious drag forever can be."
-            }
-          ],
-          "cover_image_url": "https://neodb.social/m/book/2022/07/055fe90224-d4c4-4ae9-8dc7-0f8146a46589.jpg",
-          "rating": null,
-          "rating_count": 1,
-          "brief": "If falling in love is the peak of human experience, then marriage is the slow descent down that mountain, on a trail built from conflict, compromise, and nagging doubts. Considering the limited economic advantages to marriage, the deluge of other mate options a swipe away, and the fact that almost half of all marriages in the United States end in divorce anyway, why do so many of us still chain ourselves to one human being for life?\nIn\n, Heather Havrilesky illustrates the delights, aggravations, and sublime calamities of her marriage over the span of fifteen years, charting an unpredictable course from meeting her one true love to slowly learning just how much energy is required to keep that love aflame. This refreshingly honest portrait of a marriage reveals that our relationships are not simply \"happy\" or \"unhappy,\" but something much murkier--at once unsavory, taxing, and deeply satisfying. With tales of fumbled proposals, harrowing suburban migrations, external temptations, and the bewildering insults of growing older,\nis a work of rare candor and insight. Havrilesky traces a path from daydreaming about forever for the first time to understanding what a tedious, glorious drag forever can be.",
-          "id": "https://neodb.social/book/2BeOuqIxtAhND1EbtgotTL",
-          "uuid": "2BeOuqIxtAhND1EbtgotTL",
-          "url": "/book/2BeOuqIxtAhND1EbtgotTL",
-          "api_url": "/api/book/2BeOuqIxtAhND1EbtgotTL",
-          "category": "book",
-          "parent_uuid": null,
-          "display_title": "Foreverland: On the Divine Tedium of Marriage",
-          "external_resources": [
-            {
-              "url": "https://www.goodreads.com/book/show/58079443"
-            }
-          ]
-        },
-        "created_time": "2024-01-06T06:12:00Z",
-        "comment_text": "I give the book some extra stars for being well written and captivatingly sincere enough to keep me with it until the end. What gives me hope is that the toxicity was exaggerated for the sake of entertainment. I think a lot of people are going to resonate with a lot of the book, because the author collects a catalogue of character faults - anyone will definitely find theirs represented in here and possibly relate.",
-        "rating_grade": 5,
-        "tags": []
-      },
-      {
-        "shelf_type": "complete",
-        "visibility": 0,
         "post_id": "266343001621637528",
         "item": {
           "type": "Edition",
@@ -1806,6 +1764,48 @@
         "created_time": "2024-01-06T06:12:00Z",
         "comment_text": "Reading both stories can feel slightly repetitive, but it can also be an interesting exercise to approach it as a game of \"find the difference\" in storytelling between Hoffman and Dumas, so the reader has the opportunity of finding out for themselves if Dumas really did water down the criticisms of the bourgeois child education strictness - as stated by so many literary critics.",
         "rating_grade": 8,
+        "tags": []
+      },
+      {
+        "shelf_type": "complete",
+        "visibility": 0,
+        "post_id": "266343001621637280",
+        "item": {
+          "type": "Edition",
+          "title": "Foreverland: On the Divine Tedium of Marriage",
+          "description": "If falling in love is the peak of human experience, then marriage is the slow descent down that mountain, on a trail built from conflict, compromise, and nagging doubts. Considering the limited economic advantages to marriage, the deluge of other mate options a swipe away, and the fact that almost half of all marriages in the United States end in divorce anyway, why do so many of us still chain ourselves to one human being for life?\nIn\n, Heather Havrilesky illustrates the delights, aggravations, and sublime calamities of her marriage over the span of fifteen years, charting an unpredictable course from meeting her one true love to slowly learning just how much energy is required to keep that love aflame. This refreshingly honest portrait of a marriage reveals that our relationships are not simply \"happy\" or \"unhappy,\" but something much murkier--at once unsavory, taxing, and deeply satisfying. With tales of fumbled proposals, harrowing suburban migrations, external temptations, and the bewildering insults of growing older,\nis a work of rare candor and insight. Havrilesky traces a path from daydreaming about forever for the first time to understanding what a tedious, glorious drag forever can be.",
+          "localized_title": [
+            {
+              "lang": "en",
+              "text": "Foreverland: On the Divine Tedium of Marriage"
+            }
+          ],
+          "localized_description": [
+            {
+              "lang": "en",
+              "text": "If falling in love is the peak of human experience, then marriage is the slow descent down that mountain, on a trail built from conflict, compromise, and nagging doubts. Considering the limited economic advantages to marriage, the deluge of other mate options a swipe away, and the fact that almost half of all marriages in the United States end in divorce anyway, why do so many of us still chain ourselves to one human being for life?\nIn\n, Heather Havrilesky illustrates the delights, aggravations, and sublime calamities of her marriage over the span of fifteen years, charting an unpredictable course from meeting her one true love to slowly learning just how much energy is required to keep that love aflame. This refreshingly honest portrait of a marriage reveals that our relationships are not simply \"happy\" or \"unhappy,\" but something much murkier--at once unsavory, taxing, and deeply satisfying. With tales of fumbled proposals, harrowing suburban migrations, external temptations, and the bewildering insults of growing older,\nis a work of rare candor and insight. Havrilesky traces a path from daydreaming about forever for the first time to understanding what a tedious, glorious drag forever can be."
+            }
+          ],
+          "cover_image_url": "https://neodb.social/m/book/2022/07/055fe90224-d4c4-4ae9-8dc7-0f8146a46589.jpg",
+          "rating": null,
+          "rating_count": 1,
+          "brief": "If falling in love is the peak of human experience, then marriage is the slow descent down that mountain, on a trail built from conflict, compromise, and nagging doubts. Considering the limited economic advantages to marriage, the deluge of other mate options a swipe away, and the fact that almost half of all marriages in the United States end in divorce anyway, why do so many of us still chain ourselves to one human being for life?\nIn\n, Heather Havrilesky illustrates the delights, aggravations, and sublime calamities of her marriage over the span of fifteen years, charting an unpredictable course from meeting her one true love to slowly learning just how much energy is required to keep that love aflame. This refreshingly honest portrait of a marriage reveals that our relationships are not simply \"happy\" or \"unhappy,\" but something much murkier--at once unsavory, taxing, and deeply satisfying. With tales of fumbled proposals, harrowing suburban migrations, external temptations, and the bewildering insults of growing older,\nis a work of rare candor and insight. Havrilesky traces a path from daydreaming about forever for the first time to understanding what a tedious, glorious drag forever can be.",
+          "id": "https://neodb.social/book/2BeOuqIxtAhND1EbtgotTL",
+          "uuid": "2BeOuqIxtAhND1EbtgotTL",
+          "url": "/book/2BeOuqIxtAhND1EbtgotTL",
+          "api_url": "/api/book/2BeOuqIxtAhND1EbtgotTL",
+          "category": "book",
+          "parent_uuid": null,
+          "display_title": "Foreverland: On the Divine Tedium of Marriage",
+          "external_resources": [
+            {
+              "url": "https://www.goodreads.com/book/show/58079443"
+            }
+          ]
+        },
+        "created_time": "2024-01-06T06:12:00Z",
+        "comment_text": "I give the book some extra stars for being well written and captivatingly sincere enough to keep me with it until the end. What gives me hope is that the toxicity was exaggerated for the sake of entertainment. I think a lot of people are going to resonate with a lot of the book, because the author collects a catalogue of character faults - anyone will definitely find theirs represented in here and possibly relate.",
+        "rating_grade": 5,
         "tags": []
       },
       {
@@ -2022,6 +2022,48 @@
         "created_time": "2020-11-04T06:12:00Z",
         "comment_text": "For someone who is not a designer, or didn't have formal training on design, this is a great first material. It goes reasonably deep but doesn't bother introducing basic concepts. It has good examples and interesting discussions.",
         "rating_grade": 8,
+        "tags": []
+      },
+      {
+        "shelf_type": "complete",
+        "visibility": 0,
+        "post_id": "6672016611074128",
+        "item": {
+          "type": "Edition",
+          "title": "AI Superpowers",
+          "description": "",
+          "localized_title": [
+            {
+              "lang": "af",
+              "text": "AI Superpowers"
+            }
+          ],
+          "localized_description": [
+            {
+              "lang": "x",
+              "text": ""
+            }
+          ],
+          "cover_image_url": "https://neodb.social/m/book/2021/11/28cedcb344-bda4-49fa-a5e6-2d5be7f62fb6.jpg",
+          "rating": null,
+          "rating_count": 1,
+          "brief": "",
+          "id": "https://neodb.social/book/3AGJYaT61Ucxvc1ZySrGuS",
+          "uuid": "3AGJYaT61Ucxvc1ZySrGuS",
+          "url": "/book/3AGJYaT61Ucxvc1ZySrGuS",
+          "api_url": "/api/book/3AGJYaT61Ucxvc1ZySrGuS",
+          "category": "book",
+          "parent_uuid": null,
+          "display_title": "AI Superpowers",
+          "external_resources": [
+            {
+              "url": "https://book.douban.com/subject/30338391/"
+            }
+          ]
+        },
+        "created_time": "2020-05-29T06:12:00Z",
+        "comment_text": "I like that the book presents a point of view that helps me understand a bit more the government role and technology development in China, escaping from the monolithic Silicon Valley ideology that embodies most talk about innovation and government intervention in \"the west\". If you don't read much about China and/or most of what you read related to Startups is from the USA, this is a good break from the gospel of \"the lean startup\" and the tyranny of infinitely scalable SaaS.\r\n\r\nIt was a bit rough to finish the read, though. It gets repetitive often, so I had a recurring feeling that the book could be half as long. There are few problematic points the author glosses over: capitalizing on poverty and precarious work conditions, cutthroat competition as role model, success measured by size and power. These might happen to be Dr. Lee's own personal biases slipping through. But in the end this discomfort might be a reflection of my own western bias, as I had a hard time ignoring the differences in values when studying a mostly strategic analysis on growth and innovation.",
+        "rating_grade": 6,
         "tags": []
       },
       {
