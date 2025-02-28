@@ -2158,6 +2158,84 @@
       {
         "shelf_type": "wishlist",
         "visibility": 0,
+        "post_id": "418310057154667640",
+        "item": {
+          "type": "Movie",
+          "title": "Arthur Erickson: Beauty Between The Lines",
+          "description": "The untold triumphs and tragedies of Arthur Erickson, a captivating 20th-century modernist architect.",
+          "localized_title": [
+            {
+              "lang": "ko",
+              "text": "Arthur Erickson: Beauty Between The Lines"
+            },
+            {
+              "lang": "ja",
+              "text": "Arthur Erickson: Beauty Between The Lines"
+            },
+            {
+              "lang": "pt",
+              "text": "Arthur Erickson: Beauty Between The Lines"
+            },
+            {
+              "lang": "de",
+              "text": "Arthur Erickson: Beauty Between The Lines"
+            },
+            {
+              "lang": "fr",
+              "text": "Arthur Erickson: Beauty Between The Lines"
+            },
+            {
+              "lang": "es",
+              "text": "Arthur Erickson: Beauty Between The Lines"
+            },
+            {
+              "lang": "en",
+              "text": "Arthur Erickson: Beauty Between The Lines"
+            },
+            {
+              "lang": "zh-hk",
+              "text": "Arthur Erickson: Beauty Between The Lines"
+            },
+            {
+              "lang": "zh-tw",
+              "text": "Arthur Erickson: Beauty Between The Lines"
+            },
+            {
+              "lang": "zh-cn",
+              "text": "Arthur Erickson: Beauty Between The Lines"
+            }
+          ],
+          "localized_description": [
+            {
+              "lang": "en",
+              "text": "The untold triumphs and tragedies of Arthur Erickson, a captivating 20th-century modernist architect."
+            }
+          ],
+          "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2025/02/28/51c16c1b-aeda-41d6-b7ba-6291c7c0d55d.jpg",
+          "rating": null,
+          "rating_count": 0,
+          "brief": "The untold triumphs and tragedies of Arthur Erickson, a captivating 20th-century modernist architect.",
+          "id": "https://neodb.social/movie/33x0pvKMtNtpoYXHSwVuXa",
+          "uuid": "33x0pvKMtNtpoYXHSwVuXa",
+          "url": "/movie/33x0pvKMtNtpoYXHSwVuXa",
+          "api_url": "/api/movie/33x0pvKMtNtpoYXHSwVuXa",
+          "category": "movie",
+          "parent_uuid": null,
+          "display_title": "Arthur Erickson: Beauty Between The Lines",
+          "external_resources": [
+            {
+              "url": "https://www.themoviedb.org/movie/1398632"
+            }
+          ]
+        },
+        "created_time": "2025-02-28T14:34:49.400Z",
+        "comment_text": "A local celebrity in Vancouver, though I can’t say I’m a huge fan of most of his work really. It’s hard to separate what’s his design from what came from generic projects done by his company using his name.",
+        "rating_grade": null,
+        "tags": []
+      },
+      {
+        "shelf_type": "wishlist",
+        "visibility": 0,
         "post_id": "415529703569918896",
         "item": {
           "type": "Movie",
