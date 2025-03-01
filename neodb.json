@@ -3053,13 +3053,13 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/08/11/bf45f90f-617e-4386-8425-b3bbca31cea8.jpg",
           "rating": 8.5,
-          "rating_count": 16,
+          "rating_count": 17,
           "rating_distribution": [
             0,
             0,
-            18,
-            25,
-            56
+            17,
+            23,
+            58
           ],
           "tags": [
             "历史"
