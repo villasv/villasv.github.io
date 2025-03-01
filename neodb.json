@@ -4274,6 +4274,135 @@
       {
         "shelf_type": "progress",
         "visibility": 0,
+        "post_id": "418719932491758768",
+        "item": {
+          "type": "TVSeason",
+          "title": "Severance 第二季",
+          "description": "在第2季中，马克和朋友们了解到，记忆切割会带来可怕的后果，这迫使他们在悲惨的道路上越走越远。",
+          "localized_title": [
+            {
+              "lang": "ko",
+              "text": "시즌 2"
+            },
+            {
+              "lang": "ja",
+              "text": "シーズン2"
+            },
+            {
+              "lang": "pt",
+              "text": "2.ª Temporada"
+            },
+            {
+              "lang": "de",
+              "text": "Staffel 2"
+            },
+            {
+              "lang": "fr",
+              "text": "Saison 2"
+            },
+            {
+              "lang": "es",
+              "text": "Temporada 2"
+            },
+            {
+              "lang": "en",
+              "text": "Season 2"
+            },
+            {
+              "lang": "zh-hk",
+              "text": "第 2 季"
+            },
+            {
+              "lang": "zh-tw",
+              "text": "第二季"
+            },
+            {
+              "lang": "zh-cn",
+              "text": "第 2 季"
+            }
+          ],
+          "localized_description": [
+            {
+              "lang": "de",
+              "text": "In der zweiten Staffel erfahren Mark und seine Freunde, welche schrecklichen Folgen es hat, wenn man mit der Trennungsschranke leichtfertig umgeht, und das führt sie auf einen Pfad des Unheils."
+            },
+            {
+              "lang": "fr",
+              "text": "Mark et son équipe apprennent à leurs dépens qu’on ne plaisante pas avec les frontières de la dissociation."
+            },
+            {
+              "lang": "es",
+              "text": "El misterio de Lumon sigue desvelándose poco a poco mientras Mark, Helly, Irving y Dylan se enfrentan a los temores que les han dejado en vilo. La señora Cobel y Milchek también regresan para intentar restaurar el riguroso orden del mundo de Lumon."
+            },
+            {
+              "lang": "en",
+              "text": "In season two, Mark and his friends learn the dire consequences of trifling with the severance barrier, leading them further down a path of woe."
+            },
+            {
+              "lang": "zh-tw",
+              "text": "在第二季的故事中，主角馬克和他的朋友們將為輕忽「切割手術」而付出慘痛代價。這條冒險之路將把他們引向更深的黑暗漩渦之中，究竟會遭遇什麼更黑暗的絕境令人不寒而慄！"
+            },
+            {
+              "lang": "zh-cn",
+              "text": "在第2季中，马克和朋友们了解到，记忆切割会带来可怕的后果，这迫使他们在悲惨的道路上越走越远。"
+            }
+          ],
+          "cover_image_url": "https://neodb.social/m/item/tmdb_tvseason/2025/02/28/52375386-8cc6-4344-87e4-011c17980d30.jpg",
+          "rating": 8.4,
+          "rating_count": 18,
+          "rating_distribution": [
+            0,
+            0,
+            5,
+            44,
+            50
+          ],
+          "tags": [
+            "2023",
+            "2025",
+            "亚当 斯科特",
+            "人生切割术",
+            "克里斯托弗 沃肯",
+            "惊悚",
+            "本 斯蒂勒",
+            "电视剧",
+            "科幻",
+            "美剧",
+            "美国",
+            "讽刺",
+            "高科技"
+          ],
+          "brief": "在第2季中，马克和朋友们了解到，记忆切割会带来可怕的后果，这迫使他们在悲惨的道路上越走越远。",
+          "id": "https://neodb.social/tv/season/2iGcyQRlEuz7fvMuAIlsKK",
+          "uuid": "2iGcyQRlEuz7fvMuAIlsKK",
+          "url": "/tv/season/2iGcyQRlEuz7fvMuAIlsKK",
+          "api_url": "/api/tv/season/2iGcyQRlEuz7fvMuAIlsKK",
+          "category": "tv",
+          "parent_uuid": "4R9QW6VMMkZzK3LESoTTrz",
+          "display_title": "Severance 第二季",
+          "external_resources": [
+            {
+              "url": "https://bgm.tv/subject/486766"
+            },
+            {
+              "url": "https://eggplant.place/tv/season/7RpaGmwFxfKjLCR5N9WgOe"
+            },
+            {
+              "url": "https://movie.douban.com/subject/35783948/"
+            },
+            {
+              "url": "https://www.themoviedb.org/tv/95396/season/2"
+            }
+          ]
+        },
+        "created_time": "2025-02-22T05:12:00Z",
+        "comment_text": "Started off nicely with a good continuation of the season one finale. Excited to see what’s coming.",
+        "rating_grade": 8,
+        "tags": []
+      },
+      {
+        "shelf_type": "progress",
+        "visibility": 0,
         "post_id": "415642926700757640",
         "item": {
           "type": "TVSeason",
