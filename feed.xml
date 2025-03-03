@@ -4,7 +4,7 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 03 Mar 2025 13:09:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Mar 2025 15:05:33 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2025]]></copyright>
         <item>
@@ -118,13 +118,6 @@
             <link>https://neodb.social/@villasv/posts/418008351412050648/</link>
             <guid isPermaLink="true">https://neodb.social/@villasv/posts/418008351412050648/</guid>
             <pubDate>Thu, 27 Feb 2025 18:35:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Comment]]></title>
-            <description><![CDATA[<p>Hey <span class="h-card" translate="no"><a href="https://mas.to/@TechConnectify" class="u-url mention">@<span>TechConnectify</span></a></span>, saw your video today and found this other related content. If you have some time to kill reading a personal account from someone experiencing the extremes of algorithmic complacency:</p><p><a href="https://thewalrus.ca/at-3-a-m-i-turned-to-ai-for-comfort-that-was-my-first-mistake/" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">thewalrus.ca/at-3-a-m-i-turned</span><span class="invisible">-to-ai-for-comfort-that-was-my-first-mistake/</span></a></p><p>Side note, I just sent you this using &quot;Quiet public&quot;, which is a badly publicized &quot;hide post from search and trends&quot; flag.</p>]]></description>
-            <link>https://mastodon.social/@villasbc/114067586709279739</link>
-            <guid isPermaLink="true">https://mastodon.social/@villasbc/114067586709279739</guid>
-            <pubDate>Wed, 26 Feb 2025 01:27:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Started watching]]></title>
@@ -268,6 +261,13 @@
             <link>https://mastodon.social/@villasbc/113949325108277817</link>
             <guid isPermaLink="true">https://mastodon.social/@villasbc/113949325108277817</guid>
             <pubDate>Wed, 05 Feb 2025 04:11:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Comment]]></title>
+            <description><![CDATA[<p>So today I was able to post a <a href="https://mastodon.social/tags/Pixelfed" class="mention hashtag" rel="tag">#<span>Pixelfed</span></a> story using a video from my gallery. I thought <a href="https://mastodon.social/tags/iOS" class="mention hashtag" rel="tag">#<span>iOS</span></a> shortcuts would give me an easy way to convert HEVC to MP4 but no dice (possible but not easy). Instead the lowest friction method is to send myself the video using Telegram/WhatsApp and save the output, which is H.264. Quality goes down but it’s the price for now.</p><p>Hoping that HEVC support comes out soon so I can save this work and post crispy videos of snowfall ❄️</p>]]></description>
+            <link>https://mastodon.social/@villasbc/113941880830130750</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/113941880830130750</guid>
+            <pubDate>Mon, 03 Feb 2025 20:38:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Media]]></title>
