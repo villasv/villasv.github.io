@@ -2686,6 +2686,135 @@
       {
         "shelf_type": "wishlist",
         "visibility": 0,
+        "post_id": "419216917948251440",
+        "item": {
+          "type": "Movie",
+          "title": "我不是机器人",
+          "description": "After several unsuccessful attempts to complete a Captcha, feminist Lara sets out to answer the disturbing question of whether she’s a robot, and therefore bought by her own boyfriend.",
+          "localized_title": [
+            {
+              "lang": "en",
+              "text": "I'm Not a Robot"
+            },
+            {
+              "lang": "nl",
+              "text": "Ik ben geen robot"
+            },
+            {
+              "lang": "zh-cn",
+              "text": "我不是机器人"
+            }
+          ],
+          "localized_description": [
+            {
+              "lang": "en",
+              "text": "After several unsuccessful attempts to complete a Captcha, feminist Lara sets out to answer the disturbing question of whether she’s a robot, and therefore bought by her own boyfriend."
+            }
+          ],
+          "cover_image_url": "https://neodb.social/m/item/doubanmovie/2025/02/17/51df383e-b065-4d8e-94e4-19f408130f8a.jpg",
+          "rating": null,
+          "rating_count": 2,
+          "rating_distribution": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "tags": [
+            "短片"
+          ],
+          "brief": "After several unsuccessful attempts to complete a Captcha, feminist Lara sets out to answer the disturbing question of whether she’s a robot, and therefore bought by her own boyfriend.",
+          "id": "https://neodb.social/movie/6EcqClLZq6WlEoWPuet1qM",
+          "uuid": "6EcqClLZq6WlEoWPuet1qM",
+          "url": "/movie/6EcqClLZq6WlEoWPuet1qM",
+          "api_url": "/api/movie/6EcqClLZq6WlEoWPuet1qM",
+          "category": "movie",
+          "parent_uuid": null,
+          "display_title": "我不是机器人",
+          "external_resources": [
+            {
+              "url": "https://movie.douban.com/subject/36946828/"
+            }
+          ]
+        },
+        "created_time": "2025-03-03T02:38:21.863Z",
+        "comment_text": "2025 Oscar winner",
+        "rating_grade": null,
+        "tags": []
+      },
+      {
+        "shelf_type": "wishlist",
+        "visibility": 0,
+        "post_id": "419213422034163672",
+        "item": {
+          "type": "Movie",
+          "title": "唯一的家园",
+          "description": "这部由巴勒斯坦人和以色列人共同制作的影片展现了以色列当局对约旦河西岸马萨费尔亚塔的破坏，以及巴勒斯坦活动家Basel和以色列记者Yuval之间的友谊。",
+          "localized_title": [
+            {
+              "lang": "ar",
+              "text": "لا أرض أخرى"
+            },
+            {
+              "lang": "zh-cn",
+              "text": "唯一的家园"
+            },
+            {
+              "lang": "en",
+              "text": "No Other Land"
+            }
+          ],
+          "localized_description": [
+            {
+              "lang": "zh-cn",
+              "text": "这部由巴勒斯坦人和以色列人共同制作的影片展现了以色列当局对约旦河西岸马萨费尔亚塔的破坏，以及巴勒斯坦活动家Basel和以色列记者Yuval之间的友谊。"
+            }
+          ],
+          "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/02/20/9aafa2fc-1f22-415b-b882-26dd2baa2e6e.webp",
+          "rating": 8.5,
+          "rating_count": 25,
+          "rating_distribution": [
+            0,
+            0,
+            4,
+            56,
+            40
+          ],
+          "tags": [
+            "历史",
+            "巴勒斯坦",
+            "政治",
+            "文脉",
+            "紀錄片",
+            "纪录片",
+            "长片首作"
+          ],
+          "brief": "这部由巴勒斯坦人和以色列人共同制作的影片展现了以色列当局对约旦河西岸马萨费尔亚塔的破坏，以及巴勒斯坦活动家Basel和以色列记者Yuval之间的友谊。",
+          "id": "https://neodb.social/movie/5RthpfYZ9AhlRkHWSAyzJi",
+          "uuid": "5RthpfYZ9AhlRkHWSAyzJi",
+          "url": "/movie/5RthpfYZ9AhlRkHWSAyzJi",
+          "api_url": "/api/movie/5RthpfYZ9AhlRkHWSAyzJi",
+          "category": "movie",
+          "parent_uuid": null,
+          "display_title": "唯一的家园",
+          "external_resources": [
+            {
+              "url": "https://movie.douban.com/subject/36741506/"
+            },
+            {
+              "url": "https://www.themoviedb.org/movie/1232493"
+            }
+          ]
+        },
+        "created_time": "2025-03-03T02:24:28.365Z",
+        "comment_text": "2025 Oscar winner",
+        "rating_grade": null,
+        "tags": []
+      },
+      {
+        "shelf_type": "wishlist",
+        "visibility": 0,
         "post_id": "419196447657679608",
         "item": {
           "type": "Movie",
@@ -3029,13 +3158,13 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/06/23/566914c0-b514-4cc7-bea4-f5d90945a704.webp",
           "rating": 8.3,
-          "rating_count": 127,
+          "rating_count": 134,
           "rating_distribution": [
             0,
             0,
             14,
-            37,
-            47
+            40,
+            45
           ],
           "tags": [
             "2024",
@@ -3666,13 +3795,13 @@
             }
           ],
           "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2025/02/23/a52ab075-809e-42ae-b8a5-d6b272a2ace8.jpg",
-          "rating": 7,
-          "rating_count": 39,
+          "rating": 6.8,
+          "rating_count": 40,
           "rating_distribution": [
-            0,
+            2,
             5,
-            33,
-            56,
+            32,
+            55,
             5
           ],
           "tags": [
@@ -5483,7 +5612,7 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/movie/2023/05/31/0904d82a-cd0e-4526-91cb-0c7d98d66d94.jpg",
           "rating": 7.8,
-          "rating_count": 294,
+          "rating_count": 295,
           "rating_distribution": [
             0,
             2,
