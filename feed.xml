@@ -4,9 +4,23 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 02 Mar 2025 23:04:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Mar 2025 01:32:37 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2025]]></copyright>
+        <item>
+            <title><![CDATA[Wants to watch]]></title>
+            <description><![CDATA[<p>wants to watch <a href="https://neodb.social/~neodb~/movie/5cQ7VzMOl54Oy4G3LAZUB7" rel="nofollow">In the Shadow of the Cypress</a> <br>2025 Oscar winner<br></p>]]></description>
+            <link>https://neodb.social/@villasv/posts/419196447657679608/</link>
+            <guid isPermaLink="true">https://neodb.social/@villasv/posts/419196447657679608/</guid>
+            <pubDate>Mon, 03 Mar 2025 01:17:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Wants to watch]]></title>
+            <description><![CDATA[<p>wants to watch <a href="https://neodb.social/~neodb~/movie/0sN2oplb3DfJR1RniMoyNd" rel="nofollow">A Real Pain</a> <br>2025 Oscar nominee<br></p>]]></description>
+            <link>https://neodb.social/@villasv/posts/419185028070104368/</link>
+            <guid isPermaLink="true">https://neodb.social/@villasv/posts/419185028070104368/</guid>
+            <pubDate>Mon, 03 Mar 2025 00:31:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Wants to watch]]></title>
             <description><![CDATA[<p>wants to watch <a href="https://neodb.social/~neodb~/movie/1UKRbng4exUWF9VlZlsxR4" rel="nofollow">Flow</a> <br>2025 Oscar nominee<br></p>]]></description>
@@ -111,20 +125,6 @@
             <link>https://neodb.social/@villasv/posts/416946885706797104/</link>
             <guid isPermaLink="true">https://neodb.social/@villasv/posts/416946885706797104/</guid>
             <pubDate>Mon, 24 Feb 2025 20:18:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Finished watching]]></title>
-            <description><![CDATA[<p>finished watching <a href="https://neodb.social/~neodb~/movie/1UUr7zhAViZPd7e9mAjUs1" rel="nofollow">Oblivion</a> 🌕🌕🌗🌑🌑  <br>Airplane rewatch. Entertaining, even if not one of the greats. Great visuals, good acting. Some of the tropes are glaring and tiring. The New Yorker military grade man that builds his promised lake house for a romance that survives memory wiping technology. The plot core is decent sci fi, but several gaps make it easy target for criticism. Almost everything surrounding the scavengers is a bit of a mess, and the apparent stinginess in deploying drones, and the on and off surveillance capabilities of the enemies.</p><p>The ending is the weakest bit. The movie wrecks its already shaky defensibility by adding a totally unnecessary time skip, just to present us a kid. It’s basic and kind of stupid how that unfolds (and its implications).<br></p>]]></description>
-            <link>https://neodb.social/@villasv/posts/416695381755537024/</link>
-            <guid isPermaLink="true">https://neodb.social/@villasv/posts/416695381755537024/</guid>
-            <pubDate>Mon, 24 Feb 2025 03:38:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Started reading]]></title>
-            <description><![CDATA[<p>started reading <a href="https://neodb.social/~neodb~/book/2MDiC3Qu6SPYpzk82Glbaa" rel="nofollow">Invisible Cities</a> <br>Recommended by the gentleman of The Paper Hound as a read to lose myself in<br></p>]]></description>
-            <link>https://neodb.social/@villasv/posts/416590416624139720/</link>
-            <guid isPermaLink="true">https://neodb.social/@villasv/posts/416590416624139720/</guid>
-            <pubDate>Sun, 23 Feb 2025 20:41:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Started watching]]></title>

@@ -2686,6 +2686,246 @@
       {
         "shelf_type": "wishlist",
         "visibility": 0,
+        "post_id": "419196447657679608",
+        "item": {
+          "type": "Movie",
+          "title": "柏树阴影下",
+          "description": "威尼斯电影节地平线单元短片入围",
+          "localized_title": [
+            {
+              "lang": "zh-cn",
+              "text": "柏树阴影下"
+            },
+            {
+              "lang": "so",
+              "text": "Dar Saaye Sarv"
+            },
+            {
+              "lang": "en",
+              "text": "In the Shadow of the Cypress"
+            }
+          ],
+          "localized_description": [
+            {
+              "lang": "zh-cn",
+              "text": "威尼斯电影节地平线单元短片入围"
+            }
+          ],
+          "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/09/13/1853a26c-5102-4d10-9346-0e0b3f015258.jpg",
+          "rating": null,
+          "rating_count": 2,
+          "rating_distribution": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "tags": [],
+          "brief": "威尼斯电影节地平线单元短片入围",
+          "id": "https://neodb.social/movie/5cQ7VzMOl54Oy4G3LAZUB7",
+          "uuid": "5cQ7VzMOl54Oy4G3LAZUB7",
+          "url": "/movie/5cQ7VzMOl54Oy4G3LAZUB7",
+          "api_url": "/api/movie/5cQ7VzMOl54Oy4G3LAZUB7",
+          "category": "movie",
+          "parent_uuid": null,
+          "display_title": "柏树阴影下",
+          "external_resources": [
+            {
+              "url": "https://movie.douban.com/subject/36493836/"
+            }
+          ]
+        },
+        "created_time": "2025-03-03T01:17:01.364Z",
+        "comment_text": "2025 Oscar winner",
+        "rating_grade": null,
+        "tags": []
+      },
+      {
+        "shelf_type": "wishlist",
+        "visibility": 0,
+        "post_id": "419185028070104368",
+        "item": {
+          "type": "Movie",
+          "title": "真正的痛苦",
+          "description": "为纪念逝世的奶奶，许久未见的堂兄弟大卫与班吉相约前往波兰参加导览团，也顺道探访奶奶的老家。一路上，班吉有话直说、率性风趣的性格迅速与同团人士拉近距离，令木讷拘谨的大卫既焦虑又羡慕，压抑已久的情绪日益沸腾。然而，随着旅途种种安排不断挑动班吉的敏感神经，他的狂放不羁似乎逐渐走向失序，大卫试图息事宁人，但内心的不安却席卷而来。这趟寻根之旅，能否解决彼此心底难以言说的痛楚？",
+          "localized_title": [
+            {
+              "lang": "ko",
+              "text": "리얼 페인"
+            },
+            {
+              "lang": "ja",
+              "text": "リアル・ペイン〜心の旅〜"
+            },
+            {
+              "lang": "pt",
+              "text": "A Real Pain"
+            },
+            {
+              "lang": "de",
+              "text": "A Real Pain"
+            },
+            {
+              "lang": "fr",
+              "text": "A Real Pain"
+            },
+            {
+              "lang": "es",
+              "text": "A Real Pain"
+            },
+            {
+              "lang": "en",
+              "text": "A Real Pain"
+            },
+            {
+              "lang": "zh-hk",
+              "text": "A Real Pain"
+            },
+            {
+              "lang": "zh-tw",
+              "text": "跳痛之旅"
+            },
+            {
+              "lang": "zh-cn",
+              "text": "真正的痛苦"
+            },
+            {
+              "lang": "zh-cn",
+              "text": "跳痛之旅(台)"
+            },
+            {
+              "lang": "ko",
+              "text": "어 리얼 페인"
+            },
+            {
+              "lang": "ja",
+              "text": "A Real Pain"
+            },
+            {
+              "lang": "zh-tw",
+              "text": "A Real Pain"
+            },
+            {
+              "lang": "zh-cn",
+              "text": "A Real Pain"
+            },
+            {
+              "lang": "it",
+              "text": "A Real Pain"
+            },
+            {
+              "lang": "da",
+              "text": "A Real Pain"
+            }
+          ],
+          "localized_description": [
+            {
+              "lang": "ko",
+              "text": "생김새부터 성격, 취향까지 모든 것이 다른 두 사촌 '데이비드'와 '벤지'. 돌아가신 할머니를 기리기 위해 오랜만에 재회한다. 한때는 형제처럼 친밀했지만 각자의 삶과 가족 등의 이유로 멀어졌던 둘의 관계는 할머니의 고향인 폴란드를 방문해 투어를 떠나게 되면서 새로운 국면을 맞이한다. 둘의 극과 극 성격은 투어에서도 균열을 만들고, 예상치 못한 일들이 생기면서, 미묘한 감정의 골 또한 더욱 커져만 가는데..."
+            },
+            {
+              "lang": "ja",
+              "text": "ニューヨークに住むユダヤ人のデヴィッドとベンジーは、亡くなった最愛の祖母の遺言で、ポーランドのアウシュビッツまでのツアー旅行に参加する。従兄弟同士でありながら正反対の性格な二人は、時に騒動を起こしながらも、ツアーに参加したユニークな人々との交流、そして祖母に縁あるポーランドの地を巡る中で、40代を迎えた彼ら自身の“生きるシンドさ”に向き合う力を得ていく。"
+            },
+            {
+              "lang": "de",
+              "text": "Die ungleichen Cousins David (Jesse Eisenberg) und Benji (Kieran Culkin) reisen gemeinsam nach Polen, um mehr über das Leben ihrer kürzlich verstorbenen Großmutter zu erfahren. Der Roadtrip, der als Reise in die Vergangenheit gedacht war, konfrontiert die beiden mit der Gegenwart, in der sie ihre Beziehung zueinander und ihre Familiengeschichte hinterfragen."
+            },
+            {
+              "lang": "fr",
+              "text": "David et Benji Kaplan, deux cousins aux caractères diamétralement opposés, s’entendent au moins sur une chose : ils doivent respecter les derniers vœux de leur grand-mère, qui leur a laissé en héritage assez d’argent pour qu'ils aillent visiter le pays où elle a grandi. Les cousins s'embarquent donc ensemble vers la Pologne. Sur leur parcours, une étape cruciale: le camp de Majdanek, où leur aïeule a été emprisonnée durant l’Holocauste. Pour David, l’intellectuel responsable mais fragile, comme pour Benji, l’homme-enfant charismatique mais instable, le douloureux périple les force à remettre en question leurs liens familiaux, mais aussi leurs visions du monde et d’eux-mêmes."
+            },
+            {
+              "lang": "es",
+              "text": "Dos primos viajan a Polonia tras la muerte de su abuela para ver de dónde vienen y acaban incorporándose a un tour sobre el Holocausto."
+            },
+            {
+              "lang": "en",
+              "text": "Mismatched cousins David and Benji reunite for a tour through Poland to honor their beloved grandmother. The adventure takes a turn when the pair's old tensions resurface against the backdrop of their family history."
+            },
+            {
+              "lang": "zh-tw",
+              "text": "為紀念逝世的奶奶，許久未見的堂兄弟大衛與班吉相約前往波蘭參加導覽團，也順道探訪奶奶的老家。一路上，班吉有話直說、率性風趣的性格迅速與同團人士拉近距離，令木訥拘謹的大衛既焦慮又羨慕，壓抑已久的情緒日益沸騰。然而，隨著旅途種種安排不斷挑動班吉的敏感神經，他的狂放不羈似乎逐漸走向失序，大衛試圖息事寧人，但內心的不安卻席捲而來。這趟尋根之旅，能否解決彼此心底難以言說的痛楚？"
+            },
+            {
+              "lang": "zh-cn",
+              "text": "为纪念逝世的奶奶，许久未见的堂兄弟大卫与班吉相约前往波兰参加导览团，也顺道探访奶奶的老家。一路上，班吉有话直说、率性风趣的性格迅速与同团人士拉近距离，令木讷拘谨的大卫既焦虑又羡慕，压抑已久的情绪日益沸腾。然而，随着旅途种种安排不断挑动班吉的敏感神经，他的狂放不羁似乎逐渐走向失序，大卫试图息事宁人，但内心的不安却席卷而来。这趟寻根之旅，能否解决彼此心底难以言说的痛楚？"
+            },
+            {
+              "lang": "fr",
+              "text": "Deux cousins se rendent en Pologne après la mort de leur grand-mère pour voir d'où elle venait et finissent par participer à une visite d'un camp de concentration."
+            },
+            {
+              "lang": "ko",
+              "text": "정반대 성격을 가진 두 사촌 ‘데이비드’(제시 아이젠버그)와 ‘벤지’(키에란 컬킨)가 할머니의 죽음을 기리기 위해 떠난 폴란드 여행에서 겪게 되는 웃음과 감동을 담은 영화"
+            },
+            {
+              "lang": "it",
+              "text": "I cugini mal assortiti David e Benji si riuniscono per un tour in Polonia per onorare la loro amata nonna. L'avventura prende una piega diversa quando le vecchie tensioni della coppia riaffiorano sullo sfondo della loro storia familiare."
+            }
+          ],
+          "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2025/01/17/c9fb75b7-fe14-462c-a95e-513257203176.jpg",
+          "rating": 7.2,
+          "rating_count": 68,
+          "rating_distribution": [
+            0,
+            1,
+            27,
+            58,
+            11
+          ],
+          "tags": [
+            "2020s",
+            "2024",
+            "film",
+            "jesse_eisenberg",
+            "亲情",
+            "人生",
+            "兄弟",
+            "剧情",
+            "家庭",
+            "杰西 艾森伯格",
+            "波兰",
+            "波蘭",
+            "犹太",
+            "生活",
+            "痛苦",
+            "美国",
+            "美国电影",
+            "美國"
+          ],
+          "brief": "为纪念逝世的奶奶，许久未见的堂兄弟大卫与班吉相约前往波兰参加导览团，也顺道探访奶奶的老家。一路上，班吉有话直说、率性风趣的性格迅速与同团人士拉近距离，令木讷拘谨的大卫既焦虑又羡慕，压抑已久的情绪日益沸腾。然而，随着旅途种种安排不断挑动班吉的敏感神经，他的狂放不羁似乎逐渐走向失序，大卫试图息事宁人，但内心的不安却席卷而来。这趟寻根之旅，能否解决彼此心底难以言说的痛楚？",
+          "id": "https://neodb.social/movie/0sN2oplb3DfJR1RniMoyNd",
+          "uuid": "0sN2oplb3DfJR1RniMoyNd",
+          "url": "/movie/0sN2oplb3DfJR1RniMoyNd",
+          "api_url": "/api/movie/0sN2oplb3DfJR1RniMoyNd",
+          "category": "movie",
+          "parent_uuid": null,
+          "display_title": "真正的痛苦",
+          "external_resources": [
+            {
+              "url": "https://eggplant.place/movie/4bN2iXjGEvMbaNDin8GPNK"
+            },
+            {
+              "url": "https://www.imdb.com/title/tt21823606/"
+            },
+            {
+              "url": "https://movie.douban.com/subject/36065388/"
+            },
+            {
+              "url": "https://www.themoviedb.org/movie/1013850"
+            }
+          ]
+        },
+        "created_time": "2025-03-03T00:31:38.720Z",
+        "comment_text": "2025 Oscar nominee",
+        "rating_grade": null,
+        "tags": []
+      },
+      {
+        "shelf_type": "wishlist",
+        "visibility": 0,
         "post_id": "419072807660931920",
         "item": {
           "type": "Movie",
