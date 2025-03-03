@@ -2686,66 +2686,6 @@
       {
         "shelf_type": "wishlist",
         "visibility": 0,
-        "post_id": "419216917948251440",
-        "item": {
-          "type": "Movie",
-          "title": "我不是机器人",
-          "description": "After several unsuccessful attempts to complete a Captcha, feminist Lara sets out to answer the disturbing question of whether she’s a robot, and therefore bought by her own boyfriend.",
-          "localized_title": [
-            {
-              "lang": "en",
-              "text": "I'm Not a Robot"
-            },
-            {
-              "lang": "nl",
-              "text": "Ik ben geen robot"
-            },
-            {
-              "lang": "zh-cn",
-              "text": "我不是机器人"
-            }
-          ],
-          "localized_description": [
-            {
-              "lang": "en",
-              "text": "After several unsuccessful attempts to complete a Captcha, feminist Lara sets out to answer the disturbing question of whether she’s a robot, and therefore bought by her own boyfriend."
-            }
-          ],
-          "cover_image_url": "https://neodb.social/m/item/doubanmovie/2025/02/17/51df383e-b065-4d8e-94e4-19f408130f8a.jpg",
-          "rating": null,
-          "rating_count": 2,
-          "rating_distribution": [
-            0,
-            0,
-            0,
-            0,
-            0
-          ],
-          "tags": [
-            "短片"
-          ],
-          "brief": "After several unsuccessful attempts to complete a Captcha, feminist Lara sets out to answer the disturbing question of whether she’s a robot, and therefore bought by her own boyfriend.",
-          "id": "https://neodb.social/movie/6EcqClLZq6WlEoWPuet1qM",
-          "uuid": "6EcqClLZq6WlEoWPuet1qM",
-          "url": "/movie/6EcqClLZq6WlEoWPuet1qM",
-          "api_url": "/api/movie/6EcqClLZq6WlEoWPuet1qM",
-          "category": "movie",
-          "parent_uuid": null,
-          "display_title": "我不是机器人",
-          "external_resources": [
-            {
-              "url": "https://movie.douban.com/subject/36946828/"
-            }
-          ]
-        },
-        "created_time": "2025-03-03T02:38:21.863Z",
-        "comment_text": "2025 Oscar winner",
-        "rating_grade": null,
-        "tags": []
-      },
-      {
-        "shelf_type": "wishlist",
-        "visibility": 0,
         "post_id": "419213422034163672",
         "item": {
           "type": "Movie",
@@ -4711,6 +4651,66 @@
     ],
     "progress": [],
     "complete": [
+      {
+        "shelf_type": "complete",
+        "visibility": 0,
+        "post_id": "419488538539615368",
+        "item": {
+          "type": "Movie",
+          "title": "我不是机器人",
+          "description": "After several unsuccessful attempts to complete a Captcha, feminist Lara sets out to answer the disturbing question of whether she’s a robot, and therefore bought by her own boyfriend.",
+          "localized_title": [
+            {
+              "lang": "en",
+              "text": "I'm Not a Robot"
+            },
+            {
+              "lang": "nl",
+              "text": "Ik ben geen robot"
+            },
+            {
+              "lang": "zh-cn",
+              "text": "我不是机器人"
+            }
+          ],
+          "localized_description": [
+            {
+              "lang": "en",
+              "text": "After several unsuccessful attempts to complete a Captcha, feminist Lara sets out to answer the disturbing question of whether she’s a robot, and therefore bought by her own boyfriend."
+            }
+          ],
+          "cover_image_url": "https://neodb.social/m/item/doubanmovie/2025/02/17/51df383e-b065-4d8e-94e4-19f408130f8a.jpg",
+          "rating": null,
+          "rating_count": 3,
+          "rating_distribution": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "tags": [
+            "短片"
+          ],
+          "brief": "After several unsuccessful attempts to complete a Captcha, feminist Lara sets out to answer the disturbing question of whether she’s a robot, and therefore bought by her own boyfriend.",
+          "id": "https://neodb.social/movie/6EcqClLZq6WlEoWPuet1qM",
+          "uuid": "6EcqClLZq6WlEoWPuet1qM",
+          "url": "/movie/6EcqClLZq6WlEoWPuet1qM",
+          "api_url": "/api/movie/6EcqClLZq6WlEoWPuet1qM",
+          "category": "movie",
+          "parent_uuid": null,
+          "display_title": "我不是机器人",
+          "external_resources": [
+            {
+              "url": "https://movie.douban.com/subject/36946828/"
+            }
+          ]
+        },
+        "created_time": "2025-03-03T20:37:41.241Z",
+        "comment_text": "The best kind of science fiction, presenting the bare minimum technology context to support the ensuing drama. The tension buildup as she fails the tests, fails to find privacy and communicate, then >!dissolves tension into anger as she learns that she is a robot, the emotional crutches her partner seems to be dependent on, then despair as she realizes her shackles!<, it's all expertly conveyed with a sweet deal of \"show, don't tell\".",
+        "rating_grade": 9,
+        "tags": []
+      },
       {
         "shelf_type": "complete",
         "visibility": 0,

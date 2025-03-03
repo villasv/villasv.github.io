@@ -4,9 +4,16 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 03 Mar 2025 19:04:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Mar 2025 21:04:51 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2025]]></copyright>
+        <item>
+            <title><![CDATA[Finished watching]]></title>
+            <description><![CDATA[<p>finished watching <a href="https://neodb.social/~neodb~/movie/6EcqClLZq6WlEoWPuet1qM" rel="nofollow">I&#x27;m Not a Robot</a> 🌕🌕🌕🌕🌗  <br>The best kind of science fiction, presenting the bare minimum technology context to support the ensuing drama. The tension buildup as she fails the tests, fails to find privacy and communicate, then dissolves tension into anger as she learns that she is a robot, the emotional crutches her partner seems to be dependent on, then despair as she realizes her shackles, it&#x27;s all expertly conveyed with a sweet deal of &quot;show, don&#x27;t tell&quot;.<br></p>]]></description>
+            <link>https://neodb.social/@villasv/posts/419488538539615368/</link>
+            <guid isPermaLink="true">https://neodb.social/@villasv/posts/419488538539615368/</guid>
+            <pubDate>Mon, 03 Mar 2025 20:37:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Wants to watch]]></title>
             <description><![CDATA[<p>wants to watch <a href="https://neodb.social/~neodb~/movie/6EcqClLZq6WlEoWPuet1qM" rel="nofollow">I&#x27;m Not a Robot</a> <br>2025 Oscar winner<br></p>]]></description>
@@ -287,13 +294,6 @@
             <link>https://neodb.social/@villasv/posts/6672016611074128/</link>
             <guid isPermaLink="true">https://neodb.social/@villasv/posts/6672016611074128/</guid>
             <pubDate>Fri, 29 May 2020 06:12:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Started reading]]></title>
-            <description><![CDATA[<p>started reading <a href="https://neodb.social/~neodb~/book/3AGJYaT61Ucxvc1ZySrGuS" rel="nofollow">AI Superpowers</a> <br>Reading this after attending a talk from Mr. Kai-Fu Lee about the book itself.<br></p>]]></description>
-            <link>https://neodb.social/@villasv/posts/6640836155991552/</link>
-            <guid isPermaLink="true">https://neodb.social/@villasv/posts/6640836155991552/</guid>
-            <pubDate>Wed, 04 Mar 2020 05:12:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Finished reading]]></title>
