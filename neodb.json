@@ -3098,11 +3098,11 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/06/23/566914c0-b514-4cc7-bea4-f5d90945a704.webp",
           "rating": 8.3,
-          "rating_count": 142,
+          "rating_count": 143,
           "rating_distribution": [
             0,
             0,
-            14,
+            13,
             39,
             46
           ],
@@ -4541,17 +4541,19 @@
             }
           ],
           "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/08/11/bf45f90f-617e-4386-8425-b3bbca31cea8.jpg",
-          "rating": 8.5,
-          "rating_count": 17,
+          "rating": 8.4,
+          "rating_count": 18,
           "rating_distribution": [
             0,
             0,
-            17,
-            23,
-            58
+            16,
+            27,
+            55
           ],
           "tags": [
-            "历史"
+            "2024",
+            "历史",
+            "巴西电影"
           ],
           "brief": "影片根据马塞洛·鲁本斯·派瓦撰写的同名回忆录改编，原著讲述了鲁本斯·派瓦的母亲尤妮斯·派瓦，在丈夫成为1964年控制巴西的军事政权的受害者后，被迫重塑自我，成为了一名运动人士。",
           "id": "https://neodb.social/movie/0WsTXtNQQEVs0NuUa0e3fy",
