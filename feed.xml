@@ -4,9 +4,16 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 04 Mar 2025 13:09:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Mar 2025 21:04:40 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2025]]></copyright>
+        <item>
+            <title><![CDATA[Comment]]></title>
+            <description><![CDATA[<p>Every day reading <a href="https://mastodon.social/tags/CanPoli" class="mention hashtag" rel="tag">#<span>CanPoli</span></a> and <a href="https://mastodon.social/tags/USPol" class="mention hashtag" rel="tag">#<span>USPol</span></a> news starts an exercise of trying to make sense of the unreasonable.</p><p>Is the strategy to dissolve the conspiratorial fame of conservatives by behaving so randomly dangerous that everyone else gets used to look for &quot;dark money&quot; and &quot;cabal of elites&quot; to process this madness?</p><p>I&#39;m already crafting meta-conspiracies.</p>]]></description>
+            <link>https://mastodon.social/@villasbc/114106072823294932</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/114106072823294932</guid>
+            <pubDate>Tue, 04 Mar 2025 20:34:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Finished watching]]></title>
             <description><![CDATA[<p>finished watching <a href="https://neodb.social/~neodb~/movie/6EcqClLZq6WlEoWPuet1qM" rel="nofollow">I&#x27;m Not a Robot</a> 🌕🌕🌕🌕🌗  <br>The best kind of science fiction, presenting the bare minimum technology context to support the ensuing drama. The tension buildup as she fails the tests, fails to find privacy and communicate, then dissolves tension into anger as she learns that she is a robot, the emotional crutches her partner seems to be dependent on, then despair as she realizes her shackles, it&#x27;s all expertly conveyed with a sweet deal of &quot;show, don&#x27;t tell&quot;.<br></p>]]></description>
@@ -268,13 +275,6 @@
             <link>https://mastodon.social/@villasbc/113949325108277817</link>
             <guid isPermaLink="true">https://mastodon.social/@villasbc/113949325108277817</guid>
             <pubDate>Wed, 05 Feb 2025 04:11:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Comment]]></title>
-            <description><![CDATA[<p>So today I was able to post a <a href="https://mastodon.social/tags/Pixelfed" class="mention hashtag" rel="tag">#<span>Pixelfed</span></a> story using a video from my gallery. I thought <a href="https://mastodon.social/tags/iOS" class="mention hashtag" rel="tag">#<span>iOS</span></a> shortcuts would give me an easy way to convert HEVC to MP4 but no dice (possible but not easy). Instead the lowest friction method is to send myself the video using Telegram/WhatsApp and save the output, which is H.264. Quality goes down but it’s the price for now.</p><p>Hoping that HEVC support comes out soon so I can save this work and post crispy videos of snowfall ❄️</p>]]></description>
-            <link>https://mastodon.social/@villasbc/113941880830130750</link>
-            <guid isPermaLink="true">https://mastodon.social/@villasbc/113941880830130750</guid>
-            <pubDate>Mon, 03 Feb 2025 20:38:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Media]]></title>
