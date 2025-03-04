@@ -3098,11 +3098,11 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/06/23/566914c0-b514-4cc7-bea4-f5d90945a704.webp",
           "rating": 8.3,
-          "rating_count": 141,
+          "rating_count": 142,
           "rating_distribution": [
             0,
             0,
-            13,
+            14,
             39,
             46
           ],
@@ -3537,13 +3537,13 @@
             }
           ],
           "cover_image_url": "https://neodb.social/m/item/movie/2024/10/28/13dfbfcd-c252-4f40-96da-aabdade67aee.jpg",
-          "rating": 7.3,
-          "rating_count": 63,
+          "rating": 7.4,
+          "rating_count": 64,
           "rating_distribution": [
             1,
             0,
             20,
-            63,
+            64,
             14
           ],
           "tags": [
@@ -3738,24 +3738,23 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2025/02/23/a52ab075-809e-42ae-b8a5-d6b272a2ace8.jpg",
           "rating": 6.8,
-          "rating_count": 41,
+          "rating_count": 42,
           "rating_distribution": [
             2,
             4,
-            34,
-            53,
+            33,
+            54,
             4
           ],
           "tags": [
             "2024",
-            "adrien brody",
-            "brutalist",
             "felicity jones",
             "guy pearce",
             "m 2024",
             "m us",
             "m 剧情",
             "二零二二",
+            "加拿大",
             "匈牙利",
             "建筑师",
             "待定档",
@@ -3765,6 +3764,7 @@
             "移民",
             "粗野派",
             "美国",
+            "英国",
             "英文电影",
             "超长电影"
           ],
@@ -4114,12 +4114,12 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/09/13/a30bf2f3-4f79-43ef-b22f-58ebc3fd8aae.jpg",
           "rating": 6.6,
-          "rating_count": 160,
+          "rating_count": 161,
           "rating_distribution": [
             1,
             8,
             40,
-            41,
+            40,
             8
           ],
           "tags": [
@@ -5614,7 +5614,7 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/movie/2023/05/31/0904d82a-cd0e-4526-91cb-0c7d98d66d94.jpg",
           "rating": 7.8,
-          "rating_count": 296,
+          "rating_count": 297,
           "rating_distribution": [
             0,
             2,
@@ -6094,16 +6094,21 @@
             }
           ],
           "cover_image_url": "https://neodb.social/m/item/tmdb_tvseason/2024/09/05/bc0d5170-5580-4f26-812b-e37d5afe1595.jpg",
-          "rating": 7.1,
-          "rating_count": 8,
+          "rating": 7.2,
+          "rating_count": 9,
           "rating_distribution": [
             0,
             0,
-            50,
-            25,
-            25
+            44,
+            33,
+            22
           ],
-          "tags": [],
+          "tags": [
+            "2024",
+            "改編",
+            "美劇",
+            "美国"
+          ],
           "brief": "本剧改编自蕾妮·奈特的同名小说。\n著名记者Catherine Ravenscroft（凯特·布兰切特 Cate Blanchett 饰）因揭露他人的不端行为而声名鹊起。在收到一位不知名作者的小说后，她惊恐地发现自己就是书中的主角，而这个故事揭露了自己最黑暗的秘密。\n在Catherine争分夺秒揭开作者真实身份的过程中，她不得不直面过去，以免它毁掉自己的生活，毁掉自己与丈夫Robert（萨莎·拜伦·科恩 Sacha Baron Cohen 饰）、儿子Nicholas（柯蒂·斯密特-麦菲 Kodi Smit-McPhee 饰）的关系。",
           "id": "https://neodb.social/tv/season/6d3XZOiiiuuiHERDMSrBJh",
           "uuid": "6d3XZOiiiuuiHERDMSrBJh",
