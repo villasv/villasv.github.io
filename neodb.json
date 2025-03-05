@@ -6160,14 +6160,14 @@
             }
           ],
           "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/11/27/62852b13-20f7-45da-a176-f99126b71726.jpg",
-          "rating": 7,
-          "rating_count": 5,
+          "rating": 7.2,
+          "rating_count": 6,
           "rating_distribution": [
             0,
-            20,
-            20,
-            20,
-            40
+            16,
+            16,
+            33,
+            33
           ],
           "tags": [
             "appletv",
@@ -6342,17 +6342,18 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/02/12/b32da221-8685-4372-8e66-7e9943d9a43e.jpg",
           "rating": 7.2,
-          "rating_count": 15,
+          "rating_count": 16,
           "rating_distribution": [
             6,
             6,
-            26,
-            26,
-            33
+            25,
+            31,
+            31
           ],
           "tags": [
             "2023",
             "appletv",
+            "小脸怪",
             "心理",
             "电视剧",
             "美剧",
