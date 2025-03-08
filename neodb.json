@@ -3098,12 +3098,12 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/06/23/566914c0-b514-4cc7-bea4-f5d90945a704.webp",
           "rating": 8.3,
-          "rating_count": 170,
+          "rating_count": 171,
           "rating_distribution": [
             0,
             0,
             14,
-            40,
+            39,
             45
           ],
           "tags": [
@@ -3148,6 +3148,9 @@
             },
             {
               "url": "https://movie.douban.com/subject/35603727/"
+            },
+            {
+              "url": "https://bgm.tv/subject/496916"
             }
           ]
         },
