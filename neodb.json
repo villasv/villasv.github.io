@@ -3056,6 +3056,10 @@
             {
               "lang": "pt",
               "text": "Flow - À Deriva"
+            },
+            {
+              "lang": "zh-cn",
+              "text": "喵的奇幻漂流"
             }
           ],
           "localized_description": [
@@ -3094,11 +3098,15 @@
             {
               "lang": "pt",
               "text": "O gato é um animal solitário, mas quando a sua casa é devastada por uma grande inundação, encontra refúgio num barco povoado por várias espécies, e terá de se juntar a elas apesar das suas diferenças."
+            },
+            {
+              "lang": "zh-cn",
+              "text": "　　一只略带个性主义和焦虑的猫面对水势上涨，遇到了一只狐猴、一只拉布拉多、一只水豚和一只鸟，面对逆境，他们别无选择，只能合作。"
             }
           ],
           "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/06/23/566914c0-b514-4cc7-bea4-f5d90945a704.webp",
           "rating": 8.3,
-          "rating_count": 172,
+          "rating_count": 174,
           "rating_distribution": [
             0,
             1,
@@ -3742,12 +3750,12 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2025/02/23/a52ab075-809e-42ae-b8a5-d6b272a2ace8.jpg",
           "rating": 6.8,
-          "rating_count": 44,
+          "rating_count": 45,
           "rating_distribution": [
             2,
             4,
-            36,
-            52,
+            35,
+            53,
             4
           ],
           "tags": [
@@ -4118,7 +4126,7 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/09/13/a30bf2f3-4f79-43ef-b22f-58ebc3fd8aae.jpg",
           "rating": 6.4,
-          "rating_count": 191,
+          "rating_count": 192,
           "rating_distribution": [
             3,
             10,
@@ -4127,7 +4135,6 @@
             7
           ],
           "tags": [
-            "2020s",
             "2024",
             "剧情",
             "喜剧",
@@ -4145,6 +4152,7 @@
             "美剧",
             "美国",
             "美国电影",
+            "美國",
             "肖恩 贝克",
             "荒诞"
           ],
