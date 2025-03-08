@@ -3106,21 +3106,19 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/06/23/566914c0-b514-4cc7-bea4-f5d90945a704.webp",
           "rating": 8.3,
-          "rating_count": 175,
+          "rating_count": 176,
           "rating_distribution": [
             0,
             1,
             13,
             39,
-            45
+            46
           ],
           "tags": [
             "2020s",
             "2024",
-            "max",
             "动物",
             "动画",
-            "动画电影",
             "動畫",
             "可愛",
             "哲理",
@@ -3132,6 +3130,8 @@
             "欧洲电影",
             "歐美",
             "法国电影",
+            "独立",
+            "猫",
             "电影",
             "类型 动画",
             "金兹 兹巴洛迪斯"
@@ -4126,7 +4126,7 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/09/13/a30bf2f3-4f79-43ef-b22f-58ebc3fd8aae.jpg",
           "rating": 6.4,
-          "rating_count": 192,
+          "rating_count": 193,
           "rating_distribution": [
             3,
             10,
