@@ -2712,16 +2712,18 @@
             }
           ],
           "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/02/20/9aafa2fc-1f22-415b-b882-26dd2baa2e6e.webp",
-          "rating": 8.7,
-          "rating_count": 28,
+          "rating": 8.6,
+          "rating_count": 29,
           "rating_distribution": [
             0,
             0,
-            3,
-            50,
-            46
+            6,
+            48,
+            44
           ],
           "tags": [
+            "2024",
+            "6",
             "历史",
             "巴勒斯坦",
             "政治",
@@ -2782,7 +2784,7 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/09/13/1853a26c-5102-4d10-9346-0e0b3f015258.jpg",
           "rating": null,
-          "rating_count": 2,
+          "rating_count": 3,
           "rating_distribution": [
             0,
             0,
@@ -2790,7 +2792,9 @@
             0,
             0
           ],
-          "tags": [],
+          "tags": [
+            "动画短片"
+          ],
           "brief": "威尼斯电影节地平线单元短片入围",
           "id": "https://neodb.social/movie/5cQ7VzMOl54Oy4G3LAZUB7",
           "uuid": "5cQ7VzMOl54Oy4G3LAZUB7",
@@ -2936,17 +2940,18 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2025/01/17/c9fb75b7-fe14-462c-a95e-513257203176.jpg",
           "rating": 7.2,
-          "rating_count": 72,
+          "rating_count": 73,
           "rating_distribution": [
             0,
             1,
-            26,
-            59,
+            27,
+            58,
             12
           ],
           "tags": [
             "2020s",
             "2024",
+            "6",
             "film",
             "jesse_eisenberg",
             "亲情",
@@ -3106,7 +3111,7 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/06/23/566914c0-b514-4cc7-bea4-f5d90945a704.webp",
           "rating": 8.3,
-          "rating_count": 185,
+          "rating_count": 186,
           "rating_distribution": [
             0,
             1,
@@ -3118,7 +3123,7 @@
             "2024",
             "动物",
             "动画",
-            "动画长片",
+            "动画电影",
             "動畫",
             "可愛",
             "哲理",
@@ -3550,16 +3555,17 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/movie/2024/10/28/13dfbfcd-c252-4f40-96da-aabdade67aee.jpg",
           "rating": 7.3,
-          "rating_count": 67,
+          "rating_count": 68,
           "rating_distribution": [
             1,
             0,
-            23,
-            61,
+            25,
+            60,
             13
           ],
           "tags": [
             "2024",
+            "6",
             "edward_berger",
             "宗教",
             "摄影",
@@ -3982,7 +3988,7 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2025/01/17/c3980bb4-8335-4f47-a839-3ce094856a54.jpg",
           "rating": 6.7,
-          "rating_count": 293,
+          "rating_count": 294,
           "rating_distribution": [
             4,
             9,
@@ -3991,7 +3997,6 @@
             14
           ],
           "tags": [
-            "2020s",
             "2024",
             "cult",
             "人性",
@@ -4000,7 +4005,9 @@
             "恐怖",
             "惊悚",
             "法国",
+            "猎奇",
             "电影",
+            "社會",
             "科幻",
             "美国",
             "美国电影",
@@ -4009,8 +4016,7 @@
             "英國",
             "血浆",
             "電影",
-            "驚悚",
-            "高科技"
+            "驚悚"
           ],
           "brief": "曾经红极一时的好莱坞巨星伊丽莎白（黛米·摩尔 Demi Moore 饰），无法面对自己老去的容颜，决定使用一种名为“完美物质”的黑市药物，透过注射药物的细胞复制物质，创造出更年轻、更好的另一个自己（玛格丽特·库里 Margaret Qualley 饰）。“年华老去”及“年轻貌美”的自己该如何共存？会是更强烈的容貌焦虑大战？还是要不断迎合大众对“美”的期待？一场自我身体主导权的争夺战即将上演……",
           "id": "https://neodb.social/movie/3n9buL3yaSCQgfBDFYTL2m",
@@ -4126,7 +4132,7 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/09/13/a30bf2f3-4f79-43ef-b22f-58ebc3fd8aae.jpg",
           "rating": 6.3,
-          "rating_count": 195,
+          "rating_count": 197,
           "rating_distribution": [
             3,
             11,
@@ -4138,6 +4144,7 @@
             "2024",
             "剧情",
             "喜剧",
+            "奥斯卡",
             "女性",
             "女权",
             "影院",
@@ -4153,8 +4160,7 @@
             "美国",
             "美国电影",
             "美國",
-            "肖恩 贝克",
-            "荒诞"
+            "肖恩 贝克"
           ],
           "brief": "阿诺拉是布鲁克林的性工作者，她邂逅了一个商界寡头的儿子并在冲动之下嫁给了他，这让她以为自己像灰姑娘一样终于遇到自己的王子。然而当结婚消息传到了俄罗斯，男方父母来到纽约取消婚姻，破灭了的阿诺拉的童话。",
           "id": "https://neodb.social/movie/7hfF7d0aFMaqHpFjUpq4zR",
@@ -4749,12 +4755,12 @@
           ],
           "cover_image_url": "https://neodb.social/m/movie/2021/09/1669a828f1-1474-4274-a35c-1ffe27d56b69.jpg",
           "rating": 6.1,
-          "rating_count": 196,
+          "rating_count": 197,
           "rating_distribution": [
             2,
             17,
-            56,
-            22,
+            55,
+            23,
             1
           ],
           "tags": [
@@ -5013,6 +5019,10 @@
             {
               "lang": "zh-cn",
               "text": "亲爱的圣诞老人"
+            },
+            {
+              "lang": "id",
+              "text": "Dear Santa"
             }
           ],
           "localized_description": [
@@ -5043,11 +5053,15 @@
             {
               "lang": "zh-cn",
               "text": "　　一个顽固的派对女孩努力改变她轻浮的方式的故事。克里斯托(艾米·艾克饰)来自一个富裕的家庭。她喜欢花钱。她父母的钱。当他们决定让她的生活有所作为的时候，他们给她直到圣诞节来清理她的行为。如果克里斯托不遵守，她的信用卡将立即被取消。在没有钱和没有男朋友的前景中被吓坏了，当克里斯托发现一封来自七岁的奥利维亚(Emma Duke饰)给圣诞老人的信时，她有了一个闪光的灵感。在信中，奥利维亚要求圣诞老人为她寡居的父亲德里克(大卫·海顿琼斯)找一个新的妻子。德里克是当地一家施舍厨房的老板，他一生致力于帮助他人。虽然克里斯托从未涉足施舍厨房，但她很快就找到了德里克，并开始志愿投入时间，努力接近他。克里斯托没有意识到德里克的女朋友.."
+            },
+            {
+              "lang": "en",
+              "text": "A young girl's letter to Santa contains a typo that redirects it from the North Pole to Hell."
             }
           ],
           "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2024/12/26/ef64bf0b-1ddf-49f2-95e4-83efb36e76b7.jpg",
           "rating": null,
-          "rating_count": 1,
+          "rating_count": 2,
           "rating_distribution": [
             0,
             0,
@@ -5055,7 +5069,10 @@
             0,
             0
           ],
-          "tags": [],
+          "tags": [
+            "2024",
+            "5"
+          ],
           "brief": "　　一个顽固的派对女孩努力改变她轻浮的方式的故事。克里斯托(艾米·艾克饰)来自一个富裕的家庭。她喜欢花钱。她父母的钱。当他们决定让她的生活有所作为的时候，他们给她直到圣诞节来清理她的行为。如果克里斯托不遵守，她的信用卡将立即被取消。在没有钱和没有男朋友的前景中被吓坏了，当克里斯托发现一封来自七岁的奥利维亚(Emma Duke饰)给圣诞老人的信时，她有了一个闪光的灵感。在信中，奥利维亚要求圣诞老人为她寡居的父亲德里克(大卫·海顿琼斯)找一个新的妻子。德里克是当地一家施舍厨房的老板，他一生致力于帮助他人。虽然克里斯托从未涉足施舍厨房，但她很快就找到了德里克，并开始志愿投入时间，努力接近他。克里斯托没有意识到德里克的女朋友..",
           "id": "https://neodb.social/movie/0I7Ijutyuq6IFp8bkVwptX",
           "uuid": "0I7Ijutyuq6IFp8bkVwptX",
@@ -5067,6 +5084,9 @@
           "external_resources": [
             {
               "url": "https://www.themoviedb.org/movie/1097870"
+            },
+            {
+              "url": "https://movie.douban.com/subject/34945467/"
             }
           ]
         },
@@ -5616,7 +5636,7 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/movie/2023/05/31/0904d82a-cd0e-4526-91cb-0c7d98d66d94.jpg",
           "rating": 7.8,
-          "rating_count": 300,
+          "rating_count": 302,
           "rating_distribution": [
             0,
             2,
@@ -5628,6 +5648,8 @@
             "2023",
             "wimwenders",
             "剧情",
+            "地区 德国",
+            "导演 维姆 文德斯",
             "年代 2020s",
             "役所广司",
             "德国",
@@ -5640,7 +5662,6 @@
             "日影",
             "日本",
             "日本电影",
-            "欧美影",
             "电影",
             "维姆 文德斯",
             "维姆文德斯"
@@ -5900,13 +5921,13 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/tmdb_tvseason/2025/03/02/6d3b4f7f-5d4a-4704-86ae-cfbb5ea3effd.jpg",
           "rating": 8.4,
-          "rating_count": 20,
+          "rating_count": 21,
           "rating_distribution": [
             0,
             0,
-            5,
-            45,
-            50
+            4,
+            42,
+            52
           ],
           "tags": [
             "2023",
