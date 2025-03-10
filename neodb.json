@@ -4666,6 +4666,81 @@
       {
         "shelf_type": "complete",
         "visibility": 0,
+        "post_id": "422061285834122776",
+        "item": {
+          "type": "Movie",
+          "title": "邻居的窗",
+          "description": "短片讲述了一个带着三个孩子的母亲，因为日常生活和丈夫陷入沮丧。而这时，她发现自己可以通过窗户看到住在对面邻居的生活...",
+          "localized_title": [
+            {
+              "lang": "zh-cn",
+              "text": "邻居的窗"
+            },
+            {
+              "lang": "en",
+              "text": "The Neighbors' Window"
+            },
+            {
+              "lang": "zh-cn",
+              "text": "邻居的窗子"
+            }
+          ],
+          "localized_description": [
+            {
+              "lang": "zh-cn",
+              "text": "短片讲述了一个带着三个孩子的母亲，因为日常生活和丈夫陷入沮丧。而这时，她发现自己可以通过窗户看到住在对面邻居的生活..."
+            }
+          ],
+          "cover_image_url": "https://neodb.social/m/movie/2021/09/187eb881e4-52f0-4e99-a464-d3f3dc991684.jpg",
+          "rating": 6.6,
+          "rating_count": 62,
+          "rating_distribution": [
+            3,
+            4,
+            53,
+            33,
+            4
+          ],
+          "tags": [
+            "2010s",
+            "2019",
+            "2020",
+            "2021年所看影视",
+            "ifc",
+            "nyc",
+            "short",
+            "剧情",
+            "国外短片",
+            "奥斯卡",
+            "奥斯卡最佳真人短片",
+            "家庭",
+            "电影院",
+            "短片",
+            "美国",
+            "美国电影"
+          ],
+          "brief": "短片讲述了一个带着三个孩子的母亲，因为日常生活和丈夫陷入沮丧。而这时，她发现自己可以通过窗户看到住在对面邻居的生活...",
+          "id": "https://neodb.social/movie/2zFCHntgDvDeqvHzmAKNXJ",
+          "uuid": "2zFCHntgDvDeqvHzmAKNXJ",
+          "url": "/movie/2zFCHntgDvDeqvHzmAKNXJ",
+          "api_url": "/api/movie/2zFCHntgDvDeqvHzmAKNXJ",
+          "category": "movie",
+          "parent_uuid": null,
+          "display_title": "邻居的窗",
+          "external_resources": [
+            {
+              "url": "https://movie.douban.com/subject/34777993/"
+            }
+          ]
+        },
+        "created_time": "2025-03-10T23:00:51.995Z",
+        "comment_text": "A superb short, specially well executed in the first half. Amazing how 10 minutes is enough to build a relatable relationship with the protagonists. The ending was a bit on the predictable cliché side given the development of the second half, and I wonder what kind of lesson would there be to this story if the neighbours relationship simply developed into one that embodied the modern ideals.",
+        "rating_grade": 8,
+        "tags": []
+      },
+      {
+        "shelf_type": "complete",
+        "visibility": 0,
         "post_id": "419488538539615368",
         "item": {
           "type": "Movie",

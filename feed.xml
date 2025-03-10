@@ -4,9 +4,16 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 10 Mar 2025 21:04:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Mar 2025 23:04:47 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2025]]></copyright>
+        <item>
+            <title><![CDATA[Finished watching]]></title>
+            <description><![CDATA[<p>finished watching <a href="https://neodb.social/~neodb~/movie/2zFCHntgDvDeqvHzmAKNXJ" rel="nofollow">The Neighbors&#x27; Window</a> 🌕🌕🌕🌕🌑  <br>A superb short, specially well executed in the first half. Amazing how 10 minutes is enough to build a relatable relationship with the protagonists. The ending was a bit on the predictable cliché side given the development of the second half, and I wonder what kind of lesson would there be to this story if the neighbours relationship simply developed into one that embodied the modern ideals.<br></p>]]></description>
+            <link>https://neodb.social/@villasv/posts/422061285834122776/</link>
+            <guid isPermaLink="true">https://neodb.social/@villasv/posts/422061285834122776/</guid>
+            <pubDate>Mon, 10 Mar 2025 23:00:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Comment]]></title>
             <description><![CDATA[<p>Every day reading <a href="https://mastodon.social/tags/CanPoli" class="mention hashtag" rel="tag">#<span>CanPoli</span></a> and <a href="https://mastodon.social/tags/USPol" class="mention hashtag" rel="tag">#<span>USPol</span></a> news starts an exercise of trying to make sense of the unreasonable.</p><p>Is the strategy to dissolve the conspiratorial fame of conservatives by behaving so randomly dangerous that everyone else gets used to look for &quot;dark money&quot; and &quot;cabal of elites&quot; to process this madness?</p><p>I&#39;m already crafting meta-conspiracies.</p>]]></description>
@@ -287,13 +294,6 @@
             <link>https://pxlfd.ca/p/victor/790660117523971543</link>
             <guid isPermaLink="true">https://pxlfd.ca/p/victor/790660117523971543</guid>
             <pubDate>Thu, 30 Jan 2025 19:21:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Finished reading]]></title>
-            <description><![CDATA[<p>finished reading <a href="https://neodb.social/~neodb~/book/3AGJYaT61Ucxvc1ZySrGuS" rel="nofollow">AI Superpowers</a> 🌕🌕🌕🌑🌑  <br>I like that the book presents a point of view that helps me understand a bit more the government role and technology development in China, escaping from the monolithic Silicon Valley ideology that embodies most talk about innovation and government intervention in &quot;the west&quot;. If you don&#x27;t read much about China and/or most of what you read related to Startups is from the USA, this is a good break from the gospel of &quot;the lean startup&quot; and the tyranny of infinitely scalable SaaS.</p><p>It was a bit rough to finish the read, though. It gets repetitive often, so I had a recurring feeling that the book could be half as long. There are few problematic points the author glosses over: capitalizing on poverty and precarious work conditions, cutthroat competition as role model, success measured by size and power. These might happen to be Dr. Lee&#x27;s own personal biases slipping through. But in the end this discomfort might be a reflection of my own western bias, as I had a hard time ignoring the differences in values when studying a mostly strategic analysis on growth and innovation.<br></p>]]></description>
-            <link>https://neodb.social/@villasv/posts/6672016611074128/</link>
-            <guid isPermaLink="true">https://neodb.social/@villasv/posts/6672016611074128/</guid>
-            <pubDate>Fri, 29 May 2020 06:12:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Finished reading]]></title>
