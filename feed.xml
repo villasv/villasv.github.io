@@ -4,9 +4,16 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 11 Mar 2025 21:04:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Mar 2025 23:04:45 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2025]]></copyright>
+        <item>
+            <title><![CDATA[Finished watching]]></title>
+            <description><![CDATA[<p>finished watching <a href="https://neodb.social/~neodb~/movie/0VRzOetmfXW5zUB4BYpKMB" rel="nofollow">Who Are You?</a> 🌕🌕🌕🌑🌑  <br>Some lovely bits and pieces, though I can&#x27;t say I love the dialogues and the script. I&#x27;m not even sure I really got the message, the ending was a bit... abrupt.<br></p>]]></description>
+            <link>https://neodb.social/@villasv/posts/422412878877497480/</link>
+            <guid isPermaLink="true">https://neodb.social/@villasv/posts/422412878877497480/</guid>
+            <pubDate>Tue, 11 Mar 2025 22:17:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Finished watching]]></title>
             <description><![CDATA[<p>finished watching <a href="https://neodb.social/~neodb~/movie/2zFCHntgDvDeqvHzmAKNXJ" rel="nofollow">The Neighbors&#x27; Window</a> 🌕🌕🌕🌕🌑  <br>A superb short, specially well executed in the first half. Amazing how 10 minutes is enough to build a relatable relationship with the protagonists. The ending was a bit on the predictable cliché side given the development of the second half, and I wonder what kind of lesson would there be to this story if the neighbours relationship simply developed into one that embodied the modern ideals.<br></p>]]></description>
@@ -301,13 +308,6 @@
             <link>https://neodb.social/@villasv/posts/6617658432178792/</link>
             <guid isPermaLink="true">https://neodb.social/@villasv/posts/6617658432178792/</guid>
             <pubDate>Tue, 31 Dec 2019 06:12:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Started reading]]></title>
-            <description><![CDATA[<p>started reading <a href="https://neodb.social/~neodb~/book/6ysE3FRlE3h0zx7zrEuxgH" rel="nofollow">The Beatles</a> <br>My father loves The Beatles, and I dig the occasional song that still makes it to the radio. Mildly curious to learn more about their saga.<br></p>]]></description>
-            <link>https://neodb.social/@villasv/posts/6603510207816328/</link>
-            <guid isPermaLink="true">https://neodb.social/@villasv/posts/6603510207816328/</guid>
-            <pubDate>Fri, 22 Nov 2019 05:12:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

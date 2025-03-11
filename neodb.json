@@ -4666,6 +4666,71 @@
       {
         "shelf_type": "complete",
         "visibility": 0,
+        "post_id": "422412878877497480",
+        "item": {
+          "type": "Movie",
+          "title": "你是谁？",
+          "description": "A writer who after achieving success with his first book, lives in a disastrous creative block until a mysterious package arrives that reveals to us that inspiration can come in multiple ways.",
+          "localized_title": [
+            {
+              "lang": "zh-cn",
+              "text": "你是谁？"
+            },
+            {
+              "lang": "en",
+              "text": "Who Are You?"
+            },
+            {
+              "lang": "fr",
+              "text": "¿Y ud quién es?"
+            }
+          ],
+          "localized_description": [
+            {
+              "lang": "en",
+              "text": "A writer who after achieving success with his first book, lives in a disastrous creative block until a mysterious package arrives that reveals to us that inspiration can come in multiple ways."
+            }
+          ],
+          "cover_image_url": "https://neodb.social/m/movie/2021/12/129c87de0a-e186-4c3e-a4fa-1f1cfb6b833a.jpg",
+          "rating": 7.2,
+          "rating_count": 11,
+          "rating_distribution": [
+            0,
+            9,
+            36,
+            36,
+            18
+          ],
+          "tags": [
+            "人生",
+            "动画",
+            "动画短片",
+            "智利",
+            "短片",
+            "短片儿们"
+          ],
+          "brief": "A writer who after achieving success with his first book, lives in a disastrous creative block until a mysterious package arrives that reveals to us that inspiration can come in multiple ways.",
+          "id": "https://neodb.social/movie/0VRzOetmfXW5zUB4BYpKMB",
+          "uuid": "0VRzOetmfXW5zUB4BYpKMB",
+          "url": "/movie/0VRzOetmfXW5zUB4BYpKMB",
+          "api_url": "/api/movie/0VRzOetmfXW5zUB4BYpKMB",
+          "category": "movie",
+          "parent_uuid": null,
+          "display_title": "你是谁？",
+          "external_resources": [
+            {
+              "url": "https://movie.douban.com/subject/35194943/"
+            }
+          ]
+        },
+        "created_time": "2025-03-11T22:17:58.304Z",
+        "comment_text": "Some lovely bits and pieces, though I can't say I love the dialogues and the script. I'm not even sure I really got the message, the ending was a bit... abrupt.",
+        "rating_grade": 6,
+        "tags": []
+      },
+      {
+        "shelf_type": "complete",
+        "visibility": 0,
         "post_id": "422061285834122776",
         "item": {
           "type": "Movie",
