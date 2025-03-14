@@ -3111,7 +3111,7 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/06/23/566914c0-b514-4cc7-bea4-f5d90945a704.webp",
           "rating": 8.3,
-          "rating_count": 218,
+          "rating_count": 219,
           "rating_distribution": [
             0,
             0,
@@ -4134,7 +4134,7 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/09/13/a30bf2f3-4f79-43ef-b22f-58ebc3fd8aae.jpg",
           "rating": 6.3,
-          "rating_count": 210,
+          "rating_count": 211,
           "rating_distribution": [
             3,
             11,
@@ -4520,6 +4520,26 @@
             {
               "lang": "zh-tw",
               "text": "我依然在此"
+            },
+            {
+              "lang": "en",
+              "text": "I'm Still Here"
+            },
+            {
+              "lang": "zh-tw",
+              "text": "Ainda Estou Aqui"
+            },
+            {
+              "lang": "da",
+              "text": "I'm Still Here‎"
+            },
+            {
+              "lang": "zh-cn",
+              "text": "我还在这里"
+            },
+            {
+              "lang": "en",
+              "text": "I’m Still Here"
             }
           ],
           "localized_description": [
