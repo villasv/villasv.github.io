@@ -3111,7 +3111,7 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/06/23/566914c0-b514-4cc7-bea4-f5d90945a704.webp",
           "rating": 8.3,
-          "rating_count": 219,
+          "rating_count": 220,
           "rating_distribution": [
             0,
             0,
@@ -3306,18 +3306,17 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2025/02/19/4e793c4c-a916-4de2-aa5e-55ccc4652c01.jpg",
           "rating": 5.9,
-          "rating_count": 44,
+          "rating_count": 45,
           "rating_distribution": [
             4,
             13,
-            47,
-            27,
+            48,
+            26,
             6
           ],
           "tags": [
             "2020",
             "2024",
-            "2d",
             "a24",
             "adaptation",
             "bram stoker",
@@ -3334,7 +3333,8 @@
             "未上映",
             "电影",
             "美国",
-            "美国电影"
+            "美国电影",
+            "美國"
           ],
           "brief": "影片讲述了一个哥特故事，被鬼附身的年轻女子艾伦·亨特（莉莉-罗丝·德普 饰）和迷恋她的可怕的吸血鬼伯爵（比尔·斯卡斯加德 饰）之间的痴恋，造成了难以言喻的恐怖。",
           "id": "https://neodb.social/movie/7innbP2dnvnVLUrcg5Xeyk",
@@ -4134,7 +4134,7 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/09/13/a30bf2f3-4f79-43ef-b22f-58ebc3fd8aae.jpg",
           "rating": 6.3,
-          "rating_count": 211,
+          "rating_count": 213,
           "rating_distribution": [
             3,
             11,
