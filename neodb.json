@@ -2939,14 +2939,14 @@
             }
           ],
           "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2025/01/17/c9fb75b7-fe14-462c-a95e-513257203176.jpg",
-          "rating": 7.2,
-          "rating_count": 75,
+          "rating": 7.3,
+          "rating_count": 76,
           "rating_distribution": [
             0,
             1,
-            28,
-            58,
-            12
+            27,
+            57,
+            13
           ],
           "tags": [
             "2020s",
@@ -3065,6 +3065,34 @@
             {
               "lang": "zh-cn",
               "text": "喵的奇幻漂流"
+            },
+            {
+              "lang": "nn",
+              "text": "Straume"
+            },
+            {
+              "lang": "nb",
+              "text": "Straume"
+            },
+            {
+              "lang": "no",
+              "text": "Straume"
+            },
+            {
+              "lang": "sv",
+              "text": "Flow - katten som slutade vara rädd för vatten"
+            },
+            {
+              "lang": "da",
+              "text": "Straume"
+            },
+            {
+              "lang": "zh-cn",
+              "text": "喵的奇幻漂流(台)"
+            },
+            {
+              "lang": "de",
+              "text": "Flow"
             }
           ],
           "localized_description": [
@@ -3107,11 +3135,23 @@
             {
               "lang": "zh-cn",
               "text": "　　一只略带个性主义和焦虑的猫面对水势上涨，遇到了一只狐猴、一只拉布拉多、一只水豚和一只鸟，面对逆境，他们别无选择，只能合作。"
+            },
+            {
+              "lang": "sv",
+              "text": "En modig katt råkar ut för en stor flodvåg. Katten räddar sig upp på en båt tillsammans med en glad hund, en trött kapybara, en busig lemur och en stram fågel. Djuren gör en äventyrlig färd genom underbar natur och övergivna städer - en ny, främmande värld där samarbete och vänskap är viktigast av allt."
+            },
+            {
+              "lang": "zh-cn",
+              "text": "影片讲述洪水淹没世界，猫猫爬上了一艘帆船，由此开启了一段非凡的旅程。在旅途中，它先后邂逅了水豚、狗狗、狐猴、蛇鹫等动物。性格迥异的它们从彼此看不顺眼到并肩作战，共同面对波涛汹涌的大海和重重困难。"
+            },
+            {
+              "lang": "de",
+              "text": "Kaum hat sich die kleine schwarze Katze den Schlaf aus den Augen gerieben, muss sie erschrocken feststellen, dass eine gewaltige Flut die alte Welt unter sich begräbt. Gerade noch so rettet sie sich auf ein Segelboot, wo nach und nach auch ein diebisches Äffchen, ein gutmütiger Labrador, ein schläfriges Wasserschwein und ein stolzer Sekretärvogel Zuflucht finden. Schon bald wird klar: Ihre Verschiedenheit ist ihre Stärke und gemeinsam stellen sie sich den Herausforderungen der neuen Welt."
             }
           ],
           "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/06/23/566914c0-b514-4cc7-bea4-f5d90945a704.webp",
           "rating": 8.3,
-          "rating_count": 220,
+          "rating_count": 222,
           "rating_distribution": [
             0,
             0,
@@ -3150,6 +3190,9 @@
           "parent_uuid": null,
           "display_title": "猫猫的奇幻漂流",
           "external_resources": [
+            {
+              "url": "https://minreol.dk/movie/63h06CjJfb7ZdFk1c5xRba"
+            },
             {
               "url": "https://www.themoviedb.org/movie/823219"
             },
@@ -3305,14 +3348,14 @@
             }
           ],
           "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2025/02/19/4e793c4c-a916-4de2-aa5e-55ccc4652c01.jpg",
-          "rating": 5.9,
-          "rating_count": 45,
+          "rating": 6,
+          "rating_count": 46,
           "rating_distribution": [
             4,
             13,
-            48,
+            47,
             26,
-            6
+            8
           ],
           "tags": [
             "2020",
@@ -3555,13 +3598,13 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/movie/2024/10/28/13dfbfcd-c252-4f40-96da-aabdade67aee.jpg",
           "rating": 7.3,
-          "rating_count": 69,
+          "rating_count": 70,
           "rating_distribution": [
             1,
             0,
             24,
             60,
-            13
+            14
           ],
           "tags": [
             "2024",
@@ -3758,12 +3801,12 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/movie/2025/03/12/dd6c73e9-ab71-4ff3-8f3d-fbc38d3c16c5.webp",
           "rating": 6.9,
-          "rating_count": 52,
+          "rating_count": 53,
           "rating_distribution": [
             1,
             3,
-            34,
-            53,
+            33,
+            54,
             5
           ],
           "tags": [
@@ -3990,12 +4033,12 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2025/01/17/c3980bb4-8335-4f47-a839-3ce094856a54.jpg",
           "rating": 6.7,
-          "rating_count": 305,
+          "rating_count": 306,
           "rating_distribution": [
             4,
             9,
             27,
-            44,
+            45,
             14
           ],
           "tags": [
@@ -4134,12 +4177,12 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/09/13/a30bf2f3-4f79-43ef-b22f-58ebc3fd8aae.jpg",
           "rating": 6.3,
-          "rating_count": 213,
+          "rating_count": 214,
           "rating_distribution": [
             3,
             11,
             38,
-            39,
+            40,
             6
           ],
           "tags": [
@@ -4570,13 +4613,13 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/movie/2025/03/09/3e3fa59e-e345-4f24-b75e-1141f82942f6.jpg",
           "rating": 8.5,
-          "rating_count": 22,
+          "rating_count": 23,
           "rating_distribution": [
             0,
             0,
             13,
-            36,
-            50
+            34,
+            52
           ],
           "tags": [
             "2024",
@@ -5558,13 +5601,13 @@
           ],
           "cover_image_url": "https://neodb.social/m/movie/2021/09/15559ab649-2df5-4547-b4ff-47ed5f2e158b.jpg",
           "rating": 7.7,
-          "rating_count": 119,
+          "rating_count": 120,
           "rating_distribution": [
             0,
             3,
             21,
             57,
-            16
+            17
           ],
           "tags": [
             "2010s",
@@ -5798,7 +5841,7 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/movie/2023/05/31/0904d82a-cd0e-4526-91cb-0c7d98d66d94.jpg",
           "rating": 7.8,
-          "rating_count": 304,
+          "rating_count": 305,
           "rating_distribution": [
             0,
             2,
@@ -6053,6 +6096,46 @@
             {
               "lang": "zh-cn",
               "text": "第 2 季"
+            },
+            {
+              "lang": "zh-cn",
+              "text": "人生切割术 第二季"
+            },
+            {
+              "lang": "zh-cn",
+              "text": "离职 第二季"
+            },
+            {
+              "lang": "zh-cn",
+              "text": "人生解离"
+            },
+            {
+              "lang": "zh-cn",
+              "text": "遣散人格"
+            },
+            {
+              "lang": "zh-cn",
+              "text": "生活割离术 第二季"
+            },
+            {
+              "lang": "pt",
+              "text": "Temporada 2"
+            },
+            {
+              "lang": "en",
+              "text": "Season 2"
+            },
+            {
+              "lang": "zh-cn",
+              "text": "人生切割术(台)"
+            },
+            {
+              "lang": "zh-cn",
+              "text": "生活割离术(港)"
+            },
+            {
+              "lang": "en",
+              "text": "Severance"
             }
           ],
           "localized_description": [
@@ -6079,15 +6162,23 @@
             {
               "lang": "zh-cn",
               "text": "在第2季中，马克和朋友们了解到，记忆切割会带来可怕的后果，这迫使他们在悲惨的道路上越走越远。"
+            },
+            {
+              "lang": "zh-cn",
+              "text": "故事发生在一家名为卢蒙的超级大公司内，一种名为记忆切割术的全新技术正在公司内部进行实验，接受了手术的员工将进行人格分离手术，形成公司人格和日常人格。这项大胆的“平衡工作与生活”的实验受到了质疑。员工马克发现自己身处一个谜团的中心，迫使他面对工作和自我的本质。 第二季中，马克和他的朋友们了解到切割记忆的可怕后果，使他们走上了更加痛苦的道路。"
+            },
+            {
+              "lang": "zh-cn",
+              "text": "故事发生在一家名为卢蒙的超级大公司内，一种名为记忆切割术的全新技术正在公司内部进行实验，接受了手术的员工将进行人格分离手术，形成公司人格和日常人格。这项大胆的“平衡工作与生活”的实验受到了质疑。员工马克发现自己身处一个谜团的中心，迫使他面对工作和自我的本质。\n第二季中，马克和他的朋友们了解到切割记忆的可怕后果，使他们走上了更加痛苦的道路。"
             }
           ],
           "cover_image_url": "https://neodb.social/m/item/tmdb_tvseason/2025/03/02/6d3b4f7f-5d4a-4704-86ae-cfbb5ea3effd.jpg",
           "rating": 8.3,
-          "rating_count": 25,
+          "rating_count": 27,
           "rating_distribution": [
             0,
             0,
-            8,
+            7,
             44,
             48
           ],
@@ -6128,6 +6219,9 @@
             },
             {
               "url": "https://www.themoviedb.org/tv/95396/season/2"
+            },
+            {
+              "url": "https://neodb.kevga.de/tv/season/4jwbJIbrERcF41c6nAuhse"
             }
           ]
         },
