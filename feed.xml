@@ -4,9 +4,23 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 15 Mar 2025 17:04:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Mar 2025 19:04:25 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2025]]></copyright>
+        <item>
+            <title><![CDATA[Comment]]></title>
+            <description><![CDATA[<p>created collection <a href="https://neodb.social/collection/6lgHPcqpU1KH2UkxwNcIQO" rel="nofollow">Collection by Victor Villas</a><br></p>]]></description>
+            <link>https://neodb.social/@villasv/posts/423794380678207096/</link>
+            <guid isPermaLink="true">https://neodb.social/@villasv/posts/423794380678207096/</guid>
+            <pubDate>Sat, 15 Mar 2025 17:47:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Wants to read]]></title>
+            <description><![CDATA[<p>wants to read <a href="https://neodb.social/~neodb~/book/3wxZDHmBrYhhMur7pTIP0b" rel="nofollow">Memórias Póstumas de Brás Cubas</a> </p><p></p>]]></description>
+            <link>https://neodb.social/@villasv/posts/423794258230422992/</link>
+            <guid isPermaLink="true">https://neodb.social/@villasv/posts/423794258230422992/</guid>
+            <pubDate>Sat, 15 Mar 2025 17:47:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Finished watching]]></title>
             <description><![CDATA[<p>finished watching <a href="https://neodb.social/~neodb~/movie/0VRzOetmfXW5zUB4BYpKMB" rel="nofollow">Who Are You?</a> 🌕🌕🌕🌑🌑  <br>Some lovely bits and pieces, though I can&#x27;t say I love the dialogues and the script. I&#x27;m not even sure I really got the message, the ending was a bit... abrupt.<br></p>]]></description>
@@ -139,13 +153,6 @@
             <link>https://neodb.social/@villasv/posts/418009743296948224/</link>
             <guid isPermaLink="true">https://neodb.social/@villasv/posts/418009743296948224/</guid>
             <pubDate>Thu, 27 Feb 2025 18:41:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Comment]]></title>
-            <description><![CDATA[<p>The inferno of the living is not something that will be; if there is one, it is what is already here, the inferno where we live every day, that we form by being together. There are two ways to escape suffering it. The first is easy for many: accept the inferno and become such a part of it that you can no longer see it. The second is risky and demands constant vigilance and apprehension: seek and learn to recognize who and what, in the midst of the inferno, are not inferno, then make them endure, give them space.</p><p>—<br><a href="https://neodb.social/book/2MDiC3Qu6SPYpzk82Glbaa" rel="nofollow">Invisible Cities</a> </p>]]></description>
-            <link>https://neodb.social/@villasv/posts/418008351412050648/</link>
-            <guid isPermaLink="true">https://neodb.social/@villasv/posts/418008351412050648/</guid>
-            <pubDate>Thu, 27 Feb 2025 18:35:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Started watching]]></title>
@@ -301,13 +308,6 @@
             <link>https://pxlfd.ca/p/victor/790660117523971543</link>
             <guid isPermaLink="true">https://pxlfd.ca/p/victor/790660117523971543</guid>
             <pubDate>Thu, 30 Jan 2025 19:21:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Finished reading]]></title>
-            <description><![CDATA[<p>finished reading <a href="https://neodb.social/~neodb~/book/6ysE3FRlE3h0zx7zrEuxgH" rel="nofollow">The Beatles</a> 🌕🌕🌑🌑🌑  <br>I don&#x27;t know how to evaluate Bob Spitz work, whether it&#x27;s accurate or simplistic, but it feels well researched and based on credible records. I guess it was a fine work, but the experience of listening to this audiobook wasn&#x27;t that great, coming from someone that was mildly curious. There&#x27;s only so much one can do to spice up a bibliography that doesn&#x27;t derail into fiction. Halfway through I was listening the audiobook on 1.75x not really caring if something got lost.</p><p>I did learn a thing or two. John was a self absorbed dickhead; Paul was a bit nicer but not by a long margin; Gorge was stuck under their shadow; and Ringo was surviving the ride. They were brilliant musicians, very misguided and suggestible to bullshit. Understandable, considering their context and  the whirlwind that must be becoming world famous in your early twenties.</p><p>This was the ultimate Beatles read, in the sense that I don&#x27;t plan on ever reading anything about them ever again.<br></p>]]></description>
-            <link>https://neodb.social/@villasv/posts/6617658432178792/</link>
-            <guid isPermaLink="true">https://neodb.social/@villasv/posts/6617658432178792/</guid>
-            <pubDate>Tue, 31 Dec 2019 06:12:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
