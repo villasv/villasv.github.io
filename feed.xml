@@ -4,12 +4,12 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 15 Mar 2025 19:04:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Mar 2025 21:04:28 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2025]]></copyright>
         <item>
             <title><![CDATA[Comment]]></title>
-            <description><![CDATA[<p>created collection <a href="https://neodb.social/collection/6lgHPcqpU1KH2UkxwNcIQO" rel="nofollow">Collection by Victor Villas</a><br></p>]]></description>
+            <description><![CDATA[<p>created collection <a href="https://neodb.social/collection/6lgHPcqpU1KH2UkxwNcIQO" rel="nofollow">Brazilian Literature</a><br> Books sorted by publication year. <br></p>]]></description>
             <link>https://neodb.social/@villasv/posts/423794380678207096/</link>
             <guid isPermaLink="true">https://neodb.social/@villasv/posts/423794380678207096/</guid>
             <pubDate>Sat, 15 Mar 2025 17:47:34 GMT</pubDate>
