@@ -1636,14 +1636,14 @@
             }
           ],
           "cover_image_url": "https://neodb.social/m/item/doubanbook/2023/05/09/4a6a964c-6855-4236-90dd-432f506f7bd9.jpg",
-          "rating": null,
-          "rating_count": 4,
+          "rating": 7.6,
+          "rating_count": 5,
           "rating_distribution": [
             0,
+            20,
             0,
-            0,
-            0,
-            0
+            40,
+            40
           ],
           "tags": [
             "家务"
