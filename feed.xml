@@ -4,9 +4,16 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 17 Mar 2025 19:04:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Mar 2025 21:04:42 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2025]]></copyright>
+        <item>
+            <title><![CDATA[Started reading]]></title>
+            <description><![CDATA[<p>started reading <a href="https://neodb.social/~neodb~/book/3wxZDHmBrYhhMur7pTIP0b" rel="nofollow">Memórias Póstumas de Brás Cubas</a> 🌕🌕🌕🌕🌑  <br>So cleverly arranged. Truly a landmark in the history of literature.<br></p>]]></description>
+            <link>https://neodb.social/@villasv/posts/424542261480669104/</link>
+            <guid isPermaLink="true">https://neodb.social/@villasv/posts/424542261480669104/</guid>
+            <pubDate>Mon, 17 Mar 2025 19:19:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Comment]]></title>
             <description><![CDATA[<p>created collection <a href="https://neodb.social/collection/6lgHPcqpU1KH2UkxwNcIQO" rel="nofollow">Brazilian Literature</a><br> Books sorted by publication year. Curation based on notoriety and a small influence of personal taste. <br></p>]]></description>
@@ -146,13 +153,6 @@
             <link>https://neodb.social/@villasv/posts/418310057154667640/</link>
             <guid isPermaLink="true">https://neodb.social/@villasv/posts/418310057154667640/</guid>
             <pubDate>Fri, 28 Feb 2025 14:34:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Finished reading]]></title>
-            <description><![CDATA[<p>finished reading <a href="https://neodb.social/~neodb~/book/2MDiC3Qu6SPYpzk82Glbaa" rel="nofollow">Invisible Cities</a> 🌕🌕🌕🌕🌕  <br>So humbling in its immense creativity and captivating writing. So immersive in its rendering of all that could be otherwise, the world of imagination and dreams and nightmares. So provocative in its resonance of the myriad lives of all peoples, all struggles and passions, laughter and cries. A book to feast upon as many times as I can afford in this life - it is said it&#x27;s a different book every time you come back to it, and I&#x27;m already wondering what&#x27;s it going to taste like next time.<br></p>]]></description>
-            <link>https://neodb.social/@villasv/posts/418009743296948224/</link>
-            <guid isPermaLink="true">https://neodb.social/@villasv/posts/418009743296948224/</guid>
-            <pubDate>Thu, 27 Feb 2025 18:41:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Started watching]]></title>
