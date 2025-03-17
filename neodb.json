@@ -4227,11 +4227,11 @@
             }
           ],
           "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/09/13/a30bf2f3-4f79-43ef-b22f-58ebc3fd8aae.jpg",
-          "rating": 6.4,
-          "rating_count": 221,
+          "rating": 6.3,
+          "rating_count": 222,
           "rating_distribution": [
             3,
-            10,
+            11,
             38,
             40,
             6
@@ -4663,14 +4663,14 @@
             }
           ],
           "cover_image_url": "https://neodb.social/m/item/movie/2025/03/09/3e3fa59e-e345-4f24-b75e-1141f82942f6.jpg",
-          "rating": 8.5,
-          "rating_count": 26,
+          "rating": 8.4,
+          "rating_count": 27,
           "rating_distribution": [
             0,
             0,
-            11,
-            42,
-            46
+            14,
+            40,
+            44
           ],
           "tags": [
             "2024",
