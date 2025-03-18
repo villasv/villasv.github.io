@@ -4,9 +4,16 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 17 Mar 2025 23:05:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Mar 2025 01:05:41 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2025]]></copyright>
+        <item>
+            <title><![CDATA[Comment]]></title>
+            <description><![CDATA[<p><a href="https://mastodon.social/tags/BuildInPublic" class="mention hashtag" rel="tag">#<span>BuildInPublic</span></a></p><p>Thinking of starting side project number 623737278, while still keeping my current one involving my IndieWeb presence. This is usually trouble as my focus tends to resist dividing, but here we go.</p><p>I never successfully launched a mobile app, but I hope nowadays the learning curve is less steep. Probably going with <a href="https://mastodon.social/tags/ReactNative" class="mention hashtag" rel="tag">#<span>ReactNative</span></a> and expo.</p>]]></description>
+            <link>https://mastodon.social/@villasbc/114180492440770415</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/114180492440770415</guid>
+            <pubDate>Tue, 18 Mar 2025 00:00:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Started reading]]></title>
             <description><![CDATA[<p>started reading <a href="https://neodb.social/~neodb~/book/3wxZDHmBrYhhMur7pTIP0b" rel="nofollow">Memórias Póstumas de Brás Cubas</a> 🌕🌕🌕🌕🌑  <br>So cleverly arranged. Truly a landmark in the history of literature.<br></p>]]></description>
@@ -289,13 +296,6 @@
             <link>https://mastodon.social/@villasbc/113952448621107287</link>
             <guid isPermaLink="true">https://mastodon.social/@villasbc/113952448621107287</guid>
             <pubDate>Wed, 05 Feb 2025 17:26:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Comment]]></title>
-            <description><![CDATA[<p>OK, kind of giving up on <a href="https://mastodon.social/tags/Pixelfed" class="mention hashtag" rel="tag">#<span>Pixelfed</span></a> for videos for now. Video format hassles and UI complications aside, I just realized that video posts are not federating and are not visible in the RSS feed.</p><p>This combination is a dealbreaker for an <a href="https://mastodon.social/tags/Instagram" class="mention hashtag" rel="tag">#<span>Instagram</span></a> replacement for me, so I guess I’ll be dumping would-be stories into Mastodon directly for a while to see how it goes.</p>]]></description>
-            <link>https://mastodon.social/@villasbc/113949325108277817</link>
-            <guid isPermaLink="true">https://mastodon.social/@villasbc/113949325108277817</guid>
-            <pubDate>Wed, 05 Feb 2025 04:11:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Media]]></title>
