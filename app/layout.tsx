@@ -1,5 +1,6 @@
 import "./globals.css";
 import styles from "./styles.module.css";
+import { StretchText } from "@/projects/stretchtext/stretchtext";
 
 const links = [
   <a key={1} href="/notes">
@@ -32,7 +33,11 @@ export default function Layout({ children }: { children: React.ReactNode }) {
                   <a href="/">Victor Villas</a>
                 </h1>
                 <p>
-                  Born at 356.42 ppm CO₂ <br />
+                  Born at{" "}
+                  <a href="https://www.nature.org/en-us/get-involved/how-to-help/carbon-footprint-calculator/carbon-by-birth-year/">
+                    356.42 ppm CO₂
+                  </a>
+                  <br />
                   🇨🇦 Living the good life in YVR <br />
                   🇧🇷 Inner voice speaks in pt_BR <br />
                   💻 Paying bills with software
