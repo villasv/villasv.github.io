@@ -4,9 +4,16 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 20 Mar 2025 19:04:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Mar 2025 21:04:54 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2025]]></copyright>
+        <item>
+            <title><![CDATA[Comment]]></title>
+            <description><![CDATA[<p>created collection <a href="https://neodb.social/collection/5c4k7In4VCYT2sJTqDY7pV" rel="nofollow">Canada Reads</a><br> Five books, five champions, one winner: CBC&#x27;s annual Battle of the Books has been getting people listening, watching and, of course, reading. <br></p>]]></description>
+            <link>https://neodb.social/@villasv/posts/425642191597383264/</link>
+            <guid isPermaLink="true">https://neodb.social/@villasv/posts/425642191597383264/</guid>
+            <pubDate>Thu, 20 Mar 2025 20:10:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Comment]]></title>
             <description><![CDATA[<p>“Here is a chart”</p><p>🥹 welcome back <span class="h-card" translate="no"><a href="https://mstdn.ca/@j_mcelroy" class="u-url mention">@<span>j_mcelroy</span></a></span>, missed you</p>]]></description>
@@ -160,13 +167,6 @@
             <link>https://neodb.social/@villasv/posts/419072161028136832/</link>
             <guid isPermaLink="true">https://neodb.social/@villasv/posts/419072161028136832/</guid>
             <pubDate>Sun, 02 Mar 2025 17:03:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Wants to watch]]></title>
-            <description><![CDATA[<p>wants to watch <a href="https://neodb.social/~neodb~/movie/7Ewenx9aHugGnoOV2DAbs0" rel="nofollow">The Brutalist</a> <br>2025 Oscar nominee<br></p>]]></description>
-            <link>https://neodb.social/@villasv/posts/419072048633136632/</link>
-            <guid isPermaLink="true">https://neodb.social/@villasv/posts/419072048633136632/</guid>
-            <pubDate>Sun, 02 Mar 2025 17:02:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Comment]]></title>
