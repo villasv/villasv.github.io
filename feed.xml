@@ -4,9 +4,16 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 20 Mar 2025 13:09:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Mar 2025 15:05:31 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2025]]></copyright>
+        <item>
+            <title><![CDATA[Comment]]></title>
+            <description><![CDATA[<p>“Here is a chart”</p><p>🥹 welcome back <span class="h-card" translate="no"><a href="https://mstdn.ca/@j_mcelroy" class="u-url mention">@<span>j_mcelroy</span></a></span>, missed you</p>]]></description>
+            <link>https://mastodon.social/@villasbc/114195299710019590</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/114195299710019590</guid>
+            <pubDate>Thu, 20 Mar 2025 14:46:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Started reading]]></title>
             <description><![CDATA[<p>started reading <a href="https://neodb.social/~neodb~/book/6CGXClw90cNzv22TwmrshK" rel="nofollow">A Prayer for the Crown-Shy</a> </p><p></p>]]></description>
@@ -289,13 +296,6 @@
             <link>https://pxlfd.ca/p/victor/793017654934515063</link>
             <guid isPermaLink="true">https://pxlfd.ca/p/victor/793017654934515063</guid>
             <pubDate>Thu, 06 Feb 2025 07:29:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Comment]]></title>
-            <description><![CDATA[<p>Winter cycling can be amazing.</p><p><a href="https://mastodon.social/tags/wintercycling" class="mention hashtag" rel="tag">#<span>wintercycling</span></a> <a href="https://mastodon.social/tags/bikecommute" class="mention hashtag" rel="tag">#<span>bikecommute</span></a> <a href="https://mastodon.social/tags/cycling" class="mention hashtag" rel="tag">#<span>cycling</span></a> <a href="https://mastodon.social/tags/vancouver" class="mention hashtag" rel="tag">#<span>vancouver</span></a></p>]]></description>
-            <link>https://mastodon.social/@villasbc/113952448621107287</link>
-            <guid isPermaLink="true">https://mastodon.social/@villasbc/113952448621107287</guid>
-            <pubDate>Wed, 05 Feb 2025 17:26:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Media]]></title>
