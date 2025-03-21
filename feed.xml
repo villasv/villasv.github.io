@@ -4,9 +4,16 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 21 Mar 2025 21:04:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Mar 2025 23:04:44 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2025]]></copyright>
+        <item>
+            <title><![CDATA[Comment]]></title>
+            <description><![CDATA[<p><span class="h-card" translate="no"><a href="https://socialbc.ca/@chris" class="u-url mention">@<span>chris</span></a></span> it’s not government or media but can you help me get Vancouver Rise FC to post on mastodon? A socialbc account would be great.</p><p>If nothing else, they could at least do the bridgy thing so we can follow from here</p>]]></description>
+            <link>https://mastodon.social/@villasbc/114202898295376845</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/114202898295376845</guid>
+            <pubDate>Fri, 21 Mar 2025 22:58:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Comment]]></title>
             <description><![CDATA[<p>created collection <a href="https://neodb.social/collection/5c4k7In4VCYT2sJTqDY7pV" rel="nofollow">Canada Reads</a><br> Five books, five champions, one winner: CBC&#x27;s annual Battle of the Books has been getting people listening, watching and, of course, reading. <br></p>]]></description>
@@ -279,13 +286,6 @@
             <link>https://mastodon.social/@villasbc/113987756788131659</link>
             <guid isPermaLink="true">https://mastodon.social/@villasbc/113987756788131659</guid>
             <pubDate>Tue, 11 Feb 2025 23:05:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Comment]]></title>
-            <description><![CDATA[<p>Unfortunately NA motonormativity runs so deep that I won’t live to see this here. Maybe congestion pricing if I’m lucky. <a href="https://mastodon.nl/@rrustema020/113981240845244201" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">mastodon.nl/@rrustema020/11398</span><span class="invisible">1240845244201</span></a></p>]]></description>
-            <link>https://mastodon.social/@villasbc/113982241788234830</link>
-            <guid isPermaLink="true">https://mastodon.social/@villasbc/113982241788234830</guid>
-            <pubDate>Mon, 10 Feb 2025 23:43:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Media]]></title>

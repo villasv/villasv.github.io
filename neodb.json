@@ -3202,7 +3202,7 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/06/23/566914c0-b514-4cc7-bea4-f5d90945a704.webp",
           "rating": 8.3,
-          "rating_count": 254,
+          "rating_count": 255,
           "rating_distribution": [
             0,
             0,
@@ -6399,14 +6399,14 @@
             }
           ],
           "cover_image_url": "https://neodb.social/m/item/tmdb_tvseason/2025/03/02/6d3b4f7f-5d4a-4704-86ae-cfbb5ea3effd.jpg",
-          "rating": 8.2,
-          "rating_count": 46,
+          "rating": 8.1,
+          "rating_count": 49,
           "rating_distribution": [
             0,
             2,
-            8,
-            45,
-            43
+            10,
+            44,
+            42
           ],
           "tags": [
             "2023",
@@ -6415,8 +6415,13 @@
             "亚当 斯科特",
             "人生切割术",
             "克里斯托弗 沃肯",
+            "分离",
+            "切割术",
+            "审美",
             "悬疑",
+            "情感",
             "惊悚",
+            "未来",
             "本 斯蒂勒",
             "电视剧",
             "科幻",
