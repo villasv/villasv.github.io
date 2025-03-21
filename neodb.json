@@ -2990,19 +2990,20 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2025/01/17/c9fb75b7-fe14-462c-a95e-513257203176.jpg",
           "rating": 7.3,
-          "rating_count": 78,
+          "rating_count": 79,
           "rating_distribution": [
             0,
             1,
-            28,
+            27,
             56,
-            14
+            13
           ],
           "tags": [
             "2020s",
             "2024",
-            "6",
+            "ba",
             "film",
+            "flight",
             "jesse_eisenberg",
             "亲情",
             "人生",
@@ -3017,8 +3018,7 @@
             "电影",
             "痛苦",
             "美国",
-            "美国电影",
-            "美國"
+            "美国电影"
           ],
           "brief": "为纪念逝世的奶奶，许久未见的堂兄弟大卫与班吉相约前往波兰参加导览团，也顺道探访奶奶的老家。一路上，班吉有话直说、率性风趣的性格迅速与同团人士拉近距离，令木讷拘谨的大卫既焦虑又羡慕，压抑已久的情绪日益沸腾。然而，随着旅途种种安排不断挑动班吉的敏感神经，他的狂放不羁似乎逐渐走向失序，大卫试图息事宁人，但内心的不安却席卷而来。这趟寻根之旅，能否解决彼此心底难以言说的痛楚？",
           "id": "https://neodb.social/movie/0sN2oplb3DfJR1RniMoyNd",
@@ -3889,13 +3889,13 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2025/01/17/c3980bb4-8335-4f47-a839-3ce094856a54.jpg",
           "rating": 6.7,
-          "rating_count": 314,
+          "rating_count": 315,
           "rating_distribution": [
             4,
             9,
             27,
             45,
-            14
+            13
           ],
           "tags": [
             "2024",
@@ -4033,16 +4033,18 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/09/13/a30bf2f3-4f79-43ef-b22f-58ebc3fd8aae.jpg",
           "rating": 6.4,
-          "rating_count": 229,
+          "rating_count": 230,
           "rating_distribution": [
             3,
             10,
-            38,
+            39,
             40,
             6
           ],
           "tags": [
             "2024",
+            "俄罗斯",
+            "俄语",
             "剧情",
             "喜剧",
             "奥斯卡",
@@ -4059,9 +4061,7 @@
             "纽约",
             "美剧",
             "美国",
-            "美国电影",
-            "美國",
-            "肖恩 贝克"
+            "美国电影"
           ],
           "brief": "阿诺拉是布鲁克林的性工作者，她邂逅了一个商界寡头的儿子并在冲动之下嫁给了他，这让她以为自己像灰姑娘一样终于遇到自己的王子。然而当结婚消息传到了俄罗斯，男方父母来到纽约取消婚姻，破灭了的阿诺拉的童话。",
           "id": "https://neodb.social/movie/7hfF7d0aFMaqHpFjUpq4zR",
@@ -6400,13 +6400,13 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/tmdb_tvseason/2025/03/02/6d3b4f7f-5d4a-4704-86ae-cfbb5ea3effd.jpg",
           "rating": 8.2,
-          "rating_count": 30,
+          "rating_count": 31,
           "rating_distribution": [
             0,
             3,
             6,
-            43,
-            46
+            41,
+            48
           ],
           "tags": [
             "2023",
