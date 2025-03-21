@@ -3211,7 +3211,6 @@
             45
           ],
           "tags": [
-            "2020s",
             "2024",
             "动物",
             "动画",
@@ -3225,12 +3224,13 @@
             "欧洲动画",
             "欧洲电影",
             "歐美",
+            "比利时",
+            "法国",
             "法国电影",
             "独立",
             "猫",
             "电影",
-            "类型 动画",
-            "诙谐"
+            "类型 动画"
           ],
           "brief": "世界似乎即将毁灭，到处都是人类的遗迹。一只猫的家园被一场大洪水摧毁，它在一艘载满了不同动物的船上找到了避难所。尽管它们之间存在差异，但它必须与它们合作，面临各种未知的挑战。",
           "id": "https://neodb.social/movie/1UKRbng4exUWF9VlZlsxR4",
@@ -6400,13 +6400,13 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/tmdb_tvseason/2025/03/02/6d3b4f7f-5d4a-4704-86ae-cfbb5ea3effd.jpg",
           "rating": 8.1,
-          "rating_count": 39,
+          "rating_count": 40,
           "rating_distribution": [
             0,
             2,
             10,
-            46,
-            41
+            45,
+            42
           ],
           "tags": [
             "2023",
