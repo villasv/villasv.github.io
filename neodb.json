@@ -3256,13 +3256,13 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/06/23/566914c0-b514-4cc7-bea4-f5d90945a704.webp",
           "rating": 8.3,
-          "rating_count": 256,
+          "rating_count": 257,
           "rating_distribution": [
             0,
             0,
             11,
             42,
-            44
+            45
           ],
           "tags": [
             "2024",
@@ -6454,13 +6454,13 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/tmdb_tvseason/2025/03/02/6d3b4f7f-5d4a-4704-86ae-cfbb5ea3effd.jpg",
           "rating": 7.9,
-          "rating_count": 61,
+          "rating_count": 65,
           "rating_distribution": [
             0,
             4,
-            6,
-            52,
-            36
+            9,
+            50,
+            35
           ],
           "tags": [
             "2023",
