@@ -4,15 +4,15 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 21 Mar 2025 23:04:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Mar 2025 01:32:14 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2025]]></copyright>
         <item>
-            <title><![CDATA[Comment]]></title>
-            <description><![CDATA[<p><span class="h-card" translate="no"><a href="https://socialbc.ca/@chris" class="u-url mention">@<span>chris</span></a></span> it’s not government or media but can you help me get Vancouver Rise FC to post on mastodon? A socialbc account would be great.</p><p>If nothing else, they could at least do the bridgy thing so we can follow from here</p>]]></description>
-            <link>https://mastodon.social/@villasbc/114202898295376845</link>
-            <guid isPermaLink="true">https://mastodon.social/@villasbc/114202898295376845</guid>
-            <pubDate>Fri, 21 Mar 2025 22:58:55 GMT</pubDate>
+            <title><![CDATA[Wants to read]]></title>
+            <description><![CDATA[<p>wants to read <a href="https://neodb.social/~neodb~/book/3CiCqcpq1cj4JEObsSxCfz" rel="nofollow">Invisible Dead</a> <br>Part 1 of the Wakeland series, which is set in Vancouver<br></p>]]></description>
+            <link>https://neodb.social/@villasv/posts/426077554388362408/</link>
+            <guid isPermaLink="true">https://neodb.social/@villasv/posts/426077554388362408/</guid>
+            <pubDate>Sat, 22 Mar 2025 01:00:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Comment]]></title>
@@ -169,13 +169,6 @@
             <pubDate>Sun, 02 Mar 2025 17:03:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Wants to watch]]></title>
-            <description><![CDATA[<p>wants to watch <a href="https://neodb.social/~neodb~/movie/0R6GlO5GjtgVlx5xdNGsuk" rel="nofollow">Conclave</a> <br>2025 Oscar nominee<br></p>]]></description>
-            <link>https://neodb.social/@villasv/posts/419072161028136832/</link>
-            <guid isPermaLink="true">https://neodb.social/@villasv/posts/419072161028136832/</guid>
-            <pubDate>Sun, 02 Mar 2025 17:03:09 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Comment]]></title>
             <description><![CDATA[<p>Fifth day in Brazil.</p><p>Being an expat is ever stranger. I do feel home. The birds, the food, smiles, slangs, the plants, flowers, sand. The car I used to drive. Muscle memory kicks in. It all feels like it should. Even the clouds look as if they had been broken and are now fixed.</p><p>But I also feel like a visitor. The heat, the traffic, inequality. It’s the same as always, but also worse than it was. It’s strange to so easily overhear, to invisibly connect so fast.</p>]]></description>
             <link>https://mastodon.social/@villasbc/114082696149109230</link>
@@ -286,6 +279,13 @@
             <link>https://mastodon.social/@villasbc/113987756788131659</link>
             <guid isPermaLink="true">https://mastodon.social/@villasbc/113987756788131659</guid>
             <pubDate>Tue, 11 Feb 2025 23:05:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Comment]]></title>
+            <description><![CDATA[<p>Unfortunately NA motonormativity runs so deep that I won’t live to see this here. Maybe congestion pricing if I’m lucky. <a href="https://mastodon.nl/@rrustema020/113981240845244201" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">mastodon.nl/@rrustema020/11398</span><span class="invisible">1240845244201</span></a></p>]]></description>
+            <link>https://mastodon.social/@villasbc/113982241788234830</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/113982241788234830</guid>
+            <pubDate>Mon, 10 Feb 2025 23:43:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Media]]></title>

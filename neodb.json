@@ -4,6 +4,60 @@
       {
         "shelf_type": "wishlist",
         "visibility": 0,
+        "post_id": "426077554388362408",
+        "item": {
+          "type": "Edition",
+          "title": "Invisible Dead",
+          "description": "A gritty, private-eye series begins on the streets of Vancouver, from an award-winning new crime writer. \n \n Dave Wakeland isn't the usual PI. A 29-year-old ex-cop, he makes a habit of bad ideas. Chelsea Loam falls squarely into that category. Chelsea disappeared eleven years ago, leaving a trail leading towards career criminals and powerful men. Taking her case quickly starts to look like a good way to get killed. \n \n Whatever ghosts drive Wakeland, they drive him inexorably, addictively toward danger and the allure of an unsolvable mystery... \n \n In this fresh and fast-paced noir thriller, echoing the darkest troubles of our age, a witty and badly bruised new face takes his place in the ranks of the very finest characters in crime fiction",
+          "localized_title": [
+            {
+              "lang": "en",
+              "text": "Invisible Dead"
+            }
+          ],
+          "localized_description": [
+            {
+              "lang": "en",
+              "text": "A gritty, private-eye series begins on the streets of Vancouver, from an award-winning new crime writer. \n \n Dave Wakeland isn't the usual PI. A 29-year-old ex-cop, he makes a habit of bad ideas. Chelsea Loam falls squarely into that category. Chelsea disappeared eleven years ago, leaving a trail leading towards career criminals and powerful men. Taking her case quickly starts to look like a good way to get killed. \n \n Whatever ghosts drive Wakeland, they drive him inexorably, addictively toward danger and the allure of an unsolvable mystery... \n \n In this fresh and fast-paced noir thriller, echoing the darkest troubles of our age, a witty and badly bruised new face takes his place in the ranks of the very finest characters in crime fiction"
+            }
+          ],
+          "cover_image_url": "https://neodb.social/m/item/goodreads/2025/03/22/f2d93049-d11a-4016-9385-ea291ec85980.jpg",
+          "rating": null,
+          "rating_count": 0,
+          "rating_distribution": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "tags": [
+            "vancouver"
+          ],
+          "brief": "A gritty, private-eye series begins on the streets of Vancouver, from an award-winning new crime writer. \n \n Dave Wakeland isn't the usual PI. A 29-year-old ex-cop, he makes a habit of bad ideas. Chelsea Loam falls squarely into that category. Chelsea disappeared eleven years ago, leaving a trail leading towards career criminals and powerful men. Taking her case quickly starts to look like a good way to get killed. \n \n Whatever ghosts drive Wakeland, they drive him inexorably, addictively toward danger and the allure of an unsolvable mystery... \n \n In this fresh and fast-paced noir thriller, echoing the darkest troubles of our age, a witty and badly bruised new face takes his place in the ranks of the very finest characters in crime fiction",
+          "id": "https://neodb.social/book/3CiCqcpq1cj4JEObsSxCfz",
+          "uuid": "3CiCqcpq1cj4JEObsSxCfz",
+          "url": "/book/3CiCqcpq1cj4JEObsSxCfz",
+          "api_url": "/api/book/3CiCqcpq1cj4JEObsSxCfz",
+          "category": "book",
+          "parent_uuid": null,
+          "display_title": "Invisible Dead",
+          "external_resources": [
+            {
+              "url": "https://www.goodreads.com/book/show/27283973"
+            }
+          ]
+        },
+        "created_time": "2025-03-22T01:00:05.039Z",
+        "comment_text": "Part 1 of the Wakeland series, which is set in Vancouver",
+        "rating_grade": null,
+        "tags": [
+          "Vancouver"
+        ]
+      },
+      {
+        "shelf_type": "wishlist",
+        "visibility": 0,
         "post_id": "412168977110410464",
         "item": {
           "type": "Edition",
@@ -6400,13 +6454,13 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/tmdb_tvseason/2025/03/02/6d3b4f7f-5d4a-4704-86ae-cfbb5ea3effd.jpg",
           "rating": 8.1,
-          "rating_count": 49,
+          "rating_count": 54,
           "rating_distribution": [
             0,
-            2,
-            10,
-            44,
-            42
+            1,
+            9,
+            50,
+            38
           ],
           "tags": [
             "2023",
