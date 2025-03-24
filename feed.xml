@@ -4,12 +4,19 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 24 Mar 2025 19:04:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Mar 2025 21:04:41 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2025]]></copyright>
         <item>
+            <title><![CDATA[Comment]]></title>
+            <description><![CDATA[<p>Using [sic] when quoting people in positions of power is probably the most delightful and socially acceptable way to punch upwards, even if it brings a tint of academicism. It&#39;s a guilty pleasure.</p><p>Done expertly, it&#39;s humiliating. Reading a well timed latin expression for &quot;they&#39;re dumb, not me!&quot; is the respite I needed while consuming my weekly poisonous dose of <a href="https://mastodon.social/tags/USPol" class="mention hashtag" rel="tag">#<span>USPol</span></a>.</p><p>Thanks, Jeffrey Goldberg.</p>]]></description>
+            <link>https://mastodon.social/@villasbc/114219165476995956</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/114219165476995956</guid>
+            <pubDate>Mon, 24 Mar 2025 19:55:52 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Finished watching]]></title>
-            <description><![CDATA[<p>finished watching <a href="https://neodb.social/~neodb~/movie/33x0pvKMtNtpoYXHSwVuXa" rel="nofollow">Arthur Erickson: Beauty Between The Lines</a> <br>Arthur Erickson is more than just a celebrity architect and this doc is a great window into his personal trajectory.<br></p>]]></description>
+            <description><![CDATA[<p>finished watching <a href="https://neodb.social/~neodb~/movie/33x0pvKMtNtpoYXHSwVuXa" rel="nofollow">Arthur Erickson: Beauty Between The Lines</a> 🌕🌕🌕🌕🌑  <br>Arthur Erickson is more than just a celebrity architect and this doc is a great window into his personal trajectory.<br></p>]]></description>
             <link>https://neodb.social/@villasv/posts/426782174826732496/</link>
             <guid isPermaLink="true">https://neodb.social/@villasv/posts/426782174826732496/</guid>
             <pubDate>Sun, 23 Mar 2025 23:39:59 GMT</pubDate>
@@ -279,13 +286,6 @@
             <link>https://mastodon.social/@villasbc/113987756788131659</link>
             <guid isPermaLink="true">https://mastodon.social/@villasbc/113987756788131659</guid>
             <pubDate>Tue, 11 Feb 2025 23:05:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Comment]]></title>
-            <description><![CDATA[<p>Unfortunately NA motonormativity runs so deep that I won’t live to see this here. Maybe congestion pricing if I’m lucky. <a href="https://mastodon.nl/@rrustema020/113981240845244201" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">mastodon.nl/@rrustema020/11398</span><span class="invisible">1240845244201</span></a></p>]]></description>
-            <link>https://mastodon.social/@villasbc/113982241788234830</link>
-            <guid isPermaLink="true">https://mastodon.social/@villasbc/113982241788234830</guid>
-            <pubDate>Mon, 10 Feb 2025 23:43:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Media]]></title>
