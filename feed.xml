@@ -4,9 +4,16 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 23 Mar 2025 23:04:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Mar 2025 01:33:01 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2025]]></copyright>
+        <item>
+            <title><![CDATA[Finished watching]]></title>
+            <description><![CDATA[<p>finished watching <a href="https://neodb.social/~neodb~/movie/33x0pvKMtNtpoYXHSwVuXa" rel="nofollow">Arthur Erickson: Beauty Between The Lines</a> <br>Arthur Erickson is more than just a celebrity architect and this doc is a great window into his personal trajectory.<br></p>]]></description>
+            <link>https://neodb.social/@villasv/posts/426782174826732496/</link>
+            <guid isPermaLink="true">https://neodb.social/@villasv/posts/426782174826732496/</guid>
+            <pubDate>Sun, 23 Mar 2025 23:39:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Wants to read]]></title>
             <description><![CDATA[<p>wants to read <a href="https://neodb.social/~neodb~/book/3CiCqcpq1cj4JEObsSxCfz" rel="nofollow">Invisible Dead</a> <br>Part 1 of the Wakeland series, which is set in Vancouver<br></p>]]></description>
@@ -160,13 +167,6 @@
             <link>https://neodb.social/@villasv/posts/419072470411497960/</link>
             <guid isPermaLink="true">https://neodb.social/@villasv/posts/419072470411497960/</guid>
             <pubDate>Sun, 02 Mar 2025 17:04:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Wants to watch]]></title>
-            <description><![CDATA[<p>wants to watch <a href="https://neodb.social/~neodb~/movie/1ik9wlzPR46gJCUCSFOrfX" rel="nofollow">Sugarcane</a> <br>2025 Oscar nominee<br></p>]]></description>
-            <link>https://neodb.social/@villasv/posts/419072270461976088/</link>
-            <guid isPermaLink="true">https://neodb.social/@villasv/posts/419072270461976088/</guid>
-            <pubDate>Sun, 02 Mar 2025 17:03:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Comment]]></title>
