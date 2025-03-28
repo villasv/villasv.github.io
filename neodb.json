@@ -6624,13 +6624,13 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/tmdb_tvseason/2025/03/02/6d3b4f7f-5d4a-4704-86ae-cfbb5ea3effd.jpg",
           "rating": 7.9,
-          "rating_count": 100,
+          "rating_count": 103,
           "rating_distribution": [
             0,
-            4,
-            11,
+            3,
+            10,
             51,
-            34
+            33
           ],
           "tags": [
             "2023",
@@ -6674,6 +6674,9 @@
             },
             {
               "url": "https://www.themoviedb.org/tv/95396/season/2"
+            },
+            {
+              "url": "https://town.darkwitch.net/tv/season/4gRyMsNZ7vH0KL3FgUKkfF"
             },
             {
               "url": "https://neodb.kevga.de/tv/season/4jwbJIbrERcF41c6nAuhse"
