@@ -6623,14 +6623,14 @@
             }
           ],
           "cover_image_url": "https://neodb.social/m/item/tmdb_tvseason/2025/03/02/6d3b4f7f-5d4a-4704-86ae-cfbb5ea3effd.jpg",
-          "rating": 7.9,
-          "rating_count": 104,
+          "rating": 8,
+          "rating_count": 105,
           "rating_distribution": [
             0,
             3,
             10,
             50,
-            34
+            35
           ],
           "tags": [
             "2023",
@@ -6954,13 +6954,13 @@
           ],
           "cover_image_url": "https://neodb.social/m/movie/2021/09/17c509a57e-9998-43f4-8c78-7374521907a9.jpg",
           "rating": 7.9,
-          "rating_count": 48,
+          "rating_count": 49,
           "rating_distribution": [
             0,
             2,
             20,
-            54,
-            22
+            53,
+            24
           ],
           "tags": [
             "2010s",
