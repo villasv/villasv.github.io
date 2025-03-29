@@ -3419,7 +3419,7 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/06/23/566914c0-b514-4cc7-bea4-f5d90945a704.webp",
           "rating": 8.3,
-          "rating_count": 273,
+          "rating_count": 274,
           "rating_distribution": [
             0,
             0,
@@ -4113,7 +4113,7 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2025/01/17/c3980bb4-8335-4f47-a839-3ce094856a54.jpg",
           "rating": 6.7,
-          "rating_count": 323,
+          "rating_count": 322,
           "rating_distribution": [
             4,
             9,
@@ -4257,7 +4257,7 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/09/13/a30bf2f3-4f79-43ef-b22f-58ebc3fd8aae.jpg",
           "rating": 6.4,
-          "rating_count": 238,
+          "rating_count": 239,
           "rating_distribution": [
             3,
             10,
@@ -4577,6 +4577,18 @@
             {
               "lang": "en",
               "text": "I’m Still Here"
+            },
+            {
+              "lang": "ja",
+              "text": "アイム・スティル・ヒア"
+            },
+            {
+              "lang": "de",
+              "text": "Für immer hier"
+            },
+            {
+              "lang": "fr",
+              "text": "Je suis toujours là"
             }
           ],
           "localized_description": [
@@ -4603,17 +4615,45 @@
             {
               "lang": "en",
               "text": "In 1970s Rio de Janeiro, during Brazil's military dictatorship, former deputy Rubens Paiva was taken from his home by soldiers to be interrogated. He was never found again. His wife and family set out to determine the truth of his fate, in a search that would last 30 long years."
+            },
+            {
+              "lang": "ko",
+              "text": "\"그녀의 목소리, 침묵 속에서 울려퍼지다\"\r 1970년대 브라질 군사 독재 시절, 변호사이자 정치 활동가인 유니스 파이바(페르난다 토레스 분)는 남편인 루벤스 파이바(셀튼 멜로 분)의 실종 이후 홀로 남겨진다. 남편의 부재 속에서도 그녀는 가족을 지키기 위해 고군분투하며, 진실을 밝히기 위한 여정을 시작한다. 억압과 두려움이 가득한 시대 속에서 유니스는 용기와 결단력으로 맞서게 되는데..."
+            },
+            {
+              "lang": "ja",
+              "text": "元国会議員であったルーベンス・パイヴァが軍事政権によって誘拐されるという、実際に起こった事件をもとに描かれる歴史劇。"
+            },
+            {
+              "lang": "pt",
+              "text": "Rio de Janeiro, início dos anos 1970, quando o país enfrenta o endurecimento da ditadura militar.  Estamos no centro de uma família, os Paiva: um pai, Rubens, uma mãe, Eunice, e os cinco filhos.  Vivem na frente da praia, numa casa de portas abertas para os amigos.  O afeto e o humor que compartilham entre si são suas formas sutis de resistência à opressão que paira sobre o Brasil.  Um dia, eles sofrem um ato violento e arbitrário que vai mudar para sempre sua história.  Eunice é obrigada a se reinventar e a traçar um novo destino para si e os filhos.  Baseada no livro biográfico de Marcelo Rubens Paiva, a história emocionante dessa família ajudou a redefinir a história do país."
+            },
+            {
+              "lang": "de",
+              "text": "Rio de Janeiro, Anfang der 1970er Jahre. In einem gemieteten Haus am Strand lebt die Familie Paiva: Vater Rubens, Mutter Eunice und ihre fünf Kinder.  Auch mit der allgegenwärtigen Unterdrückung bewahren sie in ihrem Zuhause eine Atmosphäre der Liebe, des Humors und der Offenheit. Ihre Zuneigung zueinander wird zu einem stillen Akt des Widerstands gegen die Diktatur, die ihr Leben radikal verändert. Als Rubens verschwindet, wird Eunice zur treibenden Kraft, um ihrer Familie eine neue Zukunft aufzubauen. Den Herausforderungen dieser dunklen Zeit begegnet sie mit Mut, Entschlossenheit und dem unerschütterlichen Glauben an ihre Kinder. Diese bewegende Geschichte wirft ein Licht auf die verschwiegenen Kapitel der brasilianischen Geschichte und würdigt die Stärke einer Frau, die trotz widrigster Umstände niemals aufgibt."
+            },
+            {
+              "lang": "fr",
+              "text": "Rio, 1971, sous la dictature militaire. La grande maison des Paiva, près de la plage, est un havre de vie, de paroles partagées, de jeux, de rencontres. Jusqu’au jour où des hommes du régime viennent arrêter Rubens, le père de famille, qui disparait sans laisser de traces. Sa femme Eunice et ses cinq enfants mèneront alors un combat acharné pour la recherche de la vérité..."
+            },
+            {
+              "lang": "en",
+              "text": "In 1971, military dictatorship in Brazil reaches its height. The Paiva family — Rubens, Eunice, and their five children — live in a beachside house in Rio, open to all their friends. One day, Rubens is taken for questioning and does not return."
+            },
+            {
+              "lang": "zh-tw",
+              "text": "1970年的里約熱內盧，沙灘上到處是嬉鬧人群，魯本斯與尤妮絲一家七口就住在海濱街區，與朋友聚會、歡笑暢談、拍照留念是他們的日常；但同時，不滿獨裁政府的反對聲浪四起，也讓白色恐怖逐漸蔓延每個角落。一日，意外的訪客打破平靜，魯本斯遭軍方強行帶走，自此下落不明。悲痛的尤妮絲被迫挺身而出，找尋丈夫失蹤的真相，並獨自撐起這個家，以堅定的心持續帶給孩子們完整的愛與希望。"
             }
           ],
           "cover_image_url": "https://neodb.social/m/item/movie/2025/03/09/3e3fa59e-e345-4f24-b75e-1141f82942f6.jpg",
           "rating": 8.4,
-          "rating_count": 30,
+          "rating_count": 31,
           "rating_distribution": [
             0,
             0,
-            13,
-            40,
-            46
+            12,
+            41,
+            45
           ],
           "tags": [
             "2024",
@@ -4644,6 +4684,9 @@
             },
             {
               "url": "https://movie.douban.com/subject/35512487/"
+            },
+            {
+              "url": "https://www.imdb.com/title/tt14961016/"
             }
           ]
         },
@@ -6051,13 +6094,13 @@
           ],
           "cover_image_url": "https://neodb.social/m/movie/2021/09/15559ab649-2df5-4547-b4ff-47ed5f2e158b.jpg",
           "rating": 7.7,
-          "rating_count": 122,
+          "rating_count": 123,
           "rating_distribution": [
             0,
             3,
             21,
-            57,
-            18
+            56,
+            17
           ],
           "tags": [
             "2010s",
@@ -6624,13 +6667,13 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/tmdb_tvseason/2025/03/02/6d3b4f7f-5d4a-4704-86ae-cfbb5ea3effd.jpg",
           "rating": 7.9,
-          "rating_count": 106,
+          "rating_count": 105,
           "rating_distribution": [
             0,
             3,
             11,
-            50,
-            34
+            49,
+            35
           ],
           "tags": [
             "2023",
