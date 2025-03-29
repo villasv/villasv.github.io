@@ -20,19 +20,19 @@ const feed = new RSS({
 
 function getTitle(item) {
   const id = item.id || item.guid;
-  const desc = item.description || item.content || item.summary;
+  const desc = item.description || item.summary || item.content || "";
 
   // Use generic title for Mastodon posts
   if (id.includes("mastodon.social")) {
-    return "Comment"; // TODO: what best describes a mastodon 'tweet' without saying toot?
+    return "Comment";
   }
 
   // Use generic title for Pixelfed posts
   if (id.includes("pxlfd.ca")) {
-    return "Media"; // TODO: what best describes a Pixelfed 'post'
+    return "Media";
   }
 
-  // Replace NeoDB ugly titles with better ones
+  // Replace NeoDB titles with descriptive ones
   if (id.includes("neodb.social")) {
     const match = desc.match(/(wants to|started|finished)\s+(\w+)/i);
     if (!match) return "Comment";
@@ -45,21 +45,34 @@ function getTitle(item) {
   return item.title?.trim() || "Post";
 }
 
+function getDescription(item) {
+  const id = item.id || item.guid;
+  const desc = item.description || item.summary || item.content || "";
+
+  // Replace NeoDB repetitive description header
+  if (id.includes("neodb.social")) {
+    const title = getTitle(item);
+    const rating =
+      (desc.match(/🌕/g) || []).length * 2 + (desc.match(/🌗/g) || []).length;
+    console.log({ desc, rating });
+    return desc
+      .replace(new RegExp(`<p>${title}? `, "i"), "<p>")
+      .replace(new RegExp("</a> ((🌕)|(🌗)|(🌑))+"), `, ${rating} out of 10</a>`);
+  }
+
+  return desc;
+}
+
 function extractItemData(item) {
   return {
     title: getTitle(item),
     link: item.link?.href || item.link || item.id,
     date: new Date(item.updated || item.published || item.pubDate),
-    description:
-      item.content?.["#text"] ||
-      item.content ||
-      item.summary ||
-      item.description ||
-      "",
+    description: getDescription(item),
   };
 }
 
-async function fetchFeed(url) {
+async function fetchFeedItems(url) {
   const response = await fetch(url);
   if (!response.ok)
     throw new Error(`Failed to fetch ${url}: (${response.statusText})`);
@@ -71,13 +84,13 @@ async function fetchFeed(url) {
     parsedData?.feed?.entry || // Atom format
     [];
 
-  // if feed contains a single entry, it might return as object instead of array
+  // if feed is single entry, items might come as object instead of array
   if (!Array.isArray(items)) return [items].map(extractItemData);
   else return items.map(extractItemData);
 }
 
 async function generateMergedRSS() {
-  const allFeedItems = await Promise.all(feedUrls.map(fetchFeed));
+  const allFeedItems = await Promise.all(feedUrls.map(fetchFeedItems));
 
   allFeedItems
     .flat()
