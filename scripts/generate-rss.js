@@ -1,6 +1,6 @@
-const RSS = require("rss");
 const fs = require("fs");
 const path = require("path");
+const RSS = require("rss");
 const { XMLParser } = require("fast-xml-parser");
 
 const parser = new XMLParser();
@@ -57,7 +57,10 @@ function getDescription(item) {
     console.log({ desc, rating });
     return desc
       .replace(new RegExp(`<p>${title}? `, "i"), "<p>")
-      .replace(new RegExp("</a> ((🌕)|(🌗)|(🌑))+"), `, ${rating} out of 10</a>`);
+      .replace(
+        new RegExp("</a> ((🌕)|(🌗)|(🌑))+"),
+        `, ${rating} out of 10</a>`,
+      );
   }
 
   return desc;

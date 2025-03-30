@@ -12,6 +12,7 @@
     "test": "jest --coverage"
   },
   "dependencies": {
+    "@azure-rest/ai-translation-text": "^1.0.1",
     "@mdx-js/loader": "^3.1.0",
     "@mdx-js/react": "^3.1.0",
     "@next/bundle-analyzer": "^15.1.6",
