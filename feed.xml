@@ -4,7 +4,7 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 31 Mar 2025 21:05:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Mar 2025 23:04:49 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2025]]></copyright>
         <item>
@@ -162,13 +162,6 @@
             <pubDate>Tue, 18 Mar 2025 00:00:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Started reading]]></title>
-            <description><![CDATA[<p><a href="https://neodb.social/~neodb~/book/3wxZDHmBrYhhMur7pTIP0b" rel="nofollow">Memórias Póstumas de Brás Cubas, 8 out of 10</a>  <br>So cleverly arranged. Truly a landmark in the history of literature.<br></p>]]></description>
-            <link>https://neodb.social/@villasv/posts/424542261480669104/</link>
-            <guid isPermaLink="true">https://neodb.social/@villasv/posts/424542261480669104/</guid>
-            <pubDate>Mon, 17 Mar 2025 19:19:22 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Comment]]></title>
             <description><![CDATA[<p>Every day reading <a href="https://mastodon.social/tags/CanPoli" class="mention hashtag" rel="tag">#<span>CanPoli</span></a> and <a href="https://mastodon.social/tags/USPol" class="mention hashtag" rel="tag">#<span>USPol</span></a> news starts an exercise of trying to make sense of the unreasonable.</p><p>Is the strategy to dissolve the conspiratorial fame of conservatives by behaving so randomly dangerous that everyone else gets used to look for &quot;dark money&quot; and &quot;cabal of elites&quot; to process this madness?</p><p>I&#39;m already crafting meta-conspiracies.</p>]]></description>
             <link>https://mastodon.social/@villasbc/114106072823294932</link>
@@ -302,6 +295,13 @@
             <link>https://neodb.social/@villasv/posts/403672903191105000/</link>
             <guid isPermaLink="true">https://neodb.social/@villasv/posts/403672903191105000/</guid>
             <pubDate>Sun, 19 Jan 2025 05:12:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Finished watching]]></title>
+            <description><![CDATA[<p><a href="https://neodb.social/~neodb~/tv/season/1w1lMpMeBGQmbqiPKYmVXM" rel="nofollow">Severance Season 1, 10 out of 10</a>  <br>Superb, definitely one of the greatest series of the year. The writing is great and the directing is amazing. The story is just so well timed, the corporate world has never felt so bleak and COVID-19 along with the approaching &quot;return to office&quot; mandates cemented the perfect stage. It starts a bit slow and perhaps only relatable to those immersed in white-collar culture, but it picks up the pace to become a suspense/thriller of general appeal.<br></p>]]></description>
+            <link>https://neodb.social/@villasv/posts/35864319099144944/</link>
+            <guid isPermaLink="true">https://neodb.social/@villasv/posts/35864319099144944/</guid>
+            <pubDate>Sun, 10 Apr 2022 06:12:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
