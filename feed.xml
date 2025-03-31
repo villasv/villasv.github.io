@@ -4,9 +4,23 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 31 Mar 2025 01:33:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Mar 2025 05:05:48 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2025]]></copyright>
+        <item>
+            <title><![CDATA[Finished watching]]></title>
+            <description><![CDATA[<p><a href="https://neodb.social/~neodb~/tv/season/6d3XZOiiiuuiHERDMSrBJh" rel="nofollow">Disclaimer Season 1, 8 out of 10</a>  <br>Disclaimer: from beginning to end, uncomfortable and disgusting to watch. I suspected that it was intentional, and yet the direction and its conclusion still had in store a final punch to my stomach. There&#x27;s so much to think about, to re-evaluate. Overall masterful storytelling, but I don&#x27;t know to whom I&#x27;d recommend this.<br></p>]]></description>
+            <link>https://neodb.social/@villasv/posts/429376874428618256/</link>
+            <guid isPermaLink="true">https://neodb.social/@villasv/posts/429376874428618256/</guid>
+            <pubDate>Mon, 31 Mar 2025 03:30:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Comment]]></title>
+            <description><![CDATA[<p>Am I the only one watching <a href="https://mastodon.social/tags/Junos" class="mention hashtag" rel="tag">#<span>Junos</span></a> via CBC Gem finding the audio a bit weird? It’s like a few channels are muted</p>]]></description>
+            <link>https://mastodon.social/@villasbc/114254580736322147</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/114254580736322147</guid>
+            <pubDate>Mon, 31 Mar 2025 02:02:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Wants to read]]></title>
             <description><![CDATA[<p><a href="https://neodb.social/~neodb~/book/7Ki87Ov9Z82ypEPM0XWPRf" rel="nofollow">In the Realm of Hungry Ghosts</a> </p><p></p>]]></description>
@@ -156,20 +170,6 @@
         </item>
         <item>
             <title><![CDATA[Comment]]></title>
-            <description><![CDATA[<p>created collection <a href="https://neodb.social/collection/6lgHPcqpU1KH2UkxwNcIQO" rel="nofollow">Brazilian Literature</a><br> Books sorted by publication year. Curation based on notoriety and a small influence of personal taste. <br></p>]]></description>
-            <link>https://neodb.social/@villasv/posts/423794380678207096/</link>
-            <guid isPermaLink="true">https://neodb.social/@villasv/posts/423794380678207096/</guid>
-            <pubDate>Sat, 15 Mar 2025 17:47:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Wants to read]]></title>
-            <description><![CDATA[<p><a href="https://neodb.social/~neodb~/book/3wxZDHmBrYhhMur7pTIP0b" rel="nofollow">Memórias Póstumas de Brás Cubas</a> </p><p></p>]]></description>
-            <link>https://neodb.social/@villasv/posts/423794258230422992/</link>
-            <guid isPermaLink="true">https://neodb.social/@villasv/posts/423794258230422992/</guid>
-            <pubDate>Sat, 15 Mar 2025 17:47:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Comment]]></title>
             <description><![CDATA[<p>Every day reading <a href="https://mastodon.social/tags/CanPoli" class="mention hashtag" rel="tag">#<span>CanPoli</span></a> and <a href="https://mastodon.social/tags/USPol" class="mention hashtag" rel="tag">#<span>USPol</span></a> news starts an exercise of trying to make sense of the unreasonable.</p><p>Is the strategy to dissolve the conspiratorial fame of conservatives by behaving so randomly dangerous that everyone else gets used to look for &quot;dark money&quot; and &quot;cabal of elites&quot; to process this madness?</p><p>I&#39;m already crafting meta-conspiracies.</p>]]></description>
             <link>https://mastodon.social/@villasbc/114106072823294932</link>
             <guid isPermaLink="true">https://mastodon.social/@villasbc/114106072823294932</guid>
@@ -281,13 +281,6 @@
             <pubDate>Tue, 11 Feb 2025 23:34:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Comment]]></title>
-            <description><![CDATA[<p>My Hummingbird <a href="https://mastodon.social/tags/portafilter" class="mention hashtag" rel="tag">#<span>portafilter</span></a> by Canal arrived, and once again I have been duped by an <a href="https://mastodon.social/tags/espresso" class="mention hashtag" rel="tag">#<span>espresso</span></a> <a href="https://mastodon.social/tags/coffee" class="mention hashtag" rel="tag">#<span>coffee</span></a> product <a href="https://mastodon.social/tags/Kickstarter" class="mention hashtag" rel="tag">#<span>Kickstarter</span></a> that simply doesn&#39;t deliver. It&#39;s not entirely garbage, but it&#39;s not what I signed up for. Very disappointing.</p><p>How many more of these am I going to fall for before understanding that pre-ordering things is unnecessary risk... is a mystery that eludes my selfawarewolf.</p>]]></description>
-            <link>https://mastodon.social/@villasbc/113987756788131659</link>
-            <guid isPermaLink="true">https://mastodon.social/@villasbc/113987756788131659</guid>
-            <pubDate>Tue, 11 Feb 2025 23:05:36 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Media]]></title>
             <description><![CDATA[Happy as if it&#039;s sunny in Whistler]]></description>
             <link>https://pxlfd.ca/p/victor/793017654934515063</link>
@@ -302,6 +295,13 @@
             <link>https://pxlfd.ca/p/victor/790660117523971543</link>
             <guid isPermaLink="true">https://pxlfd.ca/p/victor/790660117523971543</guid>
             <pubDate>Thu, 30 Jan 2025 19:21:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Started watching]]></title>
+            <description><![CDATA[<p><a href="https://neodb.social/~neodb~/tv/season/6d3XZOiiiuuiHERDMSrBJh" rel="nofollow">Disclaimer Season 1</a> <br>Recommended by a few friends. Interesting premise and trailer. Halfway through, I can definitely see that the directors succeeded in making viewers uncomfortable watching the emotional violence of young Catherine over Jonathan, but I think the same could be achieved with less explicit sex screening... oof I&#x27;m not used to this<br></p>]]></description>
+            <link>https://neodb.social/@villasv/posts/403672903191105000/</link>
+            <guid isPermaLink="true">https://neodb.social/@villasv/posts/403672903191105000/</guid>
+            <pubDate>Sun, 19 Jan 2025 05:12:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
