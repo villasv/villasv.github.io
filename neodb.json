@@ -4213,7 +4213,7 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2025/01/17/c3980bb4-8335-4f47-a839-3ce094856a54.jpg",
           "rating": 6.7,
-          "rating_count": 328,
+          "rating_count": 329,
           "rating_distribution": [
             4,
             9,
@@ -4222,26 +4222,26 @@
             13
           ],
           "tags": [
+            "2020s",
             "2024",
             "cult",
+            "m",
             "人性",
+            "人生",
             "剧情",
             "女性",
             "恐怖",
             "惊悚",
+            "文艺",
+            "欧洲",
             "法国",
-            "猎奇",
             "电影",
-            "社會",
             "科幻",
             "美国",
             "美国电影",
             "美國",
             "英国",
-            "英國",
-            "血浆",
-            "電影",
-            "驚悚"
+            "血浆"
           ],
           "brief": "曾经红极一时的好莱坞巨星伊丽莎白（黛米·摩尔 Demi Moore 饰），无法面对自己老去的容颜，决定使用一种名为“完美物质”的黑市药物，透过注射药物的细胞复制物质，创造出更年轻、更好的另一个自己（玛格丽特·库里 Margaret Qualley 饰）。“年华老去”及“年轻貌美”的自己该如何共存？会是更强烈的容貌焦虑大战？还是要不断迎合大众对“美”的期待？一场自我身体主导权的争夺战即将上演……",
           "id": "https://neodb.social/movie/3n9buL3yaSCQgfBDFYTL2m",
@@ -5261,14 +5261,14 @@
             }
           ],
           "cover_image_url": "https://neodb.social/m/item/movie/2024/10/28/13dfbfcd-c252-4f40-96da-aabdade67aee.jpg",
-          "rating": 7.3,
-          "rating_count": 80,
+          "rating": 7.4,
+          "rating_count": 81,
           "rating_distribution": [
             1,
             0,
             23,
-            61,
-            13
+            60,
+            14
           ],
           "tags": [
             "2024",
@@ -5417,12 +5417,12 @@
           ],
           "cover_image_url": "https://neodb.social/m/movie/2021/09/187eb881e4-52f0-4e99-a464-d3f3dc991684.jpg",
           "rating": 6.6,
-          "rating_count": 63,
+          "rating_count": 64,
           "rating_distribution": [
             3,
             4,
-            53,
-            33,
+            54,
+            32,
             4
           ],
           "tags": [
