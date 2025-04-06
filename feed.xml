@@ -4,9 +4,16 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 06 Apr 2025 19:04:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Apr 2025 21:04:40 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2025]]></copyright>
+        <item>
+            <title><![CDATA[Wants to watch]]></title>
+            <description><![CDATA[<p><a href="https://neodb.social/~neodb~/movie/5sJweifgS7DShpAyyryUdD" rel="nofollow">Novelette is Trying</a> <br>Small production set in Vancouver. Black &amp; queer lead. Curious to give it a try.<br></p>]]></description>
+            <link>https://neodb.social/@villasv/posts/431815364734159000/</link>
+            <guid isPermaLink="true">https://neodb.social/@villasv/posts/431815364734159000/</guid>
+            <pubDate>Sun, 06 Apr 2025 21:00:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Finished watching]]></title>
             <description><![CDATA[<p><a href="https://neodb.social/~neodb~/tv/season/6d3XZOiiiuuiHERDMSrBJh" rel="nofollow">Disclaimer Season 1, 8 out of 10</a>  <br>Disclaimer: from beginning to end, uncomfortable and disgusting to watch. I suspected that it was intentional, and yet the direction and its conclusion still had in store a final punch to my stomach. There&#x27;s so much to think about, to re-evaluate. Overall masterful storytelling, but I don&#x27;t know to whom I&#x27;d recommend this.<br></p>]]></description>
@@ -146,13 +153,6 @@
             <link>https://neodb.social/@villasv/posts/425008373909575592/</link>
             <guid isPermaLink="true">https://neodb.social/@villasv/posts/425008373909575592/</guid>
             <pubDate>Wed, 19 Mar 2025 02:11:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Finished watching]]></title>
-            <description><![CDATA[<p><a href="https://neodb.social/~neodb~/movie/0R6GlO5GjtgVlx5xdNGsuk" rel="nofollow">Conclave, 7 out of 10</a>  <br>Some segments of this movie are truly great, specially some dialogues that contrast the nature of &quot;the work&quot; with the realism of politics, like when a Cardinal tells the other to just admit what pontifical name they imagined if they ever became the pope, and how this ambition unfolds. The portrayal of factions, of opposing ideals common to any big organization, the intrigue; several interesting details relevant to the plot. I can&#x27;t say I love the ending, though. The multi-layered plot twist felt a bit too farfetched. There was not enough development to build up the plausibility of that outcome.<br></p>]]></description>
-            <link>https://neodb.social/@villasv/posts/425005552730158872/</link>
-            <guid isPermaLink="true">https://neodb.social/@villasv/posts/425005552730158872/</guid>
-            <pubDate>Wed, 19 Mar 2025 02:00:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Comment]]></title>
