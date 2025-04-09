@@ -3569,12 +3569,12 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/06/23/566914c0-b514-4cc7-bea4-f5d90945a704.webp",
           "rating": 8.3,
-          "rating_count": 286,
+          "rating_count": 288,
           "rating_distribution": [
             0,
             0,
             12,
-            43,
+            42,
             44
           ],
           "tags": [
@@ -3585,19 +3585,19 @@
             "动物",
             "动画",
             "动画电影",
-            "动画长片",
-            "可愛",
-            "哲理",
-            "地区 法国",
             "奇幻",
-            "年代 2020s",
             "拉脱维亚",
-            "末世",
-            "欧洲动画",
+            "欧洲电影",
+            "歐美",
+            "比利时",
             "法国",
+            "法国电影",
+            "独立",
             "猫",
             "电影",
-            "金兹 兹巴洛迪斯"
+            "类型 动画",
+            "线下",
+            "诙谐"
           ],
           "brief": "世界似乎即将毁灭，到处都是人类的遗迹。一只猫的家园被一场大洪水摧毁，它在一艘载满了不同动物的船上找到了避难所。尽管它们之间存在差异，但它必须与它们合作，面临各种未知的挑战。",
           "id": "https://neodb.social/movie/1UKRbng4exUWF9VlZlsxR4",
@@ -3766,13 +3766,13 @@
             }
           ],
           "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2025/02/19/4e793c4c-a916-4de2-aa5e-55ccc4652c01.jpg",
-          "rating": 6.1,
-          "rating_count": 51,
+          "rating": 6.2,
+          "rating_count": 52,
           "rating_distribution": [
             3,
             11,
-            47,
-            29,
+            46,
+            30,
             7
           ],
           "tags": [
@@ -5312,7 +5312,7 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/movie/2024/10/28/13dfbfcd-c252-4f40-96da-aabdade67aee.jpg",
           "rating": 7.4,
-          "rating_count": 85,
+          "rating_count": 86,
           "rating_distribution": [
             1,
             0,
