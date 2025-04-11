@@ -3413,7 +3413,6 @@
           "tags": [
             "2020s",
             "2024",
-            "ba",
             "film",
             "flight",
             "jesse_eisenberg",
@@ -3421,6 +3420,7 @@
             "人生",
             "兄弟",
             "剧情",
+            "学院奖",
             "家庭",
             "杰西 艾森伯格",
             "波兰",
@@ -3614,13 +3614,13 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/06/23/566914c0-b514-4cc7-bea4-f5d90945a704.webp",
           "rating": 8.3,
-          "rating_count": 290,
+          "rating_count": 291,
           "rating_distribution": [
             0,
             0,
             12,
             42,
-            44
+            43
           ],
           "tags": [
             "2020s",
@@ -3632,6 +3632,7 @@
             "动画电影",
             "奇幻",
             "拉脱维亚",
+            "欧洲动画",
             "欧洲电影",
             "歐美",
             "比利时",
@@ -3641,8 +3642,7 @@
             "猫",
             "电影",
             "类型 动画",
-            "线下",
-            "诙谐"
+            "线下"
           ],
           "brief": "世界似乎即将毁灭，到处都是人类的遗迹。一只猫的家园被一场大洪水摧毁，它在一艘载满了不同动物的船上找到了避难所。尽管它们之间存在差异，但它必须与它们合作，面临各种未知的挑战。",
           "id": "https://neodb.social/movie/1UKRbng4exUWF9VlZlsxR4",
@@ -4452,10 +4452,10 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/09/13/a30bf2f3-4f79-43ef-b22f-58ebc3fd8aae.jpg",
           "rating": 6.4,
-          "rating_count": 250,
+          "rating_count": 251,
           "rating_distribution": [
             3,
-            10,
+            11,
             39,
             39,
             6
@@ -4463,7 +4463,6 @@
           "tags": [
             "2020s",
             "2024",
-            "俄语",
             "剧情",
             "喜剧",
             "奥斯卡",
@@ -4480,7 +4479,8 @@
             "纽约",
             "美剧",
             "美国",
-            "美国电影"
+            "美国电影",
+            "美國"
           ],
           "brief": "阿诺拉是布鲁克林的性工作者，她邂逅了一个商界寡头的儿子并在冲动之下嫁给了他，这让她以为自己像灰姑娘一样终于遇到自己的王子。然而当结婚消息传到了俄罗斯，男方父母来到纽约取消婚姻，破灭了的阿诺拉的童话。",
           "id": "https://neodb.social/movie/7hfF7d0aFMaqHpFjUpq4zR",
@@ -5357,23 +5357,24 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/movie/2024/10/28/13dfbfcd-c252-4f40-96da-aabdade67aee.jpg",
           "rating": 7.4,
-          "rating_count": 87,
+          "rating_count": 88,
           "rating_distribution": [
             1,
             0,
             21,
-            59,
+            60,
             17
           ],
           "tags": [
+            "2020s",
             "2024",
             "6",
-            "edward_berger",
-            "人性",
-            "剧情",
             "劇情",
             "喜剧",
+            "学院奖",
             "宗教",
+            "心理",
+            "悬疑",
             "摄影",
             "攝影",
             "文學",
@@ -6532,7 +6533,7 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/movie/2023/05/31/0904d82a-cd0e-4526-91cb-0c7d98d66d94.jpg",
           "rating": 7.8,
-          "rating_count": 322,
+          "rating_count": 323,
           "rating_distribution": [
             0,
             2,
@@ -6541,16 +6542,17 @@
             27
           ],
           "tags": [
+            "2020s",
             "2023",
             "wimwenders",
             "剧情",
-            "导演 维姆 文德斯",
             "年代 2020s",
             "役所广司",
             "德国",
             "德国电影",
             "德國",
             "慢生活",
+            "戛纳",
             "文化",
             "文艺",
             "文艺片",
