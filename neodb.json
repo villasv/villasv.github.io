@@ -3669,13 +3669,13 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/06/23/566914c0-b514-4cc7-bea4-f5d90945a704.webp",
           "rating": 8.3,
-          "rating_count": 291,
+          "rating_count": 292,
           "rating_distribution": [
             0,
             0,
             12,
             42,
-            43
+            44
           ],
           "tags": [
             "2020s",
@@ -3686,7 +3686,9 @@
             "动画",
             "动画电影",
             "奇幻",
+            "年代 2020s",
             "拉脱维亚",
+            "末世",
             "欧洲动画",
             "欧洲电影",
             "歐美",
@@ -3695,9 +3697,7 @@
             "法国电影",
             "独立",
             "猫",
-            "电影",
-            "类型 动画",
-            "线下"
+            "电影"
           ],
           "brief": "世界似乎即将毁灭，到处都是人类的遗迹。一只猫的家园被一场大洪水摧毁，它在一艘载满了不同动物的船上找到了避难所。尽管它们之间存在差异，但它必须与它们合作，面临各种未知的挑战。",
           "id": "https://neodb.social/movie/1UKRbng4exUWF9VlZlsxR4",
@@ -4507,7 +4507,7 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/09/13/a30bf2f3-4f79-43ef-b22f-58ebc3fd8aae.jpg",
           "rating": 6.4,
-          "rating_count": 252,
+          "rating_count": 253,
           "rating_distribution": [
             3,
             11,
