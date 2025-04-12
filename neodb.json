@@ -4,6 +4,60 @@
       {
         "shelf_type": "wishlist",
         "visibility": 0,
+        "post_id": "433661008182804608",
+        "item": {
+          "type": "Edition",
+          "title": "East Side Story: Growing Up at the PNE",
+          "description": "A sly, sentimental, and wickedly funny memoir about growing up at the local fair. The PNE (Pacific National Exhibition) is a Vancouver tradition, an annual fair started in 1910 that is famous for its farm animals, dog trick shows, and amusement park highlighted by Canada’s oldest wooden roller coaster still in existence. In 1980, when Nick Marino was twelve years old, he started working at the PNE and quickly learned that there was more to the fair than winning stuffed animals and eating mini donuts. He had to contend with belligerent bosses, unhinged carnies, and teenage hustlers. In this funny, charming memoir of fair life, Marino revisits the “wild west” of the city’s East Side, home to the PNE, sharing stories from his six summers working at the fair, where arcade bouncers went on midnight roller coaster rides, riots broke out at concerts, and local kids helped themselves to everything. With beguiling and at times poignant humor, he pulls back the curtain on the culture of carnivals and fairs, an unpredictable and eternally young world of players, scammers, and dreamers. East Side Story is the latest addition to the Robin’s Egg Books series, which features some of the freshest, smartest, and above all, funniest writing on a variety of culturally relevant subjects. Titles in the imprint are curated and edited by comedian, playwright, and author Charles Demers.",
+          "localized_title": [
+            {
+              "lang": "en",
+              "text": "East Side Story: Growing Up at the PNE"
+            }
+          ],
+          "localized_description": [
+            {
+              "lang": "en",
+              "text": "A sly, sentimental, and wickedly funny memoir about growing up at the local fair. The PNE (Pacific National Exhibition) is a Vancouver tradition, an annual fair started in 1910 that is famous for its farm animals, dog trick shows, and amusement park highlighted by Canada’s oldest wooden roller coaster still in existence. In 1980, when Nick Marino was twelve years old, he started working at the PNE and quickly learned that there was more to the fair than winning stuffed animals and eating mini donuts. He had to contend with belligerent bosses, unhinged carnies, and teenage hustlers. In this funny, charming memoir of fair life, Marino revisits the “wild west” of the city’s East Side, home to the PNE, sharing stories from his six summers working at the fair, where arcade bouncers went on midnight roller coaster rides, riots broke out at concerts, and local kids helped themselves to everything. With beguiling and at times poignant humor, he pulls back the curtain on the culture of carnivals and fairs, an unpredictable and eternally young world of players, scammers, and dreamers. East Side Story is the latest addition to the Robin’s Egg Books series, which features some of the freshest, smartest, and above all, funniest writing on a variety of culturally relevant subjects. Titles in the imprint are curated and edited by comedian, playwright, and author Charles Demers."
+            }
+          ],
+          "cover_image_url": "https://neodb.social/m/item/goodreads/2025/04/11/0a0026c2-fc01-4524-bb18-0bc8cfe589d0.jpg",
+          "rating": null,
+          "rating_count": 0,
+          "rating_distribution": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "tags": [
+            "vancouverbc"
+          ],
+          "brief": "A sly, sentimental, and wickedly funny memoir about growing up at the local fair. The PNE (Pacific National Exhibition) is a Vancouver tradition, an annual fair started in 1910 that is famous for its farm animals, dog trick shows, and amusement park highlighted by Canada’s oldest wooden roller coaster still in existence. In 1980, when Nick Marino was twelve years old, he started working at the PNE and quickly learned that there was more to the fair than winning stuffed animals and eating mini donuts. He had to contend with belligerent bosses, unhinged carnies, and teenage hustlers. In this funny, charming memoir of fair life, Marino revisits the “wild west” of the city’s East Side, home to the PNE, sharing stories from his six summers working at the fair, where arcade bouncers went on midnight roller coaster rides, riots broke out at concerts, and local kids helped themselves to everything. With beguiling and at times poignant humor, he pulls back the curtain on the culture of carnivals and fairs, an unpredictable and eternally young world of players, scammers, and dreamers. East Side Story is the latest addition to the Robin’s Egg Books series, which features some of the freshest, smartest, and above all, funniest writing on a variety of culturally relevant subjects. Titles in the imprint are curated and edited by comedian, playwright, and author Charles Demers.",
+          "id": "https://neodb.social/book/5TDp4AVF8aaeFXtU74bEXu",
+          "uuid": "5TDp4AVF8aaeFXtU74bEXu",
+          "url": "/book/5TDp4AVF8aaeFXtU74bEXu",
+          "api_url": "/api/book/5TDp4AVF8aaeFXtU74bEXu",
+          "category": "book",
+          "parent_uuid": null,
+          "display_title": "East Side Story: Growing Up at the PNE",
+          "external_resources": [
+            {
+              "url": "https://www.goodreads.com/book/show/123827892"
+            }
+          ]
+        },
+        "created_time": "2025-04-11T23:14:01.335Z",
+        "comment_text": null,
+        "rating_grade": null,
+        "tags": [
+          "VancouverBC"
+        ]
+      },
+      {
+        "shelf_type": "wishlist",
+        "visibility": 0,
         "post_id": "433374428230324752",
         "item": {
           "type": "Edition",
@@ -235,7 +289,7 @@
             0
           ],
           "tags": [
-            "vancouver"
+            "vancouverbc"
           ],
           "brief": "A gritty, private-eye series begins on the streets of Vancouver, from an award-winning new crime writer. \n \n Dave Wakeland isn't the usual PI. A 29-year-old ex-cop, he makes a habit of bad ideas. Chelsea Loam falls squarely into that category. Chelsea disappeared eleven years ago, leaving a trail leading towards career criminals and powerful men. Taking her case quickly starts to look like a good way to get killed. \n \n Whatever ghosts drive Wakeland, they drive him inexorably, addictively toward danger and the allure of an unsolvable mystery... \n \n In this fresh and fast-paced noir thriller, echoing the darkest troubles of our age, a witty and badly bruised new face takes his place in the ranks of the very finest characters in crime fiction",
           "id": "https://neodb.social/book/3CiCqcpq1cj4JEObsSxCfz",
@@ -255,7 +309,7 @@
         "comment_text": "Part 1 of the Wakeland series, which is set in Vancouver",
         "rating_grade": null,
         "tags": [
-          "Vancouver"
+          "VancouverBC"
         ]
       },
       {

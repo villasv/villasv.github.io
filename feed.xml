@@ -4,9 +4,16 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 11 Apr 2025 23:04:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Apr 2025 01:32:29 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2025]]></copyright>
+        <item>
+            <title><![CDATA[Wants to read]]></title>
+            <description><![CDATA[<p><a href="https://neodb.social/~neodb~/book/5TDp4AVF8aaeFXtU74bEXu" rel="nofollow">East Side Story: Growing Up at the PNE</a> </p><p></p>]]></description>
+            <link>https://neodb.social/@villasv/posts/433661008182804608/</link>
+            <guid isPermaLink="true">https://neodb.social/@villasv/posts/433661008182804608/</guid>
+            <pubDate>Fri, 11 Apr 2025 23:14:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Wants to read]]></title>
             <description><![CDATA[<p><a href="https://neodb.social/~neodb~/book/4wqldyg8FaIM0hMfryxoFS" rel="nofollow">Green</a> </p><p></p>]]></description>
@@ -90,13 +97,6 @@
             <link>https://neodb.social/@villasv/posts/427764773662166448/</link>
             <guid isPermaLink="true">https://neodb.social/@villasv/posts/427764773662166448/</guid>
             <pubDate>Wed, 26 Mar 2025 16:44:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Wants to read]]></title>
-            <description><![CDATA[<p><a href="https://neodb.social/~neodb~/book/0WFVCI9kdR9gjerrw69XYY" rel="nofollow">Reintegrating Severance: Interdisciplinary Insights on Apple TV’s Dystopian Thriller</a> </p><p></p>]]></description>
-            <link>https://neodb.social/@villasv/posts/427764416027559912/</link>
-            <guid isPermaLink="true">https://neodb.social/@villasv/posts/427764416027559912/</guid>
-            <pubDate>Wed, 26 Mar 2025 16:43:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Comment]]></title>
