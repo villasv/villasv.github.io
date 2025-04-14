@@ -3669,13 +3669,13 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/06/23/566914c0-b514-4cc7-bea4-f5d90945a704.webp",
           "rating": 8.3,
-          "rating_count": 297,
+          "rating_count": 298,
           "rating_distribution": [
             0,
             0,
             12,
             43,
-            44
+            43
           ],
           "tags": [
             "2020s",
@@ -3686,7 +3686,6 @@
             "动画",
             "动画电影",
             "奇幻",
-            "年代 2020s",
             "拉脱维亚",
             "末世",
             "欧洲动画",
@@ -3697,7 +3696,8 @@
             "法国电影",
             "独立",
             "猫",
-            "电影"
+            "电影",
+            "类型 动画"
           ],
           "brief": "世界似乎即将毁灭，到处都是人类的遗迹。一只猫的家园被一场大洪水摧毁，它在一艘载满了不同动物的船上找到了避难所。尽管它们之间存在差异，但它必须与它们合作，面临各种未知的挑战。",
           "id": "https://neodb.social/movie/1UKRbng4exUWF9VlZlsxR4",
@@ -3867,12 +3867,12 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2025/02/19/4e793c4c-a916-4de2-aa5e-55ccc4652c01.jpg",
           "rating": 6.2,
-          "rating_count": 53,
+          "rating_count": 54,
           "rating_distribution": [
             3,
             11,
-            47,
-            30,
+            46,
+            31,
             7
           ],
           "tags": [
@@ -4363,11 +4363,11 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2025/01/17/c3980bb4-8335-4f47-a839-3ce094856a54.jpg",
           "rating": 6.7,
-          "rating_count": 337,
+          "rating_count": 338,
           "rating_distribution": [
             4,
             9,
-            27,
+            26,
             46,
             13
           ],
@@ -4507,7 +4507,7 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/09/13/a30bf2f3-4f79-43ef-b22f-58ebc3fd8aae.jpg",
           "rating": 6.4,
-          "rating_count": 255,
+          "rating_count": 256,
           "rating_distribution": [
             3,
             10,
@@ -6588,7 +6588,7 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/movie/2023/05/31/0904d82a-cd0e-4526-91cb-0c7d98d66d94.jpg",
           "rating": 7.8,
-          "rating_count": 324,
+          "rating_count": 325,
           "rating_distribution": [
             0,
             2,
