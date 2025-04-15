@@ -5412,7 +5412,7 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/movie/2024/10/28/13dfbfcd-c252-4f40-96da-aabdade67aee.jpg",
           "rating": 7.5,
-          "rating_count": 91,
+          "rating_count": 92,
           "rating_distribution": [
             1,
             0,
@@ -7171,11 +7171,11 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/tmdb_tvseason/2025/03/02/6d3b4f7f-5d4a-4704-86ae-cfbb5ea3effd.jpg",
           "rating": 7.9,
-          "rating_count": 136,
+          "rating_count": 137,
           "rating_distribution": [
             0,
             2,
-            12,
+            13,
             50,
             33
           ],
