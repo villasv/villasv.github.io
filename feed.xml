@@ -4,9 +4,16 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 15 Apr 2025 19:04:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Apr 2025 21:04:54 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2025]]></copyright>
+        <item>
+            <title><![CDATA[Comment]]></title>
+            <description><![CDATA[<p>This <a href="https://mastodon.social/tags/ChatGPT" class="mention hashtag" rel="tag">#<span>ChatGPT</span></a> tooltip: &quot;Think before responding&quot;.</p><p>This is:<br />- not descriptive what the feature really does;<br />- misleading because why would I ever want a thoughtless response;<br />- not accurate because &quot;think&quot; is a vague and amorphous concept here;</p><p>Was the goal here to just have a tooltip, whatever it says? Or is this a joke on users getting less used to think critically for themselves? Guess I&#39;ll have to ask that - with &#39;Reason&#39; turned on.</p>]]></description>
+            <link>https://mastodon.social/@villasbc/114343985714664236</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/114343985714664236</guid>
+            <pubDate>Tue, 15 Apr 2025 20:59:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Finished reading]]></title>
             <description><![CDATA[<p><a href="https://neodb.social/~neodb~/book/0pY9tyYHvu9nv2DOmpzkuc" rel="nofollow">Overdose, 9 out of 10</a>  <br>Honest, well research and comprehensive. This book is almost the perfect material to get introduced to an evidence-based approach to &quot;the war on drugs&quot;. That it was written by someone who was entirely embedded in conservative politics and grows a devout christian adds to the appeal to its universality.</p><p>The one flaw of the book, if it can even be called a fault instead of perhaps a missed opportunity, is the little discussion of the infertile grounds to sow the thesis, because this is one of the most important things we need right now to move forward with solutions. The current political climate is that of conservative leaders calling &quot;empathy&quot; weakness. A good chunk of the book is dedicated to dismantling the stigma, but this bias is a foundational character aspect of at least a third of us: rugged individualism cannot be argued out of someone&#x27;s core values and principles. How do we even get people to read this book cover to cover without triggering &quot;culture war&quot; reflexes of dismissal? I have no idea, and I guess it&#x27;s a different type of book that needs to address this.<br></p>]]></description>
@@ -230,13 +237,6 @@
             <link>https://mastodon.social/@villasbc/113991866320635459</link>
             <guid isPermaLink="true">https://mastodon.social/@villasbc/113991866320635459</guid>
             <pubDate>Wed, 12 Feb 2025 16:30:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Comment]]></title>
-            <description><![CDATA[<p>A little bit of trumpology doesn’t really calm my nerves but at least things that were incomprehensible horrors are now merely horrors.</p><p><a href="https://mastodon.social/tags/CanPoli" class="mention hashtag" rel="tag">#<span>CanPoli</span></a> <a href="https://mastodon.social/tags/USPol" class="mention hashtag" rel="tag">#<span>USPol</span></a> <a href="https://mastodon.online/@justinling/113986221558762208" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">mastodon.online/@justinling/11</span><span class="invisible">3986221558762208</span></a></p>]]></description>
-            <link>https://mastodon.social/@villasbc/113987870635614706</link>
-            <guid isPermaLink="true">https://mastodon.social/@villasbc/113987870635614706</guid>
-            <pubDate>Tue, 11 Feb 2025 23:34:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Finished watching]]></title>
