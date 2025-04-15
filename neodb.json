@@ -3669,7 +3669,7 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/06/23/566914c0-b514-4cc7-bea4-f5d90945a704.webp",
           "rating": 8.3,
-          "rating_count": 298,
+          "rating_count": 299,
           "rating_distribution": [
             0,
             0,
@@ -3686,6 +3686,8 @@
             "动画",
             "动画电影",
             "奇幻",
+            "年代 2020s",
+            "戛纳",
             "拉脱维亚",
             "末世",
             "欧洲动画",
@@ -3694,10 +3696,8 @@
             "比利时",
             "法国",
             "法国电影",
-            "独立",
             "猫",
-            "电影",
-            "类型 动画"
+            "电影"
           ],
           "brief": "世界似乎即将毁灭，到处都是人类的遗迹。一只猫的家园被一场大洪水摧毁，它在一艘载满了不同动物的船上找到了避难所。尽管它们之间存在差异，但它必须与它们合作，面临各种未知的挑战。",
           "id": "https://neodb.social/movie/1UKRbng4exUWF9VlZlsxR4",
@@ -5865,7 +5865,7 @@
           ],
           "cover_image_url": "https://neodb.social/m/movie/2021/09/155b0f163b-6c45-41a7-ae52-d2efc29bcaae.jpg",
           "rating": 6.8,
-          "rating_count": 431,
+          "rating_count": 432,
           "rating_distribution": [
             0,
             7,
@@ -6348,7 +6348,7 @@
           ],
           "cover_image_url": "https://neodb.social/m/movie/2021/09/15559ab649-2df5-4547-b4ff-47ed5f2e158b.jpg",
           "rating": 7.8,
-          "rating_count": 125,
+          "rating_count": 126,
           "rating_distribution": [
             0,
             3,
@@ -7171,12 +7171,12 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/tmdb_tvseason/2025/03/02/6d3b4f7f-5d4a-4704-86ae-cfbb5ea3effd.jpg",
           "rating": 7.9,
-          "rating_count": 135,
+          "rating_count": 136,
           "rating_distribution": [
             0,
             2,
             12,
-            51,
+            50,
             33
           ],
           "tags": [
@@ -7186,9 +7186,7 @@
             "亚当 斯科特",
             "人生切割术",
             "克里斯托弗 沃肯",
-            "分离",
-            "切割术",
-            "审美",
+            "工作",
             "悬疑",
             "情感",
             "惊悚",
@@ -7197,6 +7195,7 @@
             "电视剧",
             "科幻",
             "美剧",
+            "美劇",
             "美国",
             "讽刺",
             "高科技"
@@ -7802,7 +7801,7 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/tmdb_tvseason/2025/02/28/88a56af7-da63-4de1-adcb-c2722d1588ac.jpg",
           "rating": 8.9,
-          "rating_count": 724,
+          "rating_count": 725,
           "rating_distribution": [
             0,
             0,
