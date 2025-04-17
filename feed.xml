@@ -4,9 +4,16 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 17 Apr 2025 13:11:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Apr 2025 15:05:14 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2025]]></copyright>
+        <item>
+            <title><![CDATA[Wants to read]]></title>
+            <description><![CDATA[<p><a href="https://neodb.social/~neodb~/book/1pufDs3I5Hm1xpfa0hAFfh" rel="nofollow">Crackdown: Surviving and Resisting the War on Drugs</a> </p><p></p>]]></description>
+            <link>https://neodb.social/@villasv/posts/435702376918535440/</link>
+            <guid isPermaLink="true">https://neodb.social/@villasv/posts/435702376918535440/</guid>
+            <pubDate>Thu, 17 Apr 2025 14:25:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Wants to watch]]></title>
             <description><![CDATA[<p><a href="https://neodb.social/~neodb~/tv/season/50lGcqlFf9Et0ri63wOueT" rel="nofollow">The Handmaid&#x27;s Tale Season 6</a> </p><p></p>]]></description>
@@ -104,13 +111,6 @@
             <link>https://mastodon.social/@villasbc/114254580736322147</link>
             <guid isPermaLink="true">https://mastodon.social/@villasbc/114254580736322147</guid>
             <pubDate>Mon, 31 Mar 2025 02:02:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Wants to read]]></title>
-            <description><![CDATA[<p><a href="https://neodb.social/~neodb~/book/7Ki87Ov9Z82ypEPM0XWPRf" rel="nofollow">In the Realm of Hungry Ghosts</a> </p><p></p>]]></description>
-            <link>https://neodb.social/@villasv/posts/428926246698206488/</link>
-            <guid isPermaLink="true">https://neodb.social/@villasv/posts/428926246698206488/</guid>
-            <pubDate>Sat, 29 Mar 2025 21:39:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Comment]]></title>
