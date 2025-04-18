@@ -3563,12 +3563,12 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2025/01/17/c9fb75b7-fe14-462c-a95e-513257203176.jpg",
           "rating": 7.3,
-          "rating_count": 86,
+          "rating_count": 87,
           "rating_distribution": [
             0,
             1,
-            29,
-            55,
+            28,
+            56,
             13
           ],
           "tags": [
@@ -4469,7 +4469,7 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2025/01/17/c3980bb4-8335-4f47-a839-3ce094856a54.jpg",
           "rating": 6.7,
-          "rating_count": 340,
+          "rating_count": 341,
           "rating_distribution": [
             4,
             9,
@@ -4613,13 +4613,13 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/09/13/a30bf2f3-4f79-43ef-b22f-58ebc3fd8aae.jpg",
           "rating": 6.4,
-          "rating_count": 260,
+          "rating_count": 261,
           "rating_distribution": [
             3,
             10,
             38,
             40,
-            6
+            7
           ],
           "tags": [
             "2020s",
@@ -5002,14 +5002,14 @@
             }
           ],
           "cover_image_url": "https://neodb.social/m/item/movie/2025/03/09/3e3fa59e-e345-4f24-b75e-1141f82942f6.jpg",
-          "rating": 8.3,
-          "rating_count": 40,
+          "rating": 8.2,
+          "rating_count": 41,
           "rating_distribution": [
             0,
             0,
-            15,
-            45,
-            40
+            14,
+            46,
+            39
           ],
           "tags": [
             "2024",
@@ -7149,6 +7149,22 @@
             {
               "lang": "zh-cn",
               "text": "第 1 季"
+            },
+            {
+              "lang": "en",
+              "text": "Disclaimer"
+            },
+            {
+              "lang": "zh-cn",
+              "text": "索命书(港)"
+            },
+            {
+              "lang": "zh-cn",
+              "text": "免责声明"
+            },
+            {
+              "lang": "en",
+              "text": "Miniseries"
             }
           ],
           "localized_description": [
@@ -7180,7 +7196,7 @@
           "url": "/tv/season/6d3XZOiiiuuiHERDMSrBJh",
           "api_url": "/api/tv/season/6d3XZOiiiuuiHERDMSrBJh",
           "category": "tv",
-          "parent_uuid": "4kNcCM8KeoFEVkcjzMW5iq",
+          "parent_uuid": "3Amn5uRAo2ubtwiC07J3Js",
           "display_title": "免责声明",
           "external_resources": [
             {
