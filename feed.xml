@@ -4,9 +4,16 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 22 Apr 2025 15:05:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Apr 2025 17:04:54 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2025]]></copyright>
+        <item>
+            <title><![CDATA[Comment]]></title>
+            <description><![CDATA[<p><a href="https://mastodon.social/tags/QuadReal" class="mention hashtag" rel="tag">#<span>QuadReal</span></a> received a few awards for their redevelopment of <a href="https://mastodon.social/tags/ThePost" class="mention hashtag" rel="tag">#<span>ThePost</span></a> into a &quot;sustainable&quot; mixed-use office space.</p><p>This week they announced they&#39;re no longer allowing <a href="https://mastodon.social/tags/ebikes" class="mention hashtag" rel="tag">#<span>ebikes</span></a> to be charged inside the building. They built the bike facility with charging stations - a bike facility that smells like sewage by the way, so they don&#39;t trust their own safety measures apparently.</p><p>And this is just going to incentivize a riskier behaviour: charging the battery on your own desk, where the hazard is higher.</p>]]></description>
+            <link>https://mastodon.social/@villasbc/114382633815319840</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/114382633815319840</guid>
+            <pubDate>Tue, 22 Apr 2025 16:48:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Wants to read]]></title>
             <description><![CDATA[<p><a href="https://neodb.social/~neodb~/book/1pufDs3I5Hm1xpfa0hAFfh" rel="nofollow">Crackdown: Surviving and Resisting the War on Drugs</a> </p><p></p>]]></description>
@@ -230,13 +237,6 @@
             <link>https://mastodon.social/@villasbc/113998317621155847</link>
             <guid isPermaLink="true">https://mastodon.social/@villasbc/113998317621155847</guid>
             <pubDate>Thu, 13 Feb 2025 19:51:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Comment]]></title>
-            <description><![CDATA[<p>This is incredible. Super timely. I just watched a <span class="h-card" translate="no"><a href="https://mstdn.social/@fedihost" class="u-url mention">@<span>fedihost</span></a></span> podcast about the challenge of bringing I cities to the fediverse and this kind of grassroots effort is blowing my mind on its effectiveness. <a href="https://socialbc.ca/@chris/113980763976318326" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">socialbc.ca/@chris/11398076397</span><span class="invisible">6318326</span></a></p>]]></description>
-            <link>https://mastodon.social/@villasbc/113997704118472732</link>
-            <guid isPermaLink="true">https://mastodon.social/@villasbc/113997704118472732</guid>
-            <pubDate>Thu, 13 Feb 2025 17:15:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Finished watching]]></title>
