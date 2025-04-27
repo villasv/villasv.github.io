@@ -4,9 +4,16 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 27 Apr 2025 17:04:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Apr 2025 19:04:30 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2025]]></copyright>
+        <item>
+            <title><![CDATA[Comment]]></title>
+            <description><![CDATA[<p>Not every truck but always an truck</p>]]></description>
+            <link>https://mastodon.social/@villasbc/114410579028525262</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/114410579028525262</guid>
+            <pubDate>Sun, 27 Apr 2025 15:14:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Comment]]></title>
             <description><![CDATA[<p><a href="https://mastodon.social/tags/QuadReal" class="mention hashtag" rel="tag">#<span>QuadReal</span></a> received a few awards for their redevelopment of <a href="https://mastodon.social/tags/ThePost" class="mention hashtag" rel="tag">#<span>ThePost</span></a> into a &quot;sustainable&quot; mixed-use office space.</p><p>This week they announced they&#39;re no longer allowing <a href="https://mastodon.social/tags/ebikes" class="mention hashtag" rel="tag">#<span>ebikes</span></a> to be charged inside the building. They built the bike facility with charging stations - a bike facility that smells like sewage by the way, so they don&#39;t trust their own safety measures apparently.</p><p>And this is just going to incentivize a riskier behaviour: charging the battery on your own desk, where the hazard is higher.</p>]]></description>
@@ -230,13 +237,6 @@
             <link>https://mastodon.social/@villasbc/113998664608163112</link>
             <guid isPermaLink="true">https://mastodon.social/@villasbc/113998664608163112</guid>
             <pubDate>Thu, 13 Feb 2025 21:19:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Comment]]></title>
-            <description><![CDATA[<p>Stupid truck kills person, Mounties issue warning, people continue getting stupider trucks, police gets more budget.</p><p>Just North America things. <a href="https://flipboard.com/@cbcnews/british-columbia-i8sdok9nz/-/a-Zofdnf4GQcqozM--QyII-g%3Aa%3A107108217-%2F0" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">flipboard.com/@cbcnews/british</span><span class="invisible">-columbia-i8sdok9nz/-/a-Zofdnf4GQcqozM--QyII-g%3Aa%3A107108217-%2F0</span></a></p>]]></description>
-            <link>https://mastodon.social/@villasbc/113998317621155847</link>
-            <guid isPermaLink="true">https://mastodon.social/@villasbc/113998317621155847</guid>
-            <pubDate>Thu, 13 Feb 2025 19:51:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Finished watching]]></title>
