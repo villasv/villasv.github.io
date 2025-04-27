@@ -4,12 +4,12 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 27 Apr 2025 19:04:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Apr 2025 21:04:28 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2025]]></copyright>
         <item>
             <title><![CDATA[Comment]]></title>
-            <description><![CDATA[<p>Not every truck but always an truck</p>]]></description>
+            <description><![CDATA[<p>Not every truck/SUV but always a truck/SUV</p>]]></description>
             <link>https://mastodon.social/@villasbc/114410579028525262</link>
             <guid isPermaLink="true">https://mastodon.social/@villasbc/114410579028525262</guid>
             <pubDate>Sun, 27 Apr 2025 15:14:51 GMT</pubDate>
