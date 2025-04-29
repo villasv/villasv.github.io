@@ -4,9 +4,16 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 29 Apr 2025 15:05:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Apr 2025 17:05:00 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2025]]></copyright>
+        <item>
+            <title><![CDATA[Comment]]></title>
+            <description><![CDATA[<p>The “let’s bring it home” douche not only failed to bring it home, he also got evicted from his home riding.</p><p><a href="https://mastodon.social/tags/CdnElxn2025" class="mention hashtag" rel="tag">#<span>CdnElxn2025</span></a></p>]]></description>
+            <link>https://mastodon.social/@villasbc/114421898023661213</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/114421898023661213</guid>
+            <pubDate>Tue, 29 Apr 2025 15:13:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Comment]]></title>
             <description><![CDATA[<p>LIB+NDP &gt; 171 would mean a confidence agreement can be stablished and they can pass legislation by themselves or NDP losing official party status does it mean that liberals will need Bloc to fill that role instead?</p><p><a href="https://mastodon.social/tags/Canada" class="mention hashtag" rel="tag">#<span>Canada</span></a> <a href="https://mastodon.social/tags/CanPoli" class="mention hashtag" rel="tag">#<span>CanPoli</span></a></p>]]></description>
@@ -230,13 +237,6 @@
             <link>https://mastodon.social/@villasbc/114003711408691178</link>
             <guid isPermaLink="true">https://mastodon.social/@villasbc/114003711408691178</guid>
             <pubDate>Fri, 14 Feb 2025 18:43:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Comment]]></title>
-            <description><![CDATA[<p>My <a href="https://mastodon.social/tags/introduction" class="mention hashtag" rel="tag">#<span>introduction</span></a> post is actually a page that I&#39;ll be trying (not too hard) to keep up to date:</p><p><a href="https://victor.villas/notes/now" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="">victor.villas/notes/now</span><span class="invisible"></span></a></p><p>These days I decided that saying what I&#39;m up to is more important than trying to state who I am.</p>]]></description>
-            <link>https://mastodon.social/@villasbc/113999838196589961</link>
-            <guid isPermaLink="true">https://mastodon.social/@villasbc/113999838196589961</guid>
-            <pubDate>Fri, 14 Feb 2025 02:18:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Finished watching]]></title>
