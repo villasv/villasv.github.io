@@ -2157,14 +2157,14 @@
             }
           ],
           "cover_image_url": "https://neodb.social/m/item/doubanbook/2023/05/09/4a6a964c-6855-4236-90dd-432f506f7bd9.jpg",
-          "rating": 7.6,
-          "rating_count": 5,
+          "rating": 7.7,
+          "rating_count": 6,
           "rating_distribution": [
             0,
-            20,
+            16,
             0,
-            40,
-            40
+            50,
+            33
           ],
           "tags": [
             "adhd",
@@ -4613,7 +4613,7 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/09/13/a30bf2f3-4f79-43ef-b22f-58ebc3fd8aae.jpg",
           "rating": 6.4,
-          "rating_count": 270,
+          "rating_count": 271,
           "rating_distribution": [
             2,
             10,
