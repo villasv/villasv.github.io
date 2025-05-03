@@ -4989,13 +4989,13 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/movie/2025/03/09/3e3fa59e-e345-4f24-b75e-1141f82942f6.jpg",
           "rating": 8.1,
-          "rating_count": 47,
+          "rating_count": 48,
           "rating_distribution": [
             0,
             0,
             14,
-            51,
-            34
+            52,
+            33
           ],
           "tags": [
             "2024",
@@ -5446,6 +5446,14 @@
             {
               "lang": "zh-tw",
               "text": "Conclave"
+            },
+            {
+              "lang": "es",
+              "text": "Cónclave"
+            },
+            {
+              "lang": "zh-cn",
+              "text": "教宗选战(港)"
             }
           ],
           "localized_description": [
@@ -5500,16 +5508,20 @@
             {
               "lang": "sv",
               "text": "I filmen får vi följa en av världens mest hemliga och historiska händelser - att välja ny påve. Efter att den älskade påven oväntat avlidit får kardinal Lawrence ansvaret att leda den hemliga processen. När den katolska kyrkans mäktigaste ledare har samlats och är inspärrade i Vatikanen, hamnar Lawrence mitt i en konspiration och upptäcker hemligheter som kan skaka kyrkans grundvalar."
+            },
+            {
+              "lang": "de",
+              "text": "Der Papst ist unerwartet verstorben. Kardinal Lawrence ist mit der schwierigen Aufgabe betraut, die Wahl des neuen Papstes zu leiten. Mächtige Kardinäle aus aller Welt reisen für das Konklave nach Rom. Als sich die Türen zur Sixtinischen Kappelle schließen, entbrennt ein Spiel um Macht. Kardinal Lawrence findet sich im Zentrum von Intrigen und Korruption wieder und kommt einem Geheimnis auf die Spur, das die Grundfeste seines Glaubens erschüttern könnte. All das, während Millionen von Menschen darauf warten, dass weißer Rauch dem Schornstein der Kapelle entsteigt…"
             }
           ],
           "cover_image_url": "https://neodb.social/m/item/movie/2024/10/28/13dfbfcd-c252-4f40-96da-aabdade67aee.jpg",
           "rating": 7.5,
-          "rating_count": 107,
+          "rating_count": 108,
           "rating_distribution": [
             0,
             0,
             21,
-            59,
+            60,
             17
           ],
           "tags": [
@@ -5557,6 +5569,9 @@
             },
             {
               "url": "https://movie.douban.com/subject/35948807/"
+            },
+            {
+              "url": "https://crititeca.illustietor.com/movie/2KWLLbXofxiyV86zYPZNPX"
             }
           ]
         },
