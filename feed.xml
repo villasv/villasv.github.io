@@ -4,9 +4,16 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 08 May 2025 17:04:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 May 2025 19:04:21 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2025]]></copyright>
+        <item>
+            <title><![CDATA[Wants to read]]></title>
+            <description><![CDATA[<p><a href="https://neodb.social/~neodb~/book/6QGKcZK3IrKNSY81FBmg5z" rel="nofollow">Tyranny of the Minority: Why American Democracy Reached the Breaking Point</a> <br>Somehow I missed that How Democracies Die had a followup. Tragically relevant given the current state of affairs<br></p>]]></description>
+            <link>https://neodb.social/@villasv/posts/443380225885198776/</link>
+            <guid isPermaLink="true">https://neodb.social/@villasv/posts/443380225885198776/</guid>
+            <pubDate>Thu, 08 May 2025 18:54:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Comment]]></title>
             <description><![CDATA[<p>The “let’s bring it home” douche not only failed to bring it home, he also got evicted from his home riding.</p><p><a href="https://mastodon.social/tags/CdnElxn2025" class="mention hashtag" rel="tag">#<span>CdnElxn2025</span></a></p>]]></description>
@@ -260,13 +267,6 @@
             <link>https://pxlfd.ca/p/victor/790660117523971543</link>
             <guid isPermaLink="true">https://pxlfd.ca/p/victor/790660117523971543</guid>
             <pubDate>Thu, 30 Jan 2025 19:21:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Started watching]]></title>
-            <description><![CDATA[<p><a href="https://neodb.social/~neodb~/tv/season/6d3XZOiiiuuiHERDMSrBJh" rel="nofollow">Disclaimer Season 1</a> <br>Recommended by a few friends. Interesting premise and trailer. Halfway through, I can definitely see that the directors succeeded in making viewers uncomfortable watching the emotional violence of young Catherine over Jonathan, but I think the same could be achieved with less explicit sex screening... oof I&#x27;m not used to this<br></p>]]></description>
-            <link>https://neodb.social/@villasv/posts/403672903191105000/</link>
-            <guid isPermaLink="true">https://neodb.social/@villasv/posts/403672903191105000/</guid>
-            <pubDate>Sun, 19 Jan 2025 05:12:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Finished watching]]></title>
