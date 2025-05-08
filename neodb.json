@@ -1304,6 +1304,56 @@
       {
         "shelf_type": "progress",
         "visibility": 0,
+        "post_id": "443398525187345288",
+        "item": {
+          "type": "Edition",
+          "title": "Crowd Source",
+          "description": "Crowd Source  parallels the daily migration of crows who, aside from fledgling season, journey across metro Vancouver every day at dawn and dusk. Continuing Nicholson’s attention to contemporary climate crisis, social movements, and Black diasporic relations, this is a text for all concerned with practising ecological futurities befitting corvid sensibilities.",
+          "localized_title": [
+            {
+              "lang": "en",
+              "text": "Crowd Source"
+            }
+          ],
+          "localized_description": [
+            {
+              "lang": "en",
+              "text": "Crowd Source  parallels the daily migration of crows who, aside from fledgling season, journey across metro Vancouver every day at dawn and dusk. Continuing Nicholson’s attention to contemporary climate crisis, social movements, and Black diasporic relations, this is a text for all concerned with practising ecological futurities befitting corvid sensibilities."
+            }
+          ],
+          "cover_image_url": "https://neodb.social/m/item/goodreads/2025/05/08/b50b51e4-0716-49ba-bc00-2cefff4c2e4c.jpg",
+          "rating": null,
+          "rating_count": 0,
+          "rating_distribution": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "tags": [],
+          "brief": "Crowd Source  parallels the daily migration of crows who, aside from fledgling season, journey across metro Vancouver every day at dawn and dusk. Continuing Nicholson’s attention to contemporary climate crisis, social movements, and Black diasporic relations, this is a text for all concerned with practising ecological futurities befitting corvid sensibilities.",
+          "id": "https://neodb.social/book/7jUb35U3MVpxkjn9hGhxBI",
+          "uuid": "7jUb35U3MVpxkjn9hGhxBI",
+          "url": "/book/7jUb35U3MVpxkjn9hGhxBI",
+          "api_url": "/api/book/7jUb35U3MVpxkjn9hGhxBI",
+          "category": "book",
+          "parent_uuid": null,
+          "display_title": "Crowd Source",
+          "external_resources": [
+            {
+              "url": "https://www.goodreads.com/book/show/216131595"
+            }
+          ]
+        },
+        "created_time": "2025-05-08T20:07:26.293Z",
+        "comment_text": null,
+        "rating_grade": null,
+        "tags": []
+      },
+      {
+        "shelf_type": "progress",
+        "visibility": 0,
         "post_id": "435389672894662480",
         "item": {
           "type": "Edition",
@@ -5174,6 +5224,88 @@
       {
         "shelf_type": "complete",
         "visibility": 0,
+        "post_id": "443384359179709792",
+        "item": {
+          "type": "Movie",
+          "title": "Sinners",
+          "description": "Trying to leave their troubled lives behind, twin brothers return to their hometown to start again, only to discover that an even greater evil is waiting to welcome them back.",
+          "localized_title": [
+            {
+              "lang": "fr",
+              "text": "Sinners"
+            },
+            {
+              "lang": "de",
+              "text": "Blood & Sinners"
+            },
+            {
+              "lang": "nn",
+              "text": "Sinners"
+            },
+            {
+              "lang": "nb",
+              "text": "Sinners"
+            },
+            {
+              "lang": "no",
+              "text": "Sinners"
+            },
+            {
+              "lang": "sv",
+              "text": "Sinners"
+            },
+            {
+              "lang": "en",
+              "text": "Sinners"
+            },
+            {
+              "lang": "da",
+              "text": "Sinners"
+            }
+          ],
+          "localized_description": [
+            {
+              "lang": "fr",
+              "text": "Alors qu’ils cherchent à s’affranchir d’un lourd passé, deux frères jumeaux reviennent dans leur ville natale pour repartir à zéro. Mais ils comprennent qu’une puissance maléfique bien plus redoutable guette leur retour avec impatience."
+            },
+            {
+              "lang": "de",
+              "text": "Beim Versuch, ihr von Problemen geplagtes Leben hinter sich zu lassen, kehren Zwillingsbrüder (Jordan) in ihre Heimatstadt zurück, um dort einen Neuanfang zu wagen. Doch schon bald müssen sie feststellen, dass bei ihrer Rückkehr ein noch größeres Übel auf sie wartet.\r „Wenn du ständig mit dem Teufel tanzt, dann folgt er dir eines Tages nach Hause.“"
+            },
+            {
+              "lang": "en",
+              "text": "Trying to leave their troubled lives behind, twin brothers return to their hometown to start again, only to discover that an even greater evil is waiting to welcome them back."
+            }
+          ],
+          "cover_image_url": "https://neodb.social/m/item/fedi/2025/04/08/4ce44410-2816-4e7c-bab2-7f8ce096c55f.jpg",
+          "rating": null,
+          "rating_count": 2,
+          "rating_distribution": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "tags": [],
+          "brief": "Trying to leave their troubled lives behind, twin brothers return to their hometown to start again, only to discover that an even greater evil is waiting to welcome them back.",
+          "id": "https://neodb.social/movie/4yXzvM0r9737LcjSXwrtxr",
+          "uuid": "4yXzvM0r9737LcjSXwrtxr",
+          "url": "/movie/4yXzvM0r9737LcjSXwrtxr",
+          "api_url": "/api/movie/4yXzvM0r9737LcjSXwrtxr",
+          "category": "movie",
+          "parent_uuid": null,
+          "display_title": "Sinners",
+          "external_resources": []
+        },
+        "created_time": "2025-05-08T19:11:08.832Z",
+        "comment_text": "We've got jazz, intense soundtrack, black power and entrepreneurship, AAVE, >!vampires!<, shootouts, wild west mood. It's a modern fusion with no restrains on its quirkiness, so it's definitely not an all-round crowd pleaser. I enjoyed the central role that music played in the story, and it's not as if >!vampires!< ever needed justification to attack people but this tried something different so that's fun. I do think the villains are a bit overpowered, though, to a point where it's hard to believe they wouldn't be more widely known through folk tales, but that's a bit of world building nitpicking. I also found the epilogue a bit too \"fan service\" - of course it's rewarding to watch >!klan racists be rampaged by the protagonist!< but the whole scene was a bit too obvious.",
+        "rating_grade": 7,
+        "tags": []
+      },
+      {
+        "shelf_type": "complete",
+        "visibility": 0,
         "post_id": "426782174826732496",
         "item": {
           "type": "Movie",
@@ -6794,76 +6926,6 @@
       {
         "shelf_type": "wishlist",
         "visibility": 0,
-        "post_id": "435390190376202104",
-        "item": {
-          "type": "TVSeason",
-          "title": "使女的故事 第六季",
-          "description": "Hulu宣布续订《使女的故事》第六季最终季。",
-          "localized_title": [
-            {
-              "lang": "zh-cn",
-              "text": "使女的故事 第六季"
-            },
-            {
-              "lang": "en",
-              "text": "The Handmaid's Tale Season 6"
-            },
-            {
-              "lang": "zh-cn",
-              "text": "使女的故事最终季"
-            }
-          ],
-          "localized_description": [
-            {
-              "lang": "zh-cn",
-              "text": "Hulu宣布续订《使女的故事》第六季最终季。"
-            }
-          ],
-          "cover_image_url": "https://neodb.social/m/item/tv/2025/04/10/44dee2a9-4d3e-4ddb-8da4-f1965e1b6f83.jpg",
-          "rating": null,
-          "rating_count": 1,
-          "rating_distribution": [
-            0,
-            0,
-            0,
-            0,
-            0
-          ],
-          "tags": [
-            "2025",
-            "hulu",
-            "女性",
-            "政治",
-            "美剧"
-          ],
-          "brief": "Hulu宣布续订《使女的故事》第六季最终季。",
-          "id": "https://neodb.social/tv/season/50lGcqlFf9Et0ri63wOueT",
-          "uuid": "50lGcqlFf9Et0ri63wOueT",
-          "url": "/tv/season/50lGcqlFf9Et0ri63wOueT",
-          "api_url": "/api/tv/season/50lGcqlFf9Et0ri63wOueT",
-          "category": "tv",
-          "parent_uuid": "5lrZZwRHWVpcjVeWmvxaeI",
-          "display_title": "使女的故事 第六季",
-          "external_resources": [
-            {
-              "url": "https://www.themoviedb.org/tv/69478/season/6"
-            },
-            {
-              "url": "https://eggplant.place/tv/season/6G32bWNcld6KWpC7DBzoeY"
-            },
-            {
-              "url": "https://movie.douban.com/subject/36089658/"
-            }
-          ]
-        },
-        "created_time": "2025-04-16T17:45:10.498Z",
-        "comment_text": null,
-        "rating_grade": null,
-        "tags": []
-      },
-      {
-        "shelf_type": "wishlist",
-        "visibility": 0,
         "post_id": "389450020802063168",
         "item": {
           "type": "TVSeason",
@@ -7005,7 +7067,143 @@
       {
         "shelf_type": "progress",
         "visibility": 0,
-        "post_id": "435389778903484792",
+        "post_id": "443386298869333336",
+        "item": {
+          "type": "TVSeason",
+          "title": "使女的故事 第六季",
+          "description": "Hulu宣布续订《使女的故事》第六季最终季。",
+          "localized_title": [
+            {
+              "lang": "zh-cn",
+              "text": "使女的故事 第六季"
+            },
+            {
+              "lang": "en",
+              "text": "The Handmaid's Tale Season 6"
+            },
+            {
+              "lang": "zh-cn",
+              "text": "使女的故事最终季"
+            }
+          ],
+          "localized_description": [
+            {
+              "lang": "zh-cn",
+              "text": "Hulu宣布续订《使女的故事》第六季最终季。"
+            }
+          ],
+          "cover_image_url": "https://neodb.social/m/item/tv/2025/04/10/44dee2a9-4d3e-4ddb-8da4-f1965e1b6f83.jpg",
+          "rating": null,
+          "rating_count": 1,
+          "rating_distribution": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "tags": [
+            "2025",
+            "hulu",
+            "女性",
+            "政治",
+            "美剧"
+          ],
+          "brief": "Hulu宣布续订《使女的故事》第六季最终季。",
+          "id": "https://neodb.social/tv/season/50lGcqlFf9Et0ri63wOueT",
+          "uuid": "50lGcqlFf9Et0ri63wOueT",
+          "url": "/tv/season/50lGcqlFf9Et0ri63wOueT",
+          "api_url": "/api/tv/season/50lGcqlFf9Et0ri63wOueT",
+          "category": "tv",
+          "parent_uuid": "5lrZZwRHWVpcjVeWmvxaeI",
+          "display_title": "使女的故事 第六季",
+          "external_resources": [
+            {
+              "url": "https://www.themoviedb.org/tv/69478/season/6"
+            },
+            {
+              "url": "https://eggplant.place/tv/season/6G32bWNcld6KWpC7DBzoeY"
+            },
+            {
+              "url": "https://movie.douban.com/subject/36089658/"
+            }
+          ]
+        },
+        "created_time": "2025-05-08T19:18:51.298Z",
+        "comment_text": "Should this series have ended a while ago? Probably. Are we getting tired of the series trying to hype up yet another conflict using a closing shot of June looking at the camera? Maybe. But we're still here for it, and I think the overall arc of the story is developing in a sensible direction (>!USA losing to Gilead means Canada starts capitulating with the winners!<). I just wish that the whole June & Blaine didn't take so much of a central role in the story, it's not an interesting foundation for the plot.",
+        "rating_grade": null,
+        "tags": []
+      },
+      {
+        "shelf_type": "progress",
+        "visibility": 0,
+        "post_id": "443385289163850584",
+        "item": {
+          "type": "TVSeason",
+          "title": "富家穷路 第二季",
+          "description": "故事描述一名开音像店的亿万富翁Johnny Rose（Eugene Levy）和他的肥皂剧明星妻子Moira（Catherine O’Hara）、嬉皮士儿子David（Daniel Levy）、交际花女儿Alexis（Annie Murphy）在一夜之间破产。这家人不得不离开已经习惯了的奢华生活，回到乡下去「从零开始」。好在他们还有一点私人领地：当年他们抱着好玩的心态在最偏僻的角落里买下一座几乎没有人烟的小镇（镇名即本剧标题「施米特湾」），现在这里成了他们仅存的落脚点。他们必须尽快适应新的贫穷生活，找到家庭的真谛……但这个穷乡僻壤的地方让他们感觉「限制」太多！",
+          "localized_title": [
+            {
+              "lang": "zh-cn",
+              "text": "富家穷路 第二季"
+            },
+            {
+              "lang": "en",
+              "text": "Schitt's Creek"
+            }
+          ],
+          "localized_description": [
+            {
+              "lang": "zh-cn",
+              "text": "故事描述一名开音像店的亿万富翁Johnny Rose（Eugene Levy）和他的肥皂剧明星妻子Moira（Catherine O’Hara）、嬉皮士儿子David（Daniel Levy）、交际花女儿Alexis（Annie Murphy）在一夜之间破产。这家人不得不离开已经习惯了的奢华生活，回到乡下去「从零开始」。好在他们还有一点私人领地：当年他们抱着好玩的心态在最偏僻的角落里买下一座几乎没有人烟的小镇（镇名即本剧标题「施米特湾」），现在这里成了他们仅存的落脚点。他们必须尽快适应新的贫穷生活，找到家庭的真谛……但这个穷乡僻壤的地方让他们感觉「限制」太多！"
+            }
+          ],
+          "cover_image_url": "https://neodb.social/m/movie/2021/09/15dacf3664-8a99-47cf-b0de-1835a051705d.jpg",
+          "rating": 8.2,
+          "rating_count": 25,
+          "rating_distribution": [
+            0,
+            0,
+            20,
+            48,
+            32
+          ],
+          "tags": [
+            "2016",
+            "剧情",
+            "加剧",
+            "加拿大",
+            "喜剧",
+            "家庭",
+            "电视剧",
+            "美剧",
+            "美国"
+          ],
+          "brief": "故事描述一名开音像店的亿万富翁Johnny Rose（Eugene Levy）和他的肥皂剧明星妻子Moira（Catherine O’Hara）、嬉皮士儿子David（Daniel Levy）、交际花女儿Alexis（Annie Murphy）在一夜之间破产。这家人不得不离开已经习惯了的奢华生活，回到乡下去「从零开始」。好在他们还有一点私人领地：当年他们抱着好玩的心态在最偏僻的角落里买下一座几乎没有人烟的小镇（镇名即本剧标题「施米特湾」），现在这里成了他们仅存的落脚点。他们必须尽快适应新的贫穷生活，找到家庭的真谛……但这个穷乡僻壤的地方让他们感觉「限制」太多！",
+          "id": "https://neodb.social/tv/season/5I1OUC0C0ZSFFxroExiWb0",
+          "uuid": "5I1OUC0C0ZSFFxroExiWb0",
+          "url": "/tv/season/5I1OUC0C0ZSFFxroExiWb0",
+          "api_url": "/api/tv/season/5I1OUC0C0ZSFFxroExiWb0",
+          "category": "tv",
+          "parent_uuid": "7a1EEj7ZcZxX73KY2y6AlC",
+          "display_title": "富家穷路 第二季",
+          "external_resources": [
+            {
+              "url": "https://movie.douban.com/subject/26713776/"
+            }
+          ]
+        },
+        "created_time": "2025-05-08T19:14:50.582Z",
+        "comment_text": null,
+        "rating_grade": null,
+        "tags": []
+      }
+    ],
+    "complete": [
+      {
+        "shelf_type": "complete",
+        "visibility": 0,
+        "post_id": "443385257828732664",
         "item": {
           "type": "TVSeason",
           "title": "富家穷路 第一季",
@@ -7028,13 +7226,13 @@
           ],
           "cover_image_url": "https://neodb.social/m/movie/2021/09/158ba3b3cd-7926-4d50-8c54-dc92b61f23a5.jpg",
           "rating": 7.3,
-          "rating_count": 35,
+          "rating_count": 36,
           "rating_distribution": [
             0,
             11,
-            31,
-            40,
-            17
+            30,
+            41,
+            16
           ],
           "tags": [
             "2010s",
@@ -7064,13 +7262,11 @@
             }
           ]
         },
-        "created_time": "2025-04-16T17:43:32.394Z",
-        "comment_text": null,
-        "rating_grade": null,
+        "created_time": "2025-05-08T19:14:43.078Z",
+        "comment_text": "Good lighthearted fun. John and David are amusing, but it's a shame that the women characters of the family (Alexis and Moira) are a bit too stereotypical. David's character had a bit more creativity going into him, so why not spice up the women too?",
+        "rating_grade": 8,
         "tags": []
-      }
-    ],
-    "complete": [
+      },
       {
         "shelf_type": "complete",
         "visibility": 0,

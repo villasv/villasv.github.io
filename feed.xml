@@ -4,9 +4,51 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 08 May 2025 19:04:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 May 2025 21:04:56 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2025]]></copyright>
+        <item>
+            <title><![CDATA[Comment]]></title>
+            <description><![CDATA[<p>I just noticed that there seems to exist a gym in one of the top floors of the VPL central branch building (the middle/round part). But what is that place? The <a href="https://mastodon.social/tags/VPL" class="mention hashtag" rel="tag">#<span>VPL</span></a> doesn&#39;t have a gym AFAICT, so who put that in there?</p><p><a href="https://mastodon.social/tags/Vancouver" class="mention hashtag" rel="tag">#<span>Vancouver</span></a></p>]]></description>
+            <link>https://mastodon.social/@villasbc/114474136467966901</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/114474136467966901</guid>
+            <pubDate>Thu, 08 May 2025 20:38:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Started reading]]></title>
+            <description><![CDATA[<p><a href="https://neodb.social/~neodb~/book/7jUb35U3MVpxkjn9hGhxBI" rel="nofollow">Crowd Source</a> </p><p></p>]]></description>
+            <link>https://neodb.social/@villasv/posts/443398525187345288/</link>
+            <guid isPermaLink="true">https://neodb.social/@villasv/posts/443398525187345288/</guid>
+            <pubDate>Thu, 08 May 2025 20:07:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Started watching]]></title>
+            <description><![CDATA[<p><a href="https://neodb.social/~neodb~/tv/season/50lGcqlFf9Et0ri63wOueT" rel="nofollow">The Handmaid&#x27;s Tale Season 6</a> <br>Should this series have ended a while ago? Probably. Are we getting tired of the series trying to hype up yet another conflict using a closing shot of June looking at the camera? Maybe. But we&#x27;re still here for it, and I think the overall arc of the story is developing in a sensible direction (USA losing to Gilead means Canada starts capitulating with the winners). I just wish that the whole June &amp; Blaine didn&#x27;t take so much of a central role in the story, it&#x27;s not an interesting foundation for the plot.<br></p>]]></description>
+            <link>https://neodb.social/@villasv/posts/443386298869333336/</link>
+            <guid isPermaLink="true">https://neodb.social/@villasv/posts/443386298869333336/</guid>
+            <pubDate>Thu, 08 May 2025 19:18:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Started watching]]></title>
+            <description><![CDATA[<p><a href="https://neodb.social/~neodb~/tv/season/5I1OUC0C0ZSFFxroExiWb0" rel="nofollow">Schitt&#x27;s Creek Season 2</a> </p><p></p>]]></description>
+            <link>https://neodb.social/@villasv/posts/443385289163850584/</link>
+            <guid isPermaLink="true">https://neodb.social/@villasv/posts/443385289163850584/</guid>
+            <pubDate>Thu, 08 May 2025 19:14:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Finished watching]]></title>
+            <description><![CDATA[<p><a href="https://neodb.social/~neodb~/tv/season/0GghNjducTJ05tJGj4LTRp" rel="nofollow">Schitt&#x27;s Creek Season 1, 8 out of 10</a>  <br>Good lighthearted fun. John and David are amusing, but it&#x27;s a shame that the women characters of the family (Alexis and Moira) are a bit too stereotypical. David&#x27;s character had a bit more creativity going into him, so why not spice up the women too?<br></p>]]></description>
+            <link>https://neodb.social/@villasv/posts/443385257828732664/</link>
+            <guid isPermaLink="true">https://neodb.social/@villasv/posts/443385257828732664/</guid>
+            <pubDate>Thu, 08 May 2025 19:14:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Finished watching]]></title>
+            <description><![CDATA[<p><a href="https://neodb.social/~neodb~/movie/4yXzvM0r9737LcjSXwrtxr" rel="nofollow">Sinners, 7 out of 10</a>  <br>We&#x27;ve got jazz, intense soundtrack, black power and entrepreneurship, AAVE, vampires, shootouts, wild west mood. It&#x27;s a modern fusion with no restrains on its quirkiness, so it&#x27;s definitely not an all-round crowd pleaser. I enjoyed the central role that music played in the story, and it&#x27;s not as if vampires ever needed justification to attack people but this tried something different so that&#x27;s fun. I do think the villains are a bit overpowered, though, to a point where it&#x27;s hard to believe they wouldn&#x27;t be more widely known through folk tales, but that&#x27;s a bit of world building nitpicking. I also found the epilogue a bit too &quot;fan service&quot; - of course it&#x27;s rewarding to watch klan racists be rampaged by the protagonist but the whole scene was a bit too obvious.<br></p>]]></description>
+            <link>https://neodb.social/@villasv/posts/443384359179709792/</link>
+            <guid isPermaLink="true">https://neodb.social/@villasv/posts/443384359179709792/</guid>
+            <pubDate>Thu, 08 May 2025 19:11:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Wants to read]]></title>
             <description><![CDATA[<p><a href="https://neodb.social/~neodb~/book/6QGKcZK3IrKNSY81FBmg5z" rel="nofollow">Tyranny of the Minority: Why American Democracy Reached the Breaking Point</a> <br>Somehow I missed that How Democracies Die had a followup. Tragically relevant given the current state of affairs<br></p>]]></description>
@@ -127,20 +169,6 @@
             <pubDate>Sun, 06 Apr 2025 21:37:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Wants to watch]]></title>
-            <description><![CDATA[<p><a href="https://neodb.social/~neodb~/movie/5sJweifgS7DShpAyyryUdD" rel="nofollow">Novelette is Trying</a> <br>Small production set in Vancouver. Black &amp; queer lead. Curious to give it a try.<br></p>]]></description>
-            <link>https://neodb.social/@villasv/posts/431815364734159000/</link>
-            <guid isPermaLink="true">https://neodb.social/@villasv/posts/431815364734159000/</guid>
-            <pubDate>Sun, 06 Apr 2025 21:00:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Finished watching]]></title>
-            <description><![CDATA[<p><a href="https://neodb.social/~neodb~/tv/season/6d3XZOiiiuuiHERDMSrBJh" rel="nofollow">Disclaimer Season 1, 8 out of 10</a>  <br>Disclaimer: from beginning to end, uncomfortable and disgusting to watch. I suspected that it was intentional, and yet the direction and its conclusion still had in store a final punch to my stomach. There&#x27;s so much to think about, to re-evaluate. Overall masterful storytelling, but I don&#x27;t know to whom I&#x27;d recommend this.<br></p>]]></description>
-            <link>https://neodb.social/@villasv/posts/429376874428618256/</link>
-            <guid isPermaLink="true">https://neodb.social/@villasv/posts/429376874428618256/</guid>
-            <pubDate>Mon, 31 Mar 2025 03:30:24 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Comment]]></title>
             <description><![CDATA[<p>Am I the only one watching <a href="https://mastodon.social/tags/Junos" class="mention hashtag" rel="tag">#<span>Junos</span></a> via CBC Gem finding the audio a bit weird? It’s like a few channels are muted</p>]]></description>
             <link>https://mastodon.social/@villasbc/114254580736322147</link>
@@ -239,13 +267,6 @@
             <pubDate>Sat, 15 Feb 2025 01:30:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Comment]]></title>
-            <description><![CDATA[<p><a href="https://mastodon.social/tags/Pixelfed" class="mention hashtag" rel="tag">#<span>Pixelfed</span></a> seems to have good momentum, as dan continues to churn out code at a wild pace.</p><p>Still, it’s still quite not there as an Instagram replacement for me, and I’m afraid the project is competing for attention with Loops, the other project from same author.</p><p>So I have been looking for alternatives, and today I found out about <span class="h-card" translate="no"><a href="https://frequency.app/@frequency" class="u-url mention">@<span>frequency</span></a></span>: open source backend is a mastodon fork, polished app, friendly and sensible maintainers. Following it closely 👀 <a href="https://mastodon.social/@jesseplusplus/113891449411033309" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">mastodon.social/@jesseplusplus</span><span class="invisible">/113891449411033309</span></a></p>]]></description>
-            <link>https://mastodon.social/@villasbc/114003711408691178</link>
-            <guid isPermaLink="true">https://mastodon.social/@villasbc/114003711408691178</guid>
-            <pubDate>Fri, 14 Feb 2025 18:43:04 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Finished watching]]></title>
             <description><![CDATA[<p><a href="https://neodb.social/~neodb~/tv/season/69pze7Mzq3yR9YqSFIqRHK" rel="nofollow">Kim&#x27;s Convenience Season 3, 6 out of 10</a>  <br>Can&#x27;t say I particularly enjoy the Raj &amp; Janet storyline, but what can I say? The series continues its promise of being mostly lighthearted and mostly wholesome, still sometimes a bit too silly.<br></p>]]></description>
             <link>https://neodb.social/@villasv/posts/410573372131219632/</link>
@@ -270,13 +291,6 @@
         </item>
         <item>
             <title><![CDATA[Finished watching]]></title>
-            <description><![CDATA[<p><a href="https://neodb.social/~neodb~/tv/season/49vCD9j06mIsqNkhXL8fGP" rel="nofollow">Kim&#x27;s Convenience Season 2, 7 out of 10</a>  <br>Not much is different from the first season, still lighthearted and mostly wholesome, still sometimes a bit too silly.<br></p>]]></description>
-            <link>https://neodb.social/@villasv/posts/402600839088062104/</link>
-            <guid isPermaLink="true">https://neodb.social/@villasv/posts/402600839088062104/</guid>
-            <pubDate>Thu, 16 Jan 2025 06:12:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Finished watching]]></title>
             <description><![CDATA[<p><a href="https://neodb.social/~neodb~/tv/season/5S1WywkdJVLirtcTOyjlym" rel="nofollow">Kim&#x27;s Convenience Season 1, 7 out of 10</a>  <br>Lighthearted and mostly wholesome, though a few bits are excessively silly. A great series to just hit play and relax on the sofa.<br></p>]]></description>
             <link>https://neodb.social/@villasv/posts/398201276959367240/</link>
             <guid isPermaLink="true">https://neodb.social/@villasv/posts/398201276959367240/</guid>
@@ -288,20 +302,6 @@
             <link>https://neodb.social/@villasv/posts/398201276961173072/</link>
             <guid isPermaLink="true">https://neodb.social/@villasv/posts/398201276961173072/</guid>
             <pubDate>Sat, 04 Jan 2025 02:49:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Finished watching]]></title>
-            <description><![CDATA[<p><a href="https://neodb.social/~neodb~/tv/season/5S1WywkdJVLirtcTOyjlym" rel="nofollow">Kim&#x27;s Convenience Season 1, 6 out of 10</a>  </p><p></p>]]></description>
-            <link>https://neodb.social/@villasv/posts/398201276960233272/</link>
-            <guid isPermaLink="true">https://neodb.social/@villasv/posts/398201276960233272/</guid>
-            <pubDate>Sat, 04 Jan 2025 02:49:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Finished watching]]></title>
-            <description><![CDATA[<p><a href="https://neodb.social/~neodb~/tv/season/1w1lMpMeBGQmbqiPKYmVXM" rel="nofollow">Severance Season 1, 10 out of 10</a>  <br>Superb, definitely one of the greatest series of the year. The writing is great and the directing is amazing. The story is just so well timed, the corporate world has never felt so bleak and COVID-19 along with the approaching &quot;return to office&quot; mandates cemented the perfect stage. It starts a bit slow and perhaps only relatable to those immersed in white-collar culture, but it picks up the pace to become a suspense/thriller of general appeal.<br></p>]]></description>
-            <link>https://neodb.social/@villasv/posts/35864319099144944/</link>
-            <guid isPermaLink="true">https://neodb.social/@villasv/posts/35864319099144944/</guid>
-            <pubDate>Sun, 10 Apr 2022 06:12:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
