@@ -5097,13 +5097,13 @@
             }
           ],
           "cover_image_url": "https://neodb.social/m/item/movie/2025/03/09/3e3fa59e-e345-4f24-b75e-1141f82942f6.jpg",
-          "rating": 8.2,
-          "rating_count": 53,
+          "rating": 8.1,
+          "rating_count": 54,
           "rating_distribution": [
             0,
             0,
-            13,
-            52,
+            12,
+            53,
             33
           ],
           "tags": [
@@ -7658,13 +7658,13 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/tmdb_tvseason/2025/03/02/6d3b4f7f-5d4a-4704-86ae-cfbb5ea3effd.jpg",
           "rating": 7.9,
-          "rating_count": 154,
+          "rating_count": 155,
           "rating_distribution": [
             0,
             2,
             14,
-            51,
-            31
+            50,
+            32
           ],
           "tags": [
             "2020s",
