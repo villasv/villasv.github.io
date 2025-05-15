@@ -3415,12 +3415,20 @@
             {
               "lang": "en",
               "text": "No Other Land"
+            },
+            {
+              "lang": "es",
+              "text": "No Other Land"
             }
           ],
           "localized_description": [
             {
               "lang": "zh-cn",
               "text": "这部由巴勒斯坦人和以色列人共同制作的影片展现了以色列当局对约旦河西岸马萨费尔亚塔的破坏，以及巴勒斯坦活动家Basel和以色列记者Yuval之间的友谊。"
+            },
+            {
+              "lang": "es",
+              "text": "Un joven activista palestino documenta durante cinco años los violentos desalojos de palestinos en Cisjordania. Con la colaboración de cineastas israelíes y palestinos, narra la compleja relación que surge entre él y un periodista israelí dispuesto a unirse a su lucha, a pesar de sus diferentes circunstancias. Una obra conmovedora que explora resistencia, empatía y esperanza en un contexto de conflicto."
             }
           ],
           "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/02/20/9aafa2fc-1f22-415b-b882-26dd2baa2e6e.webp",
@@ -3464,6 +3472,9 @@
             },
             {
               "url": "https://www.themoviedb.org/movie/1232493"
+            },
+            {
+              "url": "https://fantastika.social/movie/5CkwoxkjFNgHZmS0VApQas"
             }
           ]
         },
