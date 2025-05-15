@@ -4,9 +4,16 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 15 May 2025 21:04:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 May 2025 23:05:05 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2025]]></copyright>
+        <item>
+            <title><![CDATA[Comment]]></title>
+            <description><![CDATA[<p>I&#39;ll never stop confusing Matt Garman (AWS CEO) with Mark Gurman (journalist), which is unfortunate because one says things that can be consequential to me but I don&#39;t want to read anyway and the other is the opposite, saying stuff that is mostly inconsequential to be but still makes interesting reading. So I&#39;m forced to read both, with a 50/50 chance of disappointment.</p>]]></description>
+            <link>https://mastodon.social/@villasbc/114514131447803164</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/114514131447803164</guid>
+            <pubDate>Thu, 15 May 2025 22:09:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Comment]]></title>
             <description><![CDATA[<p><a href="https://mastodon.social/tags/Discord" class="mention hashtag" rel="tag">#<span>Discord</span></a> by far the champion in software that gets updated without ever me noticing any difference in what it does.</p>]]></description>
@@ -258,13 +265,6 @@
             <link>https://mastodon.social/@villasbc/114014908398789974</link>
             <guid isPermaLink="true">https://mastodon.social/@villasbc/114014908398789974</guid>
             <pubDate>Sun, 16 Feb 2025 18:10:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Comment]]></title>
-            <description><![CDATA[<p>Unfortunately what I need isn’t really photography, which is what all three federated services deliver. My main needs are 1) Stories, 2) Highlights, 3) carousel posts mixing image and video. That’s the state of the art that would make an <a href="https://mastodon.social/tags/Instagram" class="mention hashtag" rel="tag">#<span>Instagram</span></a> replacement for me.</p>]]></description>
-            <link>https://mastodon.social/@villasbc/114005334518047288</link>
-            <guid isPermaLink="true">https://mastodon.social/@villasbc/114005334518047288</guid>
-            <pubDate>Sat, 15 Feb 2025 01:35:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Finished watching]]></title>
