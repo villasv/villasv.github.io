@@ -4,9 +4,16 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 15 May 2025 23:05:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 May 2025 01:33:13 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2025]]></copyright>
+        <item>
+            <title><![CDATA[Comment]]></title>
+            <description><![CDATA[<p>So cool to see lots of Canadian representation <a href="https://social.growyourown.services/@FediFollows/114479108382173349" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">social.growyourown.services/@F</span><span class="invisible">ediFollows/114479108382173349</span></a></p>]]></description>
+            <link>https://mastodon.social/@villasbc/114514817754380873</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/114514817754380873</guid>
+            <pubDate>Fri, 16 May 2025 01:04:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Comment]]></title>
             <description><![CDATA[<p>I&#39;ll never stop confusing Matt Garman (AWS CEO) with Mark Gurman (journalist), which is unfortunate because one says things that can be consequential to me but I don&#39;t want to read anyway and the other is the opposite, saying stuff that is mostly inconsequential to be but still makes interesting reading. So I&#39;m forced to read both, with a 50/50 chance of disappointment.</p>]]></description>
@@ -258,13 +265,6 @@
             <link>https://mastodon.social/@villasbc/114038607903822881</link>
             <guid isPermaLink="true">https://mastodon.social/@villasbc/114038607903822881</guid>
             <pubDate>Thu, 20 Feb 2025 22:37:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Comment]]></title>
-            <description><![CDATA[<p>This Friday for the first time I took a <a href="https://mastodon.social/tags/seaplane" class="mention hashtag" rel="tag">#<span>seaplane</span></a> from <a href="https://mastodon.social/tags/Vancouver" class="mention hashtag" rel="tag">#<span>Vancouver</span></a> to <a href="https://mastodon.social/tags/VictoriaBC" class="mention hashtag" rel="tag">#<span>VictoriaBC</span></a>. It&#39;s incredible. Beautiful scenery, downtown to downtown in 35 minutes, check-in in 20 minutes - quicker than BC Ferries as a pedestrian... The noise isn&#39;t as bad as I thought, but it&#39;s still a solid 90 dB so an earplug is welcome.</p><p>The worst of it is the smell and the pollution from the fuel, and obviously the price. It&#39;s ten times the price of public transit for the route, but it&#39;s nearly ten times faster!</p>]]></description>
-            <link>https://mastodon.social/@villasbc/114014908398789974</link>
-            <guid isPermaLink="true">https://mastodon.social/@villasbc/114014908398789974</guid>
-            <pubDate>Sun, 16 Feb 2025 18:10:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Finished watching]]></title>
