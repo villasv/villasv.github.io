@@ -4,9 +4,16 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 20 May 2025 23:04:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 May 2025 01:33:12 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2025]]></copyright>
+        <item>
+            <title><![CDATA[Started reading]]></title>
+            <description><![CDATA[<p><a href="https://neodb.social/~neodb~/book/7RscqcgF5GYmoCiD5JJ1jv" rel="nofollow">Slaughterhouse Five Unabridged</a> </p><p></p>]]></description>
+            <link>https://neodb.social/@villasv/posts/447792744563534400/</link>
+            <guid isPermaLink="true">https://neodb.social/@villasv/posts/447792744563534400/</guid>
+            <pubDate>Tue, 20 May 2025 23:08:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Comment]]></title>
             <description><![CDATA[<p>A sad hill to die on is to defend that renting is financially advantageous. Property ownership and “building equity” by forcing oneself into debt is one of the most pernicious shackles that millennials picked up and are passing along to gen Z and alpha.</p><p>It’s ironic that by debating this I’d be decreasing the premium I gain for seeing through this bullshit, but folks are so invested on this idea that I doubt I’m having any effect.</p>]]></description>
@@ -265,13 +272,6 @@
             <link>https://mastodon.social/@villasbc/114038620208327214</link>
             <guid isPermaLink="true">https://mastodon.social/@villasbc/114038620208327214</guid>
             <pubDate>Thu, 20 Feb 2025 22:40:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Finished watching]]></title>
-            <description><![CDATA[<p><a href="https://neodb.social/~neodb~/tv/season/69pze7Mzq3yR9YqSFIqRHK" rel="nofollow">Kim&#x27;s Convenience Season 3, 6 out of 10</a>  <br>Can&#x27;t say I particularly enjoy the Raj &amp; Janet storyline, but what can I say? The series continues its promise of being mostly lighthearted and mostly wholesome, still sometimes a bit too silly.<br></p>]]></description>
-            <link>https://neodb.social/@villasv/posts/410573372131219632/</link>
-            <guid isPermaLink="true">https://neodb.social/@villasv/posts/410573372131219632/</guid>
-            <pubDate>Fri, 07 Feb 2025 06:12:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Media]]></title>

@@ -1304,6 +1304,72 @@
       {
         "shelf_type": "progress",
         "visibility": 0,
+        "post_id": "447792744563534400",
+        "item": {
+          "type": "Edition",
+          "title": "Slaughterhouse Five Unabridged",
+          "description": "Kurt Vonnegut's absurdist classic  Slaughterhouse-Five  introduces us to Billy Pilgrim, a man who becomes 'unstuck in time' after he is abducted by aliens from the planet Tralfamadore. In a plot-scrambling display of virtuosity, we follow Pilgrim simultaneously through all phases of his life, concentrating on his (and Vonnegut's) shattering experience as an American prisoner of war who witnesses the firebombing of Dresden.      Slaughterhouse-Five  is not only Vonnegut's most powerful book, it is also as important as any written since 1945. Like Catch-22, it fashions the author's experiences in the Second World War into an eloquent and deeply funny plea against butchery in the service of authority.  Slaughterhouse-Five  boasts the same imagination, humanity, and gleeful appreciation of the absurd found in Vonnegut's other works, but the book's basis in rock-hard, tragic fact gives it unique poignancy -- and humor.",
+          "localized_title": [
+            {
+              "lang": "en",
+              "text": "Slaughterhouse Five Unabridged"
+            }
+          ],
+          "localized_description": [
+            {
+              "lang": "en",
+              "text": "Kurt Vonnegut's absurdist classic  Slaughterhouse-Five  introduces us to Billy Pilgrim, a man who becomes 'unstuck in time' after he is abducted by aliens from the planet Tralfamadore. In a plot-scrambling display of virtuosity, we follow Pilgrim simultaneously through all phases of his life, concentrating on his (and Vonnegut's) shattering experience as an American prisoner of war who witnesses the firebombing of Dresden.      Slaughterhouse-Five  is not only Vonnegut's most powerful book, it is also as important as any written since 1945. Like Catch-22, it fashions the author's experiences in the Second World War into an eloquent and deeply funny plea against butchery in the service of authority.  Slaughterhouse-Five  boasts the same imagination, humanity, and gleeful appreciation of the absurd found in Vonnegut's other works, but the book's basis in rock-hard, tragic fact gives it unique poignancy -- and humor."
+            }
+          ],
+          "cover_image_url": "https://neodb.social/m/book/2022/05/115fc66eb7-d98d-410b-9d57-39117f4dbd51.jpg",
+          "rating": null,
+          "rating_count": 4,
+          "rating_distribution": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "tags": [
+            "contemporary",
+            "eng",
+            "history",
+            "kurtvonnegut",
+            "nov",
+            "us",
+            "原版",
+            "反战",
+            "外国文学",
+            "小说",
+            "战争",
+            "科幻",
+            "经典",
+            "美国",
+            "美国文学"
+          ],
+          "brief": "Kurt Vonnegut's absurdist classic  Slaughterhouse-Five  introduces us to Billy Pilgrim, a man who becomes 'unstuck in time' after he is abducted by aliens from the planet Tralfamadore. In a plot-scrambling display of virtuosity, we follow Pilgrim simultaneously through all phases of his life, concentrating on his (and Vonnegut's) shattering experience as an American prisoner of war who witnesses the firebombing of Dresden.      Slaughterhouse-Five  is not only Vonnegut's most powerful book, it is also as important as any written since 1945. Like Catch-22, it fashions the author's experiences in the Second World War into an eloquent and deeply funny plea against butchery in the service of authority.  Slaughterhouse-Five  boasts the same imagination, humanity, and gleeful appreciation of the absurd found in Vonnegut's other works, but the book's basis in rock-hard, tragic fact gives it unique poignancy -- and humor.",
+          "id": "https://neodb.social/book/7RscqcgF5GYmoCiD5JJ1jv",
+          "uuid": "7RscqcgF5GYmoCiD5JJ1jv",
+          "url": "/book/7RscqcgF5GYmoCiD5JJ1jv",
+          "api_url": "/api/book/7RscqcgF5GYmoCiD5JJ1jv",
+          "category": "book",
+          "parent_uuid": null,
+          "display_title": "Slaughterhouse Five Unabridged",
+          "external_resources": [
+            {
+              "url": "https://book.douban.com/subject/4331485/"
+            }
+          ]
+        },
+        "created_time": "2025-05-20T23:08:29.830Z",
+        "comment_text": null,
+        "rating_grade": null,
+        "tags": []
+      },
+      {
+        "shelf_type": "progress",
+        "visibility": 0,
         "post_id": "443398525187345288",
         "item": {
           "type": "Edition",
