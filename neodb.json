@@ -1307,12 +1307,12 @@
         "post_id": "447792744563534400",
         "item": {
           "type": "Edition",
-          "title": "Slaughterhouse Five Unabridged",
+          "title": "Slaughterhouse-Five, or, The Children's Crusade: A Duty-Dance with Death",
           "description": "Kurt Vonnegut's absurdist classic  Slaughterhouse-Five  introduces us to Billy Pilgrim, a man who becomes 'unstuck in time' after he is abducted by aliens from the planet Tralfamadore. In a plot-scrambling display of virtuosity, we follow Pilgrim simultaneously through all phases of his life, concentrating on his (and Vonnegut's) shattering experience as an American prisoner of war who witnesses the firebombing of Dresden.      Slaughterhouse-Five  is not only Vonnegut's most powerful book, it is also as important as any written since 1945. Like Catch-22, it fashions the author's experiences in the Second World War into an eloquent and deeply funny plea against butchery in the service of authority.  Slaughterhouse-Five  boasts the same imagination, humanity, and gleeful appreciation of the absurd found in Vonnegut's other works, but the book's basis in rock-hard, tragic fact gives it unique poignancy -- and humor.",
           "localized_title": [
             {
               "lang": "en",
-              "text": "Slaughterhouse Five Unabridged"
+              "text": "Slaughterhouse-Five, or, The Children's Crusade: A Duty-Dance with Death"
             }
           ],
           "localized_description": [
@@ -1355,7 +1355,7 @@
           "api_url": "/api/book/7RscqcgF5GYmoCiD5JJ1jv",
           "category": "book",
           "parent_uuid": null,
-          "display_title": "Slaughterhouse Five Unabridged",
+          "display_title": "Slaughterhouse-Five, or, The Children's Crusade: A Duty-Dance with Death",
           "external_resources": [
             {
               "url": "https://book.douban.com/subject/4331485/"
