@@ -5174,13 +5174,13 @@
             }
           ],
           "cover_image_url": "https://neodb.social/m/item/movie/2025/03/09/3e3fa59e-e345-4f24-b75e-1141f82942f6.jpg",
-          "rating": 8.1,
-          "rating_count": 69,
+          "rating": 8,
+          "rating_count": 70,
           "rating_distribution": [
             0,
             1,
-            13,
-            53,
+            12,
+            54,
             31
           ],
           "tags": [
