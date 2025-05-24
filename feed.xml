@@ -4,9 +4,16 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 24 May 2025 15:04:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 May 2025 17:04:20 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2025]]></copyright>
+        <item>
+            <title><![CDATA[Comment]]></title>
+            <description><![CDATA[<p>This week for the first time I’ve started riding a single speed bicycle. I’m planning to try clipping shoes next week, and maybe trying to go <a href="https://mastodon.social/tags/fixie" class="mention hashtag" rel="tag">#<span>fixie</span></a> the week after that. Haven’t had this much fun in a bicycle in a while!</p>]]></description>
+            <link>https://mastodon.social/@villasbc/114563817755051582</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/114563817755051582</guid>
+            <pubDate>Sat, 24 May 2025 16:45:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Comment]]></title>
             <description><![CDATA[<p>“Thinking budget” is such an amusingly ominous name for a feature.</p><p>“Yes I want you to think this through but not too much because that would be expensive“ as a feature for a thing that is already the cheap version of something that is already sometimes quite inconsequential and unreliable.</p><p><a href="https://mastodon.social/tags/GoogleIO2025" class="mention hashtag" rel="tag">#<span>GoogleIO2025</span></a></p>]]></description>
@@ -265,13 +272,6 @@
             <link>https://mastodon.social/@villasbc/114042890266867091</link>
             <guid isPermaLink="true">https://mastodon.social/@villasbc/114042890266867091</guid>
             <pubDate>Fri, 21 Feb 2025 16:46:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Comment]]></title>
-            <description><![CDATA[<p>Great piece.</p><p><a href="https://thewalrus.ca/common-sense-politics" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">thewalrus.ca/common-sense-poli</span><span class="invisible">tics</span></a></p><p>How to reconcile the anti-intellectualism that serves as a foundation for the denial of science with the apparent technocratic positivism behind the defense of tech oligarchs?</p><p>The answer is grievance. <a href="https://mastodon.social/tags/Politics" class="mention hashtag" rel="tag">#<span>Politics</span></a> of resentment. An angry bunch is an engaged bunch.</p>]]></description>
-            <link>https://mastodon.social/@villasbc/114038646095661445</link>
-            <guid isPermaLink="true">https://mastodon.social/@villasbc/114038646095661445</guid>
-            <pubDate>Thu, 20 Feb 2025 22:47:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Media]]></title>
