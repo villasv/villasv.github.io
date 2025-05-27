@@ -4,9 +4,16 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 27 May 2025 19:04:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 May 2025 21:04:58 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2025]]></copyright>
+        <item>
+            <title><![CDATA[Comment]]></title>
+            <description><![CDATA[<p>re <span class="h-card" translate="no"><a href="https://mas.to/@TechConnectify" class="u-url mention">@<span>TechConnectify</span></a></span> latest video on CC &amp; Subtitles; Speaking of YouTube captions not having positioning as good as closed captions used to have...</p><p>How about those captions being layered on top of the video in a way not compatible with Picture-In-Picture? 🙃 </p><p>(I think this varies across browsers and video platforms but anyway, here I am wondering when my particular combination will be fixed.)</p>]]></description>
+            <link>https://mastodon.social/@villasbc/114581620957479611</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/114581620957479611</guid>
+            <pubDate>Tue, 27 May 2025 20:13:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Comment]]></title>
             <description><![CDATA[<p>This week for the first time I’ve started riding a single speed bicycle. I’m planning to try clipping shoes next week, and maybe trying to go <a href="https://mastodon.social/tags/fixie" class="mention hashtag" rel="tag">#<span>fixie</span></a> the week after that. Haven’t had this much fun in a bicycle in a while!</p>]]></description>
@@ -265,13 +272,6 @@
             <link>https://mastodon.social/@villasbc/114082696149109230</link>
             <guid isPermaLink="true">https://mastodon.social/@villasbc/114082696149109230</guid>
             <pubDate>Fri, 28 Feb 2025 17:29:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Comment]]></title>
-            <description><![CDATA[<p>“This government does not represent us”</p><p>Yes it does, it’s literally called representative democracy.</p><p>I have been there before (Bolsonaro), and while I get the <a href="https://mastodon.social/tags/NotMyPresident" class="mention hashtag" rel="tag">#<span>NotMyPresident</span></a> chant, this cannot be used to excuse oneself from the consequences of these representatives.</p><p>“I did not vote for this” isn’t a free pass, it’s the bare minimum.</p>]]></description>
-            <link>https://mastodon.social/@villasbc/114042890266867091</link>
-            <guid isPermaLink="true">https://mastodon.social/@villasbc/114042890266867091</guid>
-            <pubDate>Fri, 21 Feb 2025 16:46:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Media]]></title>
