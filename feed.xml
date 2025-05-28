@@ -4,9 +4,16 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 28 May 2025 19:04:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 May 2025 21:04:56 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2025]]></copyright>
+        <item>
+            <title><![CDATA[Finished reading]]></title>
+            <description><![CDATA[<p><a href="https://neodb.social/~neodb~/book/2AL2Q5OEDBJY4aibxm5jos" rel="nofollow">The Burnout Society, 4 out of 10</a>  <br>Surprisingly uninteresting, quite a disappointment. The book is a social critique written as a philosophy graduate essay: a lot of time is spent on stating analogies to describe modern society defended by other philosophers only to say that the description is inaccurate because so and so. The book has some pillar concepts related to &quot;achievement society&quot; but routinely reaches for unnecessary analogies to immune systems or alternative framings like positivity/negativity. The audience is people who read literary criticism instead of people who do want to understand burnout society.</p><p>The book is outright boring. It reads more like a rant with great vocabulary than a real thesis being defended because ideas are thrown at you in a way that rhyme instead of in a way that connects them to an argumentative chain. Statements follow statements. X is Y, that is like so, this is like that, over and over.<br></p>]]></description>
+            <link>https://neodb.social/@villasv/posts/450633217346997120/</link>
+            <guid isPermaLink="true">https://neodb.social/@villasv/posts/450633217346997120/</guid>
+            <pubDate>Wed, 28 May 2025 19:15:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Started watching]]></title>
             <description><![CDATA[<p><a href="https://neodb.social/~neodb~/tv/season/6xJbO1HJFxEQbt8ma8aaMv" rel="nofollow">Schitt&#x27;s Creek Season 3</a> </p><p></p>]]></description>
@@ -295,13 +302,6 @@
             <link>https://pxlfd.ca/p/victor/790660117523971543</link>
             <guid isPermaLink="true">https://pxlfd.ca/p/victor/790660117523971543</guid>
             <pubDate>Thu, 30 Jan 2025 19:21:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Finished watching]]></title>
-            <description><![CDATA[<p><a href="https://neodb.social/~neodb~/tv/season/5S1WywkdJVLirtcTOyjlym" rel="nofollow">Kim&#x27;s Convenience Season 1, 7 out of 10</a>  <br>Lighthearted and mostly wholesome, though a few bits are excessively silly. A great series to just hit play and relax on the sofa.<br></p>]]></description>
-            <link>https://neodb.social/@villasv/posts/398201276959367240/</link>
-            <guid isPermaLink="true">https://neodb.social/@villasv/posts/398201276959367240/</guid>
-            <pubDate>Sat, 04 Jan 2025 02:49:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
