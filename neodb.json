@@ -7145,6 +7145,69 @@
       {
         "shelf_type": "progress",
         "visibility": 0,
+        "post_id": "450629983135398408",
+        "item": {
+          "type": "TVSeason",
+          "title": "富家穷路 第三季",
+          "description": "故事描述一名开音像店的亿万富翁Johnny Rose（Eugene Levy）和他的肥皂剧明星妻子Moira（Catherine O’Hara）、嬉皮士儿子David（Daniel Levy）、交际花女儿Alexis（Annie Murphy）在一夜之间破产。这家人不得不离开已经习惯了的奢华生活，回到乡下去「从零开始」。好在他们还有一点私人领地：当年他们抱着好玩的心态在最偏僻的角落里买下一座几乎没有人烟的小镇（镇名即本剧标题「施米特湾」），现在这里成了他们仅存的落脚点。他们必须尽快适应新的贫穷生活，找到家庭的真谛……但这个穷乡僻壤的地方让他们感觉「限制」太多！",
+          "localized_title": [
+            {
+              "lang": "zh-cn",
+              "text": "富家穷路 第三季"
+            },
+            {
+              "lang": "en",
+              "text": "Schitt's Creek"
+            }
+          ],
+          "localized_description": [
+            {
+              "lang": "zh-cn",
+              "text": "故事描述一名开音像店的亿万富翁Johnny Rose（Eugene Levy）和他的肥皂剧明星妻子Moira（Catherine O’Hara）、嬉皮士儿子David（Daniel Levy）、交际花女儿Alexis（Annie Murphy）在一夜之间破产。这家人不得不离开已经习惯了的奢华生活，回到乡下去「从零开始」。好在他们还有一点私人领地：当年他们抱着好玩的心态在最偏僻的角落里买下一座几乎没有人烟的小镇（镇名即本剧标题「施米特湾」），现在这里成了他们仅存的落脚点。他们必须尽快适应新的贫穷生活，找到家庭的真谛……但这个穷乡僻壤的地方让他们感觉「限制」太多！"
+            }
+          ],
+          "cover_image_url": "https://neodb.social/m/movie/2021/11/27e0716565-0d55-45d9-8ccd-fbdc6e40270d.webp",
+          "rating": 8.6,
+          "rating_count": 23,
+          "rating_distribution": [
+            0,
+            0,
+            13,
+            43,
+            43
+          ],
+          "tags": [
+            "2017",
+            "加剧",
+            "加拿大",
+            "喜剧",
+            "家庭",
+            "电视剧",
+            "美剧",
+            "美国"
+          ],
+          "brief": "故事描述一名开音像店的亿万富翁Johnny Rose（Eugene Levy）和他的肥皂剧明星妻子Moira（Catherine O’Hara）、嬉皮士儿子David（Daniel Levy）、交际花女儿Alexis（Annie Murphy）在一夜之间破产。这家人不得不离开已经习惯了的奢华生活，回到乡下去「从零开始」。好在他们还有一点私人领地：当年他们抱着好玩的心态在最偏僻的角落里买下一座几乎没有人烟的小镇（镇名即本剧标题「施米特湾」），现在这里成了他们仅存的落脚点。他们必须尽快适应新的贫穷生活，找到家庭的真谛……但这个穷乡僻壤的地方让他们感觉「限制」太多！",
+          "id": "https://neodb.social/tv/season/6xJbO1HJFxEQbt8ma8aaMv",
+          "uuid": "6xJbO1HJFxEQbt8ma8aaMv",
+          "url": "/tv/season/6xJbO1HJFxEQbt8ma8aaMv",
+          "api_url": "/api/tv/season/6xJbO1HJFxEQbt8ma8aaMv",
+          "category": "tv",
+          "parent_uuid": "7a1EEj7ZcZxX73KY2y6AlC",
+          "display_title": "富家穷路 第三季",
+          "external_resources": [
+            {
+              "url": "https://movie.douban.com/subject/26970646/"
+            }
+          ]
+        },
+        "created_time": "2025-05-28T19:02:40.197Z",
+        "comment_text": null,
+        "rating_grade": null,
+        "tags": []
+      },
+      {
+        "shelf_type": "progress",
+        "visibility": 0,
         "post_id": "443386298869333336",
         "item": {
           "type": "TVSeason",
@@ -7295,11 +7358,13 @@
         "comment_text": "Should this series have ended a while ago? Probably. Are we getting tired of the series trying to hype up yet another conflict using a closing shot of June looking at the camera? Maybe. But we're still here for it, and I think the overall arc of the story is developing in a sensible direction (>!USA losing to Gilead means Canada starts capitulating with the winners!<). I just wish that the whole June & Blaine didn't take so much of a central role in the story, it's not an interesting foundation for the plot.",
         "rating_grade": null,
         "tags": []
-      },
+      }
+    ],
+    "complete": [
       {
-        "shelf_type": "progress",
+        "shelf_type": "complete",
         "visibility": 0,
-        "post_id": "443385289163850584",
+        "post_id": "450629954896269640",
         "item": {
           "type": "TVSeason",
           "title": "富家穷路 第二季",
@@ -7355,13 +7420,11 @@
             }
           ]
         },
-        "created_time": "2025-05-08T19:14:50.582Z",
-        "comment_text": null,
+        "created_time": "2025-05-28T19:02:33.476Z",
+        "comment_text": "Good lighthearted fun. John and David continue to be interesting characters, Alexis is given some more development, but Moira is still... that. I wish they tried less hard to make Roland so disgusting. Overall a slight improvement over the first season, with an hopeful ending that did feel a little forced.",
         "rating_grade": null,
         "tags": []
-      }
-    ],
-    "complete": [
+      },
       {
         "shelf_type": "complete",
         "visibility": 0,

@@ -4,9 +4,23 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 28 May 2025 17:05:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 May 2025 19:04:38 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2025]]></copyright>
+        <item>
+            <title><![CDATA[Started watching]]></title>
+            <description><![CDATA[<p><a href="https://neodb.social/~neodb~/tv/season/6xJbO1HJFxEQbt8ma8aaMv" rel="nofollow">Schitt&#x27;s Creek Season 3</a> </p><p></p>]]></description>
+            <link>https://neodb.social/@villasv/posts/450629983135398408/</link>
+            <guid isPermaLink="true">https://neodb.social/@villasv/posts/450629983135398408/</guid>
+            <pubDate>Wed, 28 May 2025 19:02:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Finished watching]]></title>
+            <description><![CDATA[<p><a href="https://neodb.social/~neodb~/tv/season/5I1OUC0C0ZSFFxroExiWb0" rel="nofollow">Schitt&#x27;s Creek Season 2</a> <br>Good lighthearted fun. John and David continue to be interesting characters, Alexis is given some more development, but Moira is still... that. I wish they tried less hard to make Roland so disgusting. Overall a slight improvement over the first season, with an hopeful ending that did feel a little forced.<br></p>]]></description>
+            <link>https://neodb.social/@villasv/posts/450629954896269640/</link>
+            <guid isPermaLink="true">https://neodb.social/@villasv/posts/450629954896269640/</guid>
+            <pubDate>Wed, 28 May 2025 19:02:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Comment]]></title>
             <description><![CDATA[<p>re <span class="h-card" translate="no"><a href="https://mas.to/@TechConnectify" class="u-url mention">@<span>TechConnectify</span></a></span> latest video on CC &amp; Subtitles; Speaking of YouTube captions not having positioning as good as closed captions used to have...</p><p>How about those captions being layered on top of the video in a way not compatible with Picture-In-Picture? 🙃 </p><p>(I think this varies across browsers and video platforms but anyway, here I am wondering when my particular combination will be fixed.)</p>]]></description>
@@ -253,13 +267,6 @@
             <pubDate>Tue, 18 Mar 2025 00:00:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Finished watching]]></title>
-            <description><![CDATA[<p><a href="https://neodb.social/~neodb~/tv/season/5nmZqDUbuONmelFYvlrofd" rel="nofollow">Kim&#x27;s Convenience Season 4, 6 out of 10</a>  <br>The writing has its ups and downs and the portrayal of how academia deals with minorities codes some strange red flags... But the series marches on, mostly lighthearted and mostly wholesome, still sometimes a bit too silly, occasionally too stereotypical.<br></p>]]></description>
-            <link>https://neodb.social/@villasv/posts/420720232367065616/</link>
-            <guid isPermaLink="true">https://neodb.social/@villasv/posts/420720232367065616/</guid>
-            <pubDate>Fri, 07 Mar 2025 06:12:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Comment]]></title>
             <description><![CDATA[<p>Every day reading <a href="https://mastodon.social/tags/CanPoli" class="mention hashtag" rel="tag">#<span>CanPoli</span></a> and <a href="https://mastodon.social/tags/USPol" class="mention hashtag" rel="tag">#<span>USPol</span></a> news starts an exercise of trying to make sense of the unreasonable.</p><p>Is the strategy to dissolve the conspiratorial fame of conservatives by behaving so randomly dangerous that everyone else gets used to look for &quot;dark money&quot; and &quot;cabal of elites&quot; to process this madness?</p><p>I&#39;m already crafting meta-conspiracies.</p>]]></description>
             <link>https://mastodon.social/@villasbc/114106072823294932</link>
@@ -294,13 +301,6 @@
             <description><![CDATA[<p><a href="https://neodb.social/~neodb~/tv/season/5S1WywkdJVLirtcTOyjlym" rel="nofollow">Kim&#x27;s Convenience Season 1, 7 out of 10</a>  <br>Lighthearted and mostly wholesome, though a few bits are excessively silly. A great series to just hit play and relax on the sofa.<br></p>]]></description>
             <link>https://neodb.social/@villasv/posts/398201276959367240/</link>
             <guid isPermaLink="true">https://neodb.social/@villasv/posts/398201276959367240/</guid>
-            <pubDate>Sat, 04 Jan 2025 02:49:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Finished watching]]></title>
-            <description><![CDATA[<p><a href="https://neodb.social/~neodb~/tv/season/5S1WywkdJVLirtcTOyjlym" rel="nofollow">Kim&#x27;s Convenience Season 1, 6 out of 10</a>  <br>Lighthearted and mostly wholesome, though a few bits are excessively silly. A great series to just hit play and relax on the sofa.<br></p>]]></description>
-            <link>https://neodb.social/@villasv/posts/398201276961173072/</link>
-            <guid isPermaLink="true">https://neodb.social/@villasv/posts/398201276961173072/</guid>
             <pubDate>Sat, 04 Jan 2025 02:49:42 GMT</pubDate>
         </item>
     </channel>
