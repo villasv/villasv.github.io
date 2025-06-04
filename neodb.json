@@ -4747,6 +4747,10 @@
             {
               "lang": "zh-tw",
               "text": "艾諾拉"
+            },
+            {
+              "lang": "zh-cn",
+              "text": "艾诺拉(台)"
             }
           ],
           "localized_description": [
@@ -4781,11 +4785,19 @@
             {
               "lang": "zh-tw",
               "text": "榮獲本屆坎城影展金棕櫚獎。一位來自布魯克林的年輕性工作者，她遇見了一位富豪的兒子並衝動地嫁給了他。當這個消息傳到俄羅斯時，她的童話故事將受到威脅，因為富豪父母決定前往紐約取消這段婚姻。"
+            },
+            {
+              "lang": "en",
+              "text": "A young sex worker from Brooklyn gets her chance at a Cinderella story when she meets and impulsively marries the son of an oligarch. Once the news reaches Russia, her fairytale is threatened as his parents set out to get the marriage annulled."
+            },
+            {
+              "lang": "zh-cn",
+              "text": "在布鲁克林工作的阿诺拉邂逅俄罗斯商界寡头之子伊万，冲动中嫁给了他，幻想自己成了灰姑娘。然而，伊万的父母得知后立刻赶到纽约，强行逼迫两人离婚。在一系列风波后，阿诺拉的美梦最终破灭。"
             }
           ],
           "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/09/13/a30bf2f3-4f79-43ef-b22f-58ebc3fd8aae.jpg",
           "rating": 6.4,
-          "rating_count": 299,
+          "rating_count": 300,
           "rating_distribution": [
             3,
             10,
@@ -4824,6 +4836,9 @@
           "parent_uuid": null,
           "display_title": "阿诺拉",
           "external_resources": [
+            {
+              "url": "https://crititeca.illustietor.com/movie/7KWnWWVFeaLnu5Q4GrLrhZ"
+            },
             {
               "url": "https://www.imdb.com/title/tt28607951/"
             },
