@@ -1625,7 +1625,7 @@
           ]
         },
         "created_time": "2025-05-28T19:15:31.282Z",
-        "comment_text": "Surprisingly uninteresting, quite a disappointment. The book is a social critique written as a philosophy graduate essay: a lot of time is spent on stating analogies to describe modern society defended by other philosophers only to say that the description is inaccurate because so and so. The book has some pillar concepts related to \"achievement society\" but routinely reaches for unnecessary analogies to immune systems or alternative framings like positivity/negativity. The audience is people who read literary criticism instead of people who do want to understand burnout society.\r\n\r\nThe book is outright boring. It reads more like a rant with great vocabulary than a real thesis being defended because ideas are thrown at you in a way that rhyme instead of in a way that connects them to an argumentative chain. Statements follow statements. X is Y, that is like so, this is like that, over and over.",
+        "comment_text": "Surprisingly uninteresting, quite a disappointment. The book is a social critique written as a philosophy graduate essay: a lot of time is spent on stating analogies to describe modern society defended by other philosophers only to say that the description is inaccurate because so and so. The book has some pillar concepts related to \"achievement society\" but routinely reaches for unnecessary analogies to immune systems or alternative framings like positivity/negativity. The audience is people who read Heidegger instead of people who do want to understand burnout society.",
         "rating_grade": 4,
         "tags": []
       },
@@ -2037,14 +2037,14 @@
             }
           ],
           "cover_image_url": "https://neodb.social/m/book/2021/10/23618296ae-c40a-4c7e-96ff-ab28bbdf2b72.jpg",
-          "rating": 9.2,
-          "rating_count": 9,
+          "rating": 9.1,
+          "rating_count": 10,
           "rating_distribution": [
             0,
             0,
             0,
-            33,
-            66
+            40,
+            60
           ],
           "tags": [
             "parenting",
@@ -4406,12 +4406,12 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/movie/2025/03/12/dd6c73e9-ab71-4ff3-8f3d-fbc38d3c16c5.webp",
           "rating": 6.7,
-          "rating_count": 87,
+          "rating_count": 88,
           "rating_distribution": [
             3,
-            8,
-            31,
-            51,
+            7,
+            30,
+            52,
             5
           ],
           "tags": [
@@ -4641,7 +4641,7 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2025/01/17/c3980bb4-8335-4f47-a839-3ce094856a54.jpg",
           "rating": 6.8,
-          "rating_count": 373,
+          "rating_count": 374,
           "rating_distribution": [
             4,
             9,
@@ -4797,7 +4797,7 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/09/13/a30bf2f3-4f79-43ef-b22f-58ebc3fd8aae.jpg",
           "rating": 6.4,
-          "rating_count": 301,
+          "rating_count": 302,
           "rating_distribution": [
             3,
             10,
@@ -5800,7 +5800,7 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/movie/2024/10/28/13dfbfcd-c252-4f40-96da-aabdade67aee.jpg",
           "rating": 7.4,
-          "rating_count": 136,
+          "rating_count": 137,
           "rating_distribution": [
             1,
             0,
@@ -6950,7 +6950,7 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/movie/2023/05/31/0904d82a-cd0e-4526-91cb-0c7d98d66d94.jpg",
           "rating": 7.8,
-          "rating_count": 343,
+          "rating_count": 344,
           "rating_distribution": [
             0,
             2,
@@ -7898,7 +7898,7 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/tmdb_tvseason/2025/03/02/6d3b4f7f-5d4a-4704-86ae-cfbb5ea3effd.jpg",
           "rating": 7.9,
-          "rating_count": 165,
+          "rating_count": 166,
           "rating_distribution": [
             0,
             2,
