@@ -4641,7 +4641,7 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2025/01/17/c3980bb4-8335-4f47-a839-3ce094856a54.jpg",
           "rating": 6.8,
-          "rating_count": 374,
+          "rating_count": 375,
           "rating_distribution": [
             4,
             9,
@@ -7333,14 +7333,14 @@
             }
           ],
           "cover_image_url": "https://neodb.social/m/item/tv/2025/04/10/44dee2a9-4d3e-4ddb-8da4-f1965e1b6f83.jpg",
-          "rating": 8.4,
-          "rating_count": 8,
+          "rating": 8.6,
+          "rating_count": 9,
           "rating_distribution": [
             0,
             0,
-            25,
-            12,
-            62
+            22,
+            11,
+            66
           ],
           "tags": [
             "2025",
