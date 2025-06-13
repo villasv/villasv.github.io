@@ -4,9 +4,16 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 13 Jun 2025 01:33:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Jun 2025 05:05:35 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2025]]></copyright>
+        <item>
+            <title><![CDATA[Comment]]></title>
+            <description><![CDATA[<p>Is it possible to <a href="https://mastodon.social/tags/livestream" class="mention hashtag" rel="tag">#<span>livestream</span></a> directly to <a href="https://mastodon.social/tags/PeerTube" class="mention hashtag" rel="tag">#<span>PeerTube</span></a> the point of view of a Meta RayBan? Hacky and contrived options are fair game, so long a new camera is not required</p>]]></description>
+            <link>https://mastodon.social/@villasbc/114673915141842408</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/114673915141842408</guid>
+            <pubDate>Fri, 13 Jun 2025 03:24:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Finished reading]]></title>
             <description><![CDATA[<p><a href="https://neodb.social/~neodb~/book/2AL2Q5OEDBJY4aibxm5jos" rel="nofollow">The Burnout Society, 4 out of 10</a>  <br>Surprisingly uninteresting, quite a disappointment. The book is a social critique written as a philosophy graduate essay: a lot of time is spent on stating analogies to describe modern society defended by other philosophers only to say that the description is inaccurate because so and so. The book has some pillar concepts related to &quot;achievement society&quot; but routinely reaches for unnecessary analogies to immune systems or alternative framings like positivity/negativity. The audience is people who read Heidegger instead of people who do want to understand burnout society.<br></p>]]></description>
@@ -279,13 +286,6 @@
             <link>https://mastodon.social/@villasbc/114106072823294932</link>
             <guid isPermaLink="true">https://mastodon.social/@villasbc/114106072823294932</guid>
             <pubDate>Tue, 04 Mar 2025 20:34:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Comment]]></title>
-            <description><![CDATA[<p>Fifth day in Brazil.</p><p>Being an expat is ever stranger. I do feel home. The birds, the food, smiles, slangs, the plants, flowers, sand. The car I used to drive. Muscle memory kicks in. It all feels like it should. Even the clouds look as if they had been broken and are now fixed.</p><p>But I also feel like a visitor. The heat, the traffic, inequality. It’s the same as always, but also worse than it was. It’s strange to so easily overhear, to invisibly connect so fast.</p>]]></description>
-            <link>https://mastodon.social/@villasbc/114082696149109230</link>
-            <guid isPermaLink="true">https://mastodon.social/@villasbc/114082696149109230</guid>
-            <pubDate>Fri, 28 Feb 2025 17:29:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Media]]></title>
