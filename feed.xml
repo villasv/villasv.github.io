@@ -4,9 +4,16 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 17 Jun 2025 17:05:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Jun 2025 19:04:36 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2025]]></copyright>
+        <item>
+            <title><![CDATA[Comment]]></title>
+            <description><![CDATA[<p><a href="https://mastodon.social/tags/Meta" class="mention hashtag" rel="tag">#<span>Meta</span></a> is so addicted to inflicting addiction that they inaugurated a UI that I’ve never seen before: scroll between tabs. They might not have invented it, but they sure executed it well.</p><p>So now even a benign landing page morphs into infinite scrolling without you explicitly switching to the time-sink tab</p>]]></description>
+            <link>https://mastodon.social/@villasbc/114699425692517781</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/114699425692517781</guid>
+            <pubDate>Tue, 17 Jun 2025 15:32:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Comment]]></title>
             <description><![CDATA[<p>Is it possible to <a href="https://mastodon.social/tags/livestream" class="mention hashtag" rel="tag">#<span>livestream</span></a> directly to <a href="https://mastodon.social/tags/PeerTube" class="mention hashtag" rel="tag">#<span>PeerTube</span></a> the point of view of a Meta RayBan? Hacky and contrived options are fair game, so long a new camera is not required</p>]]></description>
@@ -279,13 +286,6 @@
             <link>https://mastodon.social/@villasbc/114180492440770415</link>
             <guid isPermaLink="true">https://mastodon.social/@villasbc/114180492440770415</guid>
             <pubDate>Tue, 18 Mar 2025 00:00:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Comment]]></title>
-            <description><![CDATA[<p>Every day reading <a href="https://mastodon.social/tags/CanPoli" class="mention hashtag" rel="tag">#<span>CanPoli</span></a> and <a href="https://mastodon.social/tags/USPol" class="mention hashtag" rel="tag">#<span>USPol</span></a> news starts an exercise of trying to make sense of the unreasonable.</p><p>Is the strategy to dissolve the conspiratorial fame of conservatives by behaving so randomly dangerous that everyone else gets used to look for &quot;dark money&quot; and &quot;cabal of elites&quot; to process this madness?</p><p>I&#39;m already crafting meta-conspiracies.</p>]]></description>
-            <link>https://mastodon.social/@villasbc/114106072823294932</link>
-            <guid isPermaLink="true">https://mastodon.social/@villasbc/114106072823294932</guid>
-            <pubDate>Tue, 04 Mar 2025 20:34:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Media]]></title>
