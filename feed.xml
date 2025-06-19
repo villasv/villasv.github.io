@@ -4,9 +4,16 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 19 Jun 2025 05:05:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Jun 2025 07:05:42 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2025]]></copyright>
+        <item>
+            <title><![CDATA[Comment]]></title>
+            <description><![CDATA[<p>Looking back, it turns out that the fans were right when they saw a bleak outlook of humankind’s future the day Lee Sedol lost to AlphaGo in 2016</p>]]></description>
+            <link>https://mastodon.social/@villasbc/114708466431760432</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/114708466431760432</guid>
+            <pubDate>Thu, 19 Jun 2025 05:51:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Comment]]></title>
             <description><![CDATA[<p><a href="https://mastodon.social/tags/Meta" class="mention hashtag" rel="tag">#<span>Meta</span></a> is so addicted to inflicting addiction that they inaugurated a UI that I’ve never seen before: scroll between tabs. They might not have invented it, but they sure executed it well.</p><p>So now even a benign landing page morphs into infinite scrolling without you explicitly switching to the time-sink tab</p>]]></description>
@@ -279,13 +286,6 @@
             <link>https://mastodon.social/@villasbc/114195299710019590</link>
             <guid isPermaLink="true">https://mastodon.social/@villasbc/114195299710019590</guid>
             <pubDate>Thu, 20 Mar 2025 14:46:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Comment]]></title>
-            <description><![CDATA[<p><a href="https://mastodon.social/tags/BuildInPublic" class="mention hashtag" rel="tag">#<span>BuildInPublic</span></a></p><p>Thinking of starting side project number 623737278, while still keeping my current one involving my IndieWeb presence. This is usually trouble as my focus tends to resist dividing, but here we go.</p><p>I never successfully launched a mobile app, but I hope nowadays the learning curve is less steep. Probably going with <a href="https://mastodon.social/tags/ReactNative" class="mention hashtag" rel="tag">#<span>ReactNative</span></a> and expo.</p>]]></description>
-            <link>https://mastodon.social/@villasbc/114180492440770415</link>
-            <guid isPermaLink="true">https://mastodon.social/@villasbc/114180492440770415</guid>
-            <pubDate>Tue, 18 Mar 2025 00:00:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Media]]></title>
