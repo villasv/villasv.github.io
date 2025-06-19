@@ -4,9 +4,23 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 19 Jun 2025 21:04:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Jun 2025 23:05:33 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2025]]></copyright>
+        <item>
+            <title><![CDATA[Comment]]></title>
+            <description><![CDATA[<p>The reason I&#39;m pretty chill is that Cybernews cried wold with crazy numbers like that in January, and it turned out to be mostly a nothingburger</p><p><a href="https://se.security.ntt/en/moab-data-leak-exposes-global-vulnerability-to-credential-stuffing/" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">se.security.ntt/en/moab-data-l</span><span class="invisible">eak-exposes-global-vulnerability-to-credential-stuffing/</span></a></p>]]></description>
+            <link>https://mastodon.social/@villasbc/114712511297369846</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/114712511297369846</guid>
+            <pubDate>Thu, 19 Jun 2025 23:00:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Comment]]></title>
+            <description><![CDATA[<p>Re the 16 bn passwords leak.</p><p>You don&#39;t really need to go update your passwords just yet, wait at least a day or so before <a href="https://mastodon.social/tags/InfoSec" class="mention hashtag" rel="tag">#<span>InfoSec</span></a> people verify the claims and reach consensus.</p><p>If you know you do have weak passwords, now is as good as a time as ever to go and update them. Otherwise, nothing to see here just yet.</p>]]></description>
+            <link>https://mastodon.social/@villasbc/114712475801059111</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/114712475801059111</guid>
+            <pubDate>Thu, 19 Jun 2025 22:51:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Comment]]></title>
             <description><![CDATA[<p>Looking back, it turns out that the fans were right when they saw a bleak outlook of humankind’s future the day Lee Sedol lost to AlphaGo in 2016</p>]]></description>
@@ -272,20 +286,6 @@
             <link>https://mastodon.social/@villasbc/114254580736322147</link>
             <guid isPermaLink="true">https://mastodon.social/@villasbc/114254580736322147</guid>
             <pubDate>Mon, 31 Mar 2025 02:02:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Comment]]></title>
-            <description><![CDATA[<p>Using [sic] when quoting people in positions of power is probably the most delightful and socially acceptable way to punch upwards, even if it brings a tint of academicism. It&#39;s a guilty pleasure.</p><p>Done expertly, it&#39;s humiliating. Reading a well timed latin expression for &quot;they&#39;re dumb, not me!&quot; is the respite I needed while consuming my weekly poisonous dose of <a href="https://mastodon.social/tags/USPol" class="mention hashtag" rel="tag">#<span>USPol</span></a>.</p><p>Thanks, Jeffrey Goldberg.</p>]]></description>
-            <link>https://mastodon.social/@villasbc/114219165476995956</link>
-            <guid isPermaLink="true">https://mastodon.social/@villasbc/114219165476995956</guid>
-            <pubDate>Mon, 24 Mar 2025 19:55:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Comment]]></title>
-            <description><![CDATA[<p>“Here is a chart”</p><p>🥹 welcome back <span class="h-card" translate="no"><a href="https://mstdn.ca/@j_mcelroy" class="u-url mention">@<span>j_mcelroy</span></a></span>, missed you</p>]]></description>
-            <link>https://mastodon.social/@villasbc/114195299710019590</link>
-            <guid isPermaLink="true">https://mastodon.social/@villasbc/114195299710019590</guid>
-            <pubDate>Thu, 20 Mar 2025 14:46:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Media]]></title>
