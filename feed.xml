@@ -4,9 +4,16 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 23 Jun 2025 19:04:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Jun 2025 21:05:04 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2025]]></copyright>
+        <item>
+            <title><![CDATA[Comment]]></title>
+            <description><![CDATA[<p>Got assigned one of those big corp recurring legal trainings today, and re-learned the guidance of preferring &quot;sensitive&quot; conversations over the phone or in person as to not generate a paper trail that can be &quot;misconstrued if taken out of context, leading to unfair press coverage&quot;.</p><p>Big corporations are a mistake.</p>]]></description>
+            <link>https://mastodon.social/@villasbc/114734625978259500</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/114734625978259500</guid>
+            <pubDate>Mon, 23 Jun 2025 20:44:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Comment]]></title>
             <description><![CDATA[<p>I wonder why is the correlation so high between mean/disgusting comments in Lemmy with that user being from the sh.itjust.works instance instead of lemmy.ca</p><p>There has to be something in there about branding and language... maybe just a correlation with tech white dudes. Or maybe the lemmy.ca moderators are just incredibly effective in comparison.</p>]]></description>
@@ -244,13 +251,6 @@
             <link>https://mastodon.social/@villasbc/114344038524601074</link>
             <guid isPermaLink="true">https://mastodon.social/@villasbc/114344038524601074</guid>
             <pubDate>Tue, 15 Apr 2025 21:12:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Comment]]></title>
-            <description><![CDATA[<p>This <a href="https://mastodon.social/tags/ChatGPT" class="mention hashtag" rel="tag">#<span>ChatGPT</span></a> tooltip: &quot;Think before responding&quot;.</p><p>This is:<br />- not descriptive what the feature really does;<br />- misleading because why would I ever want a thoughtless response;<br />- not accurate because &quot;think&quot; is a vague and amorphous concept here;</p><p>Was the goal here to just have a tooltip, whatever it says? Or is this a joke on users getting less used to think critically for themselves? Guess I&#39;ll have to ask that - with &#39;Reason&#39; turned on.</p>]]></description>
-            <link>https://mastodon.social/@villasbc/114343985714664236</link>
-            <guid isPermaLink="true">https://mastodon.social/@villasbc/114343985714664236</guid>
-            <pubDate>Tue, 15 Apr 2025 20:59:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Finished reading]]></title>
