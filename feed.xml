@@ -4,9 +4,16 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 23 Jun 2025 17:05:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Jun 2025 19:04:34 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2025]]></copyright>
+        <item>
+            <title><![CDATA[Comment]]></title>
+            <description><![CDATA[<p>I wonder why is the correlation so high between mean/disgusting comments in Lemmy with that user being from the sh.itjust.works instance instead of lemmy.ca</p><p>There has to be something in there about branding and language... maybe just a correlation with tech white dudes. Or maybe the lemmy.ca moderators are just incredibly effective in comparison.</p>]]></description>
+            <link>https://mastodon.social/@villasbc/114733782789277018</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/114733782789277018</guid>
+            <pubDate>Mon, 23 Jun 2025 17:09:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Comment]]></title>
             <description><![CDATA[<p>The reason I&#39;m pretty chill is that Cybernews cried wold with crazy numbers like that in January, and it turned out to be mostly a nothingburger</p><p><a href="https://se.security.ntt/en/moab-data-leak-exposes-global-vulnerability-to-credential-stuffing/" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">se.security.ntt/en/moab-data-l</span><span class="invisible">eak-exposes-global-vulnerability-to-credential-stuffing/</span></a></p>]]></description>
@@ -279,13 +286,6 @@
             <link>https://neodb.social/@villasv/posts/431824777760325232/</link>
             <guid isPermaLink="true">https://neodb.social/@villasv/posts/431824777760325232/</guid>
             <pubDate>Sun, 06 Apr 2025 21:37:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Comment]]></title>
-            <description><![CDATA[<p>Am I the only one watching <a href="https://mastodon.social/tags/Junos" class="mention hashtag" rel="tag">#<span>Junos</span></a> via CBC Gem finding the audio a bit weird? It’s like a few channels are muted</p>]]></description>
-            <link>https://mastodon.social/@villasbc/114254580736322147</link>
-            <guid isPermaLink="true">https://mastodon.social/@villasbc/114254580736322147</guid>
-            <pubDate>Mon, 31 Mar 2025 02:02:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Media]]></title>
