@@ -4,9 +4,16 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 24 Jun 2025 17:06:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Jun 2025 19:04:27 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2025]]></copyright>
+        <item>
+            <title><![CDATA[Comment]]></title>
+            <description><![CDATA[<p>So how are we calling content or work that does not involve <a href="https://mastodon.social/tags/genAI" class="mention hashtag" rel="tag">#<span>genAI</span></a> / <a href="https://mastodon.social/tags/LLM" class="mention hashtag" rel="tag">#<span>LLM</span></a>? Or <a href="https://mastodon.social/tags/AI" class="mention hashtag" rel="tag">#<span>AI</span></a> of any kind?</p>]]></description>
+            <link>https://mastodon.social/@villasbc/114739711638809738</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/114739711638809738</guid>
+            <pubDate>Tue, 24 Jun 2025 18:17:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Comment]]></title>
             <description><![CDATA[<p>Got assigned one of those big corp recurring legal trainings today, and re-learned the guidance of preferring &quot;sensitive&quot; conversations over the phone or in person as to not generate a paper trail that can be &quot;misconstrued if taken out of context, leading to unfair press coverage&quot;.</p><p>Big corporations are a mistake.</p>]]></description>
@@ -244,13 +251,6 @@
             <link>https://neodb.social/@villasv/posts/435388640520487496/</link>
             <guid isPermaLink="true">https://neodb.social/@villasv/posts/435388640520487496/</guid>
             <pubDate>Wed, 16 Apr 2025 17:39:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Comment]]></title>
-            <description><![CDATA[<p>The response that comes from &quot;think before responding&quot; turned off is a wall of text but it turns out to be better, because at least it recognizes that the toggle has a design issue.</p><p>Go figure.</p>]]></description>
-            <link>https://mastodon.social/@villasbc/114344038524601074</link>
-            <guid isPermaLink="true">https://mastodon.social/@villasbc/114344038524601074</guid>
-            <pubDate>Tue, 15 Apr 2025 21:12:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Finished reading]]></title>
