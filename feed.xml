@@ -4,9 +4,16 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 25 Jun 2025 21:05:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Jun 2025 23:05:25 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2025]]></copyright>
+        <item>
+            <title><![CDATA[Comment]]></title>
+            <description><![CDATA[<p>Found this report out there, getting to know this Strong Coast org</p><p><a href="https://storymaps.arcgis.com/stories/6c1647e3dc7c4ef29fd7790de05d21fd" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">storymaps.arcgis.com/stories/6</span><span class="invisible">c1647e3dc7c4ef29fd7790de05d21fd</span></a></p><p><a href="https://mastodon.social/tags/DefendOurCoast" class="mention hashtag" rel="tag">#<span>DefendOurCoast</span></a></p>]]></description>
+            <link>https://mastodon.social/@villasbc/114746334586716270</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/114746334586716270</guid>
+            <pubDate>Wed, 25 Jun 2025 22:21:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Comment]]></title>
             <description><![CDATA[<p>Decided to stick with “artisanal” for now</p>]]></description>
@@ -216,13 +223,6 @@
             <link>https://mastodon.social/@villasbc/114419540222853918</link>
             <guid isPermaLink="true">https://mastodon.social/@villasbc/114419540222853918</guid>
             <pubDate>Tue, 29 Apr 2025 05:13:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Comment]]></title>
-            <description><![CDATA[<p>Not every truck/SUV but always a truck/SUV</p>]]></description>
-            <link>https://mastodon.social/@villasbc/114410579028525262</link>
-            <guid isPermaLink="true">https://mastodon.social/@villasbc/114410579028525262</guid>
-            <pubDate>Sun, 27 Apr 2025 15:14:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Wants to read]]></title>
