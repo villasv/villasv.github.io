@@ -4,9 +4,23 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 24 Jun 2025 23:05:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Jun 2025 01:33:39 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2025]]></copyright>
+        <item>
+            <title><![CDATA[Comment]]></title>
+            <description><![CDATA[<p>Decided to stick with “artisanal” for now</p>]]></description>
+            <link>https://mastodon.social/@villasbc/114741324101834415</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/114741324101834415</guid>
+            <pubDate>Wed, 25 Jun 2025 01:07:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Finished watching]]></title>
+            <description><![CDATA[<p><a href="https://neodb.social/~neodb~/movie/3YnzikjZGgXf7ki6iBkYcv" rel="nofollow">Murder of Couriers, 10 out of 10</a>  <br>Found this doc/movie by accident and found it so interesting. I ride bicycles, I live in Vancouver, and I caught myself wondering about courier life. This film allowed me to peek behind the reality, awesomeness and toxicity of courier culture in the area.<br></p>]]></description>
+            <link>https://neodb.social/@villasv/posts/460492740727638608/</link>
+            <guid isPermaLink="true">https://neodb.social/@villasv/posts/460492740727638608/</guid>
+            <pubDate>Wed, 25 Jun 2025 00:13:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Comment]]></title>
             <description><![CDATA[<p>So how are we calling content or work that does not involve <a href="https://mastodon.social/tags/genAI" class="mention hashtag" rel="tag">#<span>genAI</span></a> / <a href="https://mastodon.social/tags/LLM" class="mention hashtag" rel="tag">#<span>LLM</span></a>? Or <a href="https://mastodon.social/tags/AI" class="mention hashtag" rel="tag">#<span>AI</span></a> of any kind?</p>]]></description>
@@ -211,13 +225,6 @@
             <pubDate>Sun, 27 Apr 2025 15:14:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Comment]]></title>
-            <description><![CDATA[<p><a href="https://mastodon.social/tags/QuadReal" class="mention hashtag" rel="tag">#<span>QuadReal</span></a> received a few awards for their redevelopment of <a href="https://mastodon.social/tags/ThePost" class="mention hashtag" rel="tag">#<span>ThePost</span></a> into a &quot;sustainable&quot; mixed-use office space.</p><p>This week they announced they&#39;re no longer allowing <a href="https://mastodon.social/tags/ebikes" class="mention hashtag" rel="tag">#<span>ebikes</span></a> to be charged inside the building. They built the bike facility with charging stations - a bike facility that smells like sewage by the way, so they don&#39;t trust their own safety measures apparently.</p><p>And this is just going to incentivize a riskier behaviour: charging the battery on your own desk, where the hazard is higher.</p>]]></description>
-            <link>https://mastodon.social/@villasbc/114382633815319840</link>
-            <guid isPermaLink="true">https://mastodon.social/@villasbc/114382633815319840</guid>
-            <pubDate>Tue, 22 Apr 2025 16:48:01 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Wants to read]]></title>
             <description><![CDATA[<p><a href="https://neodb.social/~neodb~/book/1pufDs3I5Hm1xpfa0hAFfh" rel="nofollow">Crackdown: Surviving and Resisting the War on Drugs</a> </p><p></p>]]></description>
             <link>https://neodb.social/@villasv/posts/435702376918535440/</link>
@@ -279,13 +286,6 @@
             <link>https://neodb.social/@villasv/posts/433374428230324752/</link>
             <guid isPermaLink="true">https://neodb.social/@villasv/posts/433374428230324752/</guid>
             <pubDate>Fri, 11 Apr 2025 04:15:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Started watching]]></title>
-            <description><![CDATA[<p><a href="https://neodb.social/~neodb~/tv/season/59CEZw3uS8WjFCflDRWBBM" rel="nofollow">Kim&#x27;s Convenience Season 5, 6 out of 10</a>  <br>The writers continue to deny the Kims meaningful character development. I guess it&#x27;s fair to expect that Saang-Il and Young-Mi develop slowly as any normal pair of middle-aged adults, but I expected more from Jung and Janet. But well, we&#x27;re here for it anyway. At this point we&#x27;re used to not expect much other than a pastime, mostly lighthearted and mostly wholesome, still sometimes a bit too silly, sometimes too stereotypical.<br></p>]]></description>
-            <link>https://neodb.social/@villasv/posts/431824777760325232/</link>
-            <guid isPermaLink="true">https://neodb.social/@villasv/posts/431824777760325232/</guid>
-            <pubDate>Sun, 06 Apr 2025 21:37:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Media]]></title>
