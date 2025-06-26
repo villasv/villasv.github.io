@@ -47,7 +47,14 @@ function Item({ item, rating_grade, comment_text, post_id }: NeoDBRecord) {
   if (!rating_grade || !comment_text) return <a href={item.id}>{title}</a>;
   return (
     <>
-      <a href={item.id}>{title}</a> (<a href={postUrl}>{rating_grade}/10</a>)
+      <a key={item.id} href={item.id}>
+        {title}
+      </a>{" "}
+      (
+      <a key={postUrl} href={postUrl}>
+        {rating_grade}/10
+      </a>
+      )
     </>
   );
 }
