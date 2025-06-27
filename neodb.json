@@ -3499,13 +3499,13 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/02/20/9aafa2fc-1f22-415b-b882-26dd2baa2e6e.webp",
           "rating": 8.6,
-          "rating_count": 46,
+          "rating_count": 47,
           "rating_distribution": [
             0,
             0,
             6,
-            45,
-            47
+            46,
+            46
           ],
           "tags": [
             "2024",
@@ -3736,10 +3736,10 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2025/01/17/c9fb75b7-fe14-462c-a95e-513257203176.jpg",
           "rating": 7.3,
-          "rating_count": 99,
+          "rating_count": 100,
           "rating_distribution": [
             0,
-            2,
+            3,
             27,
             55,
             15
@@ -3948,13 +3948,13 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/06/23/566914c0-b514-4cc7-bea4-f5d90945a704.webp",
           "rating": 8.3,
-          "rating_count": 337,
+          "rating_count": 338,
           "rating_distribution": [
             0,
             0,
             12,
             44,
-            43
+            42
           ],
           "tags": [
             "2020s",
@@ -3969,14 +3969,14 @@
             "动画电影",
             "动画长片",
             "動畫",
-            "地区 法国",
             "奇幻",
             "奥斯卡",
             "拉脱维亚",
             "比利时",
             "法国",
             "猫",
-            "电影"
+            "电影",
+            "金兹 兹巴洛迪斯"
           ],
           "brief": "世界似乎即将毁灭，到处都是人类的遗迹。一只猫的家园被一场大洪水摧毁，它在一艘载满了不同动物的船上找到了避难所。尽管它们之间存在差异，但它必须与它们合作，面临各种未知的挑战。",
           "id": "https://neodb.social/movie/1UKRbng4exUWF9VlZlsxR4",
@@ -4642,7 +4642,7 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2025/01/17/c3980bb4-8335-4f47-a839-3ce094856a54.jpg",
           "rating": 6.8,
-          "rating_count": 382,
+          "rating_count": 383,
           "rating_distribution": [
             3,
             9,
@@ -4798,7 +4798,7 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/09/13/a30bf2f3-4f79-43ef-b22f-58ebc3fd8aae.jpg",
           "rating": 6.4,
-          "rating_count": 312,
+          "rating_count": 313,
           "rating_distribution": [
             3,
             10,
@@ -4809,7 +4809,6 @@
           "tags": [
             "2020s",
             "2024",
-            "俄语",
             "剧情",
             "喜剧",
             "奥斯卡",
@@ -4826,7 +4825,8 @@
             "纽约",
             "美剧",
             "美国",
-            "美国电影"
+            "美国电影",
+            "肖恩 贝克"
           ],
           "brief": "阿诺拉是布鲁克林的性工作者，她邂逅了一个商界寡头的儿子并在冲动之下嫁给了他，这让她以为自己像灰姑娘一样终于遇到自己的王子。然而当结婚消息传到了俄罗斯，男方父母来到纽约取消婚姻，破灭了的阿诺拉的童话。",
           "id": "https://neodb.social/movie/7hfF7d0aFMaqHpFjUpq4zR",
@@ -5191,13 +5191,13 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/movie/2025/03/09/3e3fa59e-e345-4f24-b75e-1141f82942f6.jpg",
           "rating": 8.1,
-          "rating_count": 84,
+          "rating_count": 85,
           "rating_distribution": [
             0,
             1,
-            13,
+            12,
             52,
-            33
+            32
           ],
           "tags": [
             "2024",
@@ -5210,6 +5210,7 @@
             "巴西电影",
             "拉美",
             "政治",
+            "沃尔特 塞勒斯",
             "电影"
           ],
           "brief": "影片根据马塞洛·鲁本斯·派瓦撰写的同名回忆录改编，原著讲述了鲁本斯·派瓦的母亲尤妮斯·派瓦，在丈夫成为1964年控制巴西的军事政权的受害者后，被迫重塑自我，成为了一名运动人士。",
@@ -7004,7 +7005,7 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/movie/2023/05/31/0904d82a-cd0e-4526-91cb-0c7d98d66d94.jpg",
           "rating": 7.8,
-          "rating_count": 351,
+          "rating_count": 352,
           "rating_distribution": [
             0,
             1,
