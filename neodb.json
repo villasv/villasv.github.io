@@ -4407,7 +4407,7 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/movie/2025/03/12/dd6c73e9-ab71-4ff3-8f3d-fbc38d3c16c5.webp",
           "rating": 6.7,
-          "rating_count": 93,
+          "rating_count": 94,
           "rating_distribution": [
             3,
             7,
@@ -4798,7 +4798,7 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/09/13/a30bf2f3-4f79-43ef-b22f-58ebc3fd8aae.jpg",
           "rating": 6.4,
-          "rating_count": 313,
+          "rating_count": 314,
           "rating_distribution": [
             3,
             10,
@@ -5855,11 +5855,11 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/movie/2024/10/28/13dfbfcd-c252-4f40-96da-aabdade67aee.jpg",
           "rating": 7.4,
-          "rating_count": 145,
+          "rating_count": 146,
           "rating_distribution": [
             1,
             0,
-            20,
+            19,
             62,
             16
           ],
@@ -6939,6 +6939,10 @@
             {
               "lang": "zh-cn",
               "text": "新活日常"
+            },
+            {
+              "lang": "x",
+              "text": ""
             }
           ],
           "localized_description": [
@@ -7001,6 +7005,26 @@
             {
               "lang": "zh-tw",
               "text": "沉默寡言的東京公廁清潔工人平山，過著看似單調重複的生活，實則大隱隱於市，陶醉於音樂和文學，常聽著錄音帶播放的The Rolling Stones、Patti Smith和Lou Reed搖滾樂穿梭城市，又不時舉起菲林相機，捕捉葉縫漏出的陽光。一場突如其來的相遇，打破了平山的日常規律，也逐漸揭露出他的過去。"
+            },
+            {
+              "lang": "nn",
+              "text": ""
+            },
+            {
+              "lang": "nb",
+              "text": ""
+            },
+            {
+              "lang": "no",
+              "text": ""
+            },
+            {
+              "lang": "da",
+              "text": ""
+            },
+            {
+              "lang": "x",
+              "text": ""
             }
           ],
           "cover_image_url": "https://neodb.social/m/item/movie/2023/05/31/0904d82a-cd0e-4526-91cb-0c7d98d66d94.jpg",
