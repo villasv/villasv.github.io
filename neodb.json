@@ -3948,7 +3948,7 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/06/23/566914c0-b514-4cc7-bea4-f5d90945a704.webp",
           "rating": 8.3,
-          "rating_count": 340,
+          "rating_count": 341,
           "rating_distribution": [
             0,
             0,
@@ -5269,14 +5269,14 @@
             }
           ],
           "cover_image_url": "https://neodb.social/m/movie/2021/09/159b6c8ab9-1783-4716-87c3-dc50edf5a08a.jpg",
-          "rating": 9.7,
-          "rating_count": 7,
+          "rating": 9.8,
+          "rating_count": 8,
           "rating_distribution": [
             0,
             0,
             0,
-            14,
-            85
+            12,
+            87
           ],
           "tags": [
             "00",
