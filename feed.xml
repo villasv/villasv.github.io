@@ -4,9 +4,16 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 01 Jul 2025 01:34:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Jul 2025 05:08:24 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2025]]></copyright>
+        <item>
+            <title><![CDATA[Comment]]></title>
+            <description><![CDATA[<p>So it turned out that <a href="https://mastodon.social/tags/BCTransit" class="mention hashtag" rel="tag">#<span>BCTransit</span></a> on the <a href="https://mastodon.social/tags/SunshineCoastBC" class="mention hashtag" rel="tag">#<span>SunshineCoastBC</span></a> has a daily bus fare cap and I found out just now that the 4 times I took the bus today to go from city to city costed me $4 total.</p><p>And the cherry on top is the ferry from Langdale to Horseshoe Bay is free for foot passengers. This is awesome, and it’s wild that there are so few making use of this!</p>]]></description>
+            <link>https://mastodon.social/@villasbc/114775813339682115</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/114775813339682115</guid>
+            <pubDate>Tue, 01 Jul 2025 03:18:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Comment]]></title>
             <description><![CDATA[<p>I’ve just set up my monthly donation. This is such an important work! <a href="https://fed.brid.gy/r/https://bsky.app/profile/did:plc:hirrgj3gs4mkftk5oopdeekc/post/3lsrcevctxc2a" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">fed.brid.gy/r/https://bsky.app</span><span class="invisible">/profile/did:plc:hirrgj3gs4mkftk5oopdeekc/post/3lsrcevctxc2a</span></a></p>]]></description>
@@ -216,13 +223,6 @@
             <link>https://neodb.social/@villasv/posts/443380225885198776/</link>
             <guid isPermaLink="true">https://neodb.social/@villasv/posts/443380225885198776/</guid>
             <pubDate>Thu, 08 May 2025 18:54:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Comment]]></title>
-            <description><![CDATA[<p>The “let’s bring it home” douche not only failed to bring it home, he also got evicted from his home riding.</p><p><a href="https://mastodon.social/tags/CdnElxn2025" class="mention hashtag" rel="tag">#<span>CdnElxn2025</span></a></p>]]></description>
-            <link>https://mastodon.social/@villasbc/114421898023661213</link>
-            <guid isPermaLink="true">https://mastodon.social/@villasbc/114421898023661213</guid>
-            <pubDate>Tue, 29 Apr 2025 15:13:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Wants to read]]></title>
