@@ -4,9 +4,16 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 10 Jul 2025 19:04:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Jul 2025 21:05:14 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2025]]></copyright>
+        <item>
+            <title><![CDATA[Comment]]></title>
+            <description><![CDATA[<p>I wish the Tyee would do a story on why/how the hell did The Walrus decided to run a page ad for online gambling</p>]]></description>
+            <link>https://mastodon.social/@villasbc/114830755168192800</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/114830755168192800</guid>
+            <pubDate>Thu, 10 Jul 2025 20:11:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Comment]]></title>
             <description><![CDATA[<p>So it turned out that <a href="https://mastodon.social/tags/BCTransit" class="mention hashtag" rel="tag">#<span>BCTransit</span></a> on the <a href="https://mastodon.social/tags/SunshineCoastBC" class="mention hashtag" rel="tag">#<span>SunshineCoastBC</span></a> has a daily bus fare cap and I found out just now that the 4 times I took the bus today to go from city to city costed me $4 total.</p><p>And the cherry on top is the ferry from Langdale to Horseshoe Bay is free for foot passengers. This is awesome, and it’s wild that there are so few making use of this!</p>]]></description>
@@ -174,13 +181,6 @@
             <link>https://mastodon.social/@villasbc/114493240527393719</link>
             <guid isPermaLink="true">https://mastodon.social/@villasbc/114493240527393719</guid>
             <pubDate>Mon, 12 May 2025 05:36:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Comment]]></title>
-            <description><![CDATA[<p>I just noticed that there seems to exist a gym in one of the top floors of the VPL central branch building (the middle/round part). But what is that place? The <a href="https://mastodon.social/tags/VPL" class="mention hashtag" rel="tag">#<span>VPL</span></a> doesn&#39;t have a gym AFAICT, so who put that in there?</p><p><a href="https://mastodon.social/tags/Vancouver" class="mention hashtag" rel="tag">#<span>Vancouver</span></a></p>]]></description>
-            <link>https://mastodon.social/@villasbc/114474136467966901</link>
-            <guid isPermaLink="true">https://mastodon.social/@villasbc/114474136467966901</guid>
-            <pubDate>Thu, 08 May 2025 20:38:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Started reading]]></title>
