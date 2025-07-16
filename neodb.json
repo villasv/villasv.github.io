@@ -4880,12 +4880,12 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/09/13/a30bf2f3-4f79-43ef-b22f-58ebc3fd8aae.jpg",
           "rating": 6.5,
-          "rating_count": 321,
+          "rating_count": 322,
           "rating_distribution": [
             4,
             10,
             35,
-            41,
+            40,
             8
           ],
           "tags": [
@@ -6097,12 +6097,12 @@
           ],
           "cover_image_url": "https://neodb.social/m/movie/2021/09/187eb881e4-52f0-4e99-a464-d3f3dc991684.jpg",
           "rating": 6.6,
-          "rating_count": 65,
+          "rating_count": 66,
           "rating_distribution": [
             3,
             4,
-            55,
-            32,
+            54,
+            33,
             4
           ],
           "tags": [
@@ -8507,23 +8507,87 @@
             {
               "lang": "en",
               "text": "Shrinking"
+            },
+            {
+              "lang": "pt",
+              "text": "Temporada 1"
+            },
+            {
+              "lang": "de",
+              "text": "Staffel 1"
+            },
+            {
+              "lang": "fr",
+              "text": "Saison 1"
+            },
+            {
+              "lang": "es",
+              "text": "Temporada 1"
+            },
+            {
+              "lang": "en",
+              "text": "Season 1"
+            },
+            {
+              "lang": "zh-cn",
+              "text": "诚实诊疗室"
+            },
+            {
+              "lang": "zh-cn",
+              "text": "心理治疗"
+            },
+            {
+              "lang": "zh-cn",
+              "text": "缩小"
+            },
+            {
+              "lang": "ko",
+              "text": "시즌 1"
+            },
+            {
+              "lang": "ja",
+              "text": "シーズン1"
+            },
+            {
+              "lang": "zh-hk",
+              "text": "第 1 季"
+            },
+            {
+              "lang": "zh-tw",
+              "text": "第一季"
+            },
+            {
+              "lang": "zh-cn",
+              "text": "第 1 季"
             }
           ],
           "localized_description": [
             {
               "lang": "zh-cn",
               "text": "本剧讲述一位心理治疗师(席格尔饰)打破常规、将自身想法完全告诉客户的故事，福特则饰演菲尔·罗德斯博士，一位脚踏实地、锋芒毕露的心理医生，这也是他首次在剧集中担任主演。"
+            },
+            {
+              "lang": "fr",
+              "text": "Un thérapeute en deuil commence à enfreindre les règles et à dire à ses patients exactement ce qu'il pense. Ignorant sa formation et son éthique, il se retrouve à apporter des changements dans ..."
+            },
+            {
+              "lang": "es",
+              "text": "Un terapeuta en duelo comienza a romper las reglas diciéndoles a sus clientes exactamente lo que piensa. Jimmy ha perdido a su esposa y quiere intentar un nuevo enfoque para su pérdida, pero no está claro cómo esto ayudará a los demás."
+            },
+            {
+              "lang": "en",
+              "text": "A new 10-episode comedy starring Jason Segel, and written by Emmy Award winning “Ted Lasso” co-creator Bill Lawrence, Emmy Award-winning “Ted Lasso” star, writer and co-executive producer Brett Goldstein and Segel. Also starring Harrison Ford in one of his first major television roles, “Shrinking” will premiere globally with the first two episodes on Friday, January 27, on Apple TV+, followed by one new episode weekly, every Friday.\nShrinking follows a grieving therapist (played by Segel) who starts to break the rules and tell his clients exactly what he thinks. Ignoring his training and ethics, he finds himself making huge, tumultuous changes to people’s lives … including his own.\nIn addition to Segel and Ford, Shrinking stars Christa Miller, Jessica Williams, Michael Urie, Luke Tennie, and Lukita Maxwell.\nThe new series is produced by Warner Bros. Television, where Lawrence is under an overall deal, and Lawrence’s Doozer Productions. Lawrence, Segel, Goldstein, Neil Goldman, James Ponsoldt, Randall Winston, Jeff Ingold, and Liza Katzer serve as executive producers. Lawrence, Segel, and Goldstein created the series and wrote the first episode, which was directed by Ponsoldt."
             }
           ],
           "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/02/12/b32da221-8685-4372-8e66-7e9943d9a43e.jpg",
-          "rating": 7.2,
-          "rating_count": 17,
+          "rating": 7.1,
+          "rating_count": 18,
           "rating_distribution": [
             5,
             5,
-            29,
-            29,
-            29
+            33,
+            27,
+            27
           ],
           "tags": [
             "2023",
@@ -8544,7 +8608,13 @@
           "display_title": "Shrinking (诊疗中 第一季)",
           "external_resources": [
             {
+              "url": "https://eggplant.place/tv/season/3dAFONsVjFeTwdyqEtwFIC"
+            },
+            {
               "url": "https://movie.douban.com/subject/35745805/"
+            },
+            {
+              "url": "https://www.themoviedb.org/tv/136311/season/1"
             }
           ]
         },
