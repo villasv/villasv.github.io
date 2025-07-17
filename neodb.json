@@ -8260,23 +8260,83 @@
             {
               "lang": "en",
               "text": "Shrinking"
+            },
+            {
+              "lang": "it",
+              "text": "Stagione 2"
+            },
+            {
+              "lang": "da",
+              "text": "Sæson 2"
+            },
+            {
+              "lang": "pt",
+              "text": "Temporada 2"
+            },
+            {
+              "lang": "de",
+              "text": "Staffel 2"
+            },
+            {
+              "lang": "fr",
+              "text": "Saison 2"
+            },
+            {
+              "lang": "es",
+              "text": "Temporada 2"
+            },
+            {
+              "lang": "en",
+              "text": "Season 2"
+            },
+            {
+              "lang": "ko",
+              "text": "시즌 2"
+            },
+            {
+              "lang": "ja",
+              "text": "シーズン2"
+            },
+            {
+              "lang": "zh-hk",
+              "text": "第 2 季"
+            },
+            {
+              "lang": "zh-tw",
+              "text": "第二季"
+            },
+            {
+              "lang": "zh-cn",
+              "text": "第 2 季"
             }
           ],
           "localized_description": [
             {
               "lang": "zh-cn",
               "text": "吉米难以向女儿说出她母亲去世的真相，保罗面临日益恶化的帕金森症状，而加比则面临离婚问题，与此同时，他们的个人生活和职业生涯变得更加交织和复杂。"
+            },
+            {
+              "lang": "it",
+              "text": "Jimmy ha difficoltà a dire alla figlia la verità sulla morte della madre, Paul deve affrontare il peggioramento dei sintomi del Parkinson e Gaby affronta il divorzio, mentre le loro vite personali e professionali diventano sempre più intrecciate e complicate."
+            },
+            {
+              "lang": "es",
+              "text": "Jimmy lucha por contarle a su hija la verdad sobre la muerte de su madre, Paul se enfrenta a un empeoramiento de los síntomas del Parkinson y Gaby lidia con su divorcio, todo ello mientras sus vidas personales y profesionales se entrelazan y complican cada vez más."
+            },
+            {
+              "lang": "en",
+              "text": "Jimmy struggles with telling his daughter the truth about her mother's death, Paul faces worsening Parkinson's symptoms, and Gaby deals with her divorce, all while their personal and professional lives become more intertwined and complicated."
             }
           ],
           "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/11/27/62852b13-20f7-45da-a176-f99126b71726.jpg",
-          "rating": 7.2,
-          "rating_count": 6,
+          "rating": 6.9,
+          "rating_count": 7,
           "rating_distribution": [
             0,
-            16,
-            16,
-            33,
-            33
+            14,
+            28,
+            28,
+            28
           ],
           "tags": [
             "appletv",
@@ -8291,6 +8351,12 @@
           "parent_uuid": "7k3ZSx9AdbAfZZeMjcNK2k",
           "display_title": "Shrinking (诊疗中 第二季)",
           "external_resources": [
+            {
+              "url": "https://eggplant.place/tv/season/5APKtbQep7U1HavguIJ8Va"
+            },
+            {
+              "url": "https://www.themoviedb.org/tv/136311/season/2"
+            },
             {
               "url": "https://movie.douban.com/subject/36305116/"
             }
@@ -8580,13 +8646,13 @@
             }
           ],
           "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/02/12/b32da221-8685-4372-8e66-7e9943d9a43e.jpg",
-          "rating": 7.1,
+          "rating": 7.2,
           "rating_count": 18,
           "rating_distribution": [
             5,
             5,
-            33,
             27,
+            33,
             27
           ],
           "tags": [
