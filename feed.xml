@@ -4,9 +4,16 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 17 Jul 2025 23:05:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Jul 2025 01:34:44 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2025]]></copyright>
+        <item>
+            <title><![CDATA[Comment]]></title>
+            <description><![CDATA[<p>Georgia St needs bus lane enforcement so bad. We cannot trust drivers to behave at their best, and the rush hour towards the north shore brings out the worst</p>]]></description>
+            <link>https://mastodon.social/@villasbc/114871471474653113</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/114871471474653113</guid>
+            <pubDate>Fri, 18 Jul 2025 00:45:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Comment]]></title>
             <description><![CDATA[<p>I wish the Tyee would do a story on why/how the hell did The Walrus decided to run a page ad for online gambling</p>]]></description>
@@ -174,13 +181,6 @@
             <link>https://mastodon.social/@villasbc/114514131447803164</link>
             <guid isPermaLink="true">https://mastodon.social/@villasbc/114514131447803164</guid>
             <pubDate>Thu, 15 May 2025 22:09:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Comment]]></title>
-            <description><![CDATA[<p><a href="https://mastodon.social/tags/Discord" class="mention hashtag" rel="tag">#<span>Discord</span></a> by far the champion in software that gets updated without ever me noticing any difference in what it does.</p>]]></description>
-            <link>https://mastodon.social/@villasbc/114493240527393719</link>
-            <guid isPermaLink="true">https://mastodon.social/@villasbc/114493240527393719</guid>
-            <pubDate>Mon, 12 May 2025 05:36:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Started reading]]></title>
