@@ -4,9 +4,16 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 22 Jul 2025 01:34:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Jul 2025 05:09:09 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2025]]></copyright>
+        <item>
+            <title><![CDATA[Comment]]></title>
+            <description><![CDATA[<p>If this was 2023 I’d be ready to shell out good money to buy an awesome carbon bike wheel manufactured in the US.</p><p>But in this shitty timeline it makes more sense for me to pay more than a hundred bucks in shipping to import from China instead.</p><p>Congratulations on bringing manufacturing jobs back to “America”.</p>]]></description>
+            <link>https://mastodon.social/@villasbc/114894938351064726</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/114894938351064726</guid>
+            <pubDate>Tue, 22 Jul 2025 04:13:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Comment]]></title>
             <description><![CDATA[<p>Georgia St needs bus lane enforcement so bad. We cannot trust drivers to behave at their best, and the rush hour towards the north shore brings out the worst</p>]]></description>
@@ -174,13 +181,6 @@
             <link>https://mastodon.social/@villasbc/114514817754380873</link>
             <guid isPermaLink="true">https://mastodon.social/@villasbc/114514817754380873</guid>
             <pubDate>Fri, 16 May 2025 01:04:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Comment]]></title>
-            <description><![CDATA[<p>I&#39;ll never stop confusing Matt Garman (AWS CEO) with Mark Gurman (journalist), which is unfortunate because one says things that can be consequential to me but I don&#39;t want to read anyway and the other is the opposite, saying stuff that is mostly inconsequential to be but still makes interesting reading. So I&#39;m forced to read both, with a 50/50 chance of disappointment.</p>]]></description>
-            <link>https://mastodon.social/@villasbc/114514131447803164</link>
-            <guid isPermaLink="true">https://mastodon.social/@villasbc/114514131447803164</guid>
-            <pubDate>Thu, 15 May 2025 22:09:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Started reading]]></title>

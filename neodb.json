@@ -5272,12 +5272,12 @@
             }
           ],
           "cover_image_url": "https://neodb.social/m/item/movie/2025/03/09/3e3fa59e-e345-4f24-b75e-1141f82942f6.jpg",
-          "rating": 8.1,
-          "rating_count": 91,
+          "rating": 8,
+          "rating_count": 92,
           "rating_distribution": [
             0,
             1,
-            13,
+            14,
             53,
             31
           ],
@@ -8331,14 +8331,14 @@
             }
           ],
           "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/11/27/62852b13-20f7-45da-a176-f99126b71726.jpg",
-          "rating": 6.9,
+          "rating": 7.4,
           "rating_count": 7,
           "rating_distribution": [
             0,
             14,
+            14,
             28,
-            28,
-            28
+            42
           ],
           "tags": [
             "appletv",
