@@ -4724,9 +4724,9 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2025/01/17/c3980bb4-8335-4f47-a839-3ce094856a54.jpg",
           "rating": 6.8,
-          "rating_count": 399,
+          "rating_count": 401,
           "rating_distribution": [
-            4,
+            3,
             9,
             26,
             46,
@@ -6238,7 +6238,7 @@
           ],
           "cover_image_url": "https://neodb.social/m/movie/2021/09/1669a828f1-1474-4274-a35c-1ffe27d56b69.jpg",
           "rating": 6.1,
-          "rating_count": 203,
+          "rating_count": 204,
           "rating_distribution": [
             1,
             17,
@@ -6396,12 +6396,12 @@
           ],
           "cover_image_url": "https://neodb.social/m/movie/2021/09/155b0f163b-6c45-41a7-ae52-d2efc29bcaae.jpg",
           "rating": 6.8,
-          "rating_count": 438,
+          "rating_count": 439,
           "rating_distribution": [
             0,
             7,
             46,
-            39,
+            38,
             5
           ],
           "tags": [
