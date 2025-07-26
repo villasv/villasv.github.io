@@ -4,9 +4,30 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 26 Jul 2025 19:04:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Jul 2025 21:04:45 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2025]]></copyright>
+        <item>
+            <title><![CDATA[Started reading]]></title>
+            <description><![CDATA[<p><a href="https://neodb.social/~neodb~/book/7VkDat4tXF7FE862hhr1rn" rel="nofollow">Vancouver&#x27;s Special Guardians</a> </p><p></p>]]></description>
+            <link>https://neodb.social/@villasv/posts/472031061415968000/</link>
+            <guid isPermaLink="true">https://neodb.social/@villasv/posts/472031061415968000/</guid>
+            <pubDate>Sat, 26 Jul 2025 20:22:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Started reading]]></title>
+            <description><![CDATA[<p><a href="https://neodb.social/~neodb~/book/6WsIW8P77bPcTzgJhONMNA" rel="nofollow">11/23: 11 Years / 23 Stories</a> </p><p></p>]]></description>
+            <link>https://neodb.social/@villasv/posts/472028998547721216/</link>
+            <guid isPermaLink="true">https://neodb.social/@villasv/posts/472028998547721216/</guid>
+            <pubDate>Sat, 26 Jul 2025 20:14:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Comment]]></title>
+            <description><![CDATA[<p>We already have <a href="https://mastodon.social/tags/NeoDB" class="mention hashtag" rel="tag">#<span>NeoDB</span></a> and <a href="https://mastodon.social/tags/BookWyrm" class="mention hashtag" rel="tag">#<span>BookWyrm</span></a> for tracking but when are we getting the <a href="https://mastodon.social/tags/fediverse" class="mention hashtag" rel="tag">#<span>fediverse</span></a> bookcrossing.com? Maybe it&#39;s already out there and I haven&#39;t found it yet 🤔</p>]]></description>
+            <link>https://mastodon.social/@villasbc/114921343517679790</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/114921343517679790</guid>
+            <pubDate>Sat, 26 Jul 2025 20:08:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Comment]]></title>
             <description><![CDATA[<p>If this was 2023 I’d be ready to shell out good money to buy an awesome carbon bike wheel manufactured in the US.</p><p>But in this shitty timeline it makes more sense for me to pay more than a hundred bucks in shipping to import from China instead.</p><p>Congratulations on bringing manufacturing jobs back to “America”.</p>]]></description>
@@ -176,13 +197,6 @@
             <pubDate>Tue, 20 May 2025 17:43:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Comment]]></title>
-            <description><![CDATA[<p>So cool to see lots of Canadian representation <a href="https://social.growyourown.services/@FediFollows/114479108382173349" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">social.growyourown.services/@F</span><span class="invisible">ediFollows/114479108382173349</span></a></p>]]></description>
-            <link>https://mastodon.social/@villasbc/114514817754380873</link>
-            <guid isPermaLink="true">https://mastodon.social/@villasbc/114514817754380873</guid>
-            <pubDate>Fri, 16 May 2025 01:04:08 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Started reading]]></title>
             <description><![CDATA[<p><a href="https://neodb.social/~neodb~/book/7jUb35U3MVpxkjn9hGhxBI" rel="nofollow">Crowd Source</a> </p><p></p>]]></description>
             <link>https://neodb.social/@villasv/posts/443398525187345288/</link>
@@ -272,20 +286,6 @@
             <link>https://neodb.social/@villasv/posts/434317411299558424/</link>
             <guid isPermaLink="true">https://neodb.social/@villasv/posts/434317411299558424/</guid>
             <pubDate>Sun, 13 Apr 2025 18:42:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Wants to read]]></title>
-            <description><![CDATA[<p><a href="https://neodb.social/~neodb~/book/5TDp4AVF8aaeFXtU74bEXu" rel="nofollow">East Side Story: Growing Up at the PNE</a> </p><p></p>]]></description>
-            <link>https://neodb.social/@villasv/posts/433661008182804608/</link>
-            <guid isPermaLink="true">https://neodb.social/@villasv/posts/433661008182804608/</guid>
-            <pubDate>Fri, 11 Apr 2025 23:14:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Wants to read]]></title>
-            <description><![CDATA[<p><a href="https://neodb.social/~neodb~/book/4wqldyg8FaIM0hMfryxoFS" rel="nofollow">Green</a> </p><p></p>]]></description>
-            <link>https://neodb.social/@villasv/posts/433374428230324752/</link>
-            <guid isPermaLink="true">https://neodb.social/@villasv/posts/433374428230324752/</guid>
-            <pubDate>Fri, 11 Apr 2025 04:15:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Media]]></title>

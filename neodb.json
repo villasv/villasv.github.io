@@ -1247,6 +1247,106 @@
       {
         "shelf_type": "progress",
         "visibility": 0,
+        "post_id": "472031061415968000",
+        "item": {
+          "type": "Edition",
+          "title": "Vancouver's Special Guardians",
+          "description": "In a blend of history and humour, this light-hearted take on the concrete and stone statuaries of the Vancouver area is a delightful collection of photographs and factual anecdotes. Highlighting the absurd and shining new appreciation on the lawn ornamentation and public pieces that gaze at us as we commute and explore through the concrete jungle. Focusing on sculptures, structures, and materials common to the area through musings and photographs. This book also celebrates the aptly named Vancouver Specials, the very homes that anchored generations of diverse citizens, many with concrete representations of their global influences out front, standing on guard for thee.",
+          "localized_title": [
+            {
+              "lang": "en",
+              "text": "Vancouver's Special Guardians"
+            }
+          ],
+          "localized_description": [
+            {
+              "lang": "en",
+              "text": "In a blend of history and humour, this light-hearted take on the concrete and stone statuaries of the Vancouver area is a delightful collection of photographs and factual anecdotes. Highlighting the absurd and shining new appreciation on the lawn ornamentation and public pieces that gaze at us as we commute and explore through the concrete jungle. Focusing on sculptures, structures, and materials common to the area through musings and photographs. This book also celebrates the aptly named Vancouver Specials, the very homes that anchored generations of diverse citizens, many with concrete representations of their global influences out front, standing on guard for thee."
+            }
+          ],
+          "cover_image_url": "https://neodb.social/m/item/goodreads/2025/07/26/b6658864-5fc1-4c79-a4d4-96a6bbfca8ea.jpg",
+          "rating": null,
+          "rating_count": 0,
+          "rating_distribution": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "tags": [],
+          "brief": "In a blend of history and humour, this light-hearted take on the concrete and stone statuaries of the Vancouver area is a delightful collection of photographs and factual anecdotes. Highlighting the absurd and shining new appreciation on the lawn ornamentation and public pieces that gaze at us as we commute and explore through the concrete jungle. Focusing on sculptures, structures, and materials common to the area through musings and photographs. This book also celebrates the aptly named Vancouver Specials, the very homes that anchored generations of diverse citizens, many with concrete representations of their global influences out front, standing on guard for thee.",
+          "id": "https://neodb.social/book/7VkDat4tXF7FE862hhr1rn",
+          "uuid": "7VkDat4tXF7FE862hhr1rn",
+          "url": "/book/7VkDat4tXF7FE862hhr1rn",
+          "api_url": "/api/book/7VkDat4tXF7FE862hhr1rn",
+          "category": "book",
+          "parent_uuid": null,
+          "display_title": "Vancouver's Special Guardians",
+          "external_resources": [
+            {
+              "url": "https://www.goodreads.com/book/show/236042202"
+            }
+          ]
+        },
+        "created_time": "2025-07-26T20:22:54.906Z",
+        "comment_text": null,
+        "rating_grade": null,
+        "tags": []
+      },
+      {
+        "shelf_type": "progress",
+        "visibility": 0,
+        "post_id": "472028998547721216",
+        "item": {
+          "type": "Edition",
+          "title": "11/23: 11 Years / 23 Stories",
+          "description": "From the rim of an abandoned nuclear power plant’s cooling tower to the middle of a riot in the streets, dodging fake blood and real vomit, a photographer and adventure opportunist shares a collection of true stories. Known for her photography of punk rock music, and of questionable places well off the beaten path, Cat takes you backstage and behind the scenes to share her personal interactions and experiences on the roads less traveled. Within her Vancouver BC stomping grounds and beyond, Cat details her introspection from being in places most people would avoid, all while climbing out of the self-imposed chaos and into sobriety. Her photographs from these moments complement the perspective, giving full-colour detail to the narrative. It’s a short and easy read with some names withheld and others not so much.",
+          "localized_title": [
+            {
+              "lang": "en",
+              "text": "11/23: 11 Years / 23 Stories"
+            }
+          ],
+          "localized_description": [
+            {
+              "lang": "en",
+              "text": "From the rim of an abandoned nuclear power plant’s cooling tower to the middle of a riot in the streets, dodging fake blood and real vomit, a photographer and adventure opportunist shares a collection of true stories. Known for her photography of punk rock music, and of questionable places well off the beaten path, Cat takes you backstage and behind the scenes to share her personal interactions and experiences on the roads less traveled. Within her Vancouver BC stomping grounds and beyond, Cat details her introspection from being in places most people would avoid, all while climbing out of the self-imposed chaos and into sobriety. Her photographs from these moments complement the perspective, giving full-colour detail to the narrative. It’s a short and easy read with some names withheld and others not so much."
+            }
+          ],
+          "cover_image_url": "https://neodb.social/m/item/goodreads/2025/07/26/9bb95754-65a6-470b-af1b-203e5a231c6f.jpg",
+          "rating": null,
+          "rating_count": 0,
+          "rating_distribution": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "tags": [],
+          "brief": "From the rim of an abandoned nuclear power plant’s cooling tower to the middle of a riot in the streets, dodging fake blood and real vomit, a photographer and adventure opportunist shares a collection of true stories. Known for her photography of punk rock music, and of questionable places well off the beaten path, Cat takes you backstage and behind the scenes to share her personal interactions and experiences on the roads less traveled. Within her Vancouver BC stomping grounds and beyond, Cat details her introspection from being in places most people would avoid, all while climbing out of the self-imposed chaos and into sobriety. Her photographs from these moments complement the perspective, giving full-colour detail to the narrative. It’s a short and easy read with some names withheld and others not so much.",
+          "id": "https://neodb.social/book/6WsIW8P77bPcTzgJhONMNA",
+          "uuid": "6WsIW8P77bPcTzgJhONMNA",
+          "url": "/book/6WsIW8P77bPcTzgJhONMNA",
+          "api_url": "/api/book/6WsIW8P77bPcTzgJhONMNA",
+          "category": "book",
+          "parent_uuid": null,
+          "display_title": "11/23: 11 Years / 23 Stories",
+          "external_resources": [
+            {
+              "url": "https://www.goodreads.com/book/show/213975702"
+            }
+          ]
+        },
+        "created_time": "2025-07-26T20:14:43.074Z",
+        "comment_text": null,
+        "rating_grade": null,
+        "tags": []
+      },
+      {
+        "shelf_type": "progress",
+        "visibility": 0,
         "post_id": "447792744563534400",
         "item": {
           "type": "Edition",
