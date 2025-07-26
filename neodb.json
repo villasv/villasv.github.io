@@ -3818,11 +3818,11 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2025/01/17/c9fb75b7-fe14-462c-a95e-513257203176.jpg",
           "rating": 7.3,
-          "rating_count": 104,
+          "rating_count": 105,
           "rating_distribution": [
             0,
             2,
-            25,
+            26,
             56,
             14
           ],
@@ -4489,11 +4489,11 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/movie/2025/03/12/dd6c73e9-ab71-4ff3-8f3d-fbc38d3c16c5.webp",
           "rating": 6.7,
-          "rating_count": 99,
+          "rating_count": 100,
           "rating_distribution": [
             3,
             8,
-            31,
+            32,
             52,
             5
           ],
@@ -4724,7 +4724,7 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2025/01/17/c3980bb4-8335-4f47-a839-3ce094856a54.jpg",
           "rating": 6.8,
-          "rating_count": 401,
+          "rating_count": 402,
           "rating_distribution": [
             3,
             9,
@@ -4879,11 +4879,11 @@
             }
           ],
           "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/09/13/a30bf2f3-4f79-43ef-b22f-58ebc3fd8aae.jpg",
-          "rating": 6.5,
-          "rating_count": 325,
+          "rating": 6.4,
+          "rating_count": 326,
           "rating_distribution": [
             4,
-            10,
+            11,
             35,
             40,
             8
@@ -5940,7 +5940,7 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/movie/2024/10/28/13dfbfcd-c252-4f40-96da-aabdade67aee.jpg",
           "rating": 7.4,
-          "rating_count": 154,
+          "rating_count": 155,
           "rating_distribution": [
             1,
             0,
@@ -8059,7 +8059,7 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/tmdb_tvseason/2025/03/02/6d3b4f7f-5d4a-4704-86ae-cfbb5ea3effd.jpg",
           "rating": 7.9,
-          "rating_count": 179,
+          "rating_count": 180,
           "rating_distribution": [
             0,
             3,
