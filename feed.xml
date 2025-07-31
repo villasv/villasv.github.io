@@ -4,9 +4,16 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 31 Jul 2025 13:17:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Jul 2025 15:06:13 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2025]]></copyright>
+        <item>
+            <title><![CDATA[Comment]]></title>
+            <description><![CDATA[<p>Who would have guessed that after a period of “Revenge of the Nerds” tech oligarchy soft power the pendulum would swing back so hard into “regular bullying and pettiness” politics</p>]]></description>
+            <link>https://mastodon.social/@villasbc/114948462332824777</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/114948462332824777</guid>
+            <pubDate>Thu, 31 Jul 2025 15:05:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Started reading]]></title>
             <description><![CDATA[<p><a href="https://neodb.social/~neodb~/book/7VkDat4tXF7FE862hhr1rn" rel="nofollow">Vancouver&#x27;s Special Guardians</a> </p><p></p>]]></description>
@@ -188,13 +195,6 @@
             <link>https://neodb.social/@villasv/posts/447792744563534400/</link>
             <guid isPermaLink="true">https://neodb.social/@villasv/posts/447792744563534400/</guid>
             <pubDate>Tue, 20 May 2025 23:08:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Comment]]></title>
-            <description><![CDATA[<p>A sad hill to die on is to defend that renting is financially advantageous. Property ownership and “building equity” by forcing oneself into debt is one of the most pernicious shackles that millennials picked up and are passing along to gen Z and alpha.</p><p>It’s ironic that by debating this I’d be decreasing the premium I gain for seeing through this bullshit, but folks are so invested on this idea that I doubt I’m having any effect.</p>]]></description>
-            <link>https://mastodon.social/@villasbc/114541398293791698</link>
-            <guid isPermaLink="true">https://mastodon.social/@villasbc/114541398293791698</guid>
-            <pubDate>Tue, 20 May 2025 17:43:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Started reading]]></title>
