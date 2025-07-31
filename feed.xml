@@ -4,12 +4,19 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 31 Jul 2025 15:06:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Jul 2025 17:07:24 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2025]]></copyright>
         <item>
             <title><![CDATA[Comment]]></title>
-            <description><![CDATA[<p>Who would have guessed that after a period of “Revenge of the Nerds” tech oligarchy soft power the pendulum would swing back so hard into “regular bullying and pettiness” politics</p>]]></description>
+            <description><![CDATA[<p>Reminds me of Cersei rebuttal of Littlefinger’s “knowledge is power” with putting a blade to his neck to remind him that “power is power”</p>]]></description>
+            <link>https://mastodon.social/@villasbc/114948473164956269</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/114948473164956269</guid>
+            <pubDate>Thu, 31 Jul 2025 15:08:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Comment]]></title>
+            <description><![CDATA[<p>Who would have guessed that after a period of “Revenge of the Nerds” tech oligarchy soft power the pendulum would swing back so hard into “regular bullying and pettiness” politics, ie strongman power</p>]]></description>
             <link>https://mastodon.social/@villasbc/114948462332824777</link>
             <guid isPermaLink="true">https://mastodon.social/@villasbc/114948462332824777</guid>
             <pubDate>Thu, 31 Jul 2025 15:05:39 GMT</pubDate>
@@ -181,13 +188,6 @@
             <link>https://mastodon.social/@villasbc/114563817755051582</link>
             <guid isPermaLink="true">https://mastodon.social/@villasbc/114563817755051582</guid>
             <pubDate>Sat, 24 May 2025 16:45:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Comment]]></title>
-            <description><![CDATA[<p>“Thinking budget” is such an amusingly ominous name for a feature.</p><p>“Yes I want you to think this through but not too much because that would be expensive“ as a feature for a thing that is already the cheap version of something that is already sometimes quite inconsequential and unreliable.</p><p><a href="https://mastodon.social/tags/GoogleIO2025" class="mention hashtag" rel="tag">#<span>GoogleIO2025</span></a></p>]]></description>
-            <link>https://mastodon.social/@villasbc/114553461545252090</link>
-            <guid isPermaLink="true">https://mastodon.social/@villasbc/114553461545252090</guid>
-            <pubDate>Thu, 22 May 2025 20:51:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Started reading]]></title>
