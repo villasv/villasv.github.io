@@ -4,9 +4,16 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 05 Aug 2025 01:34:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Aug 2025 05:12:56 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2025]]></copyright>
+        <item>
+            <title><![CDATA[Comment]]></title>
+            <description><![CDATA[<p>Today I used <span class="h-card" translate="no"><a href="https://floss.social/@CoMaps" class="u-url mention">@<span>CoMaps</span></a></span> for the first time for hiking (Panorama) and I am so happy with it. The downloaded map had everything I needed - thanks to the many OSM contributors - and it was super useful.</p><p>We can have nice things without having to pay CA$35.99 a year, so I’ll happily just donate that amount directly. Long live <a href="https://mastodon.social/tags/OSM" class="mention hashtag" rel="tag">#<span>OSM</span></a>!</p><p><a href="https://mastodon.social/tags/vancouver" class="mention hashtag" rel="tag">#<span>vancouver</span></a> <a href="https://mastodon.social/tags/yvrhiking" class="mention hashtag" rel="tag">#<span>yvrhiking</span></a> <a href="https://mastodon.social/tags/OpenSource" class="mention hashtag" rel="tag">#<span>OpenSource</span></a></p>]]></description>
+            <link>https://mastodon.social/@villasbc/114974345287050990</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/114974345287050990</guid>
+            <pubDate>Tue, 05 Aug 2025 04:48:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Comment]]></title>
             <description><![CDATA[<p>Reminds me of Cersei rebuttal of Littlefinger’s “knowledge is power” with putting a blade to his neck to remind him that “power is power”</p>]]></description>
@@ -181,13 +188,6 @@
             <link>https://mastodon.social/@villasbc/114581620957479611</link>
             <guid isPermaLink="true">https://mastodon.social/@villasbc/114581620957479611</guid>
             <pubDate>Tue, 27 May 2025 20:13:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Comment]]></title>
-            <description><![CDATA[<p>This week for the first time I’ve started riding a single speed bicycle. I’m planning to try clipping shoes next week, and maybe trying to go <a href="https://mastodon.social/tags/fixie" class="mention hashtag" rel="tag">#<span>fixie</span></a> the week after that. Haven’t had this much fun in a bicycle in a while!</p>]]></description>
-            <link>https://mastodon.social/@villasbc/114563817755051582</link>
-            <guid isPermaLink="true">https://mastodon.social/@villasbc/114563817755051582</guid>
-            <pubDate>Sat, 24 May 2025 16:45:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Started reading]]></title>
