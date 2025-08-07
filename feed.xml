@@ -4,9 +4,16 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 07 Aug 2025 15:06:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Aug 2025 17:07:48 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2025]]></copyright>
+        <item>
+            <title><![CDATA[Comment]]></title>
+            <description><![CDATA[<p>Trying out a new bike mirror contraption that mounts to my glasses, which I can already say aren’t quite a great choice of glasses model to use with the thingy but will try to make do</p><p><a href="https://mastodon.social/tags/bikeyvr" class="mention hashtag" rel="tag">#<span>bikeyvr</span></a> <a href="https://mastodon.social/tags/bikecommute" class="mention hashtag" rel="tag">#<span>bikecommute</span></a></p>]]></description>
+            <link>https://mastodon.social/@villasbc/114988223542756306</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/114988223542756306</guid>
+            <pubDate>Thu, 07 Aug 2025 15:37:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Comment]]></title>
             <description><![CDATA[<p>Today I used <span class="h-card" translate="no"><a href="https://floss.social/@CoMaps" class="u-url mention">@<span>CoMaps</span></a></span> for the first time for hiking (Panorama) and I am so happy with it. The downloaded map had everything I needed - thanks to the many OSM contributors - and it was super useful.</p><p>We can have nice things without having to pay CA$35.99 a year, so I’ll happily just donate that amount directly. Long live <a href="https://mastodon.social/tags/OSM" class="mention hashtag" rel="tag">#<span>OSM</span></a>!</p><p><a href="https://mastodon.social/tags/vancouver" class="mention hashtag" rel="tag">#<span>vancouver</span></a> <a href="https://mastodon.social/tags/yvrhiking" class="mention hashtag" rel="tag">#<span>yvrhiking</span></a> <a href="https://mastodon.social/tags/OpenSource" class="mention hashtag" rel="tag">#<span>OpenSource</span></a></p>]]></description>
@@ -181,13 +188,6 @@
             <link>https://neodb.social/@villasv/posts/450629954896269640/</link>
             <guid isPermaLink="true">https://neodb.social/@villasv/posts/450629954896269640/</guid>
             <pubDate>Wed, 28 May 2025 19:02:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Comment]]></title>
-            <description><![CDATA[<p>re <span class="h-card" translate="no"><a href="https://mas.to/@TechConnectify" class="u-url mention">@<span>TechConnectify</span></a></span> latest video on CC &amp; Subtitles; Speaking of YouTube captions not having positioning as good as closed captions used to have...</p><p>How about those captions being layered on top of the video in a way not compatible with Picture-In-Picture? 🙃 </p><p>(I think this varies across browsers and video platforms but anyway, here I am wondering when my particular combination will be fixed.)</p>]]></description>
-            <link>https://mastodon.social/@villasbc/114581620957479611</link>
-            <guid isPermaLink="true">https://mastodon.social/@villasbc/114581620957479611</guid>
-            <pubDate>Tue, 27 May 2025 20:13:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Started reading]]></title>
