@@ -4,9 +4,16 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 07 Aug 2025 23:05:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Aug 2025 01:34:33 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2025]]></copyright>
+        <item>
+            <title><![CDATA[Comment]]></title>
+            <description><![CDATA[<p>It works OK, gotta build the habit of using it. The bigger question is whether straining my eyeballs instead of my neck is the right decision 😂</p>]]></description>
+            <link>https://mastodon.social/@villasbc/114990499880042805</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/114990499880042805</guid>
+            <pubDate>Fri, 08 Aug 2025 01:16:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Comment]]></title>
             <description><![CDATA[<p>Trying out a new bike mirror contraption that mounts to my glasses, which I can already say aren’t quite a great choice of glasses model to use with the thingy but will try to make do</p><p><a href="https://mastodon.social/tags/bikeyvr" class="mention hashtag" rel="tag">#<span>bikeyvr</span></a> <a href="https://mastodon.social/tags/bikecommute" class="mention hashtag" rel="tag">#<span>bikecommute</span></a></p>]]></description>
@@ -160,13 +167,6 @@
             <link>https://mastodon.social/@villasbc/114699425692517781</link>
             <guid isPermaLink="true">https://mastodon.social/@villasbc/114699425692517781</guid>
             <pubDate>Tue, 17 Jun 2025 15:32:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Comment]]></title>
-            <description><![CDATA[<p>Is it possible to <a href="https://mastodon.social/tags/livestream" class="mention hashtag" rel="tag">#<span>livestream</span></a> directly to <a href="https://mastodon.social/tags/PeerTube" class="mention hashtag" rel="tag">#<span>PeerTube</span></a> the point of view of a Meta RayBan? Hacky and contrived options are fair game, so long a new camera is not required</p>]]></description>
-            <link>https://mastodon.social/@villasbc/114673915141842408</link>
-            <guid isPermaLink="true">https://mastodon.social/@villasbc/114673915141842408</guid>
-            <pubDate>Fri, 13 Jun 2025 03:24:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Finished reading]]></title>
