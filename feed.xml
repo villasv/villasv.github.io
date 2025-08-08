@@ -4,9 +4,16 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 08 Aug 2025 15:05:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Aug 2025 17:05:04 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2025]]></copyright>
+        <item>
+            <title><![CDATA[Comment]]></title>
+            <description><![CDATA[<p><a href="http://www.smbc-comics.com/comic/fellow" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">http://www.</span><span class="">smbc-comics.com/comic/fellow</span><span class="invisible"></span></a></p><p>Me having a beer with people who think immigrants should try harder to assimilate into Canadian culture</p>]]></description>
+            <link>https://mastodon.social/@villasbc/114993918982375091</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/114993918982375091</guid>
+            <pubDate>Fri, 08 Aug 2025 15:45:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Comment]]></title>
             <description><![CDATA[<p>It works OK, gotta build the habit of using it. The bigger question is whether straining my eyeballs instead of my neck is the right decision 😂</p>]]></description>
@@ -160,13 +167,6 @@
             <link>https://mastodon.social/@villasbc/114708466431760432</link>
             <guid isPermaLink="true">https://mastodon.social/@villasbc/114708466431760432</guid>
             <pubDate>Thu, 19 Jun 2025 05:51:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Comment]]></title>
-            <description><![CDATA[<p><a href="https://mastodon.social/tags/Meta" class="mention hashtag" rel="tag">#<span>Meta</span></a> is so addicted to inflicting addiction that they inaugurated a UI that I’ve never seen before: scroll between tabs. They might not have invented it, but they sure executed it well.</p><p>So now even a benign landing page morphs into infinite scrolling without you explicitly switching to the time-sink tab</p>]]></description>
-            <link>https://mastodon.social/@villasbc/114699425692517781</link>
-            <guid isPermaLink="true">https://mastodon.social/@villasbc/114699425692517781</guid>
-            <pubDate>Tue, 17 Jun 2025 15:32:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Finished reading]]></title>
