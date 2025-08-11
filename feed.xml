@@ -4,9 +4,16 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 11 Aug 2025 19:06:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Aug 2025 21:05:36 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2025]]></copyright>
+        <item>
+            <title><![CDATA[Comment]]></title>
+            <description><![CDATA[<p>Found this one in the wild today and gave it a read while I got my bike serviced 🗞️ </p><p>So glad to see it surface here! Hopefully <a href="https://mastodon.social/tags/SocialBC" class="mention hashtag" rel="tag">#<span>SocialBC</span></a> can give it some virtual love. The print version is essential but it is available online too <a href="https://mastodon.social/@wcculturallab/115011703847719663" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">mastodon.social/@wcculturallab</span><span class="invisible">/115011703847719663</span></a></p>]]></description>
+            <link>https://mastodon.social/@villasbc/115012049697850916</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/115012049697850916</guid>
+            <pubDate>Mon, 11 Aug 2025 20:36:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Comment]]></title>
             <description><![CDATA[<p><a href="http://www.smbc-comics.com/comic/fellow" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">http://www.</span><span class="">smbc-comics.com/comic/fellow</span><span class="invisible"></span></a></p><p>Me having a beer with people who think immigrants should try harder to assimilate into Canadian culture</p>]]></description>
@@ -160,13 +167,6 @@
             <link>https://mastodon.social/@villasbc/114712475801059111</link>
             <guid isPermaLink="true">https://mastodon.social/@villasbc/114712475801059111</guid>
             <pubDate>Thu, 19 Jun 2025 22:51:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Comment]]></title>
-            <description><![CDATA[<p>Looking back, it turns out that the fans were right when they saw a bleak outlook of humankind’s future the day Lee Sedol lost to AlphaGo in 2016</p>]]></description>
-            <link>https://mastodon.social/@villasbc/114708466431760432</link>
-            <guid isPermaLink="true">https://mastodon.social/@villasbc/114708466431760432</guid>
-            <pubDate>Thu, 19 Jun 2025 05:51:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Finished reading]]></title>
