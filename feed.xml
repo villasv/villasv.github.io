@@ -4,9 +4,16 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 16 Aug 2025 17:04:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Aug 2025 19:04:25 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2025]]></copyright>
+        <item>
+            <title><![CDATA[Comment]]></title>
+            <description><![CDATA[<p>Instagram is unusable at this point with the amount of ads in the timeline, stories and reels. And then you go read analyst reactions to their earnings report, the consensus is optimistic share valuations because there seems to be _more_ room for monetizing reels and a celebration of increased addictiveness of reels infinite scrolling.</p><p>It is truly messed up that there’s this global reward system in place for their attention warfare R&amp;D</p>]]></description>
+            <link>https://mastodon.social/@villasbc/115039599450131050</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/115039599450131050</guid>
+            <pubDate>Sat, 16 Aug 2025 17:23:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Comment]]></title>
             <description><![CDATA[<p>Found this one in the wild today and gave it a read while I got my bike serviced 🗞️ </p><p>So glad to see it surface here! Hopefully <a href="https://mastodon.social/tags/SocialBC" class="mention hashtag" rel="tag">#<span>SocialBC</span></a> can give it some virtual love. The print version is essential but it is available online too <a href="https://mastodon.social/@wcculturallab/115011703847719663" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">mastodon.social/@wcculturallab</span><span class="invisible">/115011703847719663</span></a></p>]]></description>
@@ -160,13 +167,6 @@
             <link>https://mastodon.social/@villasbc/114712511297369846</link>
             <guid isPermaLink="true">https://mastodon.social/@villasbc/114712511297369846</guid>
             <pubDate>Thu, 19 Jun 2025 23:00:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Comment]]></title>
-            <description><![CDATA[<p>Re the 16 bn passwords leak.</p><p>You don&#39;t really need to go update your passwords just yet, wait at least a day or so before <a href="https://mastodon.social/tags/InfoSec" class="mention hashtag" rel="tag">#<span>InfoSec</span></a> people verify the claims and reach consensus.</p><p>If you know you do have weak passwords, now is as good as a time as ever to go and update them. Otherwise, nothing to see here just yet.</p>]]></description>
-            <link>https://mastodon.social/@villasbc/114712475801059111</link>
-            <guid isPermaLink="true">https://mastodon.social/@villasbc/114712475801059111</guid>
-            <pubDate>Thu, 19 Jun 2025 22:51:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Finished reading]]></title>
