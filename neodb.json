@@ -4547,18 +4547,114 @@
         "post_id": "419072270461976088",
         "item": {
           "type": "Movie",
-          "title": "Sugarcane",
-          "description": "An investigation into abuse and missing children at an Indian residential school ignites a reckoning on the nearby Sugarcane Reserve.",
+          "title": "甘蔗",
+          "description": "对印度寄宿学校虐待和失踪儿童的调查引发了对附近甘蔗保护区的清算。",
           "localized_title": [
             {
               "lang": "en",
               "text": "Sugarcane"
+            },
+            {
+              "lang": "es",
+              "text": "Sugarcane"
+            },
+            {
+              "lang": "fr",
+              "text": "Sugarcane : Les Ombres d'un pensionnat"
+            },
+            {
+              "lang": "de",
+              "text": "Sugarcane"
+            },
+            {
+              "lang": "pt",
+              "text": "Sugarcane"
+            },
+            {
+              "lang": "ko",
+              "text": "슈거케인"
+            },
+            {
+              "lang": "ja",
+              "text": "SUGARCANE／シュガーケイン"
+            },
+            {
+              "lang": "pt",
+              "text": "Sugarcane: Sombras de um colégio interno"
+            },
+            {
+              "lang": "de",
+              "text": "Sugarcane: Der Wahrheit auf der Spur"
+            },
+            {
+              "lang": "fr",
+              "text": "Sugarcane : les ombres d'un pensionnat"
+            },
+            {
+              "lang": "zh-hk",
+              "text": "加拿大原住民之殤"
+            },
+            {
+              "lang": "zh-tw",
+              "text": "加拿大原住民之殤"
+            },
+            {
+              "lang": "zh-cn",
+              "text": "甘蔗"
             }
           ],
           "localized_description": [
             {
               "lang": "en",
               "text": "An investigation into abuse and missing children at an Indian residential school ignites a reckoning on the nearby Sugarcane Reserve."
+            },
+            {
+              "lang": "en",
+              "text": "2024 film by Julian Brave NoiseCat and Emily Kassie"
+            },
+            {
+              "lang": "es",
+              "text": "película de 2024"
+            },
+            {
+              "lang": "de",
+              "text": "US-Amerikanisch-kanadischer Dokumentarfilm von Julian Brave NoiseCat und Emily Kassie (2024)"
+            },
+            {
+              "lang": "ko",
+              "text": "원주민 기숙 학교에서 발생한 학대 및 실종 아동 관련 조사가 인근 슈거케인 보호 구역 심판에 불을 붙인다."
+            },
+            {
+              "lang": "ja",
+              "text": "先住民の寄宿学校での虐待と行方不明の子供たちに関する捜査が、シュガーケイン保留地での議論を巻き起こす。"
+            },
+            {
+              "lang": "pt",
+              "text": "Uma investigação sobre abusos e crianças desaparecidas num colégio interno indígena desencadeia um ajuste de contas na vizinha Reserva Sugarcane."
+            },
+            {
+              "lang": "de",
+              "text": "Eine Untersuchung von Missbrauchsfällen und dem Verschwinden von Kindern an einer indigenen Residential School fordern Überlebende des Indian reserve Sugarcane Gerechtigkeit."
+            },
+            {
+              "lang": "fr",
+              "text": "Une enquête sur les abus et les disparitions d'enfants dans un pensionnat amérindien déclenche une prise de conscience dans la réserve de Sugarcane."
+            },
+            {
+              "lang": "en",
+              "text": "An investigation into abuse and missing children at an Indian residential school in Canada ignites a reckoning on the nearby Sugarcane Reserve."
+            },
+            {
+              "lang": "zh-hk",
+              "text": "一項針對原住民住宿學校虐待和失蹤兒童事件的調查行動，導致附近甘蔗保留區遭到清算。"
+            },
+            {
+              "lang": "zh-tw",
+              "text": "一項針對原住民住宿學校虐待和失蹤兒童事件的調查行動，導致附近甘蔗保留區遭到清算。"
+            },
+            {
+              "lang": "zh-cn",
+              "text": "对印度寄宿学校虐待和失踪儿童的调查引发了对附近甘蔗保护区的清算。"
             }
           ],
           "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2024/05/11/c4cb9a73-0430-4ea8-ae24-ec08d0f80d9e.jpg",
@@ -4572,17 +4668,23 @@
             0
           ],
           "tags": [],
-          "brief": "An investigation into abuse and missing children at an Indian residential school ignites a reckoning on the nearby Sugarcane Reserve.",
+          "brief": "对印度寄宿学校虐待和失踪儿童的调查引发了对附近甘蔗保护区的清算。",
           "id": "https://neodb.social/movie/1ik9wlzPR46gJCUCSFOrfX",
           "uuid": "1ik9wlzPR46gJCUCSFOrfX",
           "url": "/movie/1ik9wlzPR46gJCUCSFOrfX",
           "api_url": "/api/movie/1ik9wlzPR46gJCUCSFOrfX",
           "category": "movie",
           "parent_uuid": null,
-          "display_title": "Sugarcane",
+          "display_title": "甘蔗",
           "external_resources": [
             {
               "url": "https://movie.douban.com/subject/36676600/"
+            },
+            {
+              "url": "https://www.wikidata.org/wiki/Q124309715"
+            },
+            {
+              "url": "https://www.imdb.com/title/tt30319854/"
             },
             {
               "url": "https://www.themoviedb.org/movie/1158874"
