@@ -4682,6 +4682,18 @@
             {
               "lang": "zh-cn",
               "text": "粗野主义者"
+            },
+            {
+              "lang": "zh",
+              "text": "粗獷派建築師"
+            },
+            {
+              "lang": "zh-hant",
+              "text": "粗獷派建築師"
+            },
+            {
+              "lang": "zh-sg",
+              "text": "粗犷派建筑师"
             }
           ],
           "localized_description": [
@@ -4740,6 +4752,30 @@
             {
               "lang": "en",
               "text": "Escaping post-war Europe, visionary architect László Toth arrives in America to rebuild his life. On his own in a strange new country, a wealthy industrialist recognizes his talent. But power and legacy come at a heavy cost..."
+            },
+            {
+              "lang": "en",
+              "text": "2024 film directed by Brady Corbet"
+            },
+            {
+              "lang": "es",
+              "text": "película de 2024 dirigida por Brady Corbet"
+            },
+            {
+              "lang": "fr",
+              "text": "film de Brady Corbet, sorti en 2024"
+            },
+            {
+              "lang": "de",
+              "text": "Film von Brady Corbet (2024)"
+            },
+            {
+              "lang": "pt",
+              "text": "filme de 2024 dirigido por Brady Corbet"
+            },
+            {
+              "lang": "ko",
+              "text": "브레이디 코베이 감독의 2024년 영화"
             }
           ],
           "cover_image_url": "https://neodb.social/m/item/movie/2025/03/12/dd6c73e9-ab71-4ff3-8f3d-fbc38d3c16c5.webp",
@@ -4785,6 +4821,9 @@
           "external_resources": [
             {
               "url": "https://www.imdb.com/title/tt8999762/"
+            },
+            {
+              "url": "https://www.wikidata.org/wiki/Q101112656"
             },
             {
               "url": "https://minreol.dk/movie/33LVbyyXidiyUKsS74kCwh"
@@ -7227,6 +7266,26 @@
             {
               "lang": "id",
               "text": "Dear Santa"
+            },
+            {
+              "lang": "zh",
+              "text": "親愛的聖誕老人"
+            },
+            {
+              "lang": "zh-hant",
+              "text": "親愛的聖誕老人"
+            },
+            {
+              "lang": "es",
+              "text": "Dear Santa"
+            },
+            {
+              "lang": "de",
+              "text": "Dear Santa – Teuflische Weihnachten"
+            },
+            {
+              "lang": "pt",
+              "text": "Dear Santa (filme de 2024)"
             }
           ],
           "localized_description": [
@@ -7261,6 +7320,26 @@
             {
               "lang": "en",
               "text": "A young girl's letter to Santa contains a typo that redirects it from the North Pole to Hell."
+            },
+            {
+              "lang": "zh-hant",
+              "text": "2024年的電影"
+            },
+            {
+              "lang": "en",
+              "text": "2024 film directed by Bobby Farrelly"
+            },
+            {
+              "lang": "es",
+              "text": "película de 2024 dirigida por Bobby Farrelly"
+            },
+            {
+              "lang": "fr",
+              "text": "film américain"
+            },
+            {
+              "lang": "de",
+              "text": "Film von Bobby Farrelly (2024)"
             }
           ],
           "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2024/12/26/ef64bf0b-1ddf-49f2-95e4-83efb36e76b7.jpg",
@@ -7286,6 +7365,12 @@
           "parent_uuid": null,
           "display_title": "亲爱的圣诞老人",
           "external_resources": [
+            {
+              "url": "https://www.wikidata.org/wiki/Q117842560"
+            },
+            {
+              "url": "https://www.imdb.com/title/tt2396431/"
+            },
             {
               "url": "https://www.themoviedb.org/movie/1097870"
             },
