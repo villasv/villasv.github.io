@@ -4941,6 +4941,22 @@
             {
               "lang": "zh-cn",
               "text": "艾诺拉(台)"
+            },
+            {
+              "lang": "zh",
+              "text": "阿诺拉"
+            },
+            {
+              "lang": "zh-hans",
+              "text": "阿诺拉"
+            },
+            {
+              "lang": "zh-hant",
+              "text": "艾諾拉"
+            },
+            {
+              "lang": "ja",
+              "text": "アノーラ"
             }
           ],
           "localized_description": [
@@ -4983,11 +4999,55 @@
             {
               "lang": "zh-cn",
               "text": "在布鲁克林工作的阿诺拉邂逅俄罗斯商界寡头之子伊万，冲动中嫁给了他，幻想自己成了灰姑娘。然而，伊万的父母得知后立刻赶到纽约，强行逼迫两人离婚。在一系列风波后，阿诺拉的美梦最终破灭。"
+            },
+            {
+              "lang": "zh",
+              "text": "2024年肖恩·贝克执导电影"
+            },
+            {
+              "lang": "zh-cn",
+              "text": "2024年肖恩·贝克执导电影"
+            },
+            {
+              "lang": "zh-tw",
+              "text": "2024年西恩·貝克導演的美國電影"
+            },
+            {
+              "lang": "zh-hans",
+              "text": "2024年肖恩·贝克执导电影"
+            },
+            {
+              "lang": "zh-hant",
+              "text": "2024年西恩·貝克導演的美國電影"
+            },
+            {
+              "lang": "en",
+              "text": "2024 film directed by Sean Baker"
+            },
+            {
+              "lang": "es",
+              "text": "película de 2024 dirigida por Sean Baker"
+            },
+            {
+              "lang": "fr",
+              "text": "film réalisé par Sean Baker et sorti en 2024"
+            },
+            {
+              "lang": "de",
+              "text": "Film von Sean Baker (2024)"
+            },
+            {
+              "lang": "pt",
+              "text": "filme de 2024 dirigido por Sean Baker"
+            },
+            {
+              "lang": "ja",
+              "text": "2024年のショーン・ベイカー監督・脚本・製作のアメリカ映画"
             }
           ],
           "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/09/13/a30bf2f3-4f79-43ef-b22f-58ebc3fd8aae.jpg",
           "rating": 6.4,
-          "rating_count": 333,
+          "rating_count": 334,
           "rating_distribution": [
             4,
             11,
@@ -5026,6 +5086,9 @@
           "parent_uuid": null,
           "display_title": "阿诺拉",
           "external_resources": [
+            {
+              "url": "https://www.wikidata.org/wiki/Q123185887"
+            },
             {
               "url": "https://crititeca.illustietor.com/movie/7KWnWWVFeaLnu5Q4GrLrhZ"
             },
@@ -5322,6 +5385,34 @@
             {
               "lang": "fr",
               "text": "Je suis toujours là"
+            },
+            {
+              "lang": "zh",
+              "text": "我生如是繼續"
+            },
+            {
+              "lang": "zh-hk",
+              "text": "我生如是繼續"
+            },
+            {
+              "lang": "zh-hant",
+              "text": "我生如是繼續"
+            },
+            {
+              "lang": "zh-mo",
+              "text": "至死方休"
+            },
+            {
+              "lang": "es",
+              "text": "Aún estoy aquí (película de 2024)"
+            },
+            {
+              "lang": "de",
+              "text": "Ainda estou aqui"
+            },
+            {
+              "lang": "ja",
+              "text": "アイム・スティル・ヒア (2024年の映画)"
             }
           ],
           "localized_description": [
@@ -5376,6 +5467,30 @@
             {
               "lang": "zh-tw",
               "text": "1970年的里約熱內盧，沙灘上到處是嬉鬧人群，魯本斯與尤妮絲一家七口就住在海濱街區，與朋友聚會、歡笑暢談、拍照留念是他們的日常；但同時，不滿獨裁政府的反對聲浪四起，也讓白色恐怖逐漸蔓延每個角落。一日，意外的訪客打破平靜，魯本斯遭軍方強行帶走，自此下落不明。悲痛的尤妮絲被迫挺身而出，找尋丈夫失蹤的真相，並獨自撐起這個家，以堅定的心持續帶給孩子們完整的愛與希望。"
+            },
+            {
+              "lang": "en",
+              "text": "2024 film directed by Walter Salles"
+            },
+            {
+              "lang": "es",
+              "text": "película de 2024 dirigida por Walter Salles"
+            },
+            {
+              "lang": "fr",
+              "text": "film de Walter Salles sorti en 2024"
+            },
+            {
+              "lang": "de",
+              "text": "Film von Walter Salles (2024)"
+            },
+            {
+              "lang": "pt",
+              "text": "filme de 2024 dirigido por Walter Salles, melhor filme internacional no Oscar 2025"
+            },
+            {
+              "lang": "ko",
+              "text": "2024년 공개된 바우테르 살리스 감독의 영화"
             }
           ],
           "cover_image_url": "https://neodb.social/m/item/movie/2025/03/09/3e3fa59e-e345-4f24-b75e-1141f82942f6.jpg",
@@ -5416,6 +5531,9 @@
           "parent_uuid": null,
           "display_title": "我仍在此",
           "external_resources": [
+            {
+              "url": "https://www.wikidata.org/wiki/Q124262351"
+            },
             {
               "url": "https://reviewdb.app/movie/6xT7hlogz6k7qLiti7bDew"
             },
@@ -7377,6 +7495,22 @@
             {
               "lang": "x",
               "text": ""
+            },
+            {
+              "lang": "zh",
+              "text": "我的完美日常"
+            },
+            {
+              "lang": "zh-mo",
+              "text": "新活日常"
+            },
+            {
+              "lang": "zh-my",
+              "text": "我的完美日常"
+            },
+            {
+              "lang": "pt",
+              "text": "Perfect Days"
             }
           ],
           "localized_description": [
@@ -7459,6 +7593,30 @@
             {
               "lang": "x",
               "text": ""
+            },
+            {
+              "lang": "en",
+              "text": "2023 film by Wim Wenders"
+            },
+            {
+              "lang": "es",
+              "text": "película de 2023 dirigida por Wim Wenders"
+            },
+            {
+              "lang": "fr",
+              "text": "film de Wim Wenders sorti en 2023"
+            },
+            {
+              "lang": "de",
+              "text": "Film von Wim Wenders (2023)"
+            },
+            {
+              "lang": "pt",
+              "text": "filme de 2023 dirigido por Wim Wenders"
+            },
+            {
+              "lang": "ja",
+              "text": "2023年ヴィム・ヴェンダース監督作品"
             }
           ],
           "cover_image_url": "https://neodb.social/m/item/movie/2023/05/31/0904d82a-cd0e-4526-91cb-0c7d98d66d94.jpg",
@@ -7502,6 +7660,9 @@
           "parent_uuid": null,
           "display_title": "完美的日子",
           "external_resources": [
+            {
+              "url": "https://www.wikidata.org/wiki/Q117663112"
+            },
             {
               "url": "https://movie.douban.com/subject/35902857/"
             },
