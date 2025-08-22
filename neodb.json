@@ -5176,12 +5176,12 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2025/01/17/c3980bb4-8335-4f47-a839-3ce094856a54.jpg",
           "rating": 6.8,
-          "rating_count": 407,
+          "rating_count": 408,
           "rating_distribution": [
             3,
             9,
             25,
-            46,
+            47,
             13
           ],
           "tags": [
@@ -5395,7 +5395,7 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/09/13/a30bf2f3-4f79-43ef-b22f-58ebc3fd8aae.jpg",
           "rating": 6.4,
-          "rating_count": 335,
+          "rating_count": 336,
           "rating_distribution": [
             4,
             11,
@@ -5595,13 +5595,13 @@
           ],
           "cover_image_url": "https://neodb.social/m/movie/2021/09/151c1239cd-bcd0-45cf-98ef-583da7c844d3.jpg",
           "rating": 9.1,
-          "rating_count": 109,
+          "rating_count": 110,
           "rating_distribution": [
             0,
             0,
             6,
-            29,
-            64
+            30,
+            63
           ],
           "tags": [
             "2020",
@@ -5614,12 +5614,12 @@
             "剧情",
             "加拿大",
             "喜剧",
+            "山姆电影",
             "托尼奖",
-            "改编真人真事",
             "歌舞",
             "美国",
             "美国电影",
-            "音乐",
+            "舞台剧",
             "音乐剧"
           ],
           "brief": "托尼奖获奖百老汇音乐剧《来自远方》（Come from Away）将被改编成电影，The Mark Gordon Company投资制片，原作者、词曲家Irene Sankoff和David Hein将编写剧本，剧版导演克里斯托弗·阿什利也确定执导影片。",
@@ -6856,11 +6856,11 @@
           ],
           "cover_image_url": "https://neodb.social/m/movie/2021/09/187eb881e4-52f0-4e99-a464-d3f3dc991684.jpg",
           "rating": 6.6,
-          "rating_count": 68,
+          "rating_count": 69,
           "rating_distribution": [
             2,
             4,
-            54,
+            55,
             33,
             4
           ],
@@ -7347,7 +7347,7 @@
           ],
           "cover_image_url": "https://neodb.social/m/movie/2021/09/155b0f163b-6c45-41a7-ae52-d2efc29bcaae.jpg",
           "rating": 6.8,
-          "rating_count": 441,
+          "rating_count": 442,
           "rating_distribution": [
             0,
             7,
@@ -8258,11 +8258,11 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/movie/2023/05/31/0904d82a-cd0e-4526-91cb-0c7d98d66d94.jpg",
           "rating": 7.8,
-          "rating_count": 368,
+          "rating_count": 369,
           "rating_distribution": [
             0,
             1,
-            19,
+            20,
             49,
             28
           ],
