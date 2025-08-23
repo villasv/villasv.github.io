@@ -8258,7 +8258,7 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/movie/2023/05/31/0904d82a-cd0e-4526-91cb-0c7d98d66d94.jpg",
           "rating": 7.8,
-          "rating_count": 369,
+          "rating_count": 370,
           "rating_distribution": [
             0,
             1,
@@ -8641,13 +8641,13 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/tv/2025/04/10/44dee2a9-4d3e-4ddb-8da4-f1965e1b6f83.jpg",
           "rating": 8.4,
-          "rating_count": 16,
+          "rating_count": 17,
           "rating_distribution": [
             0,
             0,
-            18,
-            25,
-            56
+            17,
+            29,
+            52
           ],
           "tags": [
             "2025",
@@ -9206,7 +9206,7 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/tmdb_tvseason/2025/03/02/6d3b4f7f-5d4a-4704-86ae-cfbb5ea3effd.jpg",
           "rating": 7.9,
-          "rating_count": 187,
+          "rating_count": 188,
           "rating_distribution": [
             0,
             3,
@@ -10046,7 +10046,7 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/tmdb_tvseason/2025/02/28/88a56af7-da63-4de1-adcb-c2722d1588ac.jpg",
           "rating": 8.9,
-          "rating_count": 763,
+          "rating_count": 764,
           "rating_distribution": [
             0,
             0,
@@ -10061,6 +10061,7 @@
             "appletv",
             "sci fi",
             "人性",
+            "剧",
             "剧情",
             "剧集",
             "反乌托邦",
@@ -10070,8 +10071,7 @@
             "电视剧",
             "科幻",
             "美剧",
-            "美国",
-            "驚悚"
+            "美国"
           ],
           "brief": "在卢蒙工业公司，员工们接受了一种名为“分离”的手术，该手术将他们的工作记忆与个人记忆分割开来。马克是一位沉浸在悲痛中的团队领导，他开始揭露公司内部的黑暗秘密，这迫使他及其同事们不得不面对身份认同、自由意志以及企业控制等深刻问题。",
           "id": "https://neodb.social/tv/season/1w1lMpMeBGQmbqiPKYmVXM",
