@@ -5216,9 +5216,6 @@
           "display_title": "某种物质",
           "external_resources": [
             {
-              "url": "https://www.wikidata.org/wiki/Q113380226"
-            },
-            {
               "url": "https://eggplant.place/movie/6NevTLc17vBVDTNR3GKT0w"
             },
             {
@@ -5229,6 +5226,9 @@
             },
             {
               "url": "https://www.themoviedb.org/movie/933260"
+            },
+            {
+              "url": "https://www.wikidata.org/wiki/Q113380226"
             }
           ]
         },
