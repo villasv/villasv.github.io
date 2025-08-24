@@ -5998,6 +5998,10 @@
             {
               "lang": "en",
               "text": "Documents the lives of a group of bike messengers over a nearly three-year span. This film was made by couriers, about couriers, for a wide general audience."
+            },
+            {
+              "lang": "en",
+              "text": "2012 documentary"
             }
           ],
           "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2025/06/25/a520f5ff-415a-4bc8-add1-32bb262c1514.jpg",
@@ -6020,6 +6024,12 @@
           "parent_uuid": null,
           "display_title": "Murder of Couriers",
           "external_resources": [
+            {
+              "url": "https://www.wikidata.org/wiki/Q130333583"
+            },
+            {
+              "url": "https://www.imdb.com/title/tt2611060/"
+            },
             {
               "url": "https://www.themoviedb.org/movie/313345"
             }
