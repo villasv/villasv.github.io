@@ -4035,9 +4035,6 @@
               "url": "https://eggplant.place/movie/4bN2iXjGEvMbaNDin8GPNK"
             },
             {
-              "url": "https://www.wikidata.org/wiki/Q123690368"
-            },
-            {
               "url": "https://www.imdb.com/title/tt21823606/"
             },
             {
@@ -4045,6 +4042,9 @@
             },
             {
               "url": "https://www.themoviedb.org/movie/1013850"
+            },
+            {
+              "url": "https://www.wikidata.org/wiki/Q123690368"
             }
           ]
         },
@@ -5881,9 +5881,6 @@
           "display_title": "我仍在此",
           "external_resources": [
             {
-              "url": "https://www.wikidata.org/wiki/Q124262351"
-            },
-            {
               "url": "https://reviewdb.app/movie/6xT7hlogz6k7qLiti7bDew"
             },
             {
@@ -5894,6 +5891,9 @@
             },
             {
               "url": "https://www.imdb.com/title/tt14961016/"
+            },
+            {
+              "url": "https://www.wikidata.org/wiki/Q124262351"
             },
             {
               "url": "https://movie.douban.com/subject/35512487/"
