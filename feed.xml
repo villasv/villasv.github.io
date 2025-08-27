@@ -4,9 +4,16 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 27 Aug 2025 15:06:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Aug 2025 17:05:08 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2025]]></copyright>
+        <item>
+            <title><![CDATA[Comment]]></title>
+            <description><![CDATA[<p>A few decades in and a lot of car dependent sprawl later, maybe building a car instead of nicer horses wasn&#39;t that great of an idea after all</p>]]></description>
+            <link>https://mastodon.social/@villasbc/115101704579054726</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/115101704579054726</guid>
+            <pubDate>Wed, 27 Aug 2025 16:37:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Comment]]></title>
             <description><![CDATA[<p>In the <a href="https://mastodon.social/tags/portuguese" class="mention hashtag" rel="tag">#<span>portuguese</span></a> speaking activism circles there&#39;s a concept called &quot;esvaziamento de pauta&quot; which I wish I could translate to English but I&#39;m not sure what&#39;s the prevalent name for the equivalent concept in the anglosphere.</p><p>I&#39;d maybe say &quot;hollowing the cause&quot; but it doesn&#39;t ring quite the same.</p><p>I was just reminded of this as a thing because funnily enough the only-mildly deranged right-wingers are finally realizing that just about anything is being called woke now</p><p><a href="https://ca.news.yahoo.com/wing-pundit-urges-maga-stop-142453982.html" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">ca.news.yahoo.com/wing-pundit-</span><span class="invisible">urges-maga-stop-142453982.html</span></a></p>]]></description>
@@ -160,13 +167,6 @@
             <link>https://mastodon.social/@villasbc/114734625978259500</link>
             <guid isPermaLink="true">https://mastodon.social/@villasbc/114734625978259500</guid>
             <pubDate>Mon, 23 Jun 2025 20:44:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Comment]]></title>
-            <description><![CDATA[<p>I wonder why is the correlation so high between mean/disgusting comments in Lemmy with that user being from the sh.itjust.works instance instead of lemmy.ca</p><p>There has to be something in there about branding and language... maybe just a correlation with tech white dudes. Or maybe the lemmy.ca moderators are just incredibly effective in comparison.</p>]]></description>
-            <link>https://mastodon.social/@villasbc/114733782789277018</link>
-            <guid isPermaLink="true">https://mastodon.social/@villasbc/114733782789277018</guid>
-            <pubDate>Mon, 23 Jun 2025 17:09:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Finished reading]]></title>
