@@ -4,9 +4,16 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 28 Aug 2025 01:32:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Aug 2025 05:05:33 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2025]]></copyright>
+        <item>
+            <title><![CDATA[Comment]]></title>
+            <description><![CDATA[<p>Absolutely loving to use and even more so to learn more about the ideas behind the 6.0 update of Transit</p><p><a href="https://blog.transitapp.com/six-o" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="">blog.transitapp.com/six-o</span><span class="invisible"></span></a></p>]]></description>
+            <link>https://mastodon.social/@villasbc/115104565049188306</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/115104565049188306</guid>
+            <pubDate>Thu, 28 Aug 2025 04:44:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Comment]]></title>
             <description><![CDATA[<p>A few decades in and a lot of car dependent sprawl later, maybe building a car instead of nicer horses wasn&#39;t that great of an idea after all</p>]]></description>
@@ -160,13 +167,6 @@
             <link>https://mastodon.social/@villasbc/114739711638809738</link>
             <guid isPermaLink="true">https://mastodon.social/@villasbc/114739711638809738</guid>
             <pubDate>Tue, 24 Jun 2025 18:17:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Comment]]></title>
-            <description><![CDATA[<p>Got assigned one of those big corp recurring legal trainings today, and re-learned the guidance of preferring &quot;sensitive&quot; conversations over the phone or in person as to not generate a paper trail that can be &quot;misconstrued if taken out of context, leading to unfair press coverage&quot;.</p><p>Big corporations are a mistake.</p>]]></description>
-            <link>https://mastodon.social/@villasbc/114734625978259500</link>
-            <guid isPermaLink="true">https://mastodon.social/@villasbc/114734625978259500</guid>
-            <pubDate>Mon, 23 Jun 2025 20:44:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Finished reading]]></title>
