@@ -4,9 +4,16 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 29 Aug 2025 01:33:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Aug 2025 05:05:33 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2025]]></copyright>
+        <item>
+            <title><![CDATA[Comment]]></title>
+            <description><![CDATA[<p>I was having issues with not getting personal projects through the finish line, always starting new ones that sapped the energy from ongoing ones.</p><p>Then I got promoted and now that problem is solved. I don’t have the time nor energy to even get something started</p>]]></description>
+            <link>https://mastodon.social/@villasbc/115109684504080549</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/115109684504080549</guid>
+            <pubDate>Fri, 29 Aug 2025 02:26:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Comment]]></title>
             <description><![CDATA[<p>Absolutely loving to use and even more so to learn more about the ideas behind the 6.0 update of Transit</p><p><a href="https://blog.transitapp.com/six-o" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="">blog.transitapp.com/six-o</span><span class="invisible"></span></a></p>]]></description>
@@ -160,13 +167,6 @@
             <link>https://neodb.social/@villasv/posts/460492740727638608/</link>
             <guid isPermaLink="true">https://neodb.social/@villasv/posts/460492740727638608/</guid>
             <pubDate>Wed, 25 Jun 2025 00:13:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Comment]]></title>
-            <description><![CDATA[<p>So how are we calling content or work that does not involve <a href="https://mastodon.social/tags/genAI" class="mention hashtag" rel="tag">#<span>genAI</span></a> / <a href="https://mastodon.social/tags/LLM" class="mention hashtag" rel="tag">#<span>LLM</span></a>? Or <a href="https://mastodon.social/tags/AI" class="mention hashtag" rel="tag">#<span>AI</span></a> of any kind?</p>]]></description>
-            <link>https://mastodon.social/@villasbc/114739711638809738</link>
-            <guid isPermaLink="true">https://mastodon.social/@villasbc/114739711638809738</guid>
-            <pubDate>Tue, 24 Jun 2025 18:17:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Finished reading]]></title>
