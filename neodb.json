@@ -4239,12 +4239,12 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/06/23/566914c0-b514-4cc7-bea4-f5d90945a704.webp",
           "rating": 8.2,
-          "rating_count": 371,
+          "rating_count": 372,
           "rating_distribution": [
             0,
             0,
             13,
-            45,
+            44,
             41
           ],
           "tags": [
@@ -5843,7 +5843,7 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/movie/2025/03/09/3e3fa59e-e345-4f24-b75e-1141f82942f6.jpg",
           "rating": 8,
-          "rating_count": 101,
+          "rating_count": 102,
           "rating_distribution": [
             0,
             0,
@@ -9001,7 +9001,7 @@
         "item": {
           "type": "TVSeason",
           "title": "North of North",
-          "description": "A young Inuk woman wants to build a new future for herself after a spontaneous and extremely public exit from her marriage. It won't be easy in a small Arctic town where everybody knows your business.",
+          "description": "影片将在努纳武特地区取景拍摄，讲述一位年轻的因纽特母亲想要为自己创造新未来的故事。但问题在于，在她所在的这个北极小镇，人人都对别人的事了如指掌，这绝非易事。",
           "localized_title": [
             {
               "lang": "ko",
@@ -9042,17 +9042,41 @@
             {
               "lang": "zh-cn",
               "text": "第 1 季"
+            },
+            {
+              "lang": "zh-cn",
+              "text": "极北之北"
+            },
+            {
+              "lang": "en",
+              "text": "North of North"
+            },
+            {
+              "lang": "zh-cn",
+              "text": "北方之北"
+            },
+            {
+              "lang": "zh-cn",
+              "text": "极北故事"
+            },
+            {
+              "lang": "zh-cn",
+              "text": "极北以北"
             }
           ],
           "localized_description": [
             {
               "lang": "en",
               "text": "A young Inuk woman wants to build a new future for herself after a spontaneous and extremely public exit from her marriage. It won't be easy in a small Arctic town where everybody knows your business."
+            },
+            {
+              "lang": "zh-cn",
+              "text": "影片将在努纳武特地区取景拍摄，讲述一位年轻的因纽特母亲想要为自己创造新未来的故事。但问题在于，在她所在的这个北极小镇，人人都对别人的事了如指掌，这绝非易事。"
             }
           ],
           "cover_image_url": "https://neodb.social/m/item/tmdb_tvseason/2025/02/21/ecb9d9b0-b0fc-4fc2-8c0a-2d37947c95f0.jpg",
           "rating": null,
-          "rating_count": 1,
+          "rating_count": 2,
           "rating_distribution": [
             0,
             0,
@@ -9064,7 +9088,7 @@
             "canadian",
             "cbc"
           ],
-          "brief": "A young Inuk woman wants to build a new future for herself after a spontaneous and extremely public exit from her marriage. It won't be easy in a small Arctic town where everybody knows your business.",
+          "brief": "影片将在努纳武特地区取景拍摄，讲述一位年轻的因纽特母亲想要为自己创造新未来的故事。但问题在于，在她所在的这个北极小镇，人人都对别人的事了如指掌，这绝非易事。",
           "id": "https://neodb.social/tv/season/2TBK6FTzcI4s8QAMG1Dvyq",
           "uuid": "2TBK6FTzcI4s8QAMG1Dvyq",
           "url": "/tv/season/2TBK6FTzcI4s8QAMG1Dvyq",
@@ -9075,6 +9099,9 @@
           "external_resources": [
             {
               "url": "https://www.themoviedb.org/tv/249023/season/1"
+            },
+            {
+              "url": "https://movie.douban.com/subject/36341494/"
             }
           ]
         },
