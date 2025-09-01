@@ -4239,13 +4239,13 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/06/23/566914c0-b514-4cc7-bea4-f5d90945a704.webp",
           "rating": 8.2,
-          "rating_count": 373,
+          "rating_count": 374,
           "rating_distribution": [
             0,
             0,
             13,
-            45,
-            41
+            44,
+            40
           ],
           "tags": [
             "2020s",
@@ -4925,9 +4925,6 @@
               "url": "https://www.imdb.com/title/tt8999762/"
             },
             {
-              "url": "https://www.wikidata.org/wiki/Q101112656"
-            },
-            {
               "url": "https://minreol.dk/movie/33LVbyyXidiyUKsS74kCwh"
             },
             {
@@ -4938,6 +4935,9 @@
             },
             {
               "url": "https://neodb.kevga.de/movie/6hbO37aCgaZmsjICejDamn"
+            },
+            {
+              "url": "https://www.wikidata.org/wiki/Q101112656"
             }
           ]
         },
