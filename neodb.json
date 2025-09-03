@@ -4239,12 +4239,12 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/06/23/566914c0-b514-4cc7-bea4-f5d90945a704.webp",
           "rating": 8.2,
-          "rating_count": 376,
+          "rating_count": 377,
           "rating_distribution": [
             0,
             0,
             13,
-            44,
+            45,
             40
           ],
           "tags": [
@@ -5980,6 +5980,316 @@
     ],
     "progress": [],
     "complete": [
+      {
+        "shelf_type": "complete",
+        "visibility": 0,
+        "post_id": "486085723026957864",
+        "item": {
+          "type": "Movie",
+          "title": "火星救援",
+          "description": "载人航天宇宙飞船阿瑞斯3号成功抵达火星，谁知一场破坏力极其巨大的风暴向宇航员们袭来，阿瑞斯3号被迫中断任务，紧急返航。撤离途中，宇航员马克·沃特尼（马特·达蒙 Matt Damon 饰）被飞船上吹落的零件击中，由于生还希望渺茫，队友们只得匆匆返航，并向世人宣告他已牺牲的事实。出乎意料的是，马克以极低的概率活了下来。他躲进驻火星的航天基地疗伤。下一次火星任务要等到四年后，而基地内的补给仅够他维持31天。短暂的绝望后，马克决定利用有限的食物，在这颗空无一人的星球上种植作物，寻找一线生机。与此同时，地球方面也很快发现马克生还的事实，他们想尽办法部署营救计划。孤军奋战的马克，能否等到救援队伍的到来？\n影片改编自安迪·威尔的同名科幻小说。",
+          "localized_title": [
+            {
+              "lang": "zh-cn",
+              "text": "火星救援"
+            },
+            {
+              "lang": "en",
+              "text": "The Martian"
+            },
+            {
+              "lang": "zh-cn",
+              "text": "火星任务(港)"
+            },
+            {
+              "lang": "zh-cn",
+              "text": "绝地救援(台)"
+            },
+            {
+              "lang": "zh-cn",
+              "text": "火星人"
+            },
+            {
+              "lang": "zh-hk",
+              "text": "火星任務"
+            },
+            {
+              "lang": "zh-tw",
+              "text": "絕地救援"
+            },
+            {
+              "lang": "fr",
+              "text": "Seul sur Mars"
+            },
+            {
+              "lang": "de",
+              "text": "Der Marsianer - Rettet Mark Watney"
+            },
+            {
+              "lang": "nn",
+              "text": "The Martian"
+            },
+            {
+              "lang": "nb",
+              "text": "The Martian: Strandet på Mars"
+            },
+            {
+              "lang": "no",
+              "text": "The Martian"
+            },
+            {
+              "lang": "sv",
+              "text": "The Martian"
+            },
+            {
+              "lang": "da",
+              "text": "The Martian"
+            },
+            {
+              "lang": "zh",
+              "text": "絕地救援"
+            },
+            {
+              "lang": "zh-hans",
+              "text": "火星救援"
+            },
+            {
+              "lang": "zh-hant",
+              "text": "絕地救援"
+            },
+            {
+              "lang": "zh-sg",
+              "text": "火星救援"
+            },
+            {
+              "lang": "zh-mo",
+              "text": "火星任務"
+            },
+            {
+              "lang": "zh-my",
+              "text": "火星救援"
+            },
+            {
+              "lang": "es",
+              "text": "Marte"
+            },
+            {
+              "lang": "de",
+              "text": "Der Marsianer – Rettet Mark Watney"
+            },
+            {
+              "lang": "pt",
+              "text": "Perdido em Marte"
+            },
+            {
+              "lang": "ja",
+              "text": "オデッセイ"
+            },
+            {
+              "lang": "ko",
+              "text": "마션"
+            },
+            {
+              "lang": "es",
+              "text": "Marte (The Martian)"
+            }
+          ],
+          "localized_description": [
+            {
+              "lang": "zh-cn",
+              "text": "载人航天宇宙飞船阿瑞斯3号成功抵达火星，谁知一场破坏力极其巨大的风暴向宇航员们袭来，阿瑞斯3号被迫中断任务，紧急返航。撤离途中，宇航员马克·沃特尼（马特·达蒙 Matt Damon 饰）被飞船上吹落的零件击中，由于生还希望渺茫，队友们只得匆匆返航，并向世人宣告他已牺牲的事实。出乎意料的是，马克以极低的概率活了下来。他躲进驻火星的航天基地疗伤。下一次火星任务要等到四年后，而基地内的补给仅够他维持31天。短暂的绝望后，马克决定利用有限的食物，在这颗空无一人的星球上种植作物，寻找一线生机。与此同时，地球方面也很快发现马克生还的事实，他们想尽办法部署营救计划。孤军奋战的马克，能否等到救援队伍的到来？\n影片改编自安迪·威尔的同名科幻小说。"
+            },
+            {
+              "lang": "fr",
+              "text": "Au cours d’une mission spatiale habitée sur Mars, et à la suite d’un violent orage, l’astronaute Mark Watney est laissé pour mort et abandonné sur place par son équipage. Mais Watney a survécu et se retrouve seul sur cette planète hostile. Avec de maigres provisions, il ne doit compter que sur son ingéniosité, son bon sens et son intelligence pour survivre et trouver un moyen d’alerter la Terre qu’il est encore vivant. À des millions de kilomètres de là, la NASA et une équipe de scientifiques internationaux travaillent sans relâche pour ramener « le Martien » sur terre, pendant que, en parallèle, ses coéquipiers tentent secrètement d’organiser une audacieuse voire impossible mission de sauvetage."
+            },
+            {
+              "lang": "de",
+              "text": "Die NASA treibt mit der „Ares III“-Mission die Erforschung des Mars voran. Die Astronauten Mark Watney, Commander Lewis, Rick Martinez, Chris Beck, Alex Vogel und Beth Johanssen sind auf dem roten Planeten gelandet, inklusive eines Fahrzeugs und eines Habitats, in dem die Forscher leben und Nahrung herstellen können. Doch ein Sandsturm droht die mitgebrachte Technik samt ihrer Einwohner hinwegzufegen, so dass Commander Lewis den Befehl zum sofortigen Aufbruch gibt. Weil ihn seine Crew für tot hält, bleibt der Botaniker Mark Watney auf dem unwirtlichen fremden Planeten zurück. Mit beschädigter Ausrüstung versucht er, die wenigen ihm zur Verfügung stehenden Mittel so einfallsreich wie möglich zu nutzen. Und tatsächlich gelingt es Watney, der Erde zu signalisieren, dass er noch lebt. Die NASA unter Direktor Sanders beginnt, die Rettung des „Marsianers“ zu planen. Parallel dazu startet Watneys Crew eine eigene, riskante Mission, ihn heimzuholen …"
+            },
+            {
+              "lang": "nb",
+              "text": "Under et bemannet oppdrag til Mars antas astronaut Mark Watney omkommet etter å ha bli etterlatt av sitt mannskap i en voldsom storm. Men Watney har overlevd og er strandet og alene på den fiendtlige planeten. Med bare marginale forsyninger må han bruke sin oppfinnsomhet og kunnskap for å livnære seg og finne en måte å signalisere til jorden at han lever."
+            },
+            {
+              "lang": "no",
+              "text": "Under en bemannet romferd til mars, antas astronaut Mark Watney (Matt Damon) omkommet etter en voldsom storm og blir derfor etterlatt av mannskapet sitt. Men Watney har overlevd og blir strandet alene på denne fiendtlige planeten. Med magre forsyninger må han bruke sin oppfinnsomhet og kløkt for å kunne finne måter å livnære seg på og å signalisere til jorden at han fremdeles er i live."
+            },
+            {
+              "lang": "sv",
+              "text": "Astronauten Mark Watney blir kvarlämnad på Mars av resterande besättningen som tror att han omkommit efter en kraftig storm i rymden. Ensam kvar måste han med sin intelligens och styrka hitta ett sätt att överleva på den lilla mat han har och signalera till jorden att han lever. Miljontals mil bort jobbar NASAs forskare dygnet runt med att hitta ett sätt att få hem honom och besättningen planerar samtidigt en livsfarlig räddningsaktion. Världens befolkning är alla engagerade i Watneys öde och tillsammans är vi starka."
+            },
+            {
+              "lang": "en",
+              "text": "During a manned mission to Mars, Astronaut Mark Watney is presumed dead after a fierce storm and left behind by his crew. But Watney has survived and finds himself stranded and alone on the hostile planet. With only meager supplies, he must draw upon his ingenuity, wit and spirit to subsist and find a way to signal to Earth that he is alive."
+            },
+            {
+              "lang": "da",
+              "text": "En ekspedition til Mars går galt, da astronauten Mark Watney bliver fanget i en voldsom storm. Hans kolleger tror, at han er død, og de rejser tilbage til Jorden uden ham, men Mark har overlevet og er nu strandet alene på den ugæstfri røde planet. Han må klare sig med et minimalt forråd og bruge al sin energi og forstand på at finde en måde at overleve på. Samtidig skal han finde en metode, som han kan bruge til at sende nødsignaler til Jorden. Men selvom det lykkes ham at få sendt signalerne, vil det tage flere år for NASA at få sendt en redningsmission til Mars. Hvad skal han stille op?"
+            },
+            {
+              "lang": "nn",
+              "text": ""
+            },
+            {
+              "lang": "zh",
+              "text": "2015年科幻電影"
+            },
+            {
+              "lang": "zh-cn",
+              "text": "2015年科幻电影"
+            },
+            {
+              "lang": "zh-tw",
+              "text": "2015年科幻電影"
+            },
+            {
+              "lang": "zh-hk",
+              "text": "2015年科幻電影"
+            },
+            {
+              "lang": "zh-hans",
+              "text": "2015年科幻电影"
+            },
+            {
+              "lang": "zh-hant",
+              "text": "2015年科幻電影"
+            },
+            {
+              "lang": "zh-sg",
+              "text": "2015年科幻电影"
+            },
+            {
+              "lang": "zh-mo",
+              "text": "2015年科幻電影"
+            },
+            {
+              "lang": "zh-my",
+              "text": "2015年科幻电影"
+            },
+            {
+              "lang": "en",
+              "text": "2015 film directed by Ridley Scott"
+            },
+            {
+              "lang": "es",
+              "text": "película de 2015 dirigida por Ridley Scott"
+            },
+            {
+              "lang": "fr",
+              "text": "film de Ridley Scott, sorti en 2015"
+            },
+            {
+              "lang": "de",
+              "text": "Film von Ridley Scott (2015)"
+            },
+            {
+              "lang": "pt",
+              "text": "Filme de ficção científica"
+            },
+            {
+              "lang": "ja",
+              "text": "アメリカ合衆国の映画 (2015)"
+            },
+            {
+              "lang": "ko",
+              "text": "2015년 SF 영화"
+            },
+            {
+              "lang": "ko",
+              "text": "NASA 소속의 아레스 3 탐사대는 화성에 도착한 지 6일째 되는 날 거대한 모래 폭풍을 만난다. 팀원 마크 와트니가 실종되고 회오리바람에 우주선이 기울어지자, 팀원들은 마크를 찾는 일을 포기하고 화성을 떠난다.  극적으로 생존한 마크 와트니는 남은 식량과 기발한 재치로 화성에서 살아남을 방법을 찾으며 자신이 살아있음을 알리려 노력한다. 마침내 자신이 살아있다는 사실을 지구에 알리게 된 마크 와트니. NASA는 총력을 기울여 마크 와트니를 구출하기 위해 노력하고, 아레스 3 탐사대 또한 그를 구출하기 위해 그들만의 방법을 찾게 되는데..."
+            },
+            {
+              "lang": "ja",
+              "text": "火星の有人探査計画「アレス3」は、猛烈な砂嵐のせいでやむなく中止を余儀なくされるが、撤収作業中、クルーの一員である植物学者のワトニーが、不慮の事故で吹き飛ばされ、行方不明に。状況から彼の生存の可能性は絶望視される中、残りのメンバーたちはワトニーの捜索を断念して、火星を後にする。ところがなんと、ワトニーは奇跡的に生き延びていた。しかし、次の火星探査まではあと4年。果たして気になる彼の運命や、いかに？"
+            },
+            {
+              "lang": "pt",
+              "text": "Durante uma missão a Marte, o astronauta americano Mark Watney é dado como morto e deixado para trás. Mas Watney ainda está vivo. Contra todas as probabilidades, ele tem de encontrar uma forma de entrar em contacto com a Terra, na esperança de que os cientistas consigam elaborar um plano de resgate para o levar para casa."
+            },
+            {
+              "lang": "es",
+              "text": "Un explorador espacial queda atrapado en Marte, luego de ser abandonado por los miembros de su tripulación, quienes pensaron que había muerto a consecuencia de una tormenta. Casi sin recursos y con solo su ingenio, intentará sobrevivir mientras la NASA, por un lado, y los miembros de su tripulación, por su propia cuenta, intentan rescatarlo."
+            },
+            {
+              "lang": "zh-hk",
+              "text": "太空人馬克（麥迪文）登陸火星執勤時，慘遭突如其來的暴風襲擊，令他被迫與大隊分散。所有組員誤以為他已殉職，獨留他在火星後，迅即撤退折返地球。在火星上孤立無援的馬克，運用無窮聰明才智，於極有限資源下努力活下來，並設法將訊息成功傳回地球！NASA立刻拉攏世界各國優秀的科學家，跟太空組員組成團隊，分秒必爭冒死拯救馬克危在旦夕的性命；全世界也開始著緊為馬克加油，冀盼他平安歸來。"
+            },
+            {
+              "lang": "zh-tw",
+              "text": "太空人馬克瓦特尼（麥特戴蒙 飾）和太空小組首次登陸火星執行任務時，意外遭受強烈的暴風侵襲，一行人被迫放棄任務即刻撤退，馬克卻遭暴風中的物體高速擊中，並與成員分散，組員們誤以為他已不幸殉職便直接折返地球。清醒後的馬克，發現自己孤伶伶的受困在火星上，他必須運用有限的資源和他擁有的知識努力存活下來，並設法傳送訊息，告訴地球上的組員們他還活著。而地球上的團隊又將如何突破重重困難，並在分秒必爭的限制下重返火星救回馬克？"
+            },
+            {
+              "lang": "zh-cn",
+              "text": "载人航天宇宙飞船阿瑞斯3号成功抵达火星，谁知一场破坏力极其巨大的风暴向宇航员们袭来，阿瑞斯3号被迫中断任务，紧急返航。撤离途中，宇航员马克·沃特尼（马特·达蒙 Matt Damon 饰）被飞船上吹落的零件击中，由于生还希望渺茫，队友们只得匆匆返航，并向世人宣告他已牺牲的事实。出乎意料的是，马克以极低的概率活了下来。他躲进驻火星的航天基地疗伤。下一次火星任务要等到四年后，而基地内的补给仅够他维持31天。短暂的绝望后，马克决定利用有限的食物，在这颗空无一人的星球上种植作物，寻找一线生机。与此同时，地球方面也很快发现马克生还的事实，他们想尽办法部署营救计划。孤军奋战的马克，能否等到救援队伍的到来？"
+            }
+          ],
+          "cover_image_url": "https://neodb.social/m/movie/2021/09/13a9c03ef4-33c1-4264-adbf-89a2ec1f34ab.jpg",
+          "rating": 8.2,
+          "rating_count": 1828,
+          "rating_distribution": [
+            0,
+            1,
+            16,
+            52,
+            29
+          ],
+          "tags": [
+            "2010s",
+            "2015",
+            "mattdamon",
+            "ridleyscott",
+            "人性",
+            "冒险",
+            "剧情",
+            "励志",
+            "喜剧",
+            "太空",
+            "小说改编",
+            "影院",
+            "杰西卡 查斯坦",
+            "火星",
+            "电影",
+            "科幻",
+            "美国",
+            "美国电影",
+            "雷德利 斯科特",
+            "马特 达蒙"
+          ],
+          "brief": "载人航天宇宙飞船阿瑞斯3号成功抵达火星，谁知一场破坏力极其巨大的风暴向宇航员们袭来，阿瑞斯3号被迫中断任务，紧急返航。撤离途中，宇航员马克·沃特尼（马特·达蒙 Matt Damon 饰）被飞船上吹落的零件击中，由于生还希望渺茫，队友们只得匆匆返航，并向世人宣告他已牺牲的事实。出乎意料的是，马克以极低的概率活了下来。他躲进驻火星的航天基地疗伤。下一次火星任务要等到四年后，而基地内的补给仅够他维持31天。短暂的绝望后，马克决定利用有限的食物，在这颗空无一人的星球上种植作物，寻找一线生机。与此同时，地球方面也很快发现马克生还的事实，他们想尽办法部署营救计划。孤军奋战的马克，能否等到救援队伍的到来？\n影片改编自安迪·威尔的同名科幻小说。",
+          "id": "https://neodb.social/movie/3Um7nVXFW7M0L9696PncNR",
+          "uuid": "3Um7nVXFW7M0L9696PncNR",
+          "url": "/movie/3Um7nVXFW7M0L9696PncNR",
+          "api_url": "/api/movie/3Um7nVXFW7M0L9696PncNR",
+          "category": "movie",
+          "parent_uuid": null,
+          "display_title": "火星救援",
+          "external_resources": [
+            {
+              "url": "https://movie.douban.com/subject/25864085/"
+            },
+            {
+              "url": "https://www.themoviedb.org/movie/286217"
+            },
+            {
+              "url": "https://minreol.dk/movie/09xxqcTjdWWWOTyK3yeoAf"
+            },
+            {
+              "url": "https://eggplant.place/movie/3H66htgQEh9bNd9mZFdN4W"
+            },
+            {
+              "url": "https://www.imdb.com/title/tt3659388/"
+            },
+            {
+              "url": "https://www.wikidata.org/wiki/Q18547944"
+            }
+          ]
+        },
+        "created_time": "2025-09-03T15:11:07.332Z",
+        "comment_text": "Watched this one again with Aline. One of the great space movies of the last few years. Can’t say I’m a super fan of the crew parts but it’s the survival storyline that carries the weight here.\r\n\r\nWatching this in 2025 highlights interesting artifacts of the movie’s optimistic times, when the USA is not broadly hated and the president is not tweeting crazy stuff against the Chinese.",
+        "rating_grade": 8,
+        "tags": []
+      },
       {
         "shelf_type": "complete",
         "visibility": 0,
@@ -9239,7 +9549,7 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/tmdb_tvseason/2025/03/02/6d3b4f7f-5d4a-4704-86ae-cfbb5ea3effd.jpg",
           "rating": 7.9,
-          "rating_count": 192,
+          "rating_count": 193,
           "rating_distribution": [
             0,
             3,
@@ -10079,7 +10389,7 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/tmdb_tvseason/2025/02/28/88a56af7-da63-4de1-adcb-c2722d1588ac.jpg",
           "rating": 8.9,
-          "rating_count": 768,
+          "rating_count": 769,
           "rating_distribution": [
             0,
             0,
