@@ -3992,13 +3992,13 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2025/01/17/c9fb75b7-fe14-462c-a95e-513257203176.jpg",
           "rating": 7.3,
-          "rating_count": 109,
+          "rating_count": 110,
           "rating_distribution": [
             0,
             2,
             25,
             56,
-            14
+            15
           ],
           "tags": [
             "2020s",
@@ -4239,7 +4239,7 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/06/23/566914c0-b514-4cc7-bea4-f5d90945a704.webp",
           "rating": 8.2,
-          "rating_count": 380,
+          "rating_count": 381,
           "rating_distribution": [
             0,
             0,
@@ -4480,12 +4480,12 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2025/02/19/4e793c4c-a916-4de2-aa5e-55ccc4652c01.jpg",
           "rating": 6.2,
-          "rating_count": 58,
+          "rating_count": 59,
           "rating_distribution": [
             3,
-            12,
-            46,
-            32,
+            11,
+            45,
+            33,
             5
           ],
           "tags": [
@@ -5395,7 +5395,7 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/09/13/a30bf2f3-4f79-43ef-b22f-58ebc3fd8aae.jpg",
           "rating": 6.5,
-          "rating_count": 344,
+          "rating_count": 345,
           "rating_distribution": [
             4,
             10,
@@ -5845,14 +5845,14 @@
             }
           ],
           "cover_image_url": "https://neodb.social/m/item/movie/2025/03/09/3e3fa59e-e345-4f24-b75e-1141f82942f6.jpg",
-          "rating": 8,
-          "rating_count": 104,
+          "rating": 8.1,
+          "rating_count": 105,
           "rating_distribution": [
             0,
             0,
             14,
             52,
-            31
+            32
           ],
           "tags": [
             "2024",
@@ -8577,7 +8577,7 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/movie/2023/05/31/0904d82a-cd0e-4526-91cb-0c7d98d66d94.jpg",
           "rating": 7.8,
-          "rating_count": 374,
+          "rating_count": 375,
           "rating_distribution": [
             0,
             1,
@@ -10392,7 +10392,7 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/tmdb_tvseason/2025/02/28/88a56af7-da63-4de1-adcb-c2722d1588ac.jpg",
           "rating": 8.9,
-          "rating_count": 773,
+          "rating_count": 774,
           "rating_distribution": [
             0,
             0,
