@@ -4239,7 +4239,7 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/06/23/566914c0-b514-4cc7-bea4-f5d90945a704.webp",
           "rating": 8.2,
-          "rating_count": 383,
+          "rating_count": 384,
           "rating_distribution": [
             0,
             0,
@@ -6229,7 +6229,7 @@
           ],
           "cover_image_url": "https://neodb.social/m/movie/2021/09/13a9c03ef4-33c1-4264-adbf-89a2ec1f34ab.jpg",
           "rating": 8.2,
-          "rating_count": 1832,
+          "rating_count": 1833,
           "rating_distribution": [
             0,
             1,
@@ -7249,14 +7249,14 @@
             }
           ],
           "cover_image_url": "https://neodb.social/m/item/doubanmovie/2025/02/17/51df383e-b065-4d8e-94e4-19f408130f8a.jpg",
-          "rating": 7.4,
-          "rating_count": 5,
+          "rating": 7.2,
+          "rating_count": 6,
           "rating_distribution": [
             0,
             0,
-            20,
-            60,
-            20
+            33,
+            50,
+            16
           ],
           "tags": [
             "短片"
