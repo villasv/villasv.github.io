@@ -4,9 +4,16 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 15 Sep 2025 23:04:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Sep 2025 01:32:53 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2025]]></copyright>
+        <item>
+            <title><![CDATA[Comment]]></title>
+            <description><![CDATA[<p>I was totally out of the loop on this trend of &quot;yield max&quot; funds that are based on covered calls. Wild stuff.</p><p>I don&#39;t know who out there needs to hear this but active management and complicated derivatives are not correlated with higher returns, the opposite actually. These are instruments marketed to leech on retail investors.</p><p>The best <a href="https://mastodon.social/tags/investment" class="mention hashtag" rel="tag">#<span>investment</span></a> you can make is education, specifically on not getting seduced by financial products salespeople.</p>]]></description>
+            <link>https://mastodon.social/@villasbc/115211171033193689</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/115211171033193689</guid>
+            <pubDate>Tue, 16 Sep 2025 00:35:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Finished watching]]></title>
             <description><![CDATA[<p><a href="https://neodb.social/~neodb~/movie/3Um7nVXFW7M0L9696PncNR" rel="nofollow">The Martian, 8 out of 10</a>  <br>Watched this one again with Aline. One of the great space movies of the last few years. Can’t say I’m a super fan of the crew parts but it’s the survival storyline that carries the weight here.</p><p>Watching this in 2025 highlights interesting artifacts of the movie’s optimistic times, when the USA is not broadly hated and the president is not tweeting crazy stuff against the Chinese.<br></p>]]></description>
@@ -174,13 +181,6 @@
             <link>https://mastodon.social/@villasbc/114746334586716270</link>
             <guid isPermaLink="true">https://mastodon.social/@villasbc/114746334586716270</guid>
             <pubDate>Wed, 25 Jun 2025 22:21:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Comment]]></title>
-            <description><![CDATA[<p>Decided to stick with “artisanal” for now</p>]]></description>
-            <link>https://mastodon.social/@villasbc/114741324101834415</link>
-            <guid isPermaLink="true">https://mastodon.social/@villasbc/114741324101834415</guid>
-            <pubDate>Wed, 25 Jun 2025 01:07:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Finished watching]]></title>
