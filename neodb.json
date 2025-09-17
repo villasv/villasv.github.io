@@ -4239,12 +4239,12 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/06/23/566914c0-b514-4cc7-bea4-f5d90945a704.webp",
           "rating": 8.2,
-          "rating_count": 384,
+          "rating_count": 385,
           "rating_distribution": [
             0,
             0,
             13,
-            45,
+            44,
             40
           ],
           "tags": [
@@ -5395,7 +5395,7 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/09/13/a30bf2f3-4f79-43ef-b22f-58ebc3fd8aae.jpg",
           "rating": 6.5,
-          "rating_count": 350,
+          "rating_count": 351,
           "rating_distribution": [
             4,
             10,
@@ -8094,9 +8094,6 @@
           "display_title": "绿野仙踪",
           "external_resources": [
             {
-              "url": "https://www.wikidata.org/wiki/Q193695"
-            },
-            {
               "url": "https://movie.douban.com/subject/1292625/"
             },
             {
@@ -8107,6 +8104,9 @@
             },
             {
               "url": "https://www.imdb.com/title/tt0032138/"
+            },
+            {
+              "url": "https://www.wikidata.org/wiki/Q193695"
             }
           ]
         },
