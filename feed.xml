@@ -4,9 +4,16 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 18 Sep 2025 01:33:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Sep 2025 05:05:33 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2025]]></copyright>
+        <item>
+            <title><![CDATA[Comment]]></title>
+            <description><![CDATA[<p>Unironically liking <a href="https://mastodon.social/tags/LiquidGlass" class="mention hashtag" rel="tag">#<span>LiquidGlass</span></a> on all devices, and could not care less about the tenth similarly looking iteration of the physical devices. Just don’t buy the thing 🤷</p>]]></description>
+            <link>https://mastodon.social/@villasbc/115223357279528838</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/115223357279528838</guid>
+            <pubDate>Thu, 18 Sep 2025 04:15:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Comment]]></title>
             <description><![CDATA[<p>I was totally out of the loop on this trend of &quot;yield max&quot; funds that are based on covered calls. Wild stuff.</p><p>I don&#39;t know who out there needs to hear this but active management and complicated derivatives are not correlated with higher returns, the opposite actually. These are instruments marketed to leech on retail investors.</p><p>The best <a href="https://mastodon.social/tags/investment" class="mention hashtag" rel="tag">#<span>investment</span></a> you can make is education, specifically on not getting seduced by financial products salespeople.</p>]]></description>
@@ -174,13 +181,6 @@
             <link>https://mastodon.social/@villasbc/114769119174882762</link>
             <guid isPermaLink="true">https://mastodon.social/@villasbc/114769119174882762</guid>
             <pubDate>Sun, 29 Jun 2025 22:56:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Comment]]></title>
-            <description><![CDATA[<p>Found this report out there, getting to know this Strong Coast org</p><p><a href="https://storymaps.arcgis.com/stories/6c1647e3dc7c4ef29fd7790de05d21fd" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">storymaps.arcgis.com/stories/6</span><span class="invisible">c1647e3dc7c4ef29fd7790de05d21fd</span></a></p><p><a href="https://mastodon.social/tags/DefendOurCoast" class="mention hashtag" rel="tag">#<span>DefendOurCoast</span></a></p>]]></description>
-            <link>https://mastodon.social/@villasbc/114746334586716270</link>
-            <guid isPermaLink="true">https://mastodon.social/@villasbc/114746334586716270</guid>
-            <pubDate>Wed, 25 Jun 2025 22:21:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Finished watching]]></title>
