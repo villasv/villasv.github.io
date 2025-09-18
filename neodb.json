@@ -5846,7 +5846,7 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/movie/2025/03/09/3e3fa59e-e345-4f24-b75e-1141f82942f6.jpg",
           "rating": 8.1,
-          "rating_count": 105,
+          "rating_count": 106,
           "rating_distribution": [
             0,
             0,
@@ -5868,7 +5868,9 @@
             "巴西电影",
             "拉美",
             "政治",
+            "歷史",
             "沃尔特 塞勒斯",
+            "法國",
             "电影",
             "里约热内卢",
             "院线",
@@ -8959,14 +8961,14 @@
             }
           ],
           "cover_image_url": "https://neodb.social/m/item/tv/2025/04/10/44dee2a9-4d3e-4ddb-8da4-f1965e1b6f83.jpg",
-          "rating": 8.4,
-          "rating_count": 17,
+          "rating": 8.2,
+          "rating_count": 18,
           "rating_distribution": [
             0,
             0,
-            17,
-            29,
-            52
+            22,
+            27,
+            50
           ],
           "tags": [
             "2025",
