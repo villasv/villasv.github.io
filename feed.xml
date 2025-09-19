@@ -4,9 +4,16 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 19 Sep 2025 21:05:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Sep 2025 23:05:01 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2025]]></copyright>
+        <item>
+            <title><![CDATA[Comment]]></title>
+            <description><![CDATA[<p>Now this is the kind of thing that belongs on my Home Screen <a href="https://mstdn.ca/@HUBVancouverUBC/115233049823395759" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">mstdn.ca/@HUBVancouverUBC/1152</span><span class="invisible">33049823395759</span></a></p>]]></description>
+            <link>https://mastodon.social/@villasbc/115233195628459201</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/115233195628459201</guid>
+            <pubDate>Fri, 19 Sep 2025 21:57:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Comment]]></title>
             <description><![CDATA[<p>Unironically liking <a href="https://mastodon.social/tags/LiquidGlass" class="mention hashtag" rel="tag">#<span>LiquidGlass</span></a> on all devices, and could not care less about the tenth similarly looking iteration of the physical devices. Just don’t buy the thing 🤷</p>]]></description>
@@ -174,13 +181,6 @@
             <link>https://mastodon.social/@villasbc/114775813339682115</link>
             <guid isPermaLink="true">https://mastodon.social/@villasbc/114775813339682115</guid>
             <pubDate>Tue, 01 Jul 2025 03:18:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Comment]]></title>
-            <description><![CDATA[<p>I’ve just set up my monthly donation. This is such an important work! <a href="https://fed.brid.gy/r/https://bsky.app/profile/did:plc:hirrgj3gs4mkftk5oopdeekc/post/3lsrcevctxc2a" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">fed.brid.gy/r/https://bsky.app</span><span class="invisible">/profile/did:plc:hirrgj3gs4mkftk5oopdeekc/post/3lsrcevctxc2a</span></a></p>]]></description>
-            <link>https://mastodon.social/@villasbc/114769119174882762</link>
-            <guid isPermaLink="true">https://mastodon.social/@villasbc/114769119174882762</guid>
-            <pubDate>Sun, 29 Jun 2025 22:56:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Finished watching]]></title>
