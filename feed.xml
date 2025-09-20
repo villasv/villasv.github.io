@@ -4,9 +4,16 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 20 Sep 2025 17:04:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Sep 2025 19:04:41 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2025]]></copyright>
+        <item>
+            <title><![CDATA[Comment]]></title>
+            <description><![CDATA[<p>It is disappointing to see so little <a href="https://mastodon.social/tags/CBC" class="mention hashtag" rel="tag">#<span>CBC</span></a> coverage of the <a href="https://mastodon.social/tags/Rugby" class="mention hashtag" rel="tag">#<span>Rugby</span></a> World Cup despite the Canada Women team incredible performance, if it wasn’t for Mastodon I wouldn’t have known I was missing out on all their action</p>]]></description>
+            <link>https://mastodon.social/@villasbc/115238094380239619</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/115238094380239619</guid>
+            <pubDate>Sat, 20 Sep 2025 18:42:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Comment]]></title>
             <description><![CDATA[<p>After COVID, invasion of Ukraine, genocide in Gaza I have been so ready to not witness any more historical moments…</p><p>but it turns out the next one is the accelerated decline of USA that my communist geography teacher from middle school got me pumped up for so many years ago, and for this one I am so back with popcorn</p>]]></description>
@@ -174,13 +181,6 @@
             <link>https://mastodon.social/@villasbc/114871471474653113</link>
             <guid isPermaLink="true">https://mastodon.social/@villasbc/114871471474653113</guid>
             <pubDate>Fri, 18 Jul 2025 00:45:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Comment]]></title>
-            <description><![CDATA[<p>I wish the Tyee would do a story on why/how the hell did The Walrus decided to run a page ad for online gambling</p>]]></description>
-            <link>https://mastodon.social/@villasbc/114830755168192800</link>
-            <guid isPermaLink="true">https://mastodon.social/@villasbc/114830755168192800</guid>
-            <pubDate>Thu, 10 Jul 2025 20:11:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Finished watching]]></title>
