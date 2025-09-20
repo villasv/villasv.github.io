@@ -3992,12 +3992,12 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2025/01/17/c9fb75b7-fe14-462c-a95e-513257203176.jpg",
           "rating": 7.4,
-          "rating_count": 111,
+          "rating_count": 112,
           "rating_distribution": [
             0,
             2,
             25,
-            55,
+            56,
             16
           ],
           "tags": [
@@ -4239,7 +4239,7 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/06/23/566914c0-b514-4cc7-bea4-f5d90945a704.webp",
           "rating": 8.2,
-          "rating_count": 385,
+          "rating_count": 386,
           "rating_distribution": [
             0,
             0,
@@ -4882,11 +4882,11 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/movie/2025/03/12/dd6c73e9-ab71-4ff3-8f3d-fbc38d3c16c5.webp",
           "rating": 6.7,
-          "rating_count": 104,
+          "rating_count": 105,
           "rating_distribution": [
             2,
             7,
-            32,
+            33,
             51,
             4
           ],
@@ -5176,7 +5176,7 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2025/01/17/c3980bb4-8335-4f47-a839-3ce094856a54.jpg",
           "rating": 6.8,
-          "rating_count": 419,
+          "rating_count": 420,
           "rating_distribution": [
             4,
             9,
@@ -5394,8 +5394,8 @@
             }
           ],
           "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/09/13/a30bf2f3-4f79-43ef-b22f-58ebc3fd8aae.jpg",
-          "rating": 6.5,
-          "rating_count": 353,
+          "rating": 6.4,
+          "rating_count": 354,
           "rating_distribution": [
             4,
             11,
@@ -7015,11 +7015,11 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/movie/2024/10/28/13dfbfcd-c252-4f40-96da-aabdade67aee.jpg",
           "rating": 7.4,
-          "rating_count": 160,
+          "rating_count": 161,
           "rating_distribution": [
             1,
             0,
-            20,
+            21,
             61,
             15
           ],

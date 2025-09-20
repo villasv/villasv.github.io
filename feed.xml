@@ -4,9 +4,16 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 20 Sep 2025 01:32:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Sep 2025 05:05:18 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2025]]></copyright>
+        <item>
+            <title><![CDATA[Comment]]></title>
+            <description><![CDATA[<p>After COVID, invasion of Ukraine, genocide in Gaza I have been so ready to not witness any more historical moments…</p><p>but it turns out the next one is the accelerated decline of USA that my communist geography teacher from middle school got me pumped up for so many years ago, and for this one I am so back with popcorn</p>]]></description>
+            <link>https://mastodon.social/@villasbc/115234819994886878</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/115234819994886878</guid>
+            <pubDate>Sat, 20 Sep 2025 04:50:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Comment]]></title>
             <description><![CDATA[<p>Now this is the kind of thing that belongs on my Home Screen <a href="https://mstdn.ca/@HUBVancouverUBC/115233049823395759" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">mstdn.ca/@HUBVancouverUBC/1152</span><span class="invisible">33049823395759</span></a></p>]]></description>
@@ -174,13 +181,6 @@
             <link>https://mastodon.social/@villasbc/114830755168192800</link>
             <guid isPermaLink="true">https://mastodon.social/@villasbc/114830755168192800</guid>
             <pubDate>Thu, 10 Jul 2025 20:11:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Comment]]></title>
-            <description><![CDATA[<p>So it turned out that <a href="https://mastodon.social/tags/BCTransit" class="mention hashtag" rel="tag">#<span>BCTransit</span></a> on the <a href="https://mastodon.social/tags/SunshineCoastBC" class="mention hashtag" rel="tag">#<span>SunshineCoastBC</span></a> has a daily bus fare cap and I found out just now that the 4 times I took the bus today to go from city to city costed me $4 total.</p><p>And the cherry on top is the ferry from Langdale to Horseshoe Bay is free for foot passengers. This is awesome, and it’s wild that there are so few making use of this!</p>]]></description>
-            <link>https://mastodon.social/@villasbc/114775813339682115</link>
-            <guid isPermaLink="true">https://mastodon.social/@villasbc/114775813339682115</guid>
-            <pubDate>Tue, 01 Jul 2025 03:18:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Finished watching]]></title>
