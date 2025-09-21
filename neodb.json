@@ -8792,6 +8792,65 @@
       {
         "shelf_type": "progress",
         "visibility": 0,
+        "post_id": "492464286882761632",
+        "item": {
+          "type": "TVSeason",
+          "title": "Foundation (基地 第三季)",
+          "description": "故事设定在第二季事件的152年后。",
+          "localized_title": [
+            {
+              "lang": "en",
+              "text": "Foundation Season 3"
+            },
+            {
+              "lang": "zh-cn",
+              "text": "基地 第三季"
+            }
+          ],
+          "localized_description": [
+            {
+              "lang": "zh-cn",
+              "text": "故事设定在第二季事件的152年后。"
+            }
+          ],
+          "cover_image_url": "https://neodb.social/m/item/doubanmovie/2025/07/19/10b6bee2-cad2-48f6-b79e-ae75348a5dba.jpg",
+          "rating": null,
+          "rating_count": 4,
+          "rating_distribution": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "tags": [
+            "美剧"
+          ],
+          "brief": "故事设定在第二季事件的152年后。",
+          "id": "https://neodb.social/tv/season/7OhmvKySDdjKWrR7Pn6qq0",
+          "uuid": "7OhmvKySDdjKWrR7Pn6qq0",
+          "url": "/tv/season/7OhmvKySDdjKWrR7Pn6qq0",
+          "api_url": "/api/tv/season/7OhmvKySDdjKWrR7Pn6qq0",
+          "category": "tv",
+          "parent_uuid": "7Z33DncV7hMG9NrBieVNe3",
+          "display_title": "Foundation (基地 第三季)",
+          "external_resources": [
+            {
+              "url": "https://www.themoviedb.org/tv/93740/season/3"
+            },
+            {
+              "url": "https://eggplant.place/tv/season/54GfL6kDSPc0u6UuzhuPW5"
+            }
+          ]
+        },
+        "created_time": "2025-09-21T05:37:15.483Z",
+        "comment_text": null,
+        "rating_grade": null,
+        "tags": []
+      },
+      {
+        "shelf_type": "progress",
+        "visibility": 0,
         "post_id": "450629983135398408",
         "item": {
           "type": "TVSeason",

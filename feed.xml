@@ -4,9 +4,16 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 21 Sep 2025 05:05:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Sep 2025 07:04:51 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2025]]></copyright>
+        <item>
+            <title><![CDATA[Started watching]]></title>
+            <description><![CDATA[<p><a href="https://neodb.social/~neodb~/tv/season/7OhmvKySDdjKWrR7Pn6qq0" rel="nofollow">Foundation Season 3</a> </p><p></p>]]></description>
+            <link>https://neodb.social/@villasv/posts/492464286882761632/</link>
+            <guid isPermaLink="true">https://neodb.social/@villasv/posts/492464286882761632/</guid>
+            <pubDate>Sun, 21 Sep 2025 05:37:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Comment]]></title>
             <description><![CDATA[<p>It is disappointing to see so little <a href="https://mastodon.social/tags/CBC" class="mention hashtag" rel="tag">#<span>CBC</span></a> coverage of the <a href="https://mastodon.social/tags/Rugby" class="mention hashtag" rel="tag">#<span>Rugby</span></a> World Cup despite the Canada Women team incredible performance, if it wasn’t for Mastodon I wouldn’t have known I was missing out on all their action</p>]]></description>
@@ -279,13 +286,6 @@
             <link>https://neodb.social/@villasv/posts/435389778903484792/</link>
             <guid isPermaLink="true">https://neodb.social/@villasv/posts/435389778903484792/</guid>
             <pubDate>Wed, 16 Apr 2025 17:43:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Started reading]]></title>
-            <description><![CDATA[<p><a href="https://neodb.social/~neodb~/book/0nRwDxKJXLn0SY5HN4WqnQ" rel="nofollow">Dom Casmurro</a> </p><p></p>]]></description>
-            <link>https://neodb.social/@villasv/posts/435389672894662480/</link>
-            <guid isPermaLink="true">https://neodb.social/@villasv/posts/435389672894662480/</guid>
-            <pubDate>Wed, 16 Apr 2025 17:43:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Media]]></title>
