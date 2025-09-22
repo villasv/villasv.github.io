@@ -4,9 +4,30 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 21 Sep 2025 23:05:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Sep 2025 01:33:45 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2025]]></copyright>
+        <item>
+            <title><![CDATA[Finished reading]]></title>
+            <description><![CDATA[<p><a href="https://neodb.social/~neodb~/book/7jUb35U3MVpxkjn9hGhxBI" rel="nofollow">Crowd Source</a> <br>If you live in Vancouver and like birds, this book can be an agreeable companion. I love how niche that is and yet how some of its verses feel so relatable.<br></p>]]></description>
+            <link>https://neodb.social/@villasv/posts/492758323527584728/</link>
+            <guid isPermaLink="true">https://neodb.social/@villasv/posts/492758323527584728/</guid>
+            <pubDate>Mon, 22 Sep 2025 01:05:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Finished watching]]></title>
+            <description><![CDATA[<p><a href="https://neodb.social/~neodb~/tv/season/7OhmvKySDdjKWrR7Pn6qq0" rel="nofollow">Foundation Season 3, 7 out of 10</a>  <br>The production is still the best thing about this show, and the acting is not too shabby but the plot and directing choices are still hit and miss. The Genetic Dynasty remains as the most entertaining blocks of the story, and in this season they are definitely consequential.<br></p>]]></description>
+            <link>https://neodb.social/@villasv/posts/492757244125517648/</link>
+            <guid isPermaLink="true">https://neodb.social/@villasv/posts/492757244125517648/</guid>
+            <pubDate>Mon, 22 Sep 2025 01:01:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Comment]]></title>
+            <description><![CDATA[<p>Handing out Foundation Models in <a href="https://mastodon.social/tags/iOS" class="mention hashtag" rel="tag">#<span>iOS</span></a>  either on-device or private-compute for free is nuts. I don&#39;t think I can even imagine how transformative that&#39;s going to be.</p><p>We developers are a frugal bunch. If you give us an awesome but paid API and a free but inferior API, we&#39;ll find a way to make it work with the free shit even it takes 200x more requests and ten times spaghetti code to get something done. And now that spaghetti is also generated so...</p>]]></description>
+            <link>https://mastodon.social/@villasbc/115244870938812132</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/115244870938812132</guid>
+            <pubDate>Sun, 21 Sep 2025 23:26:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Started watching]]></title>
             <description><![CDATA[<p><a href="https://neodb.social/~neodb~/tv/season/7OhmvKySDdjKWrR7Pn6qq0" rel="nofollow">Foundation Season 3</a> </p><p></p>]]></description>
@@ -183,13 +204,6 @@
             <pubDate>Tue, 22 Jul 2025 04:13:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Comment]]></title>
-            <description><![CDATA[<p>Georgia St needs bus lane enforcement so bad. We cannot trust drivers to behave at their best, and the rush hour towards the north shore brings out the worst</p>]]></description>
-            <link>https://mastodon.social/@villasbc/114871471474653113</link>
-            <guid isPermaLink="true">https://mastodon.social/@villasbc/114871471474653113</guid>
-            <pubDate>Fri, 18 Jul 2025 00:45:52 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Finished watching]]></title>
             <description><![CDATA[<p><a href="https://neodb.social/~neodb~/movie/3YnzikjZGgXf7ki6iBkYcv" rel="nofollow">Murder of Couriers, 10 out of 10</a>  <br>Found this doc/movie by accident and found it so interesting. I ride bicycles, I live in Vancouver, and I caught myself wondering about courier life. This film allowed me to peek behind the reality, awesomeness and toxicity of courier culture in the area.<br></p>]]></description>
             <link>https://neodb.social/@villasv/posts/460492740727638608/</link>
@@ -272,20 +286,6 @@
             <link>https://neodb.social/@villasv/posts/435702376918535440/</link>
             <guid isPermaLink="true">https://neodb.social/@villasv/posts/435702376918535440/</guid>
             <pubDate>Thu, 17 Apr 2025 14:25:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Wants to watch]]></title>
-            <description><![CDATA[<p><a href="https://neodb.social/~neodb~/tv/season/50lGcqlFf9Et0ri63wOueT" rel="nofollow">The Handmaid&#x27;s Tale Season 6</a> </p><p></p>]]></description>
-            <link>https://neodb.social/@villasv/posts/435390190376202104/</link>
-            <guid isPermaLink="true">https://neodb.social/@villasv/posts/435390190376202104/</guid>
-            <pubDate>Wed, 16 Apr 2025 17:45:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Started watching]]></title>
-            <description><![CDATA[<p><a href="https://neodb.social/~neodb~/tv/season/0GghNjducTJ05tJGj4LTRp" rel="nofollow">Schitt&#x27;s Creek Season 1</a> </p><p></p>]]></description>
-            <link>https://neodb.social/@villasv/posts/435389778903484792/</link>
-            <guid isPermaLink="true">https://neodb.social/@villasv/posts/435389778903484792/</guid>
-            <pubDate>Wed, 16 Apr 2025 17:43:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Media]]></title>

@@ -1313,56 +1313,6 @@
       {
         "shelf_type": "progress",
         "visibility": 0,
-        "post_id": "443398525187345288",
-        "item": {
-          "type": "Edition",
-          "title": "Crowd Source",
-          "description": "Crowd Source  parallels the daily migration of crows who, aside from fledgling season, journey across metro Vancouver every day at dawn and dusk. Continuing Nicholson’s attention to contemporary climate crisis, social movements, and Black diasporic relations, this is a text for all concerned with practising ecological futurities befitting corvid sensibilities.",
-          "localized_title": [
-            {
-              "lang": "en",
-              "text": "Crowd Source"
-            }
-          ],
-          "localized_description": [
-            {
-              "lang": "en",
-              "text": "Crowd Source  parallels the daily migration of crows who, aside from fledgling season, journey across metro Vancouver every day at dawn and dusk. Continuing Nicholson’s attention to contemporary climate crisis, social movements, and Black diasporic relations, this is a text for all concerned with practising ecological futurities befitting corvid sensibilities."
-            }
-          ],
-          "cover_image_url": "https://neodb.social/m/item/goodreads/2025/05/08/b50b51e4-0716-49ba-bc00-2cefff4c2e4c.jpg",
-          "rating": null,
-          "rating_count": 0,
-          "rating_distribution": [
-            0,
-            0,
-            0,
-            0,
-            0
-          ],
-          "tags": [],
-          "brief": "Crowd Source  parallels the daily migration of crows who, aside from fledgling season, journey across metro Vancouver every day at dawn and dusk. Continuing Nicholson’s attention to contemporary climate crisis, social movements, and Black diasporic relations, this is a text for all concerned with practising ecological futurities befitting corvid sensibilities.",
-          "id": "https://neodb.social/book/7jUb35U3MVpxkjn9hGhxBI",
-          "uuid": "7jUb35U3MVpxkjn9hGhxBI",
-          "url": "/book/7jUb35U3MVpxkjn9hGhxBI",
-          "api_url": "/api/book/7jUb35U3MVpxkjn9hGhxBI",
-          "category": "book",
-          "parent_uuid": "7KtdNTc7zqqpxT7YL61RwU",
-          "display_title": "Crowd Source",
-          "external_resources": [
-            {
-              "url": "https://www.goodreads.com/book/show/216131595"
-            }
-          ]
-        },
-        "created_time": "2025-05-08T20:07:26.293Z",
-        "comment_text": null,
-        "rating_grade": null,
-        "tags": []
-      },
-      {
-        "shelf_type": "progress",
-        "visibility": 0,
         "post_id": "435389672894662480",
         "item": {
           "type": "Edition",
@@ -1572,6 +1522,56 @@
       }
     ],
     "complete": [
+      {
+        "shelf_type": "complete",
+        "visibility": 0,
+        "post_id": "492758323527584728",
+        "item": {
+          "type": "Edition",
+          "title": "Crowd Source",
+          "description": "Crowd Source  parallels the daily migration of crows who, aside from fledgling season, journey across metro Vancouver every day at dawn and dusk. Continuing Nicholson’s attention to contemporary climate crisis, social movements, and Black diasporic relations, this is a text for all concerned with practising ecological futurities befitting corvid sensibilities.",
+          "localized_title": [
+            {
+              "lang": "en",
+              "text": "Crowd Source"
+            }
+          ],
+          "localized_description": [
+            {
+              "lang": "en",
+              "text": "Crowd Source  parallels the daily migration of crows who, aside from fledgling season, journey across metro Vancouver every day at dawn and dusk. Continuing Nicholson’s attention to contemporary climate crisis, social movements, and Black diasporic relations, this is a text for all concerned with practising ecological futurities befitting corvid sensibilities."
+            }
+          ],
+          "cover_image_url": "https://neodb.social/m/item/goodreads/2025/05/08/b50b51e4-0716-49ba-bc00-2cefff4c2e4c.jpg",
+          "rating": null,
+          "rating_count": 0,
+          "rating_distribution": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "tags": [],
+          "brief": "Crowd Source  parallels the daily migration of crows who, aside from fledgling season, journey across metro Vancouver every day at dawn and dusk. Continuing Nicholson’s attention to contemporary climate crisis, social movements, and Black diasporic relations, this is a text for all concerned with practising ecological futurities befitting corvid sensibilities.",
+          "id": "https://neodb.social/book/7jUb35U3MVpxkjn9hGhxBI",
+          "uuid": "7jUb35U3MVpxkjn9hGhxBI",
+          "url": "/book/7jUb35U3MVpxkjn9hGhxBI",
+          "api_url": "/api/book/7jUb35U3MVpxkjn9hGhxBI",
+          "category": "book",
+          "parent_uuid": "7KtdNTc7zqqpxT7YL61RwU",
+          "display_title": "Crowd Source",
+          "external_resources": [
+            {
+              "url": "https://www.goodreads.com/book/show/216131595"
+            }
+          ]
+        },
+        "created_time": "2025-09-22T01:05:39.270Z",
+        "comment_text": "If you live in Vancouver and like birds, this book can be an agreeable companion. I love how niche that is and yet how some of its verses feel so relatable.",
+        "rating_grade": null,
+        "tags": []
+      },
       {
         "shelf_type": "complete",
         "visibility": 0,
@@ -2511,6 +2511,61 @@
       {
         "shelf_type": "complete",
         "visibility": 0,
+        "post_id": "326861775178665456",
+        "item": {
+          "type": "Edition",
+          "title": "The Checklist Manifesto",
+          "description": "The volume and complexity of knowledge today has exceeded out ability as individuals to properly deliver it to people—consistently, correctly, safely. The author Atul shows how producing a ninety-second checklist for complex world of surgery would reduce deaths and complications by more than one-third at virtually no cost and for almost any kind of operation.\nThe checklist cna be very power and bring striking improvement in various fields beyond medications.",
+          "localized_title": [
+            {
+              "lang": "en",
+              "text": "The Checklist Manifesto"
+            }
+          ],
+          "localized_description": [
+            {
+              "lang": "zh-cn",
+              "text": "The volume and complexity of knowledge today has exceeded out ability as individuals to properly deliver it to people—consistently, correctly, safely. The author Atul shows how producing a ninety-second checklist for complex world of surgery would reduce deaths and complications by more than one-third at virtually no cost and for almost any kind of operation.\nThe checklist cna be very power and bring striking improvement in various fields beyond medications."
+            }
+          ],
+          "cover_image_url": "https://neodb.social/m/book/2021/09/16282bd235-aa05-4ca8-9846-c4eea7688348.jpg",
+          "rating": null,
+          "rating_count": 2,
+          "rating_distribution": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "tags": [
+            "医学",
+            "思维",
+            "管理",
+            "美国"
+          ],
+          "brief": "The volume and complexity of knowledge today has exceeded out ability as individuals to properly deliver it to people—consistently, correctly, safely. The author Atul shows how producing a ninety-second checklist for complex world of surgery would reduce deaths and complications by more than one-third at virtually no cost and for almost any kind of operation.\nThe checklist cna be very power and bring striking improvement in various fields beyond medications.",
+          "id": "https://neodb.social/book/3NV6toFwM0vGOUo0QEDQPA",
+          "uuid": "3NV6toFwM0vGOUo0QEDQPA",
+          "url": "/book/3NV6toFwM0vGOUo0QEDQPA",
+          "api_url": "/api/book/3NV6toFwM0vGOUo0QEDQPA",
+          "category": "book",
+          "parent_uuid": "2aRXSyBpYNUrdnKnyKRvdo",
+          "display_title": "The Checklist Manifesto",
+          "external_resources": [
+            {
+              "url": "https://book.douban.com/subject/4748590/"
+            }
+          ]
+        },
+        "created_time": "2024-06-21T06:12:00Z",
+        "comment_text": "Can’t say I learned anything meaningful from the book other than that doctors have an attitude problem… wait I also knew that.",
+        "rating_grade": 4,
+        "tags": []
+      },
+      {
+        "shelf_type": "complete",
+        "visibility": 0,
         "post_id": "326861775175793856",
         "item": {
           "type": "Edition",
@@ -2562,61 +2617,6 @@
         "created_time": "2024-06-21T06:12:00Z",
         "comment_text": "Now that I’m done with the book I can’t really recall much that will change my habits.",
         "rating_grade": 5,
-        "tags": []
-      },
-      {
-        "shelf_type": "complete",
-        "visibility": 0,
-        "post_id": "326861775178665456",
-        "item": {
-          "type": "Edition",
-          "title": "The Checklist Manifesto",
-          "description": "The volume and complexity of knowledge today has exceeded out ability as individuals to properly deliver it to people—consistently, correctly, safely. The author Atul shows how producing a ninety-second checklist for complex world of surgery would reduce deaths and complications by more than one-third at virtually no cost and for almost any kind of operation.\nThe checklist cna be very power and bring striking improvement in various fields beyond medications.",
-          "localized_title": [
-            {
-              "lang": "en",
-              "text": "The Checklist Manifesto"
-            }
-          ],
-          "localized_description": [
-            {
-              "lang": "zh-cn",
-              "text": "The volume and complexity of knowledge today has exceeded out ability as individuals to properly deliver it to people—consistently, correctly, safely. The author Atul shows how producing a ninety-second checklist for complex world of surgery would reduce deaths and complications by more than one-third at virtually no cost and for almost any kind of operation.\nThe checklist cna be very power and bring striking improvement in various fields beyond medications."
-            }
-          ],
-          "cover_image_url": "https://neodb.social/m/book/2021/09/16282bd235-aa05-4ca8-9846-c4eea7688348.jpg",
-          "rating": null,
-          "rating_count": 2,
-          "rating_distribution": [
-            0,
-            0,
-            0,
-            0,
-            0
-          ],
-          "tags": [
-            "医学",
-            "思维",
-            "管理",
-            "美国"
-          ],
-          "brief": "The volume and complexity of knowledge today has exceeded out ability as individuals to properly deliver it to people—consistently, correctly, safely. The author Atul shows how producing a ninety-second checklist for complex world of surgery would reduce deaths and complications by more than one-third at virtually no cost and for almost any kind of operation.\nThe checklist cna be very power and bring striking improvement in various fields beyond medications.",
-          "id": "https://neodb.social/book/3NV6toFwM0vGOUo0QEDQPA",
-          "uuid": "3NV6toFwM0vGOUo0QEDQPA",
-          "url": "/book/3NV6toFwM0vGOUo0QEDQPA",
-          "api_url": "/api/book/3NV6toFwM0vGOUo0QEDQPA",
-          "category": "book",
-          "parent_uuid": "2aRXSyBpYNUrdnKnyKRvdo",
-          "display_title": "The Checklist Manifesto",
-          "external_resources": [
-            {
-              "url": "https://book.douban.com/subject/4748590/"
-            }
-          ]
-        },
-        "created_time": "2024-06-21T06:12:00Z",
-        "comment_text": "Can’t say I learned anything meaningful from the book other than that doctors have an attitude problem… wait I also knew that.",
-        "rating_grade": 4,
         "tags": []
       },
       {
@@ -2989,56 +2989,6 @@
       {
         "shelf_type": "complete",
         "visibility": 0,
-        "post_id": "266343001621637528",
-        "item": {
-          "type": "Edition",
-          "title": "Nutcracker and Mouse King and The Tale of the Nutcracker",
-          "description": "The original stories behind everyone's favorite Christmas ballet \n\n It wasn't until the 1950s that seeing The Nutcracker at Christmastime became an American tradition. But the story itself is much older and its original intent more complex. This eye-opening new volume presents two of the tale's earliest versions, both in new translations: E.T.A. Hoffmann's Nutcracker and Mouse King (1816), in which a young girl is whisked away to the Land of Toys to help her animated nutcracker defeat the Mouse King, and Alexandre Dumas's 1845 adaptation, The Tale of the Nutcracker, based on Hoffmann's popular work. Irresistible tales of magic, mystery, and childhood adventure, these timeless delights and fresh interpretations about the importance of imagination will captivate readers of all ages.\n\nFor more than seventy years, Penguin has been the leading publisher of classic literature in the English-speaking world. With more than 1,700 titles, Penguin Classics represents a global bookshelf of the best works throughout history and across genres and disciplines. Readers trust the series to provide authoritative texts enhanced by introductions and notes by distinguished scholars and contemporary authors, as well as up-to-date translations by award-winning translators.",
-          "localized_title": [
-            {
-              "lang": "en",
-              "text": "Nutcracker and Mouse King and The Tale of the Nutcracker"
-            }
-          ],
-          "localized_description": [
-            {
-              "lang": "en",
-              "text": "The original stories behind everyone's favorite Christmas ballet \n\n It wasn't until the 1950s that seeing The Nutcracker at Christmastime became an American tradition. But the story itself is much older and its original intent more complex. This eye-opening new volume presents two of the tale's earliest versions, both in new translations: E.T.A. Hoffmann's Nutcracker and Mouse King (1816), in which a young girl is whisked away to the Land of Toys to help her animated nutcracker defeat the Mouse King, and Alexandre Dumas's 1845 adaptation, The Tale of the Nutcracker, based on Hoffmann's popular work. Irresistible tales of magic, mystery, and childhood adventure, these timeless delights and fresh interpretations about the importance of imagination will captivate readers of all ages.\n\nFor more than seventy years, Penguin has been the leading publisher of classic literature in the English-speaking world. With more than 1,700 titles, Penguin Classics represents a global bookshelf of the best works throughout history and across genres and disciplines. Readers trust the series to provide authoritative texts enhanced by introductions and notes by distinguished scholars and contemporary authors, as well as up-to-date translations by award-winning translators."
-            }
-          ],
-          "cover_image_url": "https://neodb.social/m/item/googlebooks/2024/09/02/12f87d64-799d-4c65-9e1b-b54804e3b037.jpg",
-          "rating": null,
-          "rating_count": 1,
-          "rating_distribution": [
-            0,
-            0,
-            0,
-            0,
-            0
-          ],
-          "tags": [],
-          "brief": "The original stories behind everyone's favorite Christmas ballet \n\n It wasn't until the 1950s that seeing The Nutcracker at Christmastime became an American tradition. But the story itself is much older and its original intent more complex. This eye-opening new volume presents two of the tale's earliest versions, both in new translations: E.T.A. Hoffmann's Nutcracker and Mouse King (1816), in which a young girl is whisked away to the Land of Toys to help her animated nutcracker defeat the Mouse King, and Alexandre Dumas's 1845 adaptation, The Tale of the Nutcracker, based on Hoffmann's popular work. Irresistible tales of magic, mystery, and childhood adventure, these timeless delights and fresh interpretations about the importance of imagination will captivate readers of all ages.\n\nFor more than seventy years, Penguin has been the leading publisher of classic literature in the English-speaking world. With more than 1,700 titles, Penguin Classics represents a global bookshelf of the best works throughout history and across genres and disciplines. Readers trust the series to provide authoritative texts enhanced by introductions and notes by distinguished scholars and contemporary authors, as well as up-to-date translations by award-winning translators.",
-          "id": "https://neodb.social/book/4Yst0nXoQAZs86kFBPci5Y",
-          "uuid": "4Yst0nXoQAZs86kFBPci5Y",
-          "url": "/book/4Yst0nXoQAZs86kFBPci5Y",
-          "api_url": "/api/book/4Yst0nXoQAZs86kFBPci5Y",
-          "category": "book",
-          "parent_uuid": null,
-          "display_title": "Nutcracker and Mouse King and The Tale of the Nutcracker",
-          "external_resources": [
-            {
-              "url": "https://books.google.com/books?id=tLhfenynsWoC"
-            }
-          ]
-        },
-        "created_time": "2024-01-06T06:12:00Z",
-        "comment_text": "Reading both stories can feel slightly repetitive, but it can also be an interesting exercise to approach it as a game of \"find the difference\" in storytelling between Hoffman and Dumas, so the reader has the opportunity of finding out for themselves if Dumas really did water down the criticisms of the bourgeois child education strictness - as stated by so many literary critics.",
-        "rating_grade": 8,
-        "tags": []
-      },
-      {
-        "shelf_type": "complete",
-        "visibility": 0,
         "post_id": "266343001621637280",
         "item": {
           "type": "Edition",
@@ -3084,6 +3034,56 @@
         "created_time": "2024-01-06T06:12:00Z",
         "comment_text": "I give the book some extra stars for being well written and captivatingly sincere enough to keep me with it until the end. What gives me hope is that the toxicity was exaggerated for the sake of entertainment. I think a lot of people are going to resonate with a lot of the book, because the author collects a catalogue of character faults - anyone will definitely find theirs represented in here and possibly relate.",
         "rating_grade": 5,
+        "tags": []
+      },
+      {
+        "shelf_type": "complete",
+        "visibility": 0,
+        "post_id": "266343001621637528",
+        "item": {
+          "type": "Edition",
+          "title": "Nutcracker and Mouse King and The Tale of the Nutcracker",
+          "description": "The original stories behind everyone's favorite Christmas ballet \n\n It wasn't until the 1950s that seeing The Nutcracker at Christmastime became an American tradition. But the story itself is much older and its original intent more complex. This eye-opening new volume presents two of the tale's earliest versions, both in new translations: E.T.A. Hoffmann's Nutcracker and Mouse King (1816), in which a young girl is whisked away to the Land of Toys to help her animated nutcracker defeat the Mouse King, and Alexandre Dumas's 1845 adaptation, The Tale of the Nutcracker, based on Hoffmann's popular work. Irresistible tales of magic, mystery, and childhood adventure, these timeless delights and fresh interpretations about the importance of imagination will captivate readers of all ages.\n\nFor more than seventy years, Penguin has been the leading publisher of classic literature in the English-speaking world. With more than 1,700 titles, Penguin Classics represents a global bookshelf of the best works throughout history and across genres and disciplines. Readers trust the series to provide authoritative texts enhanced by introductions and notes by distinguished scholars and contemporary authors, as well as up-to-date translations by award-winning translators.",
+          "localized_title": [
+            {
+              "lang": "en",
+              "text": "Nutcracker and Mouse King and The Tale of the Nutcracker"
+            }
+          ],
+          "localized_description": [
+            {
+              "lang": "en",
+              "text": "The original stories behind everyone's favorite Christmas ballet \n\n It wasn't until the 1950s that seeing The Nutcracker at Christmastime became an American tradition. But the story itself is much older and its original intent more complex. This eye-opening new volume presents two of the tale's earliest versions, both in new translations: E.T.A. Hoffmann's Nutcracker and Mouse King (1816), in which a young girl is whisked away to the Land of Toys to help her animated nutcracker defeat the Mouse King, and Alexandre Dumas's 1845 adaptation, The Tale of the Nutcracker, based on Hoffmann's popular work. Irresistible tales of magic, mystery, and childhood adventure, these timeless delights and fresh interpretations about the importance of imagination will captivate readers of all ages.\n\nFor more than seventy years, Penguin has been the leading publisher of classic literature in the English-speaking world. With more than 1,700 titles, Penguin Classics represents a global bookshelf of the best works throughout history and across genres and disciplines. Readers trust the series to provide authoritative texts enhanced by introductions and notes by distinguished scholars and contemporary authors, as well as up-to-date translations by award-winning translators."
+            }
+          ],
+          "cover_image_url": "https://neodb.social/m/item/googlebooks/2024/09/02/12f87d64-799d-4c65-9e1b-b54804e3b037.jpg",
+          "rating": null,
+          "rating_count": 1,
+          "rating_distribution": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "tags": [],
+          "brief": "The original stories behind everyone's favorite Christmas ballet \n\n It wasn't until the 1950s that seeing The Nutcracker at Christmastime became an American tradition. But the story itself is much older and its original intent more complex. This eye-opening new volume presents two of the tale's earliest versions, both in new translations: E.T.A. Hoffmann's Nutcracker and Mouse King (1816), in which a young girl is whisked away to the Land of Toys to help her animated nutcracker defeat the Mouse King, and Alexandre Dumas's 1845 adaptation, The Tale of the Nutcracker, based on Hoffmann's popular work. Irresistible tales of magic, mystery, and childhood adventure, these timeless delights and fresh interpretations about the importance of imagination will captivate readers of all ages.\n\nFor more than seventy years, Penguin has been the leading publisher of classic literature in the English-speaking world. With more than 1,700 titles, Penguin Classics represents a global bookshelf of the best works throughout history and across genres and disciplines. Readers trust the series to provide authoritative texts enhanced by introductions and notes by distinguished scholars and contemporary authors, as well as up-to-date translations by award-winning translators.",
+          "id": "https://neodb.social/book/4Yst0nXoQAZs86kFBPci5Y",
+          "uuid": "4Yst0nXoQAZs86kFBPci5Y",
+          "url": "/book/4Yst0nXoQAZs86kFBPci5Y",
+          "api_url": "/api/book/4Yst0nXoQAZs86kFBPci5Y",
+          "category": "book",
+          "parent_uuid": null,
+          "display_title": "Nutcracker and Mouse King and The Tale of the Nutcracker",
+          "external_resources": [
+            {
+              "url": "https://books.google.com/books?id=tLhfenynsWoC"
+            }
+          ]
+        },
+        "created_time": "2024-01-06T06:12:00Z",
+        "comment_text": "Reading both stories can feel slightly repetitive, but it can also be an interesting exercise to approach it as a game of \"find the difference\" in storytelling between Hoffman and Dumas, so the reader has the opportunity of finding out for themselves if Dumas really did water down the criticisms of the bourgeois child education strictness - as stated by so many literary critics.",
+        "rating_grade": 8,
         "tags": []
       },
       {
@@ -3153,56 +3153,6 @@
       {
         "shelf_type": "complete",
         "visibility": 0,
-        "post_id": "63768184751317816",
-        "item": {
-          "type": "Edition",
-          "title": "The $64 Tomato",
-          "description": "Bill Alexander had no idea that his simple dream of having a vegetable garden and small orchard in his backyard would lead him into life-and-death battles with groundhogs, webworms, weeds, and weather; midnight expeditions in the dead of winter to dig up fresh thyme; and skirmishes with neighbors who feed the vermin (i.e., deer). Not to mention the vacations that had to be planned around the harvest, the near electrocution of the tree man, the limitations of his own middle-aged body, and the pity of his wife and kids. When Alexander runs (just for fun!) a costbenefit analysis, adding up everything from the live animal trap to the Velcro tomato wraps and then amortizing it over the life of his garden, it comes as quite a shock to learn that it cost him a staggering $64 to grow each one of his beloved Brandywine tomatoes. But as any gardener will tell you, you can't put a price on the unparalleled pleasures of providing fresh food for your family.",
-          "localized_title": [
-            {
-              "lang": "en",
-              "text": "The $64 Tomato"
-            }
-          ],
-          "localized_description": [
-            {
-              "lang": "en",
-              "text": "Bill Alexander had no idea that his simple dream of having a vegetable garden and small orchard in his backyard would lead him into life-and-death battles with groundhogs, webworms, weeds, and weather; midnight expeditions in the dead of winter to dig up fresh thyme; and skirmishes with neighbors who feed the vermin (i.e., deer). Not to mention the vacations that had to be planned around the harvest, the near electrocution of the tree man, the limitations of his own middle-aged body, and the pity of his wife and kids. When Alexander runs (just for fun!) a costbenefit analysis, adding up everything from the live animal trap to the Velcro tomato wraps and then amortizing it over the life of his garden, it comes as quite a shock to learn that it cost him a staggering $64 to grow each one of his beloved Brandywine tomatoes. But as any gardener will tell you, you can't put a price on the unparalleled pleasures of providing fresh food for your family."
-            }
-          ],
-          "cover_image_url": "https://neodb.social/m/item/googlebooks/2024/07/26/0dd80206-1f0d-46ed-8c33-1f3c4b4e297f.jpg",
-          "rating": null,
-          "rating_count": 1,
-          "rating_distribution": [
-            0,
-            0,
-            0,
-            0,
-            0
-          ],
-          "tags": [],
-          "brief": "Bill Alexander had no idea that his simple dream of having a vegetable garden and small orchard in his backyard would lead him into life-and-death battles with groundhogs, webworms, weeds, and weather; midnight expeditions in the dead of winter to dig up fresh thyme; and skirmishes with neighbors who feed the vermin (i.e., deer). Not to mention the vacations that had to be planned around the harvest, the near electrocution of the tree man, the limitations of his own middle-aged body, and the pity of his wife and kids. When Alexander runs (just for fun!) a costbenefit analysis, adding up everything from the live animal trap to the Velcro tomato wraps and then amortizing it over the life of his garden, it comes as quite a shock to learn that it cost him a staggering $64 to grow each one of his beloved Brandywine tomatoes. But as any gardener will tell you, you can't put a price on the unparalleled pleasures of providing fresh food for your family.",
-          "id": "https://neodb.social/book/0kkG9uLYeRkkJ28wprF8iw",
-          "uuid": "0kkG9uLYeRkkJ28wprF8iw",
-          "url": "/book/0kkG9uLYeRkkJ28wprF8iw",
-          "api_url": "/api/book/0kkG9uLYeRkkJ28wprF8iw",
-          "category": "book",
-          "parent_uuid": null,
-          "display_title": "The $64 Tomato",
-          "external_resources": [
-            {
-              "url": "https://books.google.com/books?id=_iTum30TbRsC"
-            }
-          ]
-        },
-        "created_time": "2022-06-26T06:12:00Z",
-        "comment_text": "Very amusing and well written gardening-focused memoir. A book I’ll forever recommend to any gentleman farmer wannabe. Emphasis on the \"gentleman\", this really captures the framing of the book, for better or worse.",
-        "rating_grade": 8,
-        "tags": []
-      },
-      {
-        "shelf_type": "complete",
-        "visibility": 0,
         "post_id": "63768184753507712",
         "item": {
           "type": "Edition",
@@ -3248,6 +3198,56 @@
         "created_time": "2022-06-26T06:12:00Z",
         "comment_text": "Defendo a importância de ter material sobre café em Português, motivo suficiente para merecer uma estrela de consolação. Para quem não tem problemas com barreira linguística, recomendo deixar esse livro pra lá e ir atrás dos clássicos internacionais primeiro e usar esse livro apenas como um complemento para aprender o vocabulário e especificadas sobre o Café no Brasil.",
         "rating_grade": 4,
+        "tags": []
+      },
+      {
+        "shelf_type": "complete",
+        "visibility": 0,
+        "post_id": "63768184751317816",
+        "item": {
+          "type": "Edition",
+          "title": "The $64 Tomato",
+          "description": "Bill Alexander had no idea that his simple dream of having a vegetable garden and small orchard in his backyard would lead him into life-and-death battles with groundhogs, webworms, weeds, and weather; midnight expeditions in the dead of winter to dig up fresh thyme; and skirmishes with neighbors who feed the vermin (i.e., deer). Not to mention the vacations that had to be planned around the harvest, the near electrocution of the tree man, the limitations of his own middle-aged body, and the pity of his wife and kids. When Alexander runs (just for fun!) a costbenefit analysis, adding up everything from the live animal trap to the Velcro tomato wraps and then amortizing it over the life of his garden, it comes as quite a shock to learn that it cost him a staggering $64 to grow each one of his beloved Brandywine tomatoes. But as any gardener will tell you, you can't put a price on the unparalleled pleasures of providing fresh food for your family.",
+          "localized_title": [
+            {
+              "lang": "en",
+              "text": "The $64 Tomato"
+            }
+          ],
+          "localized_description": [
+            {
+              "lang": "en",
+              "text": "Bill Alexander had no idea that his simple dream of having a vegetable garden and small orchard in his backyard would lead him into life-and-death battles with groundhogs, webworms, weeds, and weather; midnight expeditions in the dead of winter to dig up fresh thyme; and skirmishes with neighbors who feed the vermin (i.e., deer). Not to mention the vacations that had to be planned around the harvest, the near electrocution of the tree man, the limitations of his own middle-aged body, and the pity of his wife and kids. When Alexander runs (just for fun!) a costbenefit analysis, adding up everything from the live animal trap to the Velcro tomato wraps and then amortizing it over the life of his garden, it comes as quite a shock to learn that it cost him a staggering $64 to grow each one of his beloved Brandywine tomatoes. But as any gardener will tell you, you can't put a price on the unparalleled pleasures of providing fresh food for your family."
+            }
+          ],
+          "cover_image_url": "https://neodb.social/m/item/googlebooks/2024/07/26/0dd80206-1f0d-46ed-8c33-1f3c4b4e297f.jpg",
+          "rating": null,
+          "rating_count": 1,
+          "rating_distribution": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "tags": [],
+          "brief": "Bill Alexander had no idea that his simple dream of having a vegetable garden and small orchard in his backyard would lead him into life-and-death battles with groundhogs, webworms, weeds, and weather; midnight expeditions in the dead of winter to dig up fresh thyme; and skirmishes with neighbors who feed the vermin (i.e., deer). Not to mention the vacations that had to be planned around the harvest, the near electrocution of the tree man, the limitations of his own middle-aged body, and the pity of his wife and kids. When Alexander runs (just for fun!) a costbenefit analysis, adding up everything from the live animal trap to the Velcro tomato wraps and then amortizing it over the life of his garden, it comes as quite a shock to learn that it cost him a staggering $64 to grow each one of his beloved Brandywine tomatoes. But as any gardener will tell you, you can't put a price on the unparalleled pleasures of providing fresh food for your family.",
+          "id": "https://neodb.social/book/0kkG9uLYeRkkJ28wprF8iw",
+          "uuid": "0kkG9uLYeRkkJ28wprF8iw",
+          "url": "/book/0kkG9uLYeRkkJ28wprF8iw",
+          "api_url": "/api/book/0kkG9uLYeRkkJ28wprF8iw",
+          "category": "book",
+          "parent_uuid": null,
+          "display_title": "The $64 Tomato",
+          "external_resources": [
+            {
+              "url": "https://books.google.com/books?id=_iTum30TbRsC"
+            }
+          ]
+        },
+        "created_time": "2022-06-26T06:12:00Z",
+        "comment_text": "Very amusing and well written gardening-focused memoir. A book I’ll forever recommend to any gentleman farmer wannabe. Emphasis on the \"gentleman\", this really captures the framing of the book, for better or worse.",
+        "rating_grade": 8,
         "tags": []
       },
       {
@@ -8792,65 +8792,6 @@
       {
         "shelf_type": "progress",
         "visibility": 0,
-        "post_id": "492464286882761632",
-        "item": {
-          "type": "TVSeason",
-          "title": "Foundation (基地 第三季)",
-          "description": "故事设定在第二季事件的152年后。",
-          "localized_title": [
-            {
-              "lang": "en",
-              "text": "Foundation Season 3"
-            },
-            {
-              "lang": "zh-cn",
-              "text": "基地 第三季"
-            }
-          ],
-          "localized_description": [
-            {
-              "lang": "zh-cn",
-              "text": "故事设定在第二季事件的152年后。"
-            }
-          ],
-          "cover_image_url": "https://neodb.social/m/item/doubanmovie/2025/07/19/10b6bee2-cad2-48f6-b79e-ae75348a5dba.jpg",
-          "rating": null,
-          "rating_count": 4,
-          "rating_distribution": [
-            0,
-            0,
-            0,
-            0,
-            0
-          ],
-          "tags": [
-            "美剧"
-          ],
-          "brief": "故事设定在第二季事件的152年后。",
-          "id": "https://neodb.social/tv/season/7OhmvKySDdjKWrR7Pn6qq0",
-          "uuid": "7OhmvKySDdjKWrR7Pn6qq0",
-          "url": "/tv/season/7OhmvKySDdjKWrR7Pn6qq0",
-          "api_url": "/api/tv/season/7OhmvKySDdjKWrR7Pn6qq0",
-          "category": "tv",
-          "parent_uuid": "7Z33DncV7hMG9NrBieVNe3",
-          "display_title": "Foundation (基地 第三季)",
-          "external_resources": [
-            {
-              "url": "https://www.themoviedb.org/tv/93740/season/3"
-            },
-            {
-              "url": "https://eggplant.place/tv/season/54GfL6kDSPc0u6UuzhuPW5"
-            }
-          ]
-        },
-        "created_time": "2025-09-21T05:37:15.483Z",
-        "comment_text": null,
-        "rating_grade": null,
-        "tags": []
-      },
-      {
-        "shelf_type": "progress",
-        "visibility": 0,
         "post_id": "450629983135398408",
         "item": {
           "type": "TVSeason",
@@ -9063,6 +9004,65 @@
       }
     ],
     "complete": [
+      {
+        "shelf_type": "complete",
+        "visibility": 0,
+        "post_id": "492757244125517648",
+        "item": {
+          "type": "TVSeason",
+          "title": "Foundation (基地 第三季)",
+          "description": "故事设定在第二季事件的152年后。",
+          "localized_title": [
+            {
+              "lang": "en",
+              "text": "Foundation Season 3"
+            },
+            {
+              "lang": "zh-cn",
+              "text": "基地 第三季"
+            }
+          ],
+          "localized_description": [
+            {
+              "lang": "zh-cn",
+              "text": "故事设定在第二季事件的152年后。"
+            }
+          ],
+          "cover_image_url": "https://neodb.social/m/item/doubanmovie/2025/07/19/10b6bee2-cad2-48f6-b79e-ae75348a5dba.jpg",
+          "rating": 7.6,
+          "rating_count": 5,
+          "rating_distribution": [
+            0,
+            0,
+            0,
+            80,
+            20
+          ],
+          "tags": [
+            "美剧"
+          ],
+          "brief": "故事设定在第二季事件的152年后。",
+          "id": "https://neodb.social/tv/season/7OhmvKySDdjKWrR7Pn6qq0",
+          "uuid": "7OhmvKySDdjKWrR7Pn6qq0",
+          "url": "/tv/season/7OhmvKySDdjKWrR7Pn6qq0",
+          "api_url": "/api/tv/season/7OhmvKySDdjKWrR7Pn6qq0",
+          "category": "tv",
+          "parent_uuid": "7Z33DncV7hMG9NrBieVNe3",
+          "display_title": "Foundation (基地 第三季)",
+          "external_resources": [
+            {
+              "url": "https://www.themoviedb.org/tv/93740/season/3"
+            },
+            {
+              "url": "https://eggplant.place/tv/season/54GfL6kDSPc0u6UuzhuPW5"
+            }
+          ]
+        },
+        "created_time": "2025-09-22T01:01:21.905Z",
+        "comment_text": "The production is still the best thing about this show, and the acting is not too shabby but the plot and directing choices are still hit and miss. The Genetic Dynasty remains as the most entertaining blocks of the story, and in this season they are definitely consequential.",
+        "rating_grade": 7,
+        "tags": []
+      },
       {
         "shelf_type": "complete",
         "visibility": 0,
