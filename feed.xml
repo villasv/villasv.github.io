@@ -4,9 +4,16 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 23 Sep 2025 15:05:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Sep 2025 17:05:01 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2025]]></copyright>
+        <item>
+            <title><![CDATA[Comment]]></title>
+            <description><![CDATA[<p>&gt; Sure, the people who I was most interested in hearing from and interacting with may have been the types to leave their friends and family for the big city, but for most people, friends and family were the entire point of life generally, and by extension, social media specifically.</p><p>Weirdly relatable minor side comment by Ben Thompson in Stratechery, on why Twitter _was_ more interesting than Facebook but the latter was more promising</p>]]></description>
+            <link>https://mastodon.social/@villasbc/115254267809935899</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/115254267809935899</guid>
+            <pubDate>Tue, 23 Sep 2025 15:16:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Comment]]></title>
             <description><![CDATA[<p>lol Sturko booted from BC Conservatives, who could have imagined such a thing… it turns out she is not “one of the good ones” no matter now many necks she steps on</p><p><a href="https://mastodon.social/tags/BCpoli" class="mention hashtag" rel="tag">#<span>BCpoli</span></a></p>]]></description>
@@ -195,13 +202,6 @@
             <link>https://neodb.social/@villasv/posts/472028998547721216/</link>
             <guid isPermaLink="true">https://neodb.social/@villasv/posts/472028998547721216/</guid>
             <pubDate>Sat, 26 Jul 2025 20:14:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Comment]]></title>
-            <description><![CDATA[<p>We already have <a href="https://mastodon.social/tags/NeoDB" class="mention hashtag" rel="tag">#<span>NeoDB</span></a> and <a href="https://mastodon.social/tags/BookWyrm" class="mention hashtag" rel="tag">#<span>BookWyrm</span></a> for tracking but when are we getting the <a href="https://mastodon.social/tags/fediverse" class="mention hashtag" rel="tag">#<span>fediverse</span></a> bookcrossing.com? Maybe it&#39;s already out there and I haven&#39;t found it yet 🤔</p>]]></description>
-            <link>https://mastodon.social/@villasbc/114921343517679790</link>
-            <guid isPermaLink="true">https://mastodon.social/@villasbc/114921343517679790</guid>
-            <pubDate>Sat, 26 Jul 2025 20:08:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Finished watching]]></title>
