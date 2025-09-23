@@ -4,9 +4,16 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 23 Sep 2025 13:12:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Sep 2025 15:05:53 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2025]]></copyright>
+        <item>
+            <title><![CDATA[Comment]]></title>
+            <description><![CDATA[<p>lol Sturko booted from BC Conservatives, who could have imagined such a thing… it turns out she is not “one of the good ones” no matter now many necks she steps on</p><p><a href="https://mastodon.social/tags/BCpoli" class="mention hashtag" rel="tag">#<span>BCpoli</span></a></p>]]></description>
+            <link>https://mastodon.social/@villasbc/115254089717700015</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/115254089717700015</guid>
+            <pubDate>Tue, 23 Sep 2025 14:30:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Finished reading]]></title>
             <description><![CDATA[<p><a href="https://neodb.social/~neodb~/book/7jUb35U3MVpxkjn9hGhxBI" rel="nofollow">Crowd Source</a> <br>If you live in Vancouver and like birds, this book can be an agreeable companion. I love how niche that is and yet how some of its verses feel so relatable.<br></p>]]></description>
@@ -195,13 +202,6 @@
             <link>https://mastodon.social/@villasbc/114921343517679790</link>
             <guid isPermaLink="true">https://mastodon.social/@villasbc/114921343517679790</guid>
             <pubDate>Sat, 26 Jul 2025 20:08:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Comment]]></title>
-            <description><![CDATA[<p>If this was 2023 I’d be ready to shell out good money to buy an awesome carbon bike wheel manufactured in the US.</p><p>But in this shitty timeline it makes more sense for me to pay more than a hundred bucks in shipping to import from China instead.</p><p>Congratulations on bringing manufacturing jobs back to “America”.</p>]]></description>
-            <link>https://mastodon.social/@villasbc/114894938351064726</link>
-            <guid isPermaLink="true">https://mastodon.social/@villasbc/114894938351064726</guid>
-            <pubDate>Tue, 22 Jul 2025 04:13:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Finished watching]]></title>
