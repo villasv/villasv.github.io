@@ -5395,9 +5395,9 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/09/13/a30bf2f3-4f79-43ef-b22f-58ebc3fd8aae.jpg",
           "rating": 6.4,
-          "rating_count": 355,
+          "rating_count": 356,
           "rating_distribution": [
-            4,
+            5,
             10,
             34,
             40,
@@ -8296,13 +8296,13 @@
           ],
           "cover_image_url": "https://neodb.social/m/movie/2021/09/15559ab649-2df5-4547-b4ff-47ed5f2e158b.jpg",
           "rating": 7.9,
-          "rating_count": 138,
+          "rating_count": 139,
           "rating_distribution": [
             0,
             2,
             20,
-            54,
-            22
+            53,
+            23
           ],
           "tags": [
             "2010s",
@@ -9029,14 +9029,14 @@
             }
           ],
           "cover_image_url": "https://neodb.social/m/item/doubanmovie/2025/07/19/10b6bee2-cad2-48f6-b79e-ae75348a5dba.jpg",
-          "rating": 7.6,
-          "rating_count": 5,
+          "rating": 7.7,
+          "rating_count": 6,
           "rating_distribution": [
             0,
             0,
             0,
-            80,
-            20
+            83,
+            16
           ],
           "tags": [
             "美剧"
