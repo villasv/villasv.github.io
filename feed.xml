@@ -4,7 +4,7 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 05 Oct 2025 15:04:47 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Oct 2025 17:04:56 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2025]]></copyright>
         <item>
