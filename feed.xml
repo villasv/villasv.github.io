@@ -4,9 +4,16 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 06 Oct 2025 21:05:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Oct 2025 23:05:06 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2025]]></copyright>
+        <item>
+            <title><![CDATA[Comment]]></title>
+            <description><![CDATA[<p>My Buddhism professor uses NotebookLM to render audio explanations with “slides” for some of their teaching materials. It’s surprisingly good. Amusingly, it has the same speech “accent” that we have, which is pretty specific.</p>]]></description>
+            <link>https://mastodon.social/@villasbc/115329629275257016</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/115329629275257016</guid>
+            <pubDate>Mon, 06 Oct 2025 22:41:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Comment]]></title>
             <description><![CDATA[<p>&gt; Sure, the people who I was most interested in hearing from and interacting with may have been the types to leave their friends and family for the big city, but for most people, friends and family were the entire point of life generally, and by extension, social media specifically.</p><p>Weirdly relatable minor side comment by Ben Thompson in Stratechery, on why Twitter _was_ more interesting than Facebook but the latter was more promising</p>]]></description>
@@ -181,13 +188,6 @@
             <link>https://mastodon.social/@villasbc/114948473164956269</link>
             <guid isPermaLink="true">https://mastodon.social/@villasbc/114948473164956269</guid>
             <pubDate>Thu, 31 Jul 2025 15:08:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Comment]]></title>
-            <description><![CDATA[<p>Who would have guessed that after a period of “Revenge of the Nerds” tech oligarchy soft power the pendulum would swing back so hard into “regular bullying and pettiness” politics, ie strongman power</p>]]></description>
-            <link>https://mastodon.social/@villasbc/114948462332824777</link>
-            <guid isPermaLink="true">https://mastodon.social/@villasbc/114948462332824777</guid>
-            <pubDate>Thu, 31 Jul 2025 15:05:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Started reading]]></title>
