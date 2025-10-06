@@ -3992,11 +3992,11 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2025/01/17/c9fb75b7-fe14-462c-a95e-513257203176.jpg",
           "rating": 7.4,
-          "rating_count": 113,
+          "rating_count": 114,
           "rating_distribution": [
             0,
             2,
-            24,
+            25,
             56,
             15
           ],
@@ -5395,12 +5395,12 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/09/13/a30bf2f3-4f79-43ef-b22f-58ebc3fd8aae.jpg",
           "rating": 6.4,
-          "rating_count": 357,
+          "rating_count": 358,
           "rating_distribution": [
             5,
             11,
             34,
-            40,
+            39,
             9
           ],
           "tags": [
@@ -5846,13 +5846,13 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/movie/2025/03/09/3e3fa59e-e345-4f24-b75e-1141f82942f6.jpg",
           "rating": 8.1,
-          "rating_count": 106,
+          "rating_count": 107,
           "rating_distribution": [
             0,
             0,
             14,
-            52,
-            32
+            53,
+            31
           ],
           "tags": [
             "2024",
@@ -5898,10 +5898,10 @@
               "url": "https://www.imdb.com/title/tt14961016/"
             },
             {
-              "url": "https://www.wikidata.org/wiki/Q124262351"
+              "url": "https://movie.douban.com/subject/35512487/"
             },
             {
-              "url": "https://movie.douban.com/subject/35512487/"
+              "url": "https://www.wikidata.org/wiki/Q124262351"
             }
           ]
         },
@@ -7015,7 +7015,7 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/movie/2024/10/28/13dfbfcd-c252-4f40-96da-aabdade67aee.jpg",
           "rating": 7.4,
-          "rating_count": 163,
+          "rating_count": 164,
           "rating_distribution": [
             1,
             0,
