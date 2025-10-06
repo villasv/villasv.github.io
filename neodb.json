@@ -2423,17 +2423,20 @@
             }
           ],
           "cover_image_url": "https://neodb.social/m/item/doubanbook/2023/05/09/4a6a964c-6855-4236-90dd-432f506f7bd9.jpg",
-          "rating": 7.6,
-          "rating_count": 7,
+          "rating": 7.8,
+          "rating_count": 8,
           "rating_distribution": [
             0,
-            14,
+            12,
             0,
-            57,
-            28
+            50,
+            37
           ],
           "tags": [
             "adhd",
+            "mental help",
+            "organizing",
+            "self help",
             "家务"
           ],
           "brief": "This revolutionary approach to cleaning and organizing helps free you from feeling ashamed or overwhelmed by a messy home.\nIf you’re struggling to stay on top of your to-do list, you probably have a good reason: anxiety, fatigue, depression, ADHD, or lack of support. For therapist KC Davis, the birth of her second child triggered a stress-mess cycle. The more behind she felt, the less motivated she was to start. She didn’t fold a single piece of laundry for seven months. One life-changing realization restored her sanity—and the functionality of her home: You don’t work for your home; your home works for you.\nIn other words, messiness is not a moral failing. A new sense of calm washed over her as she let go of the shame-based messaging that interpreted a pile of dirty laundry as “I can never keep up” and a chaotic kitchen as “I’m a bad mother.” Instead, she looked at unwashed clothes and thought, “I am alive,” and at stacks of dishes and thought, “I cooked my family dinner three nights in a row.”\nBuilding on this foundation of self-compassion, KC devised the powerful practical approach that has exploded in popularity through her TikTok account, @domesticblisters. The secret is to simplify your to-do list and to find creative workarounds that accommodate your limited time and energy. In this book, you’ll learn exactly how to customize your cleaning strategy and rebuild your relationship with your home, including:\n-How to see chores as kindnesses to your future self, not as a reflection of your worth\n-How to start by setting priorities\n-How to stagger tasks so you won’t procrastinate\n-How to clean in quick bursts within your existing daily routine\n-How to use creative shortcuts to transform a room from messy to functional\nWith KC’s help, your home will feel like a sanctuary again. It will become a place to rest, even when things aren’t finished. You will move with ease, and peace and calm will edge out guilt, self-criticism, and endless checklists. They have no place here.",
@@ -8105,10 +8108,10 @@
               "url": "https://neodb.kevga.de/movie/7E739s9Hdek7mvHolbEna6"
             },
             {
-              "url": "https://www.imdb.com/title/tt0032138/"
+              "url": "https://www.wikidata.org/wiki/Q193695"
             },
             {
-              "url": "https://www.wikidata.org/wiki/Q193695"
+              "url": "https://www.imdb.com/title/tt0032138/"
             }
           ]
         },
