@@ -4,9 +4,16 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 08 Oct 2025 05:05:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Oct 2025 07:05:26 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2025]]></copyright>
+        <item>
+            <title><![CDATA[Comment]]></title>
+            <description><![CDATA[<p>Japan is so dense and its commercial streets are so lively that I just had lunch on the third floor, the crossed the street and had an espresso again on the third floor.</p><p>The amount of pedestrians walking around and discovering shops is so high that you don’t even need a storefront on the sidewalk to be viable, a sign in front of a stair/elevator is enough.</p>]]></description>
+            <link>https://mastodon.social/@villasbc/115337059009235584</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/115337059009235584</guid>
+            <pubDate>Wed, 08 Oct 2025 06:10:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Comment]]></title>
             <description><![CDATA[<p>My Buddhism professor uses NotebookLM to render audio explanations with “slides” for some of their teaching materials. It’s surprisingly good. Amusingly, it has the same speech “accent” that we have, which is pretty specific.</p>]]></description>
@@ -181,13 +188,6 @@
             <link>https://mastodon.social/@villasbc/114974345287050990</link>
             <guid isPermaLink="true">https://mastodon.social/@villasbc/114974345287050990</guid>
             <pubDate>Tue, 05 Aug 2025 04:48:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Comment]]></title>
-            <description><![CDATA[<p>Reminds me of Cersei rebuttal of Littlefinger’s “knowledge is power” with putting a blade to his neck to remind him that “power is power”</p>]]></description>
-            <link>https://mastodon.social/@villasbc/114948473164956269</link>
-            <guid isPermaLink="true">https://mastodon.social/@villasbc/114948473164956269</guid>
-            <pubDate>Thu, 31 Jul 2025 15:08:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Started reading]]></title>
