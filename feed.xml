@@ -4,9 +4,23 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 11 Oct 2025 01:32:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Oct 2025 05:05:09 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2025]]></copyright>
+        <item>
+            <title><![CDATA[Comment]]></title>
+            <description><![CDATA[<p>On the other hand it’s unfortunate that this normalizes the unwillingness to divert car infrastructure to active mobility. They have some really egregious sharrows and cyclists end up choosing the sidewalk.</p><p>In terms of cycling infrastructure and the ability to bring the bike with public transit I do see Vancouver as being ahead. It’s the ubiquity of cycling and public transit that puts Japan on a different level to me.</p>]]></description>
+            <link>https://mastodon.social/@villasbc/115353567359159719</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/115353567359159719</guid>
+            <pubDate>Sat, 11 Oct 2025 04:09:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Comment]]></title>
+            <description><![CDATA[<p>It’s amazing how accustomed the Japanese are with sharing the sidewalk among pedestrians and cyclists. They are often zipping by, and pedestrians don’t even flinch. And I’m not talking teenagers, it’s middle age commuters on e-bikes stitching on the sidewalk with baskets full of stuff on decrepit old wheels.</p><p>It goes to show how overblown is panic that people in NA go through regarding bicycles on the sidewalk and e-bikes in general.</p>]]></description>
+            <link>https://mastodon.social/@villasbc/115353544141513416</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/115353544141513416</guid>
+            <pubDate>Sat, 11 Oct 2025 04:03:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Comment]]></title>
             <description><![CDATA[<p>Japan is so dense and its commercial streets are so lively that I just had lunch on the third floor, the crossed the street and had an espresso again on the third floor.</p><p>The amount of pedestrians walking around and discovering shops is so high that you don’t even need a storefront on the sidewalk to be viable, a sign in front of a stair/elevator is enough.</p>]]></description>
@@ -174,20 +188,6 @@
             <link>https://mastodon.social/@villasbc/114990499880042805</link>
             <guid isPermaLink="true">https://mastodon.social/@villasbc/114990499880042805</guid>
             <pubDate>Fri, 08 Aug 2025 01:16:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Comment]]></title>
-            <description><![CDATA[<p>Trying out a new bike mirror contraption that mounts to my glasses, which I can already say aren’t quite a great choice of glasses model to use with the thingy but will try to make do</p><p><a href="https://mastodon.social/tags/bikeyvr" class="mention hashtag" rel="tag">#<span>bikeyvr</span></a> <a href="https://mastodon.social/tags/bikecommute" class="mention hashtag" rel="tag">#<span>bikecommute</span></a></p>]]></description>
-            <link>https://mastodon.social/@villasbc/114988223542756306</link>
-            <guid isPermaLink="true">https://mastodon.social/@villasbc/114988223542756306</guid>
-            <pubDate>Thu, 07 Aug 2025 15:37:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Comment]]></title>
-            <description><![CDATA[<p>Today I used <span class="h-card" translate="no"><a href="https://floss.social/@CoMaps" class="u-url mention">@<span>CoMaps</span></a></span> for the first time for hiking (Panorama) and I am so happy with it. The downloaded map had everything I needed - thanks to the many OSM contributors - and it was super useful.</p><p>We can have nice things without having to pay CA$35.99 a year, so I’ll happily just donate that amount directly. Long live <a href="https://mastodon.social/tags/OSM" class="mention hashtag" rel="tag">#<span>OSM</span></a>!</p><p><a href="https://mastodon.social/tags/vancouver" class="mention hashtag" rel="tag">#<span>vancouver</span></a> <a href="https://mastodon.social/tags/yvrhiking" class="mention hashtag" rel="tag">#<span>yvrhiking</span></a> <a href="https://mastodon.social/tags/OpenSource" class="mention hashtag" rel="tag">#<span>OpenSource</span></a></p>]]></description>
-            <link>https://mastodon.social/@villasbc/114974345287050990</link>
-            <guid isPermaLink="true">https://mastodon.social/@villasbc/114974345287050990</guid>
-            <pubDate>Tue, 05 Aug 2025 04:48:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Started reading]]></title>
