@@ -4,9 +4,30 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 15 Oct 2025 23:05:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Oct 2025 01:33:42 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2025]]></copyright>
+        <item>
+            <title><![CDATA[Comment]]></title>
+            <description><![CDATA[<p>ICYMI <span class="h-card" translate="no"><a href="https://mastodon.macstories.net/@viticci" class="u-url mention">@<span>viticci</span></a></span> I found a funny quirk of AI ubiquity on MacOS:</p><p>The Books app generally doesn&#39;t facilitate the reader to copy text blurbs from books. But in Tahoe, I can select text from the book and use &quot;Proofread&quot;, which opens a small window that does offer the copy option.</p><p>LLMs really are the natural enemies of copyright lol</p>]]></description>
+            <link>https://mastodon.social/@villasbc/115381177311865000</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/115381177311865000</guid>
+            <pubDate>Thu, 16 Oct 2025 01:10:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Wants to read]]></title>
+            <description><![CDATA[<p><a href="https://neodb.social/~neodb~/book/6u6TxsBfZ8jRywWuV5doE5" rel="nofollow">Old Path White Clouds: Walking in the Footsteps of the Buddha</a> </p><p></p>]]></description>
+            <link>https://neodb.social/@villasv/posts/501437645241686200/</link>
+            <guid isPermaLink="true">https://neodb.social/@villasv/posts/501437645241686200/</guid>
+            <pubDate>Wed, 15 Oct 2025 23:54:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Wants to read]]></title>
+            <description><![CDATA[<p><a href="https://neodb.social/~neodb~/book/2PhbCC6lLJoIz33woKeEIS" rel="nofollow">In the Buddha&#x27;s Words: An Anthology of Discourses from the Pali Canon</a> </p><p></p>]]></description>
+            <link>https://neodb.social/@villasv/posts/501436108662802208/</link>
+            <guid isPermaLink="true">https://neodb.social/@villasv/posts/501436108662802208/</guid>
+            <pubDate>Wed, 15 Oct 2025 23:48:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Comment]]></title>
             <description><![CDATA[<p>On the other hand it’s unfortunate that this normalizes the unwillingness to divert car infrastructure to active mobility. They have some really egregious sharrows and cyclists end up choosing the sidewalk.</p><p>In terms of cycling infrastructure and the ability to bring your bike on public transit I do see Vancouver as being ahead. It’s the ubiquity of cycling and public transit that puts Japan on a different level to me.</p>]]></description>
@@ -183,13 +204,6 @@
             <pubDate>Fri, 08 Aug 2025 15:45:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Comment]]></title>
-            <description><![CDATA[<p>It works OK, gotta build the habit of using it. The bigger question is whether straining my eyeballs instead of my neck is the right decision 😂</p>]]></description>
-            <link>https://mastodon.social/@villasbc/114990499880042805</link>
-            <guid isPermaLink="true">https://mastodon.social/@villasbc/114990499880042805</guid>
-            <pubDate>Fri, 08 Aug 2025 01:16:21 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Started reading]]></title>
             <description><![CDATA[<p><a href="https://neodb.social/~neodb~/book/7VkDat4tXF7FE862hhr1rn" rel="nofollow">Vancouver&#x27;s Special Guardians</a> </p><p></p>]]></description>
             <link>https://neodb.social/@villasv/posts/472031061415968000/</link>
@@ -272,20 +286,6 @@
             <link>https://neodb.social/@villasv/posts/443384359179709792/</link>
             <guid isPermaLink="true">https://neodb.social/@villasv/posts/443384359179709792/</guid>
             <pubDate>Thu, 08 May 2025 19:11:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Wants to read]]></title>
-            <description><![CDATA[<p><a href="https://neodb.social/~neodb~/book/6QGKcZK3IrKNSY81FBmg5z" rel="nofollow">Tyranny of the Minority: Why American Democracy Reached the Breaking Point</a> <br>Somehow I missed that How Democracies Die had a followup. Tragically relevant given the current state of affairs<br></p>]]></description>
-            <link>https://neodb.social/@villasv/posts/443380225885198776/</link>
-            <guid isPermaLink="true">https://neodb.social/@villasv/posts/443380225885198776/</guid>
-            <pubDate>Thu, 08 May 2025 18:54:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Wants to read]]></title>
-            <description><![CDATA[<p><a href="https://neodb.social/~neodb~/book/1pufDs3I5Hm1xpfa0hAFfh" rel="nofollow">Crackdown: Surviving and Resisting the War on Drugs</a> </p><p></p>]]></description>
-            <link>https://neodb.social/@villasv/posts/435702376918535440/</link>
-            <guid isPermaLink="true">https://neodb.social/@villasv/posts/435702376918535440/</guid>
-            <pubDate>Thu, 17 Apr 2025 14:25:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Media]]></title>
