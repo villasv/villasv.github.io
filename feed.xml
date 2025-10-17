@@ -4,9 +4,16 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 16 Oct 2025 23:05:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Oct 2025 01:33:02 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2025]]></copyright>
+        <item>
+            <title><![CDATA[Wants to read]]></title>
+            <description><![CDATA[<p><a href="https://neodb.social/~neodb~/book/0V44UTlboDL3nLCYxSKLNT" rel="nofollow">Becoming Fluent</a> </p><p></p>]]></description>
+            <link>https://neodb.social/@villasv/posts/501822579832558200/</link>
+            <guid isPermaLink="true">https://neodb.social/@villasv/posts/501822579832558200/</guid>
+            <pubDate>Fri, 17 Oct 2025 01:23:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Comment]]></title>
             <description><![CDATA[<p>ICYMI <span class="h-card" translate="no"><a href="https://mastodon.macstories.net/@viticci" class="u-url mention">@<span>viticci</span></a></span> I found a funny quirk of AI ubiquity on MacOS:</p><p>The Books app generally doesn&#39;t facilitate the reader to copy text blurbs from books. But in Tahoe, I can select text from the book and use &quot;Proofread&quot;, which opens a small window that does offer the copy option.</p><p>LLMs really are the natural enemies of copyright lol</p>]]></description>
@@ -279,13 +286,6 @@
             <link>https://neodb.social/@villasv/posts/443385257828732664/</link>
             <guid isPermaLink="true">https://neodb.social/@villasv/posts/443385257828732664/</guid>
             <pubDate>Thu, 08 May 2025 19:14:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Finished watching]]></title>
-            <description><![CDATA[<p><a href="https://neodb.social/~neodb~/movie/4yXzvM0r9737LcjSXwrtxr" rel="nofollow">Sinners, 7 out of 10</a>  <br>We&#x27;ve got jazz, intense soundtrack, black power and entrepreneurship, AAVE, vampires, shootouts, wild west mood. It&#x27;s a modern fusion with no restrains on its quirkiness, so it&#x27;s definitely not an all-round crowd pleaser. I enjoyed the central role that music played in the story, and it&#x27;s not as if vampires ever needed justification to attack people but this tried something different so that&#x27;s fun. I do think the villains are a bit overpowered, though, to a point where it&#x27;s hard to believe they wouldn&#x27;t be more widely known through folk tales, but that&#x27;s a bit of world building nitpicking. I also found the epilogue a bit too &quot;fan service&quot; - of course it&#x27;s rewarding to watch klan racists be rampaged by the protagonist but the whole scene was a bit too obvious.<br></p>]]></description>
-            <link>https://neodb.social/@villasv/posts/443384359179709792/</link>
-            <guid isPermaLink="true">https://neodb.social/@villasv/posts/443384359179709792/</guid>
-            <pubDate>Thu, 08 May 2025 19:11:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Media]]></title>

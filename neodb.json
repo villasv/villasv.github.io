@@ -4,6 +4,59 @@
       {
         "shelf_type": "wishlist",
         "visibility": 0,
+        "post_id": "501822579832558200",
+        "item": {
+          "type": "Edition",
+          "title": "Becoming Fluent",
+          "description": "Adults who want to learn a foreign language are often discouraged because they believe they cannot acquire a language as easily as children. Once they begin to learn a language, adults may be further discouraged when they find the methods used to teach children don’t seem to work for them. What is an adult language learner to do? In this book, Richard Roberts and Roger Kreuz draw on insights from psychology and cognitive science to show that adults can master a foreign language if they bring to bear the skills and knowledge they have honed over a lifetime. Adults shouldn’t try to learn as children do; they should learn like adults.\n \n Roberts and Kreuz report evidence that adults can learn new languages even more easily than children. Children appear to have only two advantages over adults in learning a language: they acquire a native accent more easily, and they do not suffer from self-defeating anxiety about learning a language. Adults, on the other hand, have the greater advantages—gained from experience—of an understanding of their own mental processes and knowing how to use language to do things. Adults have an especially advantageous grasp of pragmatics, the social use of language, and Roberts and Kreuz show how to leverage this metalinguistic ability in learning a new language.\n \n Learning a language takes effort. But if adult learners apply the tools acquired over a lifetime, it can be enjoyable and rewarding.",
+          "localized_title": [
+            {
+              "lang": "en",
+              "text": "Becoming Fluent"
+            }
+          ],
+          "localized_description": [
+            {
+              "lang": "en",
+              "text": "Adults who want to learn a foreign language are often discouraged because they believe they cannot acquire a language as easily as children. Once they begin to learn a language, adults may be further discouraged when they find the methods used to teach children don’t seem to work for them. What is an adult language learner to do? In this book, Richard Roberts and Roger Kreuz draw on insights from psychology and cognitive science to show that adults can master a foreign language if they bring to bear the skills and knowledge they have honed over a lifetime. Adults shouldn’t try to learn as children do; they should learn like adults.\n \n Roberts and Kreuz report evidence that adults can learn new languages even more easily than children. Children appear to have only two advantages over adults in learning a language: they acquire a native accent more easily, and they do not suffer from self-defeating anxiety about learning a language. Adults, on the other hand, have the greater advantages—gained from experience—of an understanding of their own mental processes and knowing how to use language to do things. Adults have an especially advantageous grasp of pragmatics, the social use of language, and Roberts and Kreuz show how to leverage this metalinguistic ability in learning a new language.\n \n Learning a language takes effort. But if adult learners apply the tools acquired over a lifetime, it can be enjoyable and rewarding."
+            }
+          ],
+          "cover_image_url": "https://neodb.social/m/book/2021/12/0439985b39-3337-4276-84c1-60a5252e3055.jpg",
+          "rating": null,
+          "rating_count": 0,
+          "rating_distribution": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "tags": [],
+          "brief": "Adults who want to learn a foreign language are often discouraged because they believe they cannot acquire a language as easily as children. Once they begin to learn a language, adults may be further discouraged when they find the methods used to teach children don’t seem to work for them. What is an adult language learner to do? In this book, Richard Roberts and Roger Kreuz draw on insights from psychology and cognitive science to show that adults can master a foreign language if they bring to bear the skills and knowledge they have honed over a lifetime. Adults shouldn’t try to learn as children do; they should learn like adults.\n \n Roberts and Kreuz report evidence that adults can learn new languages even more easily than children. Children appear to have only two advantages over adults in learning a language: they acquire a native accent more easily, and they do not suffer from self-defeating anxiety about learning a language. Adults, on the other hand, have the greater advantages—gained from experience—of an understanding of their own mental processes and knowing how to use language to do things. Adults have an especially advantageous grasp of pragmatics, the social use of language, and Roberts and Kreuz show how to leverage this metalinguistic ability in learning a new language.\n \n Learning a language takes effort. But if adult learners apply the tools acquired over a lifetime, it can be enjoyable and rewarding.",
+          "id": "https://neodb.social/book/0V44UTlboDL3nLCYxSKLNT",
+          "uuid": "0V44UTlboDL3nLCYxSKLNT",
+          "url": "/book/0V44UTlboDL3nLCYxSKLNT",
+          "api_url": "/api/book/0V44UTlboDL3nLCYxSKLNT",
+          "category": "book",
+          "parent_uuid": "1adp0Wo58PA7htX4TZnTJW",
+          "display_title": "Becoming Fluent",
+          "external_resources": [
+            {
+              "url": "https://book.douban.com/subject/26669923/"
+            },
+            {
+              "url": "https://www.goodreads.com/book/show/26176934"
+            }
+          ]
+        },
+        "created_time": "2025-10-17T01:23:46.391Z",
+        "comment_text": null,
+        "rating_grade": null,
+        "tags": []
+      },
+      {
+        "shelf_type": "wishlist",
+        "visibility": 0,
         "post_id": "501437645241686200",
         "item": {
           "type": "Edition",
