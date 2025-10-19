@@ -4,9 +4,16 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 19 Oct 2025 15:05:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Oct 2025 17:05:09 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2025]]></copyright>
+        <item>
+            <title><![CDATA[Comment]]></title>
+            <description><![CDATA[<p>As good as any other day to remember</p><p><a href="https://en.wikipedia.org/wiki/Paradox_Hotel_Vancouver" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">en.wikipedia.org/wiki/Paradox_</span><span class="invisible">Hotel_Vancouver</span></a></p><p>opened on February 28, 2017, with Donald Jr., Eric Trump and developer Joo Kim Tiah in attendance […] met with public protests and a boycott of the ceremony by Mayor Robertson and other local politicians.</p><p>On August 28, 2020, the hotel reportedly closed permanently and was filing for bankruptcy. […] On April 1, 2022 TA Global Berhad reopened the hotel under the brand Paradox Hotel Group and the name Paradox Vancouver.</p>]]></description>
+            <link>https://mastodon.social/@villasbc/115401811335991020</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/115401811335991020</guid>
+            <pubDate>Sun, 19 Oct 2025 16:38:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Wants to read]]></title>
             <description><![CDATA[<p><a href="https://neodb.social/~neodb~/book/0V44UTlboDL3nLCYxSKLNT" rel="nofollow">Becoming Fluent</a> </p><p></p>]]></description>
@@ -202,13 +209,6 @@
             <link>https://mastodon.social/@villasbc/115012049697850916</link>
             <guid isPermaLink="true">https://mastodon.social/@villasbc/115012049697850916</guid>
             <pubDate>Mon, 11 Aug 2025 20:36:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Comment]]></title>
-            <description><![CDATA[<p><a href="http://www.smbc-comics.com/comic/fellow" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">http://www.</span><span class="">smbc-comics.com/comic/fellow</span><span class="invisible"></span></a></p><p>Me having a beer with people who think immigrants should try harder to assimilate into Canadian culture</p>]]></description>
-            <link>https://mastodon.social/@villasbc/114993918982375091</link>
-            <guid isPermaLink="true">https://mastodon.social/@villasbc/114993918982375091</guid>
-            <pubDate>Fri, 08 Aug 2025 15:45:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Started reading]]></title>
