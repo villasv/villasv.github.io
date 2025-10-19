@@ -4438,6 +4438,9 @@
               "url": "https://minreol.dk/movie/63h06CjJfb7ZdFk1c5xRba"
             },
             {
+              "url": "https://www.wikidata.org/wiki/Q125622088"
+            },
+            {
               "url": "https://www.themoviedb.org/movie/823219"
             },
             {
@@ -4451,9 +4454,6 @@
             },
             {
               "url": "https://bgm.tv/subject/496916"
-            },
-            {
-              "url": "https://www.wikidata.org/wiki/Q125622088"
             }
           ]
         },
@@ -5606,10 +5606,10 @@
               "url": "https://fantastika.social/movie/4DXBesUZVB9HleZsGRpoLh"
             },
             {
-              "url": "https://www.wikidata.org/wiki/Q123185887"
+              "url": "https://eggplant.place/movie/19EO3JeupTvZZPUnxmRfMw"
             },
             {
-              "url": "https://eggplant.place/movie/19EO3JeupTvZZPUnxmRfMw"
+              "url": "https://www.wikidata.org/wiki/Q123185887"
             }
           ]
         },
@@ -7612,13 +7612,13 @@
           "display_title": "老去",
           "external_resources": [
             {
-              "url": "https://www.wikidata.org/wiki/Q99688807"
-            },
-            {
               "url": "https://www.imdb.com/title/tt10954652/"
             },
             {
               "url": "https://movie.douban.com/subject/35017064/"
+            },
+            {
+              "url": "https://www.wikidata.org/wiki/Q99688807"
             },
             {
               "url": "https://www.themoviedb.org/movie/631843"
