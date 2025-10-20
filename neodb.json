@@ -3906,9 +3906,6 @@
           "display_title": "唯一的家园",
           "external_resources": [
             {
-              "url": "https://www.wikidata.org/wiki/Q124440294"
-            },
-            {
               "url": "https://eggplant.place/movie/45rr8pDro0Dev5An4jX0Bk"
             },
             {
@@ -3922,6 +3919,9 @@
             },
             {
               "url": "https://fantastika.social/movie/5CkwoxkjFNgHZmS0VApQas"
+            },
+            {
+              "url": "https://www.wikidata.org/wiki/Q124440294"
             }
           ]
         },
@@ -4438,9 +4438,6 @@
               "url": "https://minreol.dk/movie/63h06CjJfb7ZdFk1c5xRba"
             },
             {
-              "url": "https://www.wikidata.org/wiki/Q125622088"
-            },
-            {
               "url": "https://www.themoviedb.org/movie/823219"
             },
             {
@@ -4454,6 +4451,9 @@
             },
             {
               "url": "https://bgm.tv/subject/496916"
+            },
+            {
+              "url": "https://www.wikidata.org/wiki/Q125622088"
             }
           ]
         },
@@ -7618,10 +7618,10 @@
               "url": "https://movie.douban.com/subject/35017064/"
             },
             {
-              "url": "https://www.wikidata.org/wiki/Q99688807"
+              "url": "https://www.themoviedb.org/movie/631843"
             },
             {
-              "url": "https://www.themoviedb.org/movie/631843"
+              "url": "https://www.wikidata.org/wiki/Q99688807"
             }
           ]
         },
@@ -8784,13 +8784,13 @@
               "url": "https://www.imdb.com/title/tt27503384/"
             },
             {
-              "url": "https://www.wikidata.org/wiki/Q117663112"
-            },
-            {
               "url": "https://eggplant.place/movie/52knDdfzTXiTIToNeSoMkA"
             },
             {
               "url": "https://bgm.tv/subject/457386"
+            },
+            {
+              "url": "https://www.wikidata.org/wiki/Q117663112"
             }
           ]
         },
