@@ -4,9 +4,16 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 21 Oct 2025 01:33:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Oct 2025 05:06:09 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2025]]></copyright>
+        <item>
+            <title><![CDATA[Comment]]></title>
+            <description><![CDATA[<p>Nature makes the wrinkliest mushy grapes the sweetest pleasure bombs. Sometimes I doubt myself… perhaps this one is too far gone? No. Trust the process. Be not afraid of rotten grapes because fortune favours the bold.</p>]]></description>
+            <link>https://mastodon.social/@villasbc/115409622652828661</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/115409622652828661</guid>
+            <pubDate>Tue, 21 Oct 2025 01:44:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Comment]]></title>
             <description><![CDATA[<p>As good as any other day to remember</p><p><a href="https://en.wikipedia.org/wiki/Paradox_Hotel_Vancouver" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">en.wikipedia.org/wiki/Paradox_</span><span class="invisible">Hotel_Vancouver</span></a></p><p>opened on February 28, 2017, with Donald Jr., Eric Trump and developer Joo Kim Tiah in attendance […] met with public protests and a boycott of the ceremony by Mayor Robertson and other local politicians.</p><p>On August 28, 2020, the hotel reportedly closed permanently and was filing for bankruptcy. […] On April 1, 2022 TA Global Berhad reopened the hotel under the brand Paradox Hotel Group and the name Paradox Vancouver.</p>]]></description>
@@ -202,13 +209,6 @@
             <link>https://mastodon.social/@villasbc/115039599450131050</link>
             <guid isPermaLink="true">https://mastodon.social/@villasbc/115039599450131050</guid>
             <pubDate>Sat, 16 Aug 2025 17:23:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Comment]]></title>
-            <description><![CDATA[<p>Found this one in the wild today and gave it a read while I got my bike serviced 🗞️ </p><p>So glad to see it surface here! Hopefully <a href="https://mastodon.social/tags/SocialBC" class="mention hashtag" rel="tag">#<span>SocialBC</span></a> can give it some virtual love. The print version is essential but it is available online too <a href="https://mastodon.social/@wcculturallab/115011703847719663" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">mastodon.social/@wcculturallab</span><span class="invisible">/115011703847719663</span></a></p>]]></description>
-            <link>https://mastodon.social/@villasbc/115012049697850916</link>
-            <guid isPermaLink="true">https://mastodon.social/@villasbc/115012049697850916</guid>
-            <pubDate>Mon, 11 Aug 2025 20:36:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Started reading]]></title>
