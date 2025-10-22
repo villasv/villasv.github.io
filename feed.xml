@@ -4,9 +4,16 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 22 Oct 2025 17:06:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Oct 2025 19:05:36 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2025]]></copyright>
+        <item>
+            <title><![CDATA[Comment]]></title>
+            <description><![CDATA[<p>A new kind of <a href="https://mastodon.social/tags/corporate" class="mention hashtag" rel="tag">#<span>corporate</span></a> bullshit has arrived: some of my document writing has been flagged as &quot;off-putting AI generated style&quot;, even though I did not use any AI to assist on writing that.</p><p>Ironically, I did use an LLM to write some cruft at the end of the doc, but that part wasn&#39;t flagged.</p><p>Apparently as a non-native speaker my English is not &quot;simple human English&quot;. And that&#39;s already me self-censoring on the use of em dashes because I had already noticed that ChatGPT overuses them.</p>]]></description>
+            <link>https://mastodon.social/@villasbc/115419172305706247</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/115419172305706247</guid>
+            <pubDate>Wed, 22 Oct 2025 18:13:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Comment]]></title>
             <description><![CDATA[<p>What&#39;s the direction The Walrus is looking for? To follow NYT steps as a place where a veneer of journalism can be used to wrap a trojan horse of garbage opinion pieces appeasing questionable people?</p><p>We don&#39;t need &quot;radically pluralistic&quot; outlets. We need media companies that have uncompromising standards and vet the stuff they&#39;re amplifying.</p>]]></description>
@@ -202,13 +209,6 @@
             <link>https://mastodon.social/@villasbc/115109684504080549</link>
             <guid isPermaLink="true">https://mastodon.social/@villasbc/115109684504080549</guid>
             <pubDate>Fri, 29 Aug 2025 02:26:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Comment]]></title>
-            <description><![CDATA[<p>Absolutely loving to use and even more so to learn more about the ideas behind the 6.0 update of Transit</p><p><a href="https://blog.transitapp.com/six-o" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="">blog.transitapp.com/six-o</span><span class="invisible"></span></a></p>]]></description>
-            <link>https://mastodon.social/@villasbc/115104565049188306</link>
-            <guid isPermaLink="true">https://mastodon.social/@villasbc/115104565049188306</guid>
-            <pubDate>Thu, 28 Aug 2025 04:44:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Started reading]]></title>
