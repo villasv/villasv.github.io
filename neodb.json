@@ -7171,12 +7171,12 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/movie/2024/10/28/13dfbfcd-c252-4f40-96da-aabdade67aee.jpg",
           "rating": 7.4,
-          "rating_count": 167,
+          "rating_count": 168,
           "rating_distribution": [
             1,
-            0,
+            1,
             20,
-            62,
+            61,
             15
           ],
           "tags": [
