@@ -9176,6 +9176,10 @@
             {
               "lang": "zh-cn",
               "text": "基地 第三季"
+            },
+            {
+              "lang": "en",
+              "text": "Foundation"
             }
           ],
           "localized_description": [
@@ -9185,14 +9189,14 @@
             }
           ],
           "cover_image_url": "https://neodb.social/m/item/doubanmovie/2025/07/19/10b6bee2-cad2-48f6-b79e-ae75348a5dba.jpg",
-          "rating": 7.6,
-          "rating_count": 10,
+          "rating": 7.8,
+          "rating_count": 11,
           "rating_distribution": [
             0,
             0,
             0,
-            90,
-            10
+            81,
+            18
           ],
           "tags": [
             "美剧"
@@ -9211,6 +9215,9 @@
             },
             {
               "url": "https://eggplant.place/tv/season/54GfL6kDSPc0u6UuzhuPW5"
+            },
+            {
+              "url": "https://movie.douban.com/subject/36160375/"
             }
           ]
         },
@@ -9771,7 +9778,7 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/tmdb_tvseason/2025/03/02/6d3b4f7f-5d4a-4704-86ae-cfbb5ea3effd.jpg",
           "rating": 7.8,
-          "rating_count": 208,
+          "rating_count": 209,
           "rating_distribution": [
             0,
             3,
@@ -10612,7 +10619,7 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/tmdb_tvseason/2025/02/28/88a56af7-da63-4de1-adcb-c2722d1588ac.jpg",
           "rating": 8.9,
-          "rating_count": 786,
+          "rating_count": 787,
           "rating_distribution": [
             0,
             0,
