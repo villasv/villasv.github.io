@@ -4395,7 +4395,7 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/06/23/566914c0-b514-4cc7-bea4-f5d90945a704.webp",
           "rating": 8.2,
-          "rating_count": 400,
+          "rating_count": 401,
           "rating_distribution": [
             0,
             0,
@@ -5331,7 +5331,7 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2025/01/17/c3980bb4-8335-4f47-a839-3ce094856a54.jpg",
           "rating": 6.8,
-          "rating_count": 434,
+          "rating_count": 435,
           "rating_distribution": [
             4,
             9,
@@ -8734,7 +8734,7 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/movie/2023/05/31/0904d82a-cd0e-4526-91cb-0c7d98d66d94.jpg",
           "rating": 7.8,
-          "rating_count": 387,
+          "rating_count": 388,
           "rating_distribution": [
             0,
             2,
@@ -9188,14 +9188,14 @@
             }
           ],
           "cover_image_url": "https://neodb.social/m/item/doubanmovie/2025/07/19/10b6bee2-cad2-48f6-b79e-ae75348a5dba.jpg",
-          "rating": 7.8,
-          "rating_count": 11,
+          "rating": 7.9,
+          "rating_count": 12,
           "rating_distribution": [
             0,
             0,
             0,
-            81,
-            18
+            75,
+            25
           ],
           "tags": [
             "美剧"
