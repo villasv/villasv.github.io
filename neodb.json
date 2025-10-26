@@ -4395,7 +4395,7 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/06/23/566914c0-b514-4cc7-bea4-f5d90945a704.webp",
           "rating": 8.2,
-          "rating_count": 398,
+          "rating_count": 399,
           "rating_distribution": [
             0,
             0,
@@ -4408,14 +4408,13 @@
             "2024",
             "2025",
             "animation",
-            "max",
+            "公路",
             "冒险",
             "动物",
             "动画",
             "动画片",
             "动画电影",
             "動畫",
-            "地区 法国",
             "奇幻",
             "奥斯卡",
             "拉脱维亚",
@@ -4679,9 +4678,6 @@
               "url": "https://www.imdb.com/title/tt5040012/"
             },
             {
-              "url": "https://www.wikidata.org/wiki/Q116361132"
-            },
-            {
               "url": "https://eggplant.place/movie/7j8pGiITARc99JAcfefzsF"
             },
             {
@@ -4689,6 +4685,9 @@
             },
             {
               "url": "https://www.themoviedb.org/movie/426063"
+            },
+            {
+              "url": "https://www.wikidata.org/wiki/Q116361132"
             }
           ]
         },
@@ -5332,7 +5331,7 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2025/01/17/c3980bb4-8335-4f47-a839-3ce094856a54.jpg",
           "rating": 6.8,
-          "rating_count": 433,
+          "rating_count": 434,
           "rating_distribution": [
             4,
             9,
@@ -5343,10 +5342,10 @@
           "tags": [
             "2020s",
             "2024",
-            "coralie_fargeat",
             "cult",
+            "oscar best picture nominee",
+            "wd",
             "人性",
-            "人生",
             "剧情",
             "女性",
             "恐怖",
@@ -6427,6 +6426,9 @@
           "display_title": "火星救援",
           "external_resources": [
             {
+              "url": "https://www.wikidata.org/wiki/Q18547944"
+            },
+            {
               "url": "https://movie.douban.com/subject/25864085/"
             },
             {
@@ -6440,9 +6442,6 @@
             },
             {
               "url": "https://www.imdb.com/title/tt3659388/"
-            },
-            {
-              "url": "https://www.wikidata.org/wiki/Q18547944"
             }
           ]
         },
