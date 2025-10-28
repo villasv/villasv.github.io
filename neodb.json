@@ -6386,7 +6386,7 @@
           ],
           "cover_image_url": "https://neodb.social/m/movie/2021/09/13a9c03ef4-33c1-4264-adbf-89a2ec1f34ab.jpg",
           "rating": 8.2,
-          "rating_count": 1849,
+          "rating_count": 1850,
           "rating_distribution": [
             0,
             1,
@@ -6426,9 +6426,6 @@
           "display_title": "火星救援",
           "external_resources": [
             {
-              "url": "https://www.wikidata.org/wiki/Q18547944"
-            },
-            {
               "url": "https://movie.douban.com/subject/25864085/"
             },
             {
@@ -6442,6 +6439,9 @@
             },
             {
               "url": "https://www.imdb.com/title/tt3659388/"
+            },
+            {
+              "url": "https://www.wikidata.org/wiki/Q18547944"
             }
           ]
         },
@@ -7823,7 +7823,7 @@
           ],
           "cover_image_url": "https://neodb.social/m/movie/2021/09/155b0f163b-6c45-41a7-ae52-d2efc29bcaae.jpg",
           "rating": 6.8,
-          "rating_count": 448,
+          "rating_count": 449,
           "rating_distribution": [
             0,
             8,
