@@ -4148,11 +4148,11 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2025/01/17/c9fb75b7-fe14-462c-a95e-513257203176.jpg",
           "rating": 7.3,
-          "rating_count": 117,
+          "rating_count": 118,
           "rating_distribution": [
             0,
             3,
-            25,
+            26,
             55,
             15
           ],
@@ -4635,11 +4635,11 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2025/02/19/4e793c4c-a916-4de2-aa5e-55ccc4652c01.jpg",
           "rating": 6.1,
-          "rating_count": 65,
+          "rating_count": 66,
           "rating_distribution": [
-            4,
+            6,
             12,
-            44,
+            43,
             33,
             4
           ],
@@ -5037,12 +5037,12 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/movie/2025/03/12/dd6c73e9-ab71-4ff3-8f3d-fbc38d3c16c5.webp",
           "rating": 6.7,
-          "rating_count": 112,
+          "rating_count": 113,
           "rating_distribution": [
             2,
             7,
-            35,
-            49,
+            36,
+            48,
             5
           ],
           "tags": [
@@ -5331,13 +5331,13 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2025/01/17/c3980bb4-8335-4f47-a839-3ce094856a54.jpg",
           "rating": 6.8,
-          "rating_count": 438,
+          "rating_count": 439,
           "rating_distribution": [
             4,
             9,
             25,
             48,
-            13
+            12
           ],
           "tags": [
             "2020s",
@@ -5550,7 +5550,7 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/09/13/a30bf2f3-4f79-43ef-b22f-58ebc3fd8aae.jpg",
           "rating": 6.4,
-          "rating_count": 366,
+          "rating_count": 367,
           "rating_distribution": [
             5,
             11,
@@ -7213,9 +7213,6 @@
               "url": "https://eggplant.place/movie/3FvK82xiYiZE6XcoqBAHLI"
             },
             {
-              "url": "https://www.wikidata.org/wiki/Q116701124"
-            },
-            {
               "url": "https://www.imdb.com/title/tt20215234/"
             },
             {
@@ -7229,6 +7226,9 @@
             },
             {
               "url": "https://crititeca.illustietor.com/movie/2KWLLbXofxiyV86zYPZNPX"
+            },
+            {
+              "url": "https://www.wikidata.org/wiki/Q116701124"
             }
           ]
         },
@@ -7384,7 +7384,7 @@
         "item": {
           "type": "Movie",
           "title": "我不是机器人",
-          "description": "After several unsuccessful attempts to complete a Captcha, feminist Lara sets out to answer the disturbing question of whether she’s a robot, and therefore bought by her own boyfriend.",
+          "description": "音乐制作人 Lara 在多次未能通过 Captcha 验证测试后，开始痴迷于一个令人不安的问题：她会不会是一个机器人？",
           "localized_title": [
             {
               "lang": "en",
@@ -7397,28 +7397,92 @@
             {
               "lang": "zh-cn",
               "text": "我不是机器人"
+            },
+            {
+              "lang": "ko",
+              "text": "나는 로봇이 아닙니다"
+            },
+            {
+              "lang": "de",
+              "text": "Ich bin kein Roboter"
+            },
+            {
+              "lang": "es",
+              "text": "No soy un robot"
+            },
+            {
+              "lang": "zh-hk",
+              "text": "我不是機器人"
+            },
+            {
+              "lang": "es",
+              "text": "I'm Not a Robot (película)"
+            },
+            {
+              "lang": "de",
+              "text": "Ich bin kein Roboter (Film)"
+            },
+            {
+              "lang": "pt",
+              "text": "Ik ben geen robot"
             }
           ],
           "localized_description": [
             {
               "lang": "en",
               "text": "After several unsuccessful attempts to complete a Captcha, feminist Lara sets out to answer the disturbing question of whether she’s a robot, and therefore bought by her own boyfriend."
+            },
+            {
+              "lang": "ko",
+              "text": "주인공은 로봇 테스트를 끝까지 통과하지 못하고, 게다가 그녀가 로봇일 확률이 있다는 답변까지 받게 된다. 인간성에 대한 본질적인 질문을 던지는 작품."
+            },
+            {
+              "lang": "de",
+              "text": "Nachdem Lara zum x-ten Mal beim Captcha-Test durchfällt, beschleicht sie das ungute Gefühl, dass sie ein Roboter sein könnte. Könnte es sein, dass ihr Freund etwas damit zu tun hat?"
+            },
+            {
+              "lang": "es",
+              "text": "Después de varios intentos fallidos a la hora de completar un captcha, la feminista Lara debe responder a la inquietante pregunta de si ella es un robot y, por tanto, ha sido comprada por su propio novio."
+            },
+            {
+              "lang": "en",
+              "text": "A music producer spirals into an existential crisis after repeatedly failing a CAPTCHA test-leading her to question whether she might actually be a robot."
+            },
+            {
+              "lang": "zh-hk",
+              "text": "音樂製作人 Lara 在多次未能通過 Captcha 驗證測試後，開始痴迷於一個令人不安的問題：她會不會是一個機器人？"
+            },
+            {
+              "lang": "zh-cn",
+              "text": "音乐制作人 Lara 在多次未能通过 Captcha 验证测试后，开始痴迷于一个令人不安的问题：她会不会是一个机器人？"
+            },
+            {
+              "lang": "en",
+              "text": "2023 film directed by Victoria Warmerdam"
+            },
+            {
+              "lang": "de",
+              "text": "Niederländischer Kurzfilm von Victoria Warmerdam (2023)"
+            },
+            {
+              "lang": "pt",
+              "text": "filme de 2023 dirigido por Victoria Wardermam"
             }
           ],
           "cover_image_url": "https://neodb.social/m/item/doubanmovie/2025/02/17/51df383e-b065-4d8e-94e4-19f408130f8a.jpg",
-          "rating": 7.2,
-          "rating_count": 6,
+          "rating": 6.7,
+          "rating_count": 7,
           "rating_distribution": [
             0,
-            0,
-            33,
-            50,
-            16
+            14,
+            28,
+            42,
+            14
           ],
           "tags": [
             "短片"
           ],
-          "brief": "After several unsuccessful attempts to complete a Captcha, feminist Lara sets out to answer the disturbing question of whether she’s a robot, and therefore bought by her own boyfriend.",
+          "brief": "音乐制作人 Lara 在多次未能通过 Captcha 验证测试后，开始痴迷于一个令人不安的问题：她会不会是一个机器人？",
           "id": "https://neodb.social/movie/6EcqClLZq6WlEoWPuet1qM",
           "uuid": "6EcqClLZq6WlEoWPuet1qM",
           "url": "/movie/6EcqClLZq6WlEoWPuet1qM",
@@ -7428,7 +7492,16 @@
           "display_title": "我不是机器人",
           "external_resources": [
             {
+              "url": "https://www.imdb.com/title/tt19837932/"
+            },
+            {
+              "url": "https://www.wikidata.org/wiki/Q131866230"
+            },
+            {
               "url": "https://movie.douban.com/subject/36946828/"
+            },
+            {
+              "url": "https://www.themoviedb.org/movie/1178556"
             }
           ]
         },
@@ -7571,10 +7644,10 @@
           ],
           "cover_image_url": "https://neodb.social/m/movie/2021/09/1669a828f1-1474-4274-a35c-1ffe27d56b69.jpg",
           "rating": 6.1,
-          "rating_count": 209,
+          "rating_count": 210,
           "rating_distribution": [
             2,
-            16,
+            17,
             55,
             23,
             1
@@ -8211,7 +8284,7 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2025/01/20/6459cde9-68bd-4c14-a7f7-e9027c676d80.jpg",
           "rating": 8.1,
-          "rating_count": 277,
+          "rating_count": 278,
           "rating_distribution": [
             0,
             2,
@@ -8493,13 +8566,13 @@
               "url": "https://movie.douban.com/subject/26275494/"
             },
             {
-              "url": "https://www.wikidata.org/wiki/Q19263995"
-            },
-            {
               "url": "https://www.themoviedb.org/movie/308084"
             },
             {
               "url": "https://www.imdb.com/title/tt3824458/"
+            },
+            {
+              "url": "https://www.wikidata.org/wiki/Q19263995"
             }
           ]
         },
@@ -9116,14 +9189,14 @@
             }
           ],
           "cover_image_url": "https://neodb.social/m/item/tv/2025/04/10/44dee2a9-4d3e-4ddb-8da4-f1965e1b6f83.jpg",
-          "rating": 8.2,
-          "rating_count": 18,
+          "rating": 8.3,
+          "rating_count": 19,
           "rating_distribution": [
             0,
             0,
-            22,
-            27,
-            50
+            21,
+            26,
+            52
           ],
           "tags": [
             "2025",
@@ -10618,7 +10691,7 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/tmdb_tvseason/2025/02/28/88a56af7-da63-4de1-adcb-c2722d1588ac.jpg",
           "rating": 8.9,
-          "rating_count": 790,
+          "rating_count": 791,
           "rating_distribution": [
             0,
             0,
