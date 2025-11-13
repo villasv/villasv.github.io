@@ -4,9 +4,16 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 13 Nov 2025 05:06:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Nov 2025 07:05:54 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2025]]></copyright>
+        <item>
+            <title><![CDATA[Comment]]></title>
+            <description><![CDATA[<p><a href="https://mastodon.social/tags/Pluribus" class="mention hashtag" rel="tag">#<span>Pluribus</span></a> looks interesting. But I already know that, like Severance, it’s going to flood my timelines with bad takes and the most absurd ways to interpret the story. Thank aliens I don’t share a hive mind with this crowd.</p>]]></description>
+            <link>https://mastodon.social/@villasbc/115540976700257030</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/115540976700257030</guid>
+            <pubDate>Thu, 13 Nov 2025 06:29:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Comment]]></title>
             <description><![CDATA[<p>A new kind of <a href="https://mastodon.social/tags/corporate" class="mention hashtag" rel="tag">#<span>corporate</span></a> bullshit has arrived: some of my document writing has been flagged as &quot;off-putting AI generated style&quot;, even though I did not use any AI to assist on writing that.</p><p>Ironically, I did use an LLM to write some cruft at the end of the doc, but that part wasn&#39;t flagged.</p><p>Apparently as a non-native speaker my English is not &quot;simple human English&quot;. And that&#39;s already me self-censoring on the use of em dashes because I had already noticed that ChatGPT overuses them.</p>]]></description>
@@ -202,13 +209,6 @@
             <link>https://neodb.social/@villasv/posts/486082840587443984/</link>
             <guid isPermaLink="true">https://neodb.social/@villasv/posts/486082840587443984/</guid>
             <pubDate>Wed, 03 Sep 2025 14:59:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Comment]]></title>
-            <description><![CDATA[<p>I was having issues with not getting personal projects through the finish line, always starting new ones that sapped the energy from ongoing ones.</p><p>Then I got promoted and now that problem is solved. I don’t have the time nor energy to even get something started</p>]]></description>
-            <link>https://mastodon.social/@villasbc/115109684504080549</link>
-            <guid isPermaLink="true">https://mastodon.social/@villasbc/115109684504080549</guid>
-            <pubDate>Fri, 29 Aug 2025 02:26:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Started reading]]></title>
