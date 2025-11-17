@@ -9271,7 +9271,13 @@
             25
           ],
           "tags": [
-            "美剧"
+            "appletv",
+            "剧情",
+            "剧集",
+            "小说改编",
+            "科幻",
+            "美剧",
+            "美国"
           ],
           "brief": "故事设定在第二季事件的152年后。",
           "id": "https://neodb.social/tv/season/7OhmvKySDdjKWrR7Pn6qq0",
@@ -9850,7 +9856,7 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/tmdb_tvseason/2025/03/02/6d3b4f7f-5d4a-4704-86ae-cfbb5ea3effd.jpg",
           "rating": 7.8,
-          "rating_count": 215,
+          "rating_count": 216,
           "rating_distribution": [
             0,
             3,
