@@ -9262,16 +9262,17 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/doubanmovie/2025/07/19/10b6bee2-cad2-48f6-b79e-ae75348a5dba.jpg",
           "rating": 7.9,
-          "rating_count": 12,
+          "rating_count": 13,
           "rating_distribution": [
             0,
             0,
             0,
-            75,
-            25
+            76,
+            23
           ],
           "tags": [
             "appletv",
+            "sf",
             "剧情",
             "剧集",
             "小说改编",
@@ -9856,7 +9857,7 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/tmdb_tvseason/2025/03/02/6d3b4f7f-5d4a-4704-86ae-cfbb5ea3effd.jpg",
           "rating": 7.8,
-          "rating_count": 216,
+          "rating_count": 217,
           "rating_distribution": [
             0,
             3,
@@ -9866,9 +9867,10 @@
           ],
           "tags": [
             "2020s",
-            "2023",
             "2025",
             "appletv",
+            "分离",
+            "切割术",
             "剧情",
             "审美",
             "工作",
@@ -9883,7 +9885,6 @@
             "美劇",
             "美国",
             "美国电视剧",
-            "讽刺",
             "高科技"
           ],
           "brief": "在第2季中，马克和朋友们了解到，记忆切割会带来可怕的后果，这迫使他们在悲惨的道路上越走越远。",
