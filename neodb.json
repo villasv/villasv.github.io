@@ -9261,14 +9261,14 @@
             }
           ],
           "cover_image_url": "https://neodb.social/m/item/doubanmovie/2025/07/19/10b6bee2-cad2-48f6-b79e-ae75348a5dba.jpg",
-          "rating": 7.9,
-          "rating_count": 13,
+          "rating": 7.7,
+          "rating_count": 14,
           "rating_distribution": [
             0,
             0,
-            0,
-            76,
-            23
+            7,
+            71,
+            21
           ],
           "tags": [
             "appletv",
