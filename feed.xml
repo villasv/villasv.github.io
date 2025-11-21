@@ -4,9 +4,16 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 21 Nov 2025 21:05:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Nov 2025 23:05:23 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2025]]></copyright>
+        <item>
+            <title><![CDATA[Comment]]></title>
+            <description><![CDATA[<p>Get a load of this guy</p><p><a href="https://www.cbc.ca/news/politics/vance-standard-living-stagnant-immigration-blame-9.6987929" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://www.</span><span class="ellipsis">cbc.ca/news/politics/vance-sta</span><span class="invisible">ndard-living-stagnant-immigration-blame-9.6987929</span></a></p><p>GDP Per Capita is the perfect metric for his type. Deepening inequality means that a few billionaires approaching trillionaire status on the backs of their own working class can create a fiction that somehow the country is working just fine.</p><p>While billionaires put cars and penises in orbit and their workers are denied SNAP benefits, we can always celebrate their beautiful GDP per Capita graph. Congratulations.</p><p><a href="https://mastodon.social/tags/CANPoli" class="mention hashtag" rel="tag">#<span>CANPoli</span></a></p>]]></description>
+            <link>https://mastodon.social/@villasbc/115590092138770833</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/115590092138770833</guid>
+            <pubDate>Fri, 21 Nov 2025 22:40:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Comment]]></title>
             <description><![CDATA[<p>And it solves the issue in yet another relevant way, in that the poorest segment of society gets to die off without care. What we ought to call a policy of extermination: falling off the edges of the economically-valued realm doesn’t merely make you marginalized, it also sets you up to be erased from the surface of the Earth.</p><p>Triple win for the wealthy, double loss for the working class, and a final loss for the poor - death.</p><p><a href="https://mastodon.social/tags/CANPoli" class="mention hashtag" rel="tag">#<span>CANPoli</span></a></p>]]></description>
@@ -174,13 +181,6 @@
             <link>https://neodb.social/@villasv/posts/492757244125517648/</link>
             <guid isPermaLink="true">https://neodb.social/@villasv/posts/492757244125517648/</guid>
             <pubDate>Mon, 22 Sep 2025 01:01:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Comment]]></title>
-            <description><![CDATA[<p>Handing out Foundation Models in <a href="https://mastodon.social/tags/iOS" class="mention hashtag" rel="tag">#<span>iOS</span></a>  either on-device or private-compute for free is nuts. I don&#39;t think I can even imagine how transformative that&#39;s going to be.</p><p>We developers are a frugal bunch. If you give us an awesome but paid API and a free but inferior API, we&#39;ll find a way to make it work with the free shit even it takes 200x more requests and ten times spaghetti code to get something done. And now that spaghetti is also generated so...</p>]]></description>
-            <link>https://mastodon.social/@villasbc/115244870938812132</link>
-            <guid isPermaLink="true">https://mastodon.social/@villasbc/115244870938812132</guid>
-            <pubDate>Sun, 21 Sep 2025 23:26:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Started watching]]></title>
