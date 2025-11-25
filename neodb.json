@@ -4,6 +4,67 @@
       {
         "shelf_type": "wishlist",
         "visibility": 0,
+        "post_id": "516235358555381344",
+        "item": {
+          "type": "Edition",
+          "title": "Technofeudalism",
+          "description": "The #1 bestselling economist shows how capitalism has been replaced by a more exploitative system, technofeudalism, in which the owners of big tech have become the world’s feudal overlords.\n* A GUARDIAN BEST FORTHCOMING BOOK OF 2023 * THE TIMES BIGGEST BOOKS OF AUTUMN 2023 *\n‘What an amazing piece of work this is. The dark, scary, exciting song of our age. 100 out of 100’ IRVINE WELSH\nIn his boldest and most far-reaching book yet, world-famous economist Yanis Varoufakis argues that capitalism is dead and a new economic era has begun.\nInsane sums of money that were supposed to re-float our economies in the wake of the financial crisis and the pandemic have ended up supercharging big tech’s hold over every aspect of the economy. Capitalism’s twin pillars - markets and profit - have been replaced with big tech’s platforms and rents. Meanwhile, with every click and scroll, we labour like serfs to increase its power. Welcome to technofeudalism.\nDrawing on stories from Greek Myth and pop culture, from Homer to Mad Men, Varoufakis explains this revolutionary how it enslaves our minds, how it rewrites the rules of global power and ultimately what it will take overthrow it.\n‘Utterly accessible, deeply humane and startlingly original’ NAOMI KLEIN on Talking To My Daughter",
+          "localized_title": [
+            {
+              "lang": "en",
+              "text": "Technofeudalism"
+            }
+          ],
+          "localized_description": [
+            {
+              "lang": "en",
+              "text": "The #1 bestselling economist shows how capitalism has been replaced by a more exploitative system, technofeudalism, in which the owners of big tech have become the world’s feudal overlords.\n* A GUARDIAN BEST FORTHCOMING BOOK OF 2023 * THE TIMES BIGGEST BOOKS OF AUTUMN 2023 *\n‘What an amazing piece of work this is. The dark, scary, exciting song of our age. 100 out of 100’ IRVINE WELSH\nIn his boldest and most far-reaching book yet, world-famous economist Yanis Varoufakis argues that capitalism is dead and a new economic era has begun.\nInsane sums of money that were supposed to re-float our economies in the wake of the financial crisis and the pandemic have ended up supercharging big tech’s hold over every aspect of the economy. Capitalism’s twin pillars - markets and profit - have been replaced with big tech’s platforms and rents. Meanwhile, with every click and scroll, we labour like serfs to increase its power. Welcome to technofeudalism.\nDrawing on stories from Greek Myth and pop culture, from Homer to Mad Men, Varoufakis explains this revolutionary how it enslaves our minds, how it rewrites the rules of global power and ultimately what it will take overthrow it.\n‘Utterly accessible, deeply humane and startlingly original’ NAOMI KLEIN on Talking To My Daughter"
+            }
+          ],
+          "cover_image_url": "https://neodb.social/m/item/doubanbook/2024/02/17/4f9880b1-cab2-48be-a6b8-e3993db89d6d.jpg",
+          "rating": null,
+          "rating_count": 1,
+          "rating_distribution": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "tags": [
+            "中國",
+            "希臘",
+            "技術",
+            "歐洲",
+            "經濟學",
+            "美國",
+            "資本主義"
+          ],
+          "brief": "The #1 bestselling economist shows how capitalism has been replaced by a more exploitative system, technofeudalism, in which the owners of big tech have become the world’s feudal overlords.\n* A GUARDIAN BEST FORTHCOMING BOOK OF 2023 * THE TIMES BIGGEST BOOKS OF AUTUMN 2023 *\n‘What an amazing piece of work this is. The dark, scary, exciting song of our age. 100 out of 100’ IRVINE WELSH\nIn his boldest and most far-reaching book yet, world-famous economist Yanis Varoufakis argues that capitalism is dead and a new economic era has begun.\nInsane sums of money that were supposed to re-float our economies in the wake of the financial crisis and the pandemic have ended up supercharging big tech’s hold over every aspect of the economy. Capitalism’s twin pillars - markets and profit - have been replaced with big tech’s platforms and rents. Meanwhile, with every click and scroll, we labour like serfs to increase its power. Welcome to technofeudalism.\nDrawing on stories from Greek Myth and pop culture, from Homer to Mad Men, Varoufakis explains this revolutionary how it enslaves our minds, how it rewrites the rules of global power and ultimately what it will take overthrow it.\n‘Utterly accessible, deeply humane and startlingly original’ NAOMI KLEIN on Talking To My Daughter",
+          "id": "https://neodb.social/book/77wBUoxwkHwNHSXvth4Wvq",
+          "uuid": "77wBUoxwkHwNHSXvth4Wvq",
+          "url": "/book/77wBUoxwkHwNHSXvth4Wvq",
+          "api_url": "/api/book/77wBUoxwkHwNHSXvth4Wvq",
+          "category": "book",
+          "parent_uuid": null,
+          "display_title": "Technofeudalism",
+          "external_resources": [
+            {
+              "url": "https://book.douban.com/subject/36576327/"
+            },
+            {
+              "url": "https://eggplant.place/book/5BWquh2hOCKIF8A6HZcP9z"
+            }
+          ]
+        },
+        "created_time": "2025-11-25T19:55:00.603Z",
+        "comment_text": null,
+        "rating_grade": null,
+        "tags": []
+      },
+      {
+        "shelf_type": "wishlist",
+        "visibility": 0,
         "post_id": "501822579832558200",
         "item": {
           "type": "Edition",

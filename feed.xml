@@ -4,9 +4,16 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 25 Nov 2025 19:05:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Nov 2025 21:05:30 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2025]]></copyright>
+        <item>
+            <title><![CDATA[Wants to read]]></title>
+            <description><![CDATA[<p><a href="https://neodb.social/~neodb~/book/77wBUoxwkHwNHSXvth4Wvq" rel="nofollow">Technofeudalism</a> </p><p></p>]]></description>
+            <link>https://neodb.social/@villasv/posts/516235358555381344/</link>
+            <guid isPermaLink="true">https://neodb.social/@villasv/posts/516235358555381344/</guid>
+            <pubDate>Tue, 25 Nov 2025 19:55:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Comment]]></title>
             <description><![CDATA[<p>Get a load of this guy</p><p><a href="https://www.cbc.ca/news/politics/vance-standard-living-stagnant-immigration-blame-9.6987929" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://www.</span><span class="ellipsis">cbc.ca/news/politics/vance-sta</span><span class="invisible">ndard-living-stagnant-immigration-blame-9.6987929</span></a></p><p>GDP Per Capita is the perfect metric for his type. Deepening inequality means that a few billionaires approaching trillionaire status on the backs of their own working class can create a fiction that somehow the country is working just fine.</p><p>While billionaires put cars and penises in orbit and their workers are denied SNAP benefits, we can always celebrate their beautiful GDP per Capita graph. Congratulations.</p><p><a href="https://mastodon.social/tags/CANPoli" class="mention hashtag" rel="tag">#<span>CANPoli</span></a></p>]]></description>
@@ -279,13 +286,6 @@
             <link>https://neodb.social/@villasv/posts/443385289163850584/</link>
             <guid isPermaLink="true">https://neodb.social/@villasv/posts/443385289163850584/</guid>
             <pubDate>Thu, 08 May 2025 19:14:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Finished watching]]></title>
-            <description><![CDATA[<p><a href="https://neodb.social/~neodb~/tv/season/0GghNjducTJ05tJGj4LTRp" rel="nofollow">Schitt&#x27;s Creek Season 1, 8 out of 10</a>  <br>Good lighthearted fun. John and David are amusing, but it&#x27;s a shame that the women characters of the family (Alexis and Moira) are a bit too stereotypical. David&#x27;s character had a bit more creativity going into him, so why not spice up the women too?<br></p>]]></description>
-            <link>https://neodb.social/@villasv/posts/443385257828732664/</link>
-            <guid isPermaLink="true">https://neodb.social/@villasv/posts/443385257828732664/</guid>
-            <pubDate>Thu, 08 May 2025 19:14:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Media]]></title>
