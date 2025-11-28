@@ -4,9 +4,16 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 28 Nov 2025 01:33:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Nov 2025 05:06:35 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2025]]></copyright>
+        <item>
+            <title><![CDATA[Comment]]></title>
+            <description><![CDATA[<p>I was a teenager when I first met someone who did not have dinner everyday - because they were poor - and I will never forget the shock followed by shame.</p><p>I was in my 30s when I discovered that some people - who are not poor - simply don’t have lunch, or have some sort of snack/candy and call it done. What is even going on</p>]]></description>
+            <link>https://mastodon.social/@villasbc/115625472670094006</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/115625472670094006</guid>
+            <pubDate>Fri, 28 Nov 2025 04:38:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Wants to read]]></title>
             <description><![CDATA[<p><a href="https://neodb.social/~neodb~/book/77wBUoxwkHwNHSXvth4Wvq" rel="nofollow">Technofeudalism</a> </p><p></p>]]></description>
@@ -167,13 +174,6 @@
             <link>https://mastodon.social/@villasbc/115254267809935899</link>
             <guid isPermaLink="true">https://mastodon.social/@villasbc/115254267809935899</guid>
             <pubDate>Tue, 23 Sep 2025 15:16:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Comment]]></title>
-            <description><![CDATA[<p>lol Sturko booted from BC Conservatives, who could have imagined such a thing… it turns out she is not “one of the good ones” no matter now many necks she steps on</p><p><a href="https://mastodon.social/tags/BCpoli" class="mention hashtag" rel="tag">#<span>BCpoli</span></a></p>]]></description>
-            <link>https://mastodon.social/@villasbc/115254089717700015</link>
-            <guid isPermaLink="true">https://mastodon.social/@villasbc/115254089717700015</guid>
-            <pubDate>Tue, 23 Sep 2025 14:30:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Finished reading]]></title>
