@@ -4,9 +4,16 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 01 Dec 2025 01:35:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Dec 2025 05:12:05 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2025]]></copyright>
+        <item>
+            <title><![CDATA[Comment]]></title>
+            <description><![CDATA[<p>How come Waterfront station does not have a bench for me to sit while waiting for someone?</p><p>Not even inside Starbucks, just a few inside Subway or A&amp;W 😥 </p><p>I kind of already imagine answers but come on <a href="https://mastodon.social/tags/Vancouver" class="mention hashtag" rel="tag">#<span>Vancouver</span></a> <a href="https://mastodon.social/tags/Translink" class="mention hashtag" rel="tag">#<span>Translink</span></a></p>]]></description>
+            <link>https://mastodon.social/@villasbc/115641797886223815</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/115641797886223815</guid>
+            <pubDate>Mon, 01 Dec 2025 01:50:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Comment]]></title>
             <description><![CDATA[<p>I was a teenager when I first met someone who did not have dinner everyday - because they were poor - and I will never forget the shock followed by shame.</p><p>I was in my 30s when I discovered that some people - who are not poor - simply don’t have lunch, or have some sort of snack/candy and call it done. What is even going on</p>]]></description>
@@ -167,13 +174,6 @@
             <link>https://mastodon.social/@villasbc/115329629275257016</link>
             <guid isPermaLink="true">https://mastodon.social/@villasbc/115329629275257016</guid>
             <pubDate>Mon, 06 Oct 2025 22:41:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Comment]]></title>
-            <description><![CDATA[<p>&gt; Sure, the people who I was most interested in hearing from and interacting with may have been the types to leave their friends and family for the big city, but for most people, friends and family were the entire point of life generally, and by extension, social media specifically.</p><p>Weirdly relatable minor side comment by Ben Thompson in Stratechery, on why Twitter _was_ more interesting than Facebook but the latter was more promising</p>]]></description>
-            <link>https://mastodon.social/@villasbc/115254267809935899</link>
-            <guid isPermaLink="true">https://mastodon.social/@villasbc/115254267809935899</guid>
-            <pubDate>Tue, 23 Sep 2025 15:16:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Finished reading]]></title>
