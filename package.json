@@ -31,7 +31,7 @@
     "eslint-plugin-mdx": "^3.5.0",
     "fast-xml-parser": "^5.2.5",
     "jest": "^30.0.3",
-    "next": "^15.4.7",
+    "next": "^15.4.9",
     "prettier": "^3.6.1",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
