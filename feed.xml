@@ -4,9 +4,16 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 14 Dec 2025 01:34:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Dec 2025 05:06:04 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2025]]></copyright>
+        <item>
+            <title><![CDATA[Comment]]></title>
+            <description><![CDATA[<p>My most important recap flex</p>]]></description>
+            <link>https://mastodon.social/@villasbc/115715927219843043</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/115715927219843043</guid>
+            <pubDate>Sun, 14 Dec 2025 04:02:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Comment]]></title>
             <description><![CDATA[<p>How interesting. Ladner tops the density ranking of the province (in this Wikipedia article)</p><p><a href="https://en.wikipedia.org/wiki/List_of_population_centres_in_British_Columbia" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">en.wikipedia.org/wiki/List_of_</span><span class="invisible">population_centres_in_British_Columbia</span></a></p>]]></description>
@@ -167,13 +174,6 @@
             <link>https://mastodon.social/@villasbc/115353567359159719</link>
             <guid isPermaLink="true">https://mastodon.social/@villasbc/115353567359159719</guid>
             <pubDate>Sat, 11 Oct 2025 04:09:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Comment]]></title>
-            <description><![CDATA[<p>It’s amazing how accustomed the Japanese are with sharing the sidewalk among pedestrians and cyclists. They are often zipping by, and pedestrians don’t even flinch. And I’m not talking teenagers, it’s middle age commuters on e-bikes stitching on the sidewalk with baskets full of stuff on decrepit old wheels.</p><p>It goes to show how overblown is the panic that people in NA go through regarding bicycles on the sidewalk and e-bikes in general.</p>]]></description>
-            <link>https://mastodon.social/@villasbc/115353544141513416</link>
-            <guid isPermaLink="true">https://mastodon.social/@villasbc/115353544141513416</guid>
-            <pubDate>Sat, 11 Oct 2025 04:03:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Finished reading]]></title>
