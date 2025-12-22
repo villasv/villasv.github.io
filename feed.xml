@@ -4,9 +4,37 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 22 Dec 2025 05:08:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Dec 2025 07:08:26 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2025]]></copyright>
+        <item>
+            <title><![CDATA[Started reading]]></title>
+            <description><![CDATA[<p><a href="https://neodb.social/~neodb~/book/79X4fdVZ1Ae5oZUgAKDr07" rel="nofollow">Life After Cars</a> <br>Got it while attending the authors book tour in Vancouver. Very fun event. Also listened to their podcast episode about the cities visited on tour, interesting stuff.<br></p>]]></description>
+            <link>https://neodb.social/@villasv/posts/525816035693989400/</link>
+            <guid isPermaLink="true">https://neodb.social/@villasv/posts/525816035693989400/</guid>
+            <pubDate>Mon, 22 Dec 2025 06:25:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Started reading]]></title>
+            <description><![CDATA[<p><a href="https://neodb.social/~neodb~/book/2AL2Q5OEDBJY4aibxm5jos" rel="nofollow">The Burnout Society</a> <br>Trying to read it again, after a bad experience reading it the first time. Maybe approaching it with different expectations is going to work differently...<br></p>]]></description>
+            <link>https://neodb.social/@villasv/posts/525815456949591208/</link>
+            <guid isPermaLink="true">https://neodb.social/@villasv/posts/525815456949591208/</guid>
+            <pubDate>Mon, 22 Dec 2025 06:22:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Started reading]]></title>
+            <description><![CDATA[<p><a href="https://neodb.social/~neodb~/book/2nX1JpCURI4GKXEMcqt0Mr" rel="nofollow">How to Do Nothing</a> <br>Reading again because the first time I&#x27;ve &quot;read&quot; it was as an audiobook and I feel like this one deserves a little more attention (and doing-nothingness) to absorb it<br></p>]]></description>
+            <link>https://neodb.social/@villasv/posts/525815219862925152/</link>
+            <guid isPermaLink="true">https://neodb.social/@villasv/posts/525815219862925152/</guid>
+            <pubDate>Mon, 22 Dec 2025 06:21:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Comment]]></title>
+            <description><![CDATA[<p>stopped reading <a href="https://neodb.social/~neodb~/book/0P0GnW2v1WjwL7zDGDQ4ti" rel="nofollow">The Goblin Emperor</a> <br>DNF. Doesn&#x27;t work well as an audiobook for me, maybe too many characters with exotic names to hold in my mind at once.<br></p>]]></description>
+            <link>https://neodb.social/@villasv/posts/525814872679055184/</link>
+            <guid isPermaLink="true">https://neodb.social/@villasv/posts/525814872679055184/</guid>
+            <pubDate>Mon, 22 Dec 2025 06:20:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Comment]]></title>
             <description><![CDATA[<p>My most important recap flex</p>]]></description>
@@ -205,7 +233,7 @@
         </item>
         <item>
             <title><![CDATA[Finished reading]]></title>
-            <description><![CDATA[<p><a href="https://neodb.social/~neodb~/book/6WsIW8P77bPcTzgJhONMNA" rel="nofollow">11/23: 11 Years / 23 Stories, 9 out of 10</a>  <br>A wild and different kind of biography. Somewhat alien to me as I was never this deep into the punk scene but still enjoyable, thanks to my teenager metalhead days probably.<br></p>]]></description>
+            <description><![CDATA[<p><a href="https://neodb.social/~neodb~/book/6WsIW8P77bPcTzgJhONMNA" rel="nofollow">11/23: 11 Years / 23 Stories</a> <br>A wild and different kind of biography. Somewhat alien to me as I was never this deep into the punk scene but still enjoyable, thanks to my teenager metalhead days probably.<br></p>]]></description>
             <link>https://neodb.social/@villasv/posts/486083540966088120/</link>
             <guid isPermaLink="true">https://neodb.social/@villasv/posts/486083540966088120/</guid>
             <pubDate>Wed, 03 Sep 2025 15:02:27 GMT</pubDate>
@@ -258,34 +286,6 @@
             <link>https://neodb.social/@villasv/posts/450629954896269640/</link>
             <guid isPermaLink="true">https://neodb.social/@villasv/posts/450629954896269640/</guid>
             <pubDate>Wed, 28 May 2025 19:02:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Started reading]]></title>
-            <description><![CDATA[<p><a href="https://neodb.social/~neodb~/book/7RscqcgF5GYmoCiD5JJ1jv" rel="nofollow">Slaughterhouse Five Unabridged</a> </p><p></p>]]></description>
-            <link>https://neodb.social/@villasv/posts/447792744563534400/</link>
-            <guid isPermaLink="true">https://neodb.social/@villasv/posts/447792744563534400/</guid>
-            <pubDate>Tue, 20 May 2025 23:08:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Started reading]]></title>
-            <description><![CDATA[<p><a href="https://neodb.social/~neodb~/book/7jUb35U3MVpxkjn9hGhxBI" rel="nofollow">Crowd Source</a> </p><p></p>]]></description>
-            <link>https://neodb.social/@villasv/posts/443398525187345288/</link>
-            <guid isPermaLink="true">https://neodb.social/@villasv/posts/443398525187345288/</guid>
-            <pubDate>Thu, 08 May 2025 20:07:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Started watching]]></title>
-            <description><![CDATA[<p><a href="https://neodb.social/~neodb~/tv/season/50lGcqlFf9Et0ri63wOueT" rel="nofollow">The Handmaid&#x27;s Tale Season 6</a> <br>Should this series have ended a while ago? Probably. Are we getting tired of the series trying to hype up yet another conflict using a closing shot of June looking at the camera? Maybe. But we&#x27;re still here for it, and I think the overall arc of the story is developing in a sensible direction (USA losing to Gilead means Canada starts capitulating with the winners). I just wish that the whole June &amp; Blaine didn&#x27;t take so much of a central role in the story, it&#x27;s not an interesting foundation for the plot.<br></p>]]></description>
-            <link>https://neodb.social/@villasv/posts/443386298869333336/</link>
-            <guid isPermaLink="true">https://neodb.social/@villasv/posts/443386298869333336/</guid>
-            <pubDate>Thu, 08 May 2025 19:18:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Started watching]]></title>
-            <description><![CDATA[<p><a href="https://neodb.social/~neodb~/tv/season/5I1OUC0C0ZSFFxroExiWb0" rel="nofollow">Schitt&#x27;s Creek Season 2</a> </p><p></p>]]></description>
-            <link>https://neodb.social/@villasv/posts/443385289163850584/</link>
-            <guid isPermaLink="true">https://neodb.social/@villasv/posts/443385289163850584/</guid>
-            <pubDate>Thu, 08 May 2025 19:14:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Media]]></title>
