@@ -4318,12 +4318,12 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2025/01/17/c9fb75b7-fe14-462c-a95e-513257203176.jpg",
           "rating": 7.3,
-          "rating_count": 122,
+          "rating_count": 123,
           "rating_distribution": [
             0,
-            3,
-            27,
-            54,
+            4,
+            26,
+            53,
             15
           ],
           "tags": [
@@ -4345,7 +4345,6 @@
             "犹太",
             "生活",
             "电影",
-            "痛苦",
             "美国"
           ],
           "brief": "为纪念逝世的奶奶，许久未见的堂兄弟大卫与班吉相约前往波兰参加导览团，也顺道探访奶奶的老家。一路上，班吉有话直说、率性风趣的性格迅速与同团人士拉近距离，令木讷拘谨的大卫既焦虑又羡慕，压抑已久的情绪日益沸腾。然而，随着旅途种种安排不断挑动班吉的敏感神经，他的狂放不羁似乎逐渐走向失序，大卫试图息事宁人，但内心的不安却席卷而来。这趟寻根之旅，能否解决彼此心底难以言说的痛楚？",
@@ -4565,13 +4564,13 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/06/23/566914c0-b514-4cc7-bea4-f5d90945a704.webp",
           "rating": 8.2,
-          "rating_count": 435,
+          "rating_count": 436,
           "rating_distribution": [
             0,
             0,
             14,
             45,
-            39
+            38
           ],
           "tags": [
             "2020s",
@@ -4805,11 +4804,11 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2025/02/19/4e793c4c-a916-4de2-aa5e-55ccc4652c01.jpg",
           "rating": 6.1,
-          "rating_count": 74,
+          "rating_count": 75,
           "rating_distribution": [
             5,
-            12,
-            43,
+            13,
+            42,
             33,
             5
           ],
@@ -5501,7 +5500,7 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2025/01/17/c3980bb4-8335-4f47-a839-3ce094856a54.jpg",
           "rating": 6.8,
-          "rating_count": 463,
+          "rating_count": 464,
           "rating_distribution": [
             4,
             9,
@@ -5720,7 +5719,7 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/09/13/a30bf2f3-4f79-43ef-b22f-58ebc3fd8aae.jpg",
           "rating": 6.4,
-          "rating_count": 382,
+          "rating_count": 383,
           "rating_distribution": [
             4,
             11,
@@ -7341,12 +7340,12 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/movie/2024/10/28/13dfbfcd-c252-4f40-96da-aabdade67aee.jpg",
           "rating": 7.4,
-          "rating_count": 180,
+          "rating_count": 181,
           "rating_distribution": [
             1,
             1,
             21,
-            61,
+            60,
             15
           ],
           "tags": [
@@ -7354,11 +7353,10 @@
             "6",
             "edward_berger",
             "oscar best picture nominee",
-            "人性",
             "剧情",
             "劇情",
             "宗教",
-            "悬疑",
+            "摄影",
             "攝影",
             "政治",
             "文學",
@@ -8978,7 +8976,7 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/movie/2023/05/31/0904d82a-cd0e-4526-91cb-0c7d98d66d94.jpg",
           "rating": 7.8,
-          "rating_count": 408,
+          "rating_count": 409,
           "rating_distribution": [
             0,
             1,
