@@ -1506,63 +1506,6 @@
       {
         "shelf_type": "progress",
         "visibility": 0,
-        "post_id": "525815456949591208",
-        "item": {
-          "type": "Edition",
-          "title": "The Burnout Society",
-          "description": "Our competitive, service-oriented societies are taking a toll on the late-modern individual. Rather than improving life, multitasking, \"user-friendly\" technology, and the culture of convenience are producing disorders that range from depression to attention deficit disorder to borderline personality disorder. Byung-Chul Han interprets the spreading malaise as an inability to manage negative experiences in an age characterized by excessive positivity and the universal availability of people and goods. Stress and exhaustion are not just personal experiences, but social and historical phenomena as well. Denouncing a world in which every against-the-grain response can lead to further disempowerment, he draws on literature, philosophy, and the social and natural sciences to explore the stakes of sacrificing intermittent intellectual reflection for constant neural connection.",
-          "localized_title": [
-            {
-              "lang": "en",
-              "text": "The Burnout Society"
-            }
-          ],
-          "localized_description": [
-            {
-              "lang": "en",
-              "text": "Our competitive, service-oriented societies are taking a toll on the late-modern individual. Rather than improving life, multitasking, \"user-friendly\" technology, and the culture of convenience are producing disorders that range from depression to attention deficit disorder to borderline personality disorder. Byung-Chul Han interprets the spreading malaise as an inability to manage negative experiences in an age characterized by excessive positivity and the universal availability of people and goods. Stress and exhaustion are not just personal experiences, but social and historical phenomena as well. Denouncing a world in which every against-the-grain response can lead to further disempowerment, he draws on literature, philosophy, and the social and natural sciences to explore the stakes of sacrificing intermittent intellectual reflection for constant neural connection."
-            }
-          ],
-          "cover_image_url": "https://neodb.social/m/book/2021/12/0991df7890-b8f3-4f83-b873-cb6a25a4a644.jpg",
-          "rating": null,
-          "rating_count": 1,
-          "rating_distribution": [
-            0,
-            0,
-            0,
-            0,
-            0
-          ],
-          "tags": [
-            "哲学",
-            "德国",
-            "政治"
-          ],
-          "brief": "Our competitive, service-oriented societies are taking a toll on the late-modern individual. Rather than improving life, multitasking, \"user-friendly\" technology, and the culture of convenience are producing disorders that range from depression to attention deficit disorder to borderline personality disorder. Byung-Chul Han interprets the spreading malaise as an inability to manage negative experiences in an age characterized by excessive positivity and the universal availability of people and goods. Stress and exhaustion are not just personal experiences, but social and historical phenomena as well. Denouncing a world in which every against-the-grain response can lead to further disempowerment, he draws on literature, philosophy, and the social and natural sciences to explore the stakes of sacrificing intermittent intellectual reflection for constant neural connection.",
-          "id": "https://neodb.social/book/2AL2Q5OEDBJY4aibxm5jos",
-          "uuid": "2AL2Q5OEDBJY4aibxm5jos",
-          "url": "/book/2AL2Q5OEDBJY4aibxm5jos",
-          "api_url": "/api/book/2AL2Q5OEDBJY4aibxm5jos",
-          "category": "book",
-          "parent_uuid": "3hd51qJzIWCX1Zc4v9IekG",
-          "display_title": "The Burnout Society",
-          "external_resources": [
-            {
-              "url": "https://book.douban.com/subject/26691310/"
-            },
-            {
-              "url": "https://www.goodreads.com/book/show/25490360"
-            }
-          ]
-        },
-        "created_time": "2025-12-22T06:22:54.013Z",
-        "comment_text": "Trying to read it again, after a bad experience reading it the first time. Maybe approaching it with different expectations is going to work differently...",
-        "rating_grade": null,
-        "tags": []
-      },
-      {
-        "shelf_type": "progress",
-        "visibility": 0,
         "post_id": "525815219862925152",
         "item": {
           "type": "Edition",
@@ -1837,6 +1780,63 @@
       }
     ],
     "complete": [
+      {
+        "shelf_type": "complete",
+        "visibility": 0,
+        "post_id": "528717996664552072",
+        "item": {
+          "type": "Edition",
+          "title": "The Burnout Society",
+          "description": "Our competitive, service-oriented societies are taking a toll on the late-modern individual. Rather than improving life, multitasking, \"user-friendly\" technology, and the culture of convenience are producing disorders that range from depression to attention deficit disorder to borderline personality disorder. Byung-Chul Han interprets the spreading malaise as an inability to manage negative experiences in an age characterized by excessive positivity and the universal availability of people and goods. Stress and exhaustion are not just personal experiences, but social and historical phenomena as well. Denouncing a world in which every against-the-grain response can lead to further disempowerment, he draws on literature, philosophy, and the social and natural sciences to explore the stakes of sacrificing intermittent intellectual reflection for constant neural connection.",
+          "localized_title": [
+            {
+              "lang": "en",
+              "text": "The Burnout Society"
+            }
+          ],
+          "localized_description": [
+            {
+              "lang": "en",
+              "text": "Our competitive, service-oriented societies are taking a toll on the late-modern individual. Rather than improving life, multitasking, \"user-friendly\" technology, and the culture of convenience are producing disorders that range from depression to attention deficit disorder to borderline personality disorder. Byung-Chul Han interprets the spreading malaise as an inability to manage negative experiences in an age characterized by excessive positivity and the universal availability of people and goods. Stress and exhaustion are not just personal experiences, but social and historical phenomena as well. Denouncing a world in which every against-the-grain response can lead to further disempowerment, he draws on literature, philosophy, and the social and natural sciences to explore the stakes of sacrificing intermittent intellectual reflection for constant neural connection."
+            }
+          ],
+          "cover_image_url": "https://neodb.social/m/book/2021/12/0991df7890-b8f3-4f83-b873-cb6a25a4a644.jpg",
+          "rating": null,
+          "rating_count": 2,
+          "rating_distribution": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "tags": [
+            "哲学",
+            "德国",
+            "政治"
+          ],
+          "brief": "Our competitive, service-oriented societies are taking a toll on the late-modern individual. Rather than improving life, multitasking, \"user-friendly\" technology, and the culture of convenience are producing disorders that range from depression to attention deficit disorder to borderline personality disorder. Byung-Chul Han interprets the spreading malaise as an inability to manage negative experiences in an age characterized by excessive positivity and the universal availability of people and goods. Stress and exhaustion are not just personal experiences, but social and historical phenomena as well. Denouncing a world in which every against-the-grain response can lead to further disempowerment, he draws on literature, philosophy, and the social and natural sciences to explore the stakes of sacrificing intermittent intellectual reflection for constant neural connection.",
+          "id": "https://neodb.social/book/2AL2Q5OEDBJY4aibxm5jos",
+          "uuid": "2AL2Q5OEDBJY4aibxm5jos",
+          "url": "/book/2AL2Q5OEDBJY4aibxm5jos",
+          "api_url": "/api/book/2AL2Q5OEDBJY4aibxm5jos",
+          "category": "book",
+          "parent_uuid": "3hd51qJzIWCX1Zc4v9IekG",
+          "display_title": "The Burnout Society",
+          "external_resources": [
+            {
+              "url": "https://book.douban.com/subject/26691310/"
+            },
+            {
+              "url": "https://www.goodreads.com/book/show/25490360"
+            }
+          ]
+        },
+        "created_time": "2025-12-30T06:36:33.428Z",
+        "comment_text": "Read it once; didn't went well. Read it again; less worse but still a drag. The book has an interesting thesis, but the form and writing style are definitely not for me. Maybe if I were pursuing a PhD in philosophy. \"How to Do Nothing\" by Jenny Odell is the book that I've later found to be the one that scratches the itch I'd imagined \"The Burnout Society\" should have cauterized.",
+        "rating_grade": 4,
+        "tags": []
+      },
       {
         "shelf_type": "complete",
         "visibility": 0,
@@ -2773,61 +2773,6 @@
       {
         "shelf_type": "complete",
         "visibility": 0,
-        "post_id": "326861775178665456",
-        "item": {
-          "type": "Edition",
-          "title": "The Checklist Manifesto",
-          "description": "The volume and complexity of knowledge today has exceeded out ability as individuals to properly deliver it to people—consistently, correctly, safely. The author Atul shows how producing a ninety-second checklist for complex world of surgery would reduce deaths and complications by more than one-third at virtually no cost and for almost any kind of operation.\nThe checklist cna be very power and bring striking improvement in various fields beyond medications.",
-          "localized_title": [
-            {
-              "lang": "en",
-              "text": "The Checklist Manifesto"
-            }
-          ],
-          "localized_description": [
-            {
-              "lang": "zh-cn",
-              "text": "The volume and complexity of knowledge today has exceeded out ability as individuals to properly deliver it to people—consistently, correctly, safely. The author Atul shows how producing a ninety-second checklist for complex world of surgery would reduce deaths and complications by more than one-third at virtually no cost and for almost any kind of operation.\nThe checklist cna be very power and bring striking improvement in various fields beyond medications."
-            }
-          ],
-          "cover_image_url": "https://neodb.social/m/book/2021/09/16282bd235-aa05-4ca8-9846-c4eea7688348.jpg",
-          "rating": null,
-          "rating_count": 2,
-          "rating_distribution": [
-            0,
-            0,
-            0,
-            0,
-            0
-          ],
-          "tags": [
-            "医学",
-            "思维",
-            "管理",
-            "美国"
-          ],
-          "brief": "The volume and complexity of knowledge today has exceeded out ability as individuals to properly deliver it to people—consistently, correctly, safely. The author Atul shows how producing a ninety-second checklist for complex world of surgery would reduce deaths and complications by more than one-third at virtually no cost and for almost any kind of operation.\nThe checklist cna be very power and bring striking improvement in various fields beyond medications.",
-          "id": "https://neodb.social/book/3NV6toFwM0vGOUo0QEDQPA",
-          "uuid": "3NV6toFwM0vGOUo0QEDQPA",
-          "url": "/book/3NV6toFwM0vGOUo0QEDQPA",
-          "api_url": "/api/book/3NV6toFwM0vGOUo0QEDQPA",
-          "category": "book",
-          "parent_uuid": "2aRXSyBpYNUrdnKnyKRvdo",
-          "display_title": "The Checklist Manifesto",
-          "external_resources": [
-            {
-              "url": "https://book.douban.com/subject/4748590/"
-            }
-          ]
-        },
-        "created_time": "2024-06-21T06:12:00Z",
-        "comment_text": "Can’t say I learned anything meaningful from the book other than that doctors have an attitude problem… wait I also knew that.",
-        "rating_grade": 4,
-        "tags": []
-      },
-      {
-        "shelf_type": "complete",
-        "visibility": 0,
         "post_id": "326861775175793856",
         "item": {
           "type": "Edition",
@@ -2879,6 +2824,61 @@
         "created_time": "2024-06-21T06:12:00Z",
         "comment_text": "Now that I’m done with the book I can’t really recall much that will change my habits.",
         "rating_grade": 5,
+        "tags": []
+      },
+      {
+        "shelf_type": "complete",
+        "visibility": 0,
+        "post_id": "326861775178665456",
+        "item": {
+          "type": "Edition",
+          "title": "The Checklist Manifesto",
+          "description": "The volume and complexity of knowledge today has exceeded out ability as individuals to properly deliver it to people—consistently, correctly, safely. The author Atul shows how producing a ninety-second checklist for complex world of surgery would reduce deaths and complications by more than one-third at virtually no cost and for almost any kind of operation.\nThe checklist cna be very power and bring striking improvement in various fields beyond medications.",
+          "localized_title": [
+            {
+              "lang": "en",
+              "text": "The Checklist Manifesto"
+            }
+          ],
+          "localized_description": [
+            {
+              "lang": "zh-cn",
+              "text": "The volume and complexity of knowledge today has exceeded out ability as individuals to properly deliver it to people—consistently, correctly, safely. The author Atul shows how producing a ninety-second checklist for complex world of surgery would reduce deaths and complications by more than one-third at virtually no cost and for almost any kind of operation.\nThe checklist cna be very power and bring striking improvement in various fields beyond medications."
+            }
+          ],
+          "cover_image_url": "https://neodb.social/m/book/2021/09/16282bd235-aa05-4ca8-9846-c4eea7688348.jpg",
+          "rating": null,
+          "rating_count": 2,
+          "rating_distribution": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "tags": [
+            "医学",
+            "思维",
+            "管理",
+            "美国"
+          ],
+          "brief": "The volume and complexity of knowledge today has exceeded out ability as individuals to properly deliver it to people—consistently, correctly, safely. The author Atul shows how producing a ninety-second checklist for complex world of surgery would reduce deaths and complications by more than one-third at virtually no cost and for almost any kind of operation.\nThe checklist cna be very power and bring striking improvement in various fields beyond medications.",
+          "id": "https://neodb.social/book/3NV6toFwM0vGOUo0QEDQPA",
+          "uuid": "3NV6toFwM0vGOUo0QEDQPA",
+          "url": "/book/3NV6toFwM0vGOUo0QEDQPA",
+          "api_url": "/api/book/3NV6toFwM0vGOUo0QEDQPA",
+          "category": "book",
+          "parent_uuid": "2aRXSyBpYNUrdnKnyKRvdo",
+          "display_title": "The Checklist Manifesto",
+          "external_resources": [
+            {
+              "url": "https://book.douban.com/subject/4748590/"
+            }
+          ]
+        },
+        "created_time": "2024-06-21T06:12:00Z",
+        "comment_text": "Can’t say I learned anything meaningful from the book other than that doctors have an attitude problem… wait I also knew that.",
+        "rating_grade": 4,
         "tags": []
       },
       {
@@ -3415,56 +3415,6 @@
       {
         "shelf_type": "complete",
         "visibility": 0,
-        "post_id": "63768184751317816",
-        "item": {
-          "type": "Edition",
-          "title": "The $64 Tomato",
-          "description": "Bill Alexander had no idea that his simple dream of having a vegetable garden and small orchard in his backyard would lead him into life-and-death battles with groundhogs, webworms, weeds, and weather; midnight expeditions in the dead of winter to dig up fresh thyme; and skirmishes with neighbors who feed the vermin (i.e., deer). Not to mention the vacations that had to be planned around the harvest, the near electrocution of the tree man, the limitations of his own middle-aged body, and the pity of his wife and kids. When Alexander runs (just for fun!) a costbenefit analysis, adding up everything from the live animal trap to the Velcro tomato wraps and then amortizing it over the life of his garden, it comes as quite a shock to learn that it cost him a staggering $64 to grow each one of his beloved Brandywine tomatoes. But as any gardener will tell you, you can't put a price on the unparalleled pleasures of providing fresh food for your family.",
-          "localized_title": [
-            {
-              "lang": "en",
-              "text": "The $64 Tomato"
-            }
-          ],
-          "localized_description": [
-            {
-              "lang": "en",
-              "text": "Bill Alexander had no idea that his simple dream of having a vegetable garden and small orchard in his backyard would lead him into life-and-death battles with groundhogs, webworms, weeds, and weather; midnight expeditions in the dead of winter to dig up fresh thyme; and skirmishes with neighbors who feed the vermin (i.e., deer). Not to mention the vacations that had to be planned around the harvest, the near electrocution of the tree man, the limitations of his own middle-aged body, and the pity of his wife and kids. When Alexander runs (just for fun!) a costbenefit analysis, adding up everything from the live animal trap to the Velcro tomato wraps and then amortizing it over the life of his garden, it comes as quite a shock to learn that it cost him a staggering $64 to grow each one of his beloved Brandywine tomatoes. But as any gardener will tell you, you can't put a price on the unparalleled pleasures of providing fresh food for your family."
-            }
-          ],
-          "cover_image_url": "https://neodb.social/m/item/googlebooks/2024/07/26/0dd80206-1f0d-46ed-8c33-1f3c4b4e297f.jpg",
-          "rating": null,
-          "rating_count": 1,
-          "rating_distribution": [
-            0,
-            0,
-            0,
-            0,
-            0
-          ],
-          "tags": [],
-          "brief": "Bill Alexander had no idea that his simple dream of having a vegetable garden and small orchard in his backyard would lead him into life-and-death battles with groundhogs, webworms, weeds, and weather; midnight expeditions in the dead of winter to dig up fresh thyme; and skirmishes with neighbors who feed the vermin (i.e., deer). Not to mention the vacations that had to be planned around the harvest, the near electrocution of the tree man, the limitations of his own middle-aged body, and the pity of his wife and kids. When Alexander runs (just for fun!) a costbenefit analysis, adding up everything from the live animal trap to the Velcro tomato wraps and then amortizing it over the life of his garden, it comes as quite a shock to learn that it cost him a staggering $64 to grow each one of his beloved Brandywine tomatoes. But as any gardener will tell you, you can't put a price on the unparalleled pleasures of providing fresh food for your family.",
-          "id": "https://neodb.social/book/0kkG9uLYeRkkJ28wprF8iw",
-          "uuid": "0kkG9uLYeRkkJ28wprF8iw",
-          "url": "/book/0kkG9uLYeRkkJ28wprF8iw",
-          "api_url": "/api/book/0kkG9uLYeRkkJ28wprF8iw",
-          "category": "book",
-          "parent_uuid": null,
-          "display_title": "The $64 Tomato",
-          "external_resources": [
-            {
-              "url": "https://books.google.com/books?id=_iTum30TbRsC"
-            }
-          ]
-        },
-        "created_time": "2022-06-26T06:12:00Z",
-        "comment_text": "Very amusing and well written gardening-focused memoir. A book I’ll forever recommend to any gentleman farmer wannabe. Emphasis on the \"gentleman\", this really captures the framing of the book, for better or worse.",
-        "rating_grade": 8,
-        "tags": []
-      },
-      {
-        "shelf_type": "complete",
-        "visibility": 0,
         "post_id": "63768184753507712",
         "item": {
           "type": "Edition",
@@ -3510,6 +3460,56 @@
         "created_time": "2022-06-26T06:12:00Z",
         "comment_text": "Defendo a importância de ter material sobre café em Português, motivo suficiente para merecer uma estrela de consolação. Para quem não tem problemas com barreira linguística, recomendo deixar esse livro pra lá e ir atrás dos clássicos internacionais primeiro e usar esse livro apenas como um complemento para aprender o vocabulário e especificadas sobre o Café no Brasil.",
         "rating_grade": 4,
+        "tags": []
+      },
+      {
+        "shelf_type": "complete",
+        "visibility": 0,
+        "post_id": "63768184751317816",
+        "item": {
+          "type": "Edition",
+          "title": "The $64 Tomato",
+          "description": "Bill Alexander had no idea that his simple dream of having a vegetable garden and small orchard in his backyard would lead him into life-and-death battles with groundhogs, webworms, weeds, and weather; midnight expeditions in the dead of winter to dig up fresh thyme; and skirmishes with neighbors who feed the vermin (i.e., deer). Not to mention the vacations that had to be planned around the harvest, the near electrocution of the tree man, the limitations of his own middle-aged body, and the pity of his wife and kids. When Alexander runs (just for fun!) a costbenefit analysis, adding up everything from the live animal trap to the Velcro tomato wraps and then amortizing it over the life of his garden, it comes as quite a shock to learn that it cost him a staggering $64 to grow each one of his beloved Brandywine tomatoes. But as any gardener will tell you, you can't put a price on the unparalleled pleasures of providing fresh food for your family.",
+          "localized_title": [
+            {
+              "lang": "en",
+              "text": "The $64 Tomato"
+            }
+          ],
+          "localized_description": [
+            {
+              "lang": "en",
+              "text": "Bill Alexander had no idea that his simple dream of having a vegetable garden and small orchard in his backyard would lead him into life-and-death battles with groundhogs, webworms, weeds, and weather; midnight expeditions in the dead of winter to dig up fresh thyme; and skirmishes with neighbors who feed the vermin (i.e., deer). Not to mention the vacations that had to be planned around the harvest, the near electrocution of the tree man, the limitations of his own middle-aged body, and the pity of his wife and kids. When Alexander runs (just for fun!) a costbenefit analysis, adding up everything from the live animal trap to the Velcro tomato wraps and then amortizing it over the life of his garden, it comes as quite a shock to learn that it cost him a staggering $64 to grow each one of his beloved Brandywine tomatoes. But as any gardener will tell you, you can't put a price on the unparalleled pleasures of providing fresh food for your family."
+            }
+          ],
+          "cover_image_url": "https://neodb.social/m/item/googlebooks/2024/07/26/0dd80206-1f0d-46ed-8c33-1f3c4b4e297f.jpg",
+          "rating": null,
+          "rating_count": 1,
+          "rating_distribution": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "tags": [],
+          "brief": "Bill Alexander had no idea that his simple dream of having a vegetable garden and small orchard in his backyard would lead him into life-and-death battles with groundhogs, webworms, weeds, and weather; midnight expeditions in the dead of winter to dig up fresh thyme; and skirmishes with neighbors who feed the vermin (i.e., deer). Not to mention the vacations that had to be planned around the harvest, the near electrocution of the tree man, the limitations of his own middle-aged body, and the pity of his wife and kids. When Alexander runs (just for fun!) a costbenefit analysis, adding up everything from the live animal trap to the Velcro tomato wraps and then amortizing it over the life of his garden, it comes as quite a shock to learn that it cost him a staggering $64 to grow each one of his beloved Brandywine tomatoes. But as any gardener will tell you, you can't put a price on the unparalleled pleasures of providing fresh food for your family.",
+          "id": "https://neodb.social/book/0kkG9uLYeRkkJ28wprF8iw",
+          "uuid": "0kkG9uLYeRkkJ28wprF8iw",
+          "url": "/book/0kkG9uLYeRkkJ28wprF8iw",
+          "api_url": "/api/book/0kkG9uLYeRkkJ28wprF8iw",
+          "category": "book",
+          "parent_uuid": null,
+          "display_title": "The $64 Tomato",
+          "external_resources": [
+            {
+              "url": "https://books.google.com/books?id=_iTum30TbRsC"
+            }
+          ]
+        },
+        "created_time": "2022-06-26T06:12:00Z",
+        "comment_text": "Very amusing and well written gardening-focused memoir. A book I’ll forever recommend to any gentleman farmer wannabe. Emphasis on the \"gentleman\", this really captures the framing of the book, for better or worse.",
+        "rating_grade": 8,
         "tags": []
       },
       {
