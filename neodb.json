@@ -1465,14 +1465,23 @@
         "item": {
           "type": "Edition",
           "title": "Life After Cars",
-          "description": "",
+          "description": "NATIONAL BESTSELLER\n\nFrom the hosts of The War on Cars podcast, a searing indictment of how cars ruin everything—and what we can do to fight back\n\nWhen the very first cars rolled off production lines, they were a technological marvel, predicted to make life easier and better for all Americans; yet a hundred years later, that dream is running on empty.\n\nInstead of unbounded freedom, the never-ending proliferation of automobiles has delivered a host of costs, among them the demolition of our neighborhoods, towns, and cities to make way for car infrastructure; an epidemic of violent death; countless hours lost in traffic; isolation from our fellow human beings; and the ongoing destruction of the natural world. Globally, SUVs alone now emit more carbon than the nations of Germany, South Korea, or Japan.\n\nThat’s why we need Life After Cars. Through historical records, revealing interviews, and unflinching statistics, Sarah Goodyear and Doug Gordon, hosts of the podcast The War on Cars, and former host Aaron Naparstek unpack the scale of damage that cars cause, the forces that have created our current crisis and are invested in perpetuating it, and the way that the fight for better transportation is deeply linked to the fight for a more equitable and just society.\n\nCars as we know them today are unsustainable—but there is hope. Life After Cars will arm readers with the tools they need to implement real, transformative change, from simply raising awareness to taking a stand at public forums. It’s past time to radically rethink—and shrink—society’s collective relationship with the automobile. Together, let’s create a better Life After Cars.",
           "localized_title": [
             {
               "lang": "en",
               "text": "Life After Cars"
             }
           ],
-          "localized_description": [],
+          "localized_description": [
+            {
+              "lang": "en",
+              "text": "NATIONAL BESTSELLER\n\nFrom the hosts of The War on Cars podcast, a searing indictment of how cars ruin everything—and what we can do to fight back\n\nWhen the very first cars rolled off production lines, they were a technological marvel, predicted to make life easier and better for all Americans; yet a hundred years later, that dream is running on empty.\n\nInstead of unbounded freedom, the never-ending proliferation of automobiles has delivered a host of costs, among them the demolition of our neighborhoods, towns, and cities to make way for car infrastructure; an epidemic of violent death; countless hours lost in traffic; isolation from our fellow human beings; and the ongoing destruction of the natural world. Globally, SUVs alone now emit more carbon than the nations of Germany, South Korea, or Japan.\n\nThat’s why we need Life After Cars. Through historical records, revealing interviews, and unflinching statistics, Sarah Goodyear and Doug Gordon, hosts of the podcast The War on Cars, and former host Aaron Naparstek unpack the scale of damage that cars cause, the forces that have created our current crisis and are invested in perpetuating it, and the way that the fight for better transportation is deeply linked to the fight for a more equitable and just society.\n\nCars as we know them today are unsustainable—but there is hope. Life After Cars will arm readers with the tools they need to implement real, transformative change, from simply raising awareness to taking a stand at public forums. It’s past time to radically rethink—and shrink—society’s collective relationship with the automobile. Together, let’s create a better Life After Cars."
+            },
+            {
+              "lang": "en",
+              "text": "NATIONAL BESTSELLER\n \n From the hosts of  The War on Cars  podcast, a searing indictment of how cars ruin everything—and what we can do to fight back \n \n When the very first cars rolled off production lines, they were a technological marvel, predicted to make life easier and better for all Americans; yet a hundred years later, that dream is running on empty.\n \n Instead of unbounded freedom, the never-ending proliferation of automobiles has delivered a host of costs, among them the demolition of our neighborhoods, towns, and cities to make way for car infrastructure; an epidemic of violent death; countless hours lost in traffic; isolation from our fellow human beings; and the ongoing destruction of the natural world. Globally, SUVs alone now emit more carbon than the nations of Germany, South Korea, or Japan.\n \n That’s why we need  Life After Cars . Through historical records, revealing interviews, and unflinching statistics, Sarah Goodyear and Doug Gordon, hosts of the podcast  The War on Cars , and former host Aaron Naparstek unpack the scale of damage that cars cause, the forces that have created our current crisis and are invested in perpetuating it, and the way that the fight for better transportation is deeply linked to the fight for a more equitable and just society.\n \n Cars as we know them today are unsustainable—but there is hope.  Life After Cars  will arm readers with the tools they need to implement real, transformative change, from simply raising awareness to taking a stand at public forums. It’s past time to radically rethink—and shrink—society’s collective relationship with the automobile. Together, let’s create a better  Life After Cars ."
+            }
+          ],
           "cover_image_url": "https://neodb.social/m/item/openlibrary/2025/12/04/7f1e92c4-008f-480d-ac00-cef1f9f46c26.jpg",
           "rating": null,
           "rating_count": 0,
@@ -1484,7 +1493,7 @@
             0
           ],
           "tags": [],
-          "brief": "",
+          "brief": "NATIONAL BESTSELLER\n\nFrom the hosts of The War on Cars podcast, a searing indictment of how cars ruin everything—and what we can do to fight back\n\nWhen the very first cars rolled off production lines, they were a technological marvel, predicted to make life easier and better for all Americans; yet a hundred years later, that dream is running on empty.\n\nInstead of unbounded freedom, the never-ending proliferation of automobiles has delivered a host of costs, among them the demolition of our neighborhoods, towns, and cities to make way for car infrastructure; an epidemic of violent death; countless hours lost in traffic; isolation from our fellow human beings; and the ongoing destruction of the natural world. Globally, SUVs alone now emit more carbon than the nations of Germany, South Korea, or Japan.\n\nThat’s why we need Life After Cars. Through historical records, revealing interviews, and unflinching statistics, Sarah Goodyear and Doug Gordon, hosts of the podcast The War on Cars, and former host Aaron Naparstek unpack the scale of damage that cars cause, the forces that have created our current crisis and are invested in perpetuating it, and the way that the fight for better transportation is deeply linked to the fight for a more equitable and just society.\n\nCars as we know them today are unsustainable—but there is hope. Life After Cars will arm readers with the tools they need to implement real, transformative change, from simply raising awareness to taking a stand at public forums. It’s past time to radically rethink—and shrink—society’s collective relationship with the automobile. Together, let’s create a better Life After Cars.",
           "id": "https://neodb.social/book/79X4fdVZ1Ae5oZUgAKDr07",
           "uuid": "79X4fdVZ1Ae5oZUgAKDr07",
           "url": "/book/79X4fdVZ1Ae5oZUgAKDr07",
@@ -1495,6 +1504,12 @@
           "external_resources": [
             {
               "url": "https://openlibrary.org/books/OL60566586M"
+            },
+            {
+              "url": "https://books.google.com/books?id=bt9AEQAAQBAJ"
+            },
+            {
+              "url": "https://www.goodreads.com/book/show/223853543"
             }
           ]
         },
