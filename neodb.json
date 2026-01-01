@@ -5206,12 +5206,12 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/movie/2025/03/12/dd6c73e9-ab71-4ff3-8f3d-fbc38d3c16c5.webp",
           "rating": 6.7,
-          "rating_count": 117,
+          "rating_count": 118,
           "rating_distribution": [
             2,
             6,
             36,
-            48,
+            49,
             5
           ],
           "tags": [
@@ -9906,7 +9906,7 @@
         "post_id": "428921987838228120",
         "item": {
           "type": "TVSeason",
-          "title": "Severance 第二季",
+          "title": "人生切割术 第二季",
           "description": "在第2季中，马克和朋友们了解到，记忆切割会带来可怕的后果，这迫使他们在悲惨的道路上越走越远。",
           "localized_title": [
             {
@@ -10063,7 +10063,7 @@
           "api_url": "/api/tv/season/2iGcyQRlEuz7fvMuAIlsKK",
           "category": "tv",
           "parent_uuid": "4R9QW6VMMkZzK3LESoTTrz",
-          "display_title": "Severance 第二季",
+          "display_title": "人生切割术 第二季",
           "external_resources": [
             {
               "url": "https://bgm.tv/subject/486766"
@@ -10759,7 +10759,7 @@
         "post_id": "35864319099144944",
         "item": {
           "type": "TVSeason",
-          "title": "Severance 第一季",
+          "title": "人生切割术 第一季",
           "description": "在卢蒙工业公司，员工们接受了一种名为“分离”的手术，该手术将他们的工作记忆与个人记忆分割开来。马克是一位沉浸在悲痛中的团队领导，他开始揭露公司内部的黑暗秘密，这迫使他及其同事们不得不面对身份认同、自由意志以及企业控制等深刻问题。",
           "localized_title": [
             {
@@ -10901,7 +10901,7 @@
           "api_url": "/api/tv/season/1w1lMpMeBGQmbqiPKYmVXM",
           "category": "tv",
           "parent_uuid": "4R9QW6VMMkZzK3LESoTTrz",
-          "display_title": "Severance 第一季",
+          "display_title": "人生切割术 第一季",
           "external_resources": [
             {
               "url": "https://movie.douban.com/subject/34885342/"
