@@ -5401,6 +5401,10 @@
             {
               "lang": "ja",
               "text": "サブスタンス (映画)"
+            },
+            {
+              "lang": "pt-br",
+              "text": "A Substância"
             }
           ],
           "localized_description": [
@@ -5511,11 +5515,27 @@
             {
               "lang": "ko",
               "text": "코랄리 파르자 감독의 2024년 영화"
+            },
+            {
+              "lang": "en",
+              "text": "A fading celebrity takes a black-market drug: a cell-replicating substance that temporarily creates a younger, better version of herself."
+            },
+            {
+              "lang": "pt-br",
+              "text": "Uma estrela em declínio descobre uma substância misteriosa que lhe permite criar uma versão mais jovem e perfeita de si mesma. No entanto, o que parece ser uma solução milagrosa para recuperar sua glória logo se transforma em um pesadelo perturbador quando as consequências desta decisão começam a se manifestar de formas sombrias e irreversíveis."
+            },
+            {
+              "lang": "zh-cn",
+              "text": "曾经红极一时的好莱坞巨星伊丽莎白无法面对自己老去的容颜，决定使用一种名为“完美物质”的黑市药物，透过注射药物的细胞复制物质，创造出更年轻、更好的另一个自己。“年华老去”及“年轻貌美”的自己该如何共存？会是更强烈的容貌焦虑大战？还是要不断迎合大众对“美”的期待？一场自我身体主导权的争夺战即将上演……"
+            },
+            {
+              "lang": "en",
+              "text": "A fading celebrity takes a black-market drug: a cell-replicating substance that helps her create a younger, better version of herself."
             }
           ],
           "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2025/01/17/c3980bb4-8335-4f47-a839-3ce094856a54.jpg",
           "rating": 6.8,
-          "rating_count": 466,
+          "rating_count": 467,
           "rating_distribution": [
             4,
             9,
@@ -5561,13 +5581,16 @@
               "url": "https://www.imdb.com/title/tt17526714/"
             },
             {
-              "url": "https://movie.douban.com/subject/35882838/"
-            },
-            {
               "url": "https://www.themoviedb.org/movie/933260"
             },
             {
               "url": "https://www.wikidata.org/wiki/Q113380226"
+            },
+            {
+              "url": "https://garage.o00o.lol/movie/23i3Nk4oj3O6Q1BTg0IrXD"
+            },
+            {
+              "url": "https://movie.douban.com/subject/35882838/"
             }
           ]
         },
@@ -9878,7 +9901,7 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/tmdb_tvseason/2025/02/21/ecb9d9b0-b0fc-4fc2-8c0a-2d37947c95f0.jpg",
           "rating": null,
-          "rating_count": 3,
+          "rating_count": 4,
           "rating_distribution": [
             0,
             0,
