@@ -4,9 +4,23 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 10 Jan 2026 17:05:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Jan 2026 19:04:56 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2026]]></copyright>
+        <item>
+            <title><![CDATA[Comment]]></title>
+            <description><![CDATA[<p>“The market is not the economy”. I’ve only learned this recently after years of being told Nasdaq numbers going up meant the country/world was going well.</p>]]></description>
+            <link>https://mastodon.social/@villasbc/115872002751717895</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/115872002751717895</guid>
+            <pubDate>Sat, 10 Jan 2026 17:34:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Comment]]></title>
+            <description><![CDATA[<p>For the last 3 years of investing in North-American focused total market index funds I’ve noticed a consistent pattern of “bad news, therefore your portfolio went up”. </p><p>Invasion of Ukraine, high inflation, genocide in Gaza, trade war, high unemployment… it all boils down to more forcing functions for keeping low interest rates, which fund techno-optimism, while techno-feudalism sprawls and tech oligarchs shape the world. (1/2)</p>]]></description>
+            <link>https://mastodon.social/@villasbc/115872002724210586</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/115872002724210586</guid>
+            <pubDate>Sat, 10 Jan 2026 17:34:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Comment]]></title>
             <description><![CDATA[<p>More US imperialism was on my bingo card for 2026 but not kidnapping a president before I had my first groceries of the year.</p><p>My disgust for this bully nation grows louder. It pains me that I moved inwards on their sphere of influence.</p>]]></description>
@@ -176,25 +190,11 @@
             <pubDate>Tue, 21 Oct 2025 01:44:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Comment]]></title>
-            <description><![CDATA[<p>As good as any other day to remember</p><p><a href="https://en.wikipedia.org/wiki/Paradox_Hotel_Vancouver" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">en.wikipedia.org/wiki/Paradox_</span><span class="invisible">Hotel_Vancouver</span></a></p><p>opened on February 28, 2017, with Donald Jr., Eric Trump and developer Joo Kim Tiah in attendance […] met with public protests and a boycott of the ceremony by Mayor Robertson and other local politicians.</p><p>On August 28, 2020, the hotel reportedly closed permanently and was filing for bankruptcy. […] On April 1, 2022 TA Global Berhad reopened the hotel under the brand Paradox Hotel Group and the name Paradox Vancouver.</p>]]></description>
-            <link>https://mastodon.social/@villasbc/115401811335991020</link>
-            <guid isPermaLink="true">https://mastodon.social/@villasbc/115401811335991020</guid>
-            <pubDate>Sun, 19 Oct 2025 16:38:16 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Wants to read]]></title>
             <description><![CDATA[<p><a href="https://neodb.social/~neodb~/book/0V44UTlboDL3nLCYxSKLNT" rel="nofollow">Becoming Fluent</a> </p><p></p>]]></description>
             <link>https://neodb.social/@villasv/posts/501822579832558200/</link>
             <guid isPermaLink="true">https://neodb.social/@villasv/posts/501822579832558200/</guid>
             <pubDate>Fri, 17 Oct 2025 01:23:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Comment]]></title>
-            <description><![CDATA[<p>ICYMI <span class="h-card" translate="no"><a href="https://mastodon.macstories.net/@viticci" class="u-url mention">@<span>viticci</span></a></span> I found a funny quirk of AI ubiquity on MacOS:</p><p>The Books app generally doesn&#39;t facilitate the reader to copy text blurbs from books. But in Tahoe, I can select text from the book and use &quot;Proofread&quot;, which opens a small window that does offer the copy option.</p><p>LLMs really are the natural enemies of copyright lol</p>]]></description>
-            <link>https://mastodon.social/@villasbc/115381177311865000</link>
-            <guid isPermaLink="true">https://mastodon.social/@villasbc/115381177311865000</guid>
-            <pubDate>Thu, 16 Oct 2025 01:10:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Wants to read]]></title>
