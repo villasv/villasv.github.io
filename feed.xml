@@ -4,9 +4,16 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 17 Jan 2026 21:04:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Jan 2026 23:05:16 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2026]]></copyright>
+        <item>
+            <title><![CDATA[Comment]]></title>
+            <description><![CDATA[<p>If millennials were chained to an abstract notion of “making it” in life mostly based on materialism, Gen Z are going to have it worse because <a href="https://mastodon.social/tags/Wealthsimple" class="mention hashtag" rel="tag">#<span>Wealthsimple</span></a> just dropped a literal ranking of wealth accumulation so we can track how far/close we are to the 1% (or 0.1%, yes it actually goes there)</p>]]></description>
+            <link>https://mastodon.social/@villasbc/115912663028429283</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/115912663028429283</guid>
+            <pubDate>Sat, 17 Jan 2026 21:54:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Comment]]></title>
             <description><![CDATA[<p>I wish I wasn’t exposed to crypto material every time I came to grab a coffee at Funk</p>]]></description>
@@ -181,13 +188,6 @@
             <link>https://mastodon.social/@villasbc/115414508626454971</link>
             <guid isPermaLink="true">https://mastodon.social/@villasbc/115414508626454971</guid>
             <pubDate>Tue, 21 Oct 2025 22:27:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Comment]]></title>
-            <description><![CDATA[<p>A few weeks ago <a href="https://mastodon.social/tags/TheWalrus" class="mention hashtag" rel="tag">#<span>TheWalrus</span></a> came up with a page promoting online gambling. Now they&#39;re platforming opinion pieces (<a href="https://thewalrus.ca/does-the-cbc-still-speak-for-canada/" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">thewalrus.ca/does-the-cbc-stil</span><span class="invisible">l-speak-for-canada/</span></a>) that parrot the narrative that CBC is partisan or pro-government propaganda.</p><p>To no one’s surprise, the author of this barely veiled accusation masquerading as book has published nonsensical COVID &quot;dissenter&quot; bullshit during his CBC tenure and is grieving that his shitty journalism was rejected</p>]]></description>
-            <link>https://mastodon.social/@villasbc/115414502504712479</link>
-            <guid isPermaLink="true">https://mastodon.social/@villasbc/115414502504712479</guid>
-            <pubDate>Tue, 21 Oct 2025 22:25:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Wants to read]]></title>
