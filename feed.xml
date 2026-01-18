@@ -4,9 +4,16 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 18 Jan 2026 21:04:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Jan 2026 23:05:25 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2026]]></copyright>
+        <item>
+            <title><![CDATA[Comment]]></title>
+            <description><![CDATA[<p>An American thing that will never not be weird to me is root “beer”. It’s like toothpaste soda that lost some of its carbonation</p>]]></description>
+            <link>https://mastodon.social/@villasbc/115918482469424243</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/115918482469424243</guid>
+            <pubDate>Sun, 18 Jan 2026 22:34:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Comment]]></title>
             <description><![CDATA[<p>If millennials were chained to an abstract notion of “making it” in life mostly based on materialism, Gen Z are going to have it worse because <a href="https://mastodon.social/tags/Wealthsimple" class="mention hashtag" rel="tag">#<span>Wealthsimple</span></a> just dropped a literal ranking of wealth accumulation so we can track how far/close we are to the 1% (or 0.1%, yes it actually goes there)</p>]]></description>
@@ -181,13 +188,6 @@
             <link>https://mastodon.social/@villasbc/115414555105214643</link>
             <guid isPermaLink="true">https://mastodon.social/@villasbc/115414555105214643</guid>
             <pubDate>Tue, 21 Oct 2025 22:39:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Comment]]></title>
-            <description><![CDATA[<p>&gt; No randomized controlled trial has ever shown that masks — even good masks properly fitted — reduce transmission of respiratory viruses.</p><p>&gt; The only explanation for this, that I can think of, is that there was a desperate need for a way of ritualizing the fear that had been generated, and masking provided the needed ritual.</p><p><a href="https://nationalpost.com/opinion/david-cayley-cbc-actively-suppressed-credible-covid-dissent" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">nationalpost.com/opinion/david</span><span class="invisible">-cayley-cbc-actively-suppressed-credible-covid-dissent</span></a></p><p>This man is objectively wrong in his reporting of public health matters and thinks that the issue is that <a href="https://mastodon.social/tags/CBC" class="mention hashtag" rel="tag">#<span>CBC</span></a> needs to be &quot;radically pluralistic&quot;</p>]]></description>
-            <link>https://mastodon.social/@villasbc/115414508626454971</link>
-            <guid isPermaLink="true">https://mastodon.social/@villasbc/115414508626454971</guid>
-            <pubDate>Tue, 21 Oct 2025 22:27:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Wants to read]]></title>
