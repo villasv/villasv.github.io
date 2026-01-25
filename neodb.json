@@ -3862,6 +3862,115 @@
       {
         "shelf_type": "wishlist",
         "visibility": 0,
+        "post_id": "538112995604319440",
+        "item": {
+          "type": "Movie",
+          "title": "一战再战",
+          "description": "落魄潦倒的革命者鲍勃（莱昂纳多·迪卡普里奥 饰）终日生活在草木皆兵的偏执状态，他与世隔绝，只和坚韧自立的女儿薇拉（蔡斯·英菲尼迪 饰）相依为命。然而，鲍勃的宿敌（西恩·潘 饰）在16年后再度现身，女儿也突然失踪，这位曾经的激进份子仓促踏上了寻女之路。父女二人不得不直面他过往行为种下的恶果……",
+          "localized_title": [
+            {
+              "lang": "zh-cn",
+              "text": "一战再战"
+            },
+            {
+              "lang": "en",
+              "text": "One Battle After Another"
+            },
+            {
+              "lang": "zh-tw",
+              "text": "一戰再戰"
+            },
+            {
+              "lang": "zh-hk",
+              "text": "一戰再戰"
+            }
+          ],
+          "localized_description": [
+            {
+              "lang": "en",
+              "text": "When their evil enemy resurfaces after 16 years, a group of ex-revolutionaries reunite to rescue the daughter of one of their own."
+            },
+            {
+              "lang": "zh-cn",
+              "text": "落魄潦倒的革命者鲍勃（莱昂纳多·迪卡普里奥 饰）终日生活在草木皆兵的偏执状态，他与世隔绝，只和坚韧自立的女儿薇拉（蔡斯·英菲尼迪 饰）相依为命。然而，鲍勃的宿敌（西恩·潘 饰）在16年后再度现身，女儿也突然失踪，这位曾经的激进份子仓促踏上了寻女之路。父女二人不得不直面他过往行为种下的恶果……"
+            },
+            {
+              "lang": "en",
+              "text": "Washed-up revolutionary Bob exists in a state of stoned paranoia, surviving off-grid with his spirited, self-reliant daughter, Willa. When his evil nemesis resurfaces after 16 years and she goes missing, the former radical scrambles to find her, father and daughter both battling the consequences of his past."
+            },
+            {
+              "lang": "en",
+              "text": "2025 film by Paul Thomas Anderson"
+            }
+          ],
+          "cover_image_url": "https://neodb.social/m/item/doubanmovie/2025/09/30/f80bc17b-7fee-46e0-9697-7689772ce7c4.jpg",
+          "rating": 7.8,
+          "rating_count": 272,
+          "rating_distribution": [
+            1,
+            3,
+            11,
+            57,
+            28
+          ],
+          "tags": [
+            "2020s",
+            "2025",
+            "保罗 托马斯 安德森",
+            "剧情",
+            "喜剧",
+            "地区 美国",
+            "年代 2020s",
+            "影院",
+            "惊悚",
+            "政治",
+            "本尼西奥 德尔 托罗",
+            "犯罪",
+            "电影",
+            "电影院",
+            "美国",
+            "美国电影",
+            "莱昂纳多 迪卡普里奥",
+            "西恩 潘",
+            "院线"
+          ],
+          "brief": "落魄潦倒的革命者鲍勃（莱昂纳多·迪卡普里奥 饰）终日生活在草木皆兵的偏执状态，他与世隔绝，只和坚韧自立的女儿薇拉（蔡斯·英菲尼迪 饰）相依为命。然而，鲍勃的宿敌（西恩·潘 饰）在16年后再度现身，女儿也突然失踪，这位曾经的激进份子仓促踏上了寻女之路。父女二人不得不直面他过往行为种下的恶果……",
+          "id": "https://neodb.social/movie/1MlM838vtwHXUNT2R1MHbL",
+          "uuid": "1MlM838vtwHXUNT2R1MHbL",
+          "url": "/movie/1MlM838vtwHXUNT2R1MHbL",
+          "api_url": "/api/movie/1MlM838vtwHXUNT2R1MHbL",
+          "category": "movie",
+          "parent_uuid": null,
+          "display_title": "一战再战",
+          "external_resources": [
+            {
+              "url": "https://www.imdb.com/title/tt30144839/"
+            },
+            {
+              "url": "https://reviewdb.app/movie/7macgaYoDqkTdiCHwP2T0t"
+            },
+            {
+              "url": "https://www.themoviedb.org/movie/1054867"
+            },
+            {
+              "url": "https://minreol.dk/movie/17KT1ZPPLGrTobAvGNAItj"
+            },
+            {
+              "url": "https://movie.douban.com/subject/36176155/"
+            },
+            {
+              "url": "https://www.wikidata.org/wiki/Q117085614"
+            }
+          ]
+        },
+        "created_time": "2026-01-25T04:48:55.743Z",
+        "comment_text": null,
+        "rating_grade": null,
+        "tags": []
+      },
+      {
+        "shelf_type": "wishlist",
+        "visibility": 0,
         "post_id": "431815364734159000",
         "item": {
           "type": "Movie",

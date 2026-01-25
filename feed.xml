@@ -4,9 +4,16 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 25 Jan 2026 01:35:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Jan 2026 05:12:23 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2026]]></copyright>
+        <item>
+            <title><![CDATA[Wants to watch]]></title>
+            <description><![CDATA[<p><a href="https://neodb.social/~neodb~/movie/1MlM838vtwHXUNT2R1MHbL" rel="nofollow">One Battle After Another</a> </p><p></p>]]></description>
+            <link>https://neodb.social/@villasv/posts/538112995604319440/</link>
+            <guid isPermaLink="true">https://neodb.social/@villasv/posts/538112995604319440/</guid>
+            <pubDate>Sun, 25 Jan 2026 04:48:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Comment]]></title>
             <description><![CDATA[<p>An American thing that will never not be weird to me is root “beer”. It’s like toothpaste soda that lost some of its carbonation</p>]]></description>
@@ -279,13 +286,6 @@
             <link>https://neodb.social/@villasv/posts/450633217346997120/</link>
             <guid isPermaLink="true">https://neodb.social/@villasv/posts/450633217346997120/</guid>
             <pubDate>Wed, 28 May 2025 19:15:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Started watching]]></title>
-            <description><![CDATA[<p><a href="https://neodb.social/~neodb~/tv/season/6xJbO1HJFxEQbt8ma8aaMv" rel="nofollow">Schitt&#x27;s Creek Season 3</a> </p><p></p>]]></description>
-            <link>https://neodb.social/@villasv/posts/450629983135398408/</link>
-            <guid isPermaLink="true">https://neodb.social/@villasv/posts/450629983135398408/</guid>
-            <pubDate>Wed, 28 May 2025 19:02:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Media]]></title>
