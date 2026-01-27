@@ -10165,13 +10165,13 @@
             }
           ],
           "cover_image_url": "https://neodb.social/m/item/tmdb_tvseason/2025/02/21/ecb9d9b0-b0fc-4fc2-8c0a-2d37947c95f0.jpg",
-          "rating": null,
-          "rating_count": 4,
+          "rating": 5.8,
+          "rating_count": 5,
           "rating_distribution": [
+            20,
             0,
-            0,
-            0,
-            0,
+            40,
+            40,
             0
           ],
           "tags": [
@@ -10480,13 +10480,13 @@
             }
           ],
           "cover_image_url": "https://neodb.social/m/movie/2021/09/1628162ea9-9bfa-4cb6-8141-f9cff3aef922.jpg",
-          "rating": 7.6,
-          "rating_count": 26,
+          "rating": 7.5,
+          "rating_count": 27,
           "rating_distribution": [
             0,
             0,
-            27,
-            62,
+            30,
+            59,
             11
           ],
           "tags": [
@@ -10666,12 +10666,12 @@
           ],
           "cover_image_url": "https://neodb.social/m/movie/2021/11/2769349230-bfa7-430c-b0de-098f61005501.jpg",
           "rating": 7.9,
-          "rating_count": 33,
+          "rating_count": 34,
           "rating_distribution": [
             0,
             0,
-            15,
-            67,
+            17,
+            65,
             18
           ],
           "tags": [
@@ -10731,14 +10731,14 @@
             }
           ],
           "cover_image_url": "https://neodb.social/m/movie/2021/09/17c509a57e-9998-43f4-8c78-7374521907a9.jpg",
-          "rating": 8,
-          "rating_count": 50,
+          "rating": 7.9,
+          "rating_count": 51,
           "rating_distribution": [
             0,
             2,
-            20,
-            52,
-            26
+            22,
+            51,
+            25
           ],
           "tags": [
             "2010s",
