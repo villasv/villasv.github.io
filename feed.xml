@@ -4,9 +4,16 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 29 Jan 2026 19:15:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Jan 2026 21:08:54 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2026]]></copyright>
+        <item>
+            <title><![CDATA[Comment]]></title>
+            <description><![CDATA[<p class="quote-inline">RE: <a href="https://mstdn.ca/@cbc_top_stories/115974049865467682" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">mstdn.ca/@cbc_top_stories/1159</span><span class="invisible">74049865467682</span></a></p><p>“Virtue Signaling” = I don’t like what you’re saying but I can’t argue against, but that would mean that I’m wrong and that can’t be it… so I guess the only explanation is that you’re screwing with me</p>]]></description>
+            <link>https://mastodon.social/@villasbc/115980308248244571</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/115980308248244571</guid>
+            <pubDate>Thu, 29 Jan 2026 20:37:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Wants to watch]]></title>
             <description><![CDATA[<p><a href="https://neodb.social/~neodb~/tv/season/5UfU2Xc21N0A71jiInU9xb" rel="nofollow">Lei da Selva: A História do Jogo do Bicho</a> </p><p></p>]]></description>
@@ -209,13 +216,6 @@
             <link>https://mastodon.social/@villasbc/115419172305706247</link>
             <guid isPermaLink="true">https://mastodon.social/@villasbc/115419172305706247</guid>
             <pubDate>Wed, 22 Oct 2025 18:13:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Comment]]></title>
-            <description><![CDATA[<p>What&#39;s the direction The Walrus is looking for? To follow NYT steps as a place where a veneer of journalism can be used to wrap a trojan horse of garbage opinion pieces appeasing questionable people?</p><p>We don&#39;t need &quot;radically pluralistic&quot; outlets. We need media companies that have uncompromising standards and vet the stuff they&#39;re amplifying.</p>]]></description>
-            <link>https://mastodon.social/@villasbc/115414555105214643</link>
-            <guid isPermaLink="true">https://mastodon.social/@villasbc/115414555105214643</guid>
-            <pubDate>Tue, 21 Oct 2025 22:39:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Wants to read]]></title>
