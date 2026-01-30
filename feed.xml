@@ -4,9 +4,16 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 30 Jan 2026 15:12:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Jan 2026 17:14:31 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2026]]></copyright>
+        <item>
+            <title><![CDATA[Comment]]></title>
+            <description><![CDATA[<p><a href="https://mastodon.social/tags/CBC" class="mention hashtag" rel="tag">#<span>CBC</span></a> Listen shows are not regular podcasts - ie public RSS I can subscribe with whatever app I want?</p><p>I didn’t know CBC was in a position to be so selective about how they reach their audience. What’s confusing is that they have tons of podcasts, so they know how to do this</p>]]></description>
+            <link>https://mastodon.social/@villasbc/115984952115330351</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/115984952115330351</guid>
+            <pubDate>Fri, 30 Jan 2026 16:18:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Comment]]></title>
             <description><![CDATA[<p class="quote-inline">RE: <a href="https://mstdn.ca/@cbc_top_stories/115974049865467682" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">mstdn.ca/@cbc_top_stories/1159</span><span class="invisible">74049865467682</span></a></p><p>“Virtue Signaling” = I don’t like what you’re saying but I can’t argue against, but that would mean that I’m wrong and that can’t be it… so I guess the only explanation is that you’re screwing with me</p>]]></description>
@@ -209,13 +216,6 @@
             <link>https://mastodon.social/@villasbc/115540976700257030</link>
             <guid isPermaLink="true">https://mastodon.social/@villasbc/115540976700257030</guid>
             <pubDate>Thu, 13 Nov 2025 06:29:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Comment]]></title>
-            <description><![CDATA[<p>A new kind of <a href="https://mastodon.social/tags/corporate" class="mention hashtag" rel="tag">#<span>corporate</span></a> bullshit has arrived: some of my document writing has been flagged as &quot;off-putting AI generated style&quot;, even though I did not use any AI to assist on writing that.</p><p>Ironically, I did use an LLM to write some cruft at the end of the doc, but that part wasn&#39;t flagged.</p><p>Apparently as a non-native speaker my English is not &quot;simple human English&quot;. And that&#39;s already me self-censoring on the use of em dashes because I had already noticed that ChatGPT overuses them.</p>]]></description>
-            <link>https://mastodon.social/@villasbc/115419172305706247</link>
-            <guid isPermaLink="true">https://mastodon.social/@villasbc/115419172305706247</guid>
-            <pubDate>Wed, 22 Oct 2025 18:13:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Wants to read]]></title>
