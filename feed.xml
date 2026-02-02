@@ -4,9 +4,23 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 02 Feb 2026 17:16:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Feb 2026 23:08:52 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2026]]></copyright>
+        <item>
+            <title><![CDATA[Wants to read]]></title>
+            <description><![CDATA[<p><a href="https://neodb.social/~neodb~/book/5vIAQyTHO1zaLlFMuW3q8C" rel="nofollow">Sand Talk</a> </p><p></p>]]></description>
+            <link>https://neodb.social/@villasv/posts/541210768876040160/</link>
+            <guid isPermaLink="true">https://neodb.social/@villasv/posts/541210768876040160/</guid>
+            <pubDate>Mon, 02 Feb 2026 17:58:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Wants to read]]></title>
+            <description><![CDATA[<p><a href="https://neodb.social/~neodb~/book/0n29wKaFMd2VaMEqCiDLF7" rel="nofollow">WALK: Slow Down, Wake Up, and Connect at 1-3 Miles per Hour</a> </p><p></p>]]></description>
+            <link>https://neodb.social/@villasv/posts/541201421305502408/</link>
+            <guid isPermaLink="true">https://neodb.social/@villasv/posts/541201421305502408/</guid>
+            <pubDate>Mon, 02 Feb 2026 17:21:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Comment]]></title>
             <description><![CDATA[<p><a href="https://mastodon.social/tags/CBC" class="mention hashtag" rel="tag">#<span>CBC</span></a> Listen shows are not regular podcasts - ie public RSS I can subscribe with whatever app I want?</p><p>I didn’t know CBC was in a position to be so selective about how they reach their audience. What’s confusing is that they have tons of podcasts, so they know how to do this</p>]]></description>
@@ -272,20 +286,6 @@
             <link>https://neodb.social/@villasv/posts/486083540966088120/</link>
             <guid isPermaLink="true">https://neodb.social/@villasv/posts/486083540966088120/</guid>
             <pubDate>Wed, 03 Sep 2025 15:02:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Finished reading]]></title>
-            <description><![CDATA[<p><a href="https://neodb.social/~neodb~/book/7VkDat4tXF7FE862hhr1rn" rel="nofollow">Vancouver&#x27;s Special Guardians, 9 out of 10</a>  <br>An interesting collection of research, from documented facts to hearsay, on these locally famous but otherwise obscure little still creatures. The photography involved is great, it shows that the author is a professional. The book is thin even using a large font so it isn’t a lot of material but I appreciate the effort in collecting it all in one place.<br></p>]]></description>
-            <link>https://neodb.social/@villasv/posts/486082840587443984/</link>
-            <guid isPermaLink="true">https://neodb.social/@villasv/posts/486082840587443984/</guid>
-            <pubDate>Wed, 03 Sep 2025 14:59:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Started reading]]></title>
-            <description><![CDATA[<p><a href="https://neodb.social/~neodb~/book/7VkDat4tXF7FE862hhr1rn" rel="nofollow">Vancouver&#x27;s Special Guardians</a> </p><p></p>]]></description>
-            <link>https://neodb.social/@villasv/posts/472031061415968000/</link>
-            <guid isPermaLink="true">https://neodb.social/@villasv/posts/472031061415968000/</guid>
-            <pubDate>Sat, 26 Jul 2025 20:22:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Media]]></title>
