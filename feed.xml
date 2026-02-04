@@ -4,9 +4,30 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 04 Feb 2026 21:12:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Feb 2026 23:08:25 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2026]]></copyright>
+        <item>
+            <title><![CDATA[Comment]]></title>
+            <description><![CDATA[<p>There’s this phenomenon where each generation believes its level of progressiveness is the right one, so everything before was backwards but every step forward is not needed.</p><p>I guess I should look for things that make me think “ok that’s too much”… perhaps veganism as the ideal diet? Or polyamory as the ideal relationship? These come to mind as the kind of thing that I don’t think I’d ever be able to adjust, but youngsters are welcome to experiment 🤷 (3/2)</p>]]></description>
+            <link>https://mastodon.social/@villasbc/116014785982222424</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/116014785982222424</guid>
+            <pubDate>Wed, 04 Feb 2026 22:45:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Comment]]></title>
+            <description><![CDATA[<p>And there’s vegetarianism, urbanism, gender roles, fatphobia, pedagogy… so many things to stay curious and to be instructed. I wonder which layers I’ve yet to peel.</p><p>I guess if most of these are blind spots for most of my friends, statistically speaking I should conclude there must be a myriad of blind spots of my own. (2/2)</p>]]></description>
+            <link>https://mastodon.social/@villasbc/116014752709672668</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/116014752709672668</guid>
+            <pubDate>Wed, 04 Feb 2026 22:37:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Comment]]></title>
+            <description><![CDATA[<p>I’m fully immersed in a circle that believes that vaccines work and human-caused climate change needs to be addressed. I’m grateful for that much.</p><p>But then there’s an inner circle of people who understand the merits of harm reduction. And another inner circle that don’t think that “immigrants have a duty to assimilate” (is there a word for this?). And a circle that understands there’s no such thing as “apolitical”. (1/2)</p>]]></description>
+            <link>https://mastodon.social/@villasbc/116014752687931757</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/116014752687931757</guid>
+            <pubDate>Wed, 04 Feb 2026 22:37:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Wants to read]]></title>
             <description><![CDATA[<p><a href="https://neodb.social/~neodb~/book/5vIAQyTHO1zaLlFMuW3q8C" rel="nofollow">Sand Talk</a> </p><p></p>]]></description>
@@ -209,27 +230,6 @@
             <link>https://mastodon.social/@villasbc/115544515059137055</link>
             <guid isPermaLink="true">https://mastodon.social/@villasbc/115544515059137055</guid>
             <pubDate>Thu, 13 Nov 2025 21:29:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Comment]]></title>
-            <description><![CDATA[<p>No matter how humiliatingly I criticize it or how harsh I am, it’s not going to stop pretending to know things or jumping to action before understanding the ask. And instead of being conditioned to get harsher, it’s forcing me to realize that it’s a waste of time (and tokens, measured in dollars) to say anything other than “let’s move on to the next part” or try to explain it more thoroughly from the get go next time. (2/3)</p>]]></description>
-            <link>https://mastodon.social/@villasbc/115544515017407965</link>
-            <guid isPermaLink="true">https://mastodon.social/@villasbc/115544515017407965</guid>
-            <pubDate>Thu, 13 Nov 2025 21:29:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Comment]]></title>
-            <description><![CDATA[<p>Strange twist of fate in that getting used to pair program with <a href="https://mastodon.social/tags/LLMs" class="mention hashtag" rel="tag">#<span>LLMs</span></a> is forcing me to become more patient because no matter how much I lash out and make it promise to me it will pay more attention before saying random stuff, I have to accept that it won’t. (1/3)</p>]]></description>
-            <link>https://mastodon.social/@villasbc/115544514974781220</link>
-            <guid isPermaLink="true">https://mastodon.social/@villasbc/115544514974781220</guid>
-            <pubDate>Thu, 13 Nov 2025 21:29:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Comment]]></title>
-            <description><![CDATA[<p><a href="https://mastodon.social/tags/Pluribus" class="mention hashtag" rel="tag">#<span>Pluribus</span></a> looks interesting. But I already know that, like Severance, it’s going to flood my timelines with bad takes and the most absurd ways to interpret the story. Thank aliens I don’t share a hive mind with this crowd.</p>]]></description>
-            <link>https://mastodon.social/@villasbc/115540976700257030</link>
-            <guid isPermaLink="true">https://mastodon.social/@villasbc/115540976700257030</guid>
-            <pubDate>Thu, 13 Nov 2025 06:29:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Wants to read]]></title>
