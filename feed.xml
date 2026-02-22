@@ -4,9 +4,16 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 22 Feb 2026 07:18:18 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Feb 2026 09:10:24 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2026]]></copyright>
+        <item>
+            <title><![CDATA[Comment]]></title>
+            <description><![CDATA[<p>Is there any other city in this world where we don’t get snow but if you drive 25 min you can do some snowboarding (sure, icy and packed, but still)?</p><p>And does that city has a moderately walkable downtown with apartments that cost less than 1MM CAD?</p>]]></description>
+            <link>https://mastodon.social/@villasbc/116113198292327618</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/116113198292327618</guid>
+            <pubDate>Sun, 22 Feb 2026 07:53:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Comment]]></title>
             <description><![CDATA[<p>There’s this phenomenon where each generation believes its level of progressiveness is the right one, so everything before was backwards but every step forward is not needed.</p><p>I guess I should look for things that make me think “ok that’s too much”… perhaps veganism as the ideal diet? Or polyamory as the ideal relationship? These come to mind as the kind of thing that I don’t think I’d ever be able to adjust, but youngsters are welcome to experiment 🤷 (3/2)</p>]]></description>
@@ -223,13 +230,6 @@
             <link>https://mastodon.social/@villasbc/115584599661100274</link>
             <guid isPermaLink="true">https://mastodon.social/@villasbc/115584599661100274</guid>
             <pubDate>Thu, 20 Nov 2025 23:23:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Comment]]></title>
-            <description><![CDATA[<p>And it’s weirdly human in that regard. You just can’t “make it better” by force, despite a lifetime of bad adulting around us making us behave as if that works well for us. (3/3)</p>]]></description>
-            <link>https://mastodon.social/@villasbc/115544515059137055</link>
-            <guid isPermaLink="true">https://mastodon.social/@villasbc/115544515059137055</guid>
-            <pubDate>Thu, 13 Nov 2025 21:29:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Wants to read]]></title>
