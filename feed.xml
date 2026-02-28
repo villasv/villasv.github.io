@@ -4,7 +4,7 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 28 Feb 2026 01:35:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Feb 2026 05:14:52 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2026]]></copyright>
         <item>
@@ -58,7 +58,7 @@
         </item>
         <item>
             <title><![CDATA[Comment]]></title>
-            <description><![CDATA[<p class="quote-inline">RE: <a href="https://mstdn.ca/@cbc_top_stories/115974049865467682" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">mstdn.ca/@cbc_top_stories/1159</span><span class="invisible">74049865467682</span></a></p><p>“Virtue Signaling” = I don’t like what you’re saying but I can’t argue against, but that would mean that I’m wrong and that can’t be it… so I guess the only explanation is that you’re screwing with me</p>]]></description>
+            <description><![CDATA[<p>“Virtue Signaling” = I don’t like what you’re saying but I can’t argue against, but that would mean that I’m wrong and that can’t be it… so I guess the only explanation is that you’re screwing with me</p>]]></description>
             <link>https://mastodon.social/@villasbc/115980308248244571</link>
             <guid isPermaLink="true">https://mastodon.social/@villasbc/115980308248244571</guid>
             <pubDate>Thu, 29 Jan 2026 20:37:38 GMT</pubDate>
