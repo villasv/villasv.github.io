@@ -4,9 +4,16 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 10 Mar 2026 15:21:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Mar 2026 17:19:35 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2026]]></copyright>
+        <item>
+            <title><![CDATA[Comment]]></title>
+            <description><![CDATA[<p>Good on Texas for having an upcoming progressive (at least for Texas) politician that is broadly appealing, ie a white evangelical guy.</p><p>But I will never not find it funny that his surname is slang (in pt_BR) for someone who gets involved (sexually) with a friends’ partner, probably because of a song from the early 90’s</p>]]></description>
+            <link>https://mastodon.social/@villasbc/116205703195661707</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/116205703195661707</guid>
+            <pubDate>Tue, 10 Mar 2026 15:58:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Comment]]></title>
             <description><![CDATA[<p>Is there any other city in this world where we don’t get snow but if you drive 25 min you can do some snowboarding (sure, icy and packed, but still)?</p><p>And does that city has a moderately walkable downtown with apartments that cost less than 1MM CAD?</p>]]></description>
@@ -223,13 +230,6 @@
             <link>https://mastodon.social/@villasbc/115584607783908637</link>
             <guid isPermaLink="true">https://mastodon.social/@villasbc/115584607783908637</guid>
             <pubDate>Thu, 20 Nov 2025 23:25:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Comment]]></title>
-            <description><![CDATA[<p><a href="https://www.theglobeandmail.com/opinion/article-allowing-doctors-to-practise-in-both-public-and-private-systems-solves/" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://www.</span><span class="ellipsis">theglobeandmail.com/opinion/ar</span><span class="invisible">ticle-allowing-doctors-to-practise-in-both-public-and-private-systems-solves/</span></a></p><p>What does walking towards a two-tiered system solve?</p><p>It solves this problem of rich people having &quot;too much of a hard time&quot; getting ahead of poor people for medical treatment.</p><p>And it solves the issue in a way that the middle class thinks they’re on the winning side, but in fact they’re on the losing side, so it ends up solving a second problem: how to further deepen inequality in a way that the mass populace stays under a delusion of fairness.</p><p><a href="https://mastodon.social/tags/CANPoli" class="mention hashtag" rel="tag">#<span>CANPoli</span></a></p>]]></description>
-            <link>https://mastodon.social/@villasbc/115584599661100274</link>
-            <guid isPermaLink="true">https://mastodon.social/@villasbc/115584599661100274</guid>
-            <pubDate>Thu, 20 Nov 2025 23:23:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Wants to read]]></title>
