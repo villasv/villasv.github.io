@@ -4,9 +4,16 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 13 Mar 2026 21:11:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Mar 2026 23:09:25 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2026]]></copyright>
+        <item>
+            <title><![CDATA[Comment]]></title>
+            <description><![CDATA[<p>Sam Altman is selling the commoditization of intelligence. What does the economy look like in a world where you can get metered human-level language and reasoning on demand?</p><p>I don’t believe we’re close to that, but it’s still an interesting thought exercise. How much more worthless can human life get under capitalism?</p>]]></description>
+            <link>https://mastodon.social/@villasbc/116224010089117255</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/116224010089117255</guid>
+            <pubDate>Fri, 13 Mar 2026 21:34:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Comment]]></title>
             <description><![CDATA[<p>Software people made themselves valuable pushing the narrative that they could automate away other jobs. The idea sold like hot cake, and digital transformation became a story of displacement instead of augmentation.</p><p>Now it turns out that software development became so valuable and abundant that it became the ideal target for LLMs, so bots writing code are taking off even before self driving vehicles. Inadvertently developers made themselves a single point of failure for labour, then imploded.</p>]]></description>
@@ -223,13 +230,6 @@
             <link>https://neodb.social/@villasv/posts/516235358555381344/</link>
             <guid isPermaLink="true">https://neodb.social/@villasv/posts/516235358555381344/</guid>
             <pubDate>Tue, 25 Nov 2025 19:55:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Comment]]></title>
-            <description><![CDATA[<p>Get a load of this guy</p><p><a href="https://www.cbc.ca/news/politics/vance-standard-living-stagnant-immigration-blame-9.6987929" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://www.</span><span class="ellipsis">cbc.ca/news/politics/vance-sta</span><span class="invisible">ndard-living-stagnant-immigration-blame-9.6987929</span></a></p><p>GDP Per Capita is the perfect metric for his type. Deepening inequality means that a few billionaires approaching trillionaire status on the backs of their own working class can create a fiction that somehow the country is working just fine.</p><p>While billionaires put cars and penises in orbit and their workers are denied SNAP benefits, we can always celebrate their beautiful GDP per Capita graph. Congratulations.</p><p><a href="https://mastodon.social/tags/CANPoli" class="mention hashtag" rel="tag">#<span>CANPoli</span></a></p>]]></description>
-            <link>https://mastodon.social/@villasbc/115590092138770833</link>
-            <guid isPermaLink="true">https://mastodon.social/@villasbc/115590092138770833</guid>
-            <pubDate>Fri, 21 Nov 2025 22:40:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Wants to read]]></title>
