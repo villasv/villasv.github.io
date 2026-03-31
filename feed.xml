@@ -4,9 +4,16 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 31 Mar 2026 13:35:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Mar 2026 15:29:50 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2026]]></copyright>
+        <item>
+            <title><![CDATA[Comment]]></title>
+            <description><![CDATA[<p>L: cities are noisy </p><p>T: cars are noisy, cities without them are musical <span class="h-card" translate="no"><a href="https://bsky.brid.gy/r/https://bsky.app/profile/urbantruth.bsky.social" class="u-url mention">@<span>urbantruth.bsky.social</span></a></span> <a href="https://fed.brid.gy/r/https://bsky.app/profile/did:plc:thigatosnyxffhfeyxgaahdf/post/3midms2rba22y" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">fed.brid.gy/r/https://bsky.app</span><span class="invisible">/profile/did:plc:thigatosnyxffhfeyxgaahdf/post/3midms2rba22y</span></a></p>]]></description>
+            <link>https://mastodon.social/@villasbc/116324444666501378</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/116324444666501378</guid>
+            <pubDate>Tue, 31 Mar 2026 15:16:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Comment]]></title>
             <description><![CDATA[<p>Sam Altman is selling the commoditization of intelligence. What does the economy look like in a world where you can get metered human-level language and reasoning on demand?</p><p>I don’t believe we’re close to that, but it’s still an interesting thought exercise. How much more worthless can human life get under capitalism?</p>]]></description>
@@ -216,13 +223,6 @@
             <link>https://mastodon.social/@villasbc/115641797886223815</link>
             <guid isPermaLink="true">https://mastodon.social/@villasbc/115641797886223815</guid>
             <pubDate>Mon, 01 Dec 2025 01:50:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Comment]]></title>
-            <description><![CDATA[<p>I was a teenager when I first met someone who did not have dinner everyday - because they were poor - and I will never forget the shock followed by shame.</p><p>I was in my 30s when I discovered that some people - who are not poor - simply don’t have lunch, or have some sort of snack/candy and call it done. What is even going on</p>]]></description>
-            <link>https://mastodon.social/@villasbc/115625472670094006</link>
-            <guid isPermaLink="true">https://mastodon.social/@villasbc/115625472670094006</guid>
-            <pubDate>Fri, 28 Nov 2025 04:38:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Wants to read]]></title>
