@@ -4,9 +4,16 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 02 Apr 2026 13:34:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Apr 2026 15:25:32 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2026]]></copyright>
+        <item>
+            <title><![CDATA[Comment]]></title>
+            <description><![CDATA[<p><a href="https://mastodon.social/tags/maptap" class="mention hashtag" rel="tag">#<span>maptap</span></a> is fun but seriously getting tired of getting small time US cities every day as “easy” while whole countries out there haven’t shown up yet. It’s a game by Americans for Americans I guess, so I think I’m over it</p>]]></description>
+            <link>https://mastodon.social/@villasbc/116335662863996586</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/116335662863996586</guid>
+            <pubDate>Thu, 02 Apr 2026 14:49:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Comment]]></title>
             <description><![CDATA[<p>L: cities are noisy </p><p>T: cars are noisy, cities without them are musical <span class="h-card" translate="no"><a href="https://bsky.brid.gy/r/https://bsky.app/profile/urbantruth.bsky.social" class="u-url mention">@<span>urbantruth.bsky.social</span></a></span> <a href="https://fed.brid.gy/r/https://bsky.app/profile/did:plc:thigatosnyxffhfeyxgaahdf/post/3midms2rba22y" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">fed.brid.gy/r/https://bsky.app</span><span class="invisible">/profile/did:plc:thigatosnyxffhfeyxgaahdf/post/3midms2rba22y</span></a></p>]]></description>
@@ -216,13 +223,6 @@
             <link>https://mastodon.social/@villasbc/115662113120148949</link>
             <guid isPermaLink="true">https://mastodon.social/@villasbc/115662113120148949</guid>
             <pubDate>Thu, 04 Dec 2025 15:56:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Comment]]></title>
-            <description><![CDATA[<p>How come Waterfront station does not have a bench for me to sit while waiting for someone?</p><p>Not even inside Starbucks, just a few inside Subway or A&amp;W 😥 </p><p>I kind of already imagine answers but come on <a href="https://mastodon.social/tags/Vancouver" class="mention hashtag" rel="tag">#<span>Vancouver</span></a> <a href="https://mastodon.social/tags/Translink" class="mention hashtag" rel="tag">#<span>Translink</span></a></p>]]></description>
-            <link>https://mastodon.social/@villasbc/115641797886223815</link>
-            <guid isPermaLink="true">https://mastodon.social/@villasbc/115641797886223815</guid>
-            <pubDate>Mon, 01 Dec 2025 01:50:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Wants to read]]></title>
