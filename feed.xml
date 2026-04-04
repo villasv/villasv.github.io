@@ -4,7 +4,7 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 04 Apr 2026 05:29:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Apr 2026 07:24:41 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2026]]></copyright>
         <item>
@@ -16,7 +16,7 @@
         </item>
         <item>
             <title><![CDATA[Comment]]></title>
-            <description><![CDATA[<p>L: cities are noisy </p><p>T: cars are noisy, cities without them are musical <span class="h-card" translate="no"><a href="https://bsky.brid.gy/r/https://bsky.app/profile/urbantruth.bsky.social" class="u-url mention">@<span>urbantruth.bsky.social</span></a></span> <a href="https://fed.brid.gy/r/https://bsky.app/profile/did:plc:thigatosnyxffhfeyxgaahdf/post/3midms2rba22y" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">fed.brid.gy/r/https://bsky.app</span><span class="invisible">/profile/did:plc:thigatosnyxffhfeyxgaahdf/post/3midms2rba22y</span></a></p>]]></description>
+            <description><![CDATA[<p>L: cities are noisy </p><p>T: cars are noisy, cities without them are musical <span class="h-card" translate="no"><a href="https://bsky.brid.gy/ap/did:plc:thigatosnyxffhfeyxgaahdf" class="u-url mention">@<span>urbantruth.bsky.social</span></a></span> <a href="https://fed.brid.gy/r/https://bsky.app/profile/did:plc:thigatosnyxffhfeyxgaahdf/post/3midms2rba22y" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">fed.brid.gy/r/https://bsky.app</span><span class="invisible">/profile/did:plc:thigatosnyxffhfeyxgaahdf/post/3midms2rba22y</span></a></p>]]></description>
             <link>https://mastodon.social/@villasbc/116324444666501378</link>
             <guid isPermaLink="true">https://mastodon.social/@villasbc/116324444666501378</guid>
             <pubDate>Tue, 31 Mar 2026 15:16:03 GMT</pubDate>
