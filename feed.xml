@@ -4,9 +4,16 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 09 Apr 2026 21:18:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Apr 2026 23:17:46 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2026]]></copyright>
+        <item>
+            <title><![CDATA[Comment]]></title>
+            <description><![CDATA[<p>I miss 2024 when people just said “tool” instead of “agent”. Executives are obsessed with agentic everything, even when clearly what they really need is a spreadsheet with a VLOOKUP</p><p>And the early days of “AI fluency” interviews has been painful to watch. I don’t know how interviews are supposed to work if most managers think “cross validation” is an acceptable answer for a question about generative AI guardrails for vibe coding</p>]]></description>
+            <link>https://mastodon.social/@villasbc/116377190368975964</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/116377190368975964</guid>
+            <pubDate>Thu, 09 Apr 2026 22:49:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Comment]]></title>
             <description><![CDATA[<p>The downtown BIA has lots of interesting material and they are generally onboard if self serving urbanism like bike lanes and better transit but… BIAs will BIA and openly advocate for vibes based policy making, whatever it takes to bring in that suburban shopper who’s afraid of visible social issues.</p><p>At least I gotta give it to them the goal of having both… but this is proven a zero-sum dichotomy time and time again in the halls of city council and voting booths</p>]]></description>
@@ -230,13 +237,6 @@
             <link>https://mastodon.social/@villasbc/115715927219843043</link>
             <guid isPermaLink="true">https://mastodon.social/@villasbc/115715927219843043</guid>
             <pubDate>Sun, 14 Dec 2025 04:02:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Comment]]></title>
-            <description><![CDATA[<p>How interesting. Ladner tops the density ranking of the province (in this Wikipedia article)</p><p><a href="https://en.wikipedia.org/wiki/List_of_population_centres_in_British_Columbia" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">en.wikipedia.org/wiki/List_of_</span><span class="invisible">population_centres_in_British_Columbia</span></a></p>]]></description>
-            <link>https://mastodon.social/@villasbc/115713658878623782</link>
-            <guid isPermaLink="true">https://mastodon.social/@villasbc/115713658878623782</guid>
-            <pubDate>Sat, 13 Dec 2025 18:25:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Wants to read]]></title>
