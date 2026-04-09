@@ -4,9 +4,16 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 09 Apr 2026 13:35:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Apr 2026 15:34:59 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2026]]></copyright>
+        <item>
+            <title><![CDATA[Comment]]></title>
+            <description><![CDATA[<p>The downtown BIA has lots of interesting material and they are generally onboard if self serving urbanism like bike lanes and better transit but… BIAs will BIA and openly advocate for vibes based policy making, whatever it takes to bring in that suburban shopper who’s afraid of visible social issues.</p><p>At least I gotta give it to them the goal of having both… but this is proven a zero-sum dichotomy time and time again in the halls of city council and voting booths</p>]]></description>
+            <link>https://mastodon.social/@villasbc/116375439491130273</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/116375439491130273</guid>
+            <pubDate>Thu, 09 Apr 2026 15:24:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Finished watching]]></title>
             <description><![CDATA[<p><a href="https://neodb.social/~neodb~/movie/06gPQON41DHTmQLPr6QRlC" rel="nofollow">Requiem for a Dream, 7 out of 10</a>  <br>The movie is really intense and masterfully executed. The music, the scenes, all the juxtaposition. There are some interesting details like the obvious disregard from doctors, and the choice to include the mother in the parallels, but it’s also kind of obvious how this movie is a product of the drug scare that grew throughout the 90’s.<br></p>]]></description>
@@ -230,13 +237,6 @@
             <link>https://mastodon.social/@villasbc/115713658878623782</link>
             <guid isPermaLink="true">https://mastodon.social/@villasbc/115713658878623782</guid>
             <pubDate>Sat, 13 Dec 2025 18:25:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Comment]]></title>
-            <description><![CDATA[<p>These individualistic and selfish crooks having a hard time working together is the reason we can have good things move forward. Thank you and good riddance, bring in the next clown</p><p><a href="https://mastodon.social/tags/BCPoli" class="mention hashtag" rel="tag">#<span>BCPoli</span></a> <a href="https://mstdn.ca/@thetyee/115661920773087884" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">mstdn.ca/@thetyee/115661920773</span><span class="invisible">087884</span></a></p>]]></description>
-            <link>https://mastodon.social/@villasbc/115662113120148949</link>
-            <guid isPermaLink="true">https://mastodon.social/@villasbc/115662113120148949</guid>
-            <pubDate>Thu, 04 Dec 2025 15:56:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Wants to read]]></title>
