@@ -4,9 +4,30 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 11 Apr 2026 19:17:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Apr 2026 21:11:10 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2026]]></copyright>
+        <item>
+            <title><![CDATA[Finished reading]]></title>
+            <description><![CDATA[<p><a href="https://neodb.social/~neodb~/book/2nX1JpCURI4GKXEMcqt0Mr" rel="nofollow">How to Do Nothing, 8 out of 10</a>  <br>Good stuff. I dig the push for eco regionalism, getting involved with local things, stop and breathe and look around, appreciate third spaces, activism to protect those spaces, gratefulness towards the past activists who created these spaces, reconsider the hustle culture and using monetary lenses for all things.</p><p>Leans a bit hard on the literary references, but I guess the writer is well read and does not mind flexing it, the intertextuality doesn’t feel forced - just mildly distracting. Reading it for the second time felt better.<br></p>]]></description>
+            <link>https://neodb.social/@villasv/posts/565898929458152160/</link>
+            <guid isPermaLink="true">https://neodb.social/@villasv/posts/565898929458152160/</guid>
+            <pubDate>Sat, 11 Apr 2026 21:00:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Started reading]]></title>
+            <description><![CDATA[<p><a href="https://neodb.social/~neodb~/book/3FjSyAWbHzhCMXla39GNzJ" rel="nofollow">House Lessons: Renovating a Life</a> <br>Very boring early chapters. Typical writing from a person who never really accepted life in the city but has no self awareness, obsessed with the image of a quaint life in a mansion in a small city; the eternal thirst to grow roots on someone else’s stagnant soil.<br></p>]]></description>
+            <link>https://neodb.social/@villasv/posts/565896624231568992/</link>
+            <guid isPermaLink="true">https://neodb.social/@villasv/posts/565896624231568992/</guid>
+            <pubDate>Sat, 11 Apr 2026 20:51:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Comment]]></title>
+            <description><![CDATA[<p>Vancouver had a blessed weather week and mood is fully restored.</p><p>It’s the perfect timing to to overcommit with camping and hike plans that I’ll slightly regret then later be extra grateful I did it anyway</p>]]></description>
+            <link>https://mastodon.social/@villasbc/116387740878125132</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/116387740878125132</guid>
+            <pubDate>Sat, 11 Apr 2026 19:33:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Comment]]></title>
             <description><![CDATA[<p>I miss 2024 when people just said “tool” instead of “agent”. Executives are obsessed with agentic everything, even when clearly what they really need is a spreadsheet with a VLOOKUP</p><p>And the early days of “AI fluency” interviews has been painful to watch. I don’t know how interviews are supposed to work if most managers think “cross validation” is an acceptable answer for a question about generative AI guardrails for vibe coding</p>]]></description>
@@ -232,13 +253,6 @@
             <pubDate>Mon, 22 Dec 2025 06:20:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Comment]]></title>
-            <description><![CDATA[<p>My most important recap flex</p>]]></description>
-            <link>https://mastodon.social/@villasbc/115715927219843043</link>
-            <guid isPermaLink="true">https://mastodon.social/@villasbc/115715927219843043</guid>
-            <pubDate>Sun, 14 Dec 2025 04:02:04 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Wants to read]]></title>
             <description><![CDATA[<p><a href="https://neodb.social/~neodb~/book/77wBUoxwkHwNHSXvth4Wvq" rel="nofollow">Technofeudalism</a> </p><p></p>]]></description>
             <link>https://neodb.social/@villasv/posts/516235358555381344/</link>
@@ -272,20 +286,6 @@
             <link>https://neodb.social/@villasv/posts/492758323527584728/</link>
             <guid isPermaLink="true">https://neodb.social/@villasv/posts/492758323527584728/</guid>
             <pubDate>Mon, 22 Sep 2025 01:05:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Finished watching]]></title>
-            <description><![CDATA[<p><a href="https://neodb.social/~neodb~/tv/season/7OhmvKySDdjKWrR7Pn6qq0" rel="nofollow">Foundation Season 3, 7 out of 10</a>  <br>The production is still the best thing about this show, and the acting is not too shabby but the plot and directing choices are still hit and miss. The Genetic Dynasty remains as the most entertaining blocks of the story, and in this season they are definitely consequential.<br></p>]]></description>
-            <link>https://neodb.social/@villasv/posts/492757244125517648/</link>
-            <guid isPermaLink="true">https://neodb.social/@villasv/posts/492757244125517648/</guid>
-            <pubDate>Mon, 22 Sep 2025 01:01:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Started watching]]></title>
-            <description><![CDATA[<p><a href="https://neodb.social/~neodb~/tv/season/7OhmvKySDdjKWrR7Pn6qq0" rel="nofollow">Foundation Season 3</a> </p><p></p>]]></description>
-            <link>https://neodb.social/@villasv/posts/492464286882761632/</link>
-            <guid isPermaLink="true">https://neodb.social/@villasv/posts/492464286882761632/</guid>
-            <pubDate>Sun, 21 Sep 2025 05:37:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Media]]></title>
