@@ -4,9 +4,16 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 18 Apr 2026 15:16:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Apr 2026 17:14:38 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2026]]></copyright>
+        <item>
+            <title><![CDATA[Finished reading]]></title>
+            <description><![CDATA[<p><a href="https://neodb.social/~neodb~/book/3FjSyAWbHzhCMXla39GNzJ" rel="nofollow">House Lessons: Renovating a Life, 2 out of 10</a>  <br>Things upper-middle-class people do to cope with therapy material; the home renovation edition. Boring, uninteresting, formulaic.<br></p>]]></description>
+            <link>https://neodb.social/@villasv/posts/568373115461357368/</link>
+            <guid isPermaLink="true">https://neodb.social/@villasv/posts/568373115461357368/</guid>
+            <pubDate>Sat, 18 Apr 2026 16:51:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Started watching]]></title>
             <description><![CDATA[<p><a href="https://neodb.social/~neodb~/tv/season/12LZVyETl08hM4TQL6YUBt" rel="nofollow">SPY x FAMILY Season 1, 9 out of 10</a>  <br>So cute and wholesome that it pierced the bubble. Re-watching with my partner.<br></p>]]></description>
@@ -279,13 +286,6 @@
             <link>https://neodb.social/@villasv/posts/516235358555381344/</link>
             <guid isPermaLink="true">https://neodb.social/@villasv/posts/516235358555381344/</guid>
             <pubDate>Tue, 25 Nov 2025 19:55:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Wants to read]]></title>
-            <description><![CDATA[<p><a href="https://neodb.social/~neodb~/book/0V44UTlboDL3nLCYxSKLNT" rel="nofollow">Becoming Fluent</a> </p><p></p>]]></description>
-            <link>https://neodb.social/@villasv/posts/501822579832558200/</link>
-            <guid isPermaLink="true">https://neodb.social/@villasv/posts/501822579832558200/</guid>
-            <pubDate>Fri, 17 Oct 2025 01:23:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Media]]></title>
