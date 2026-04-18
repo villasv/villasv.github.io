@@ -4,12 +4,19 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 18 Apr 2026 17:14:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Apr 2026 19:18:18 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2026]]></copyright>
         <item>
+            <title><![CDATA[Started reading]]></title>
+            <description><![CDATA[<p><a href="https://neodb.social/~neodb~/book/2C3xJXL4MCkl8gzecRwIKi" rel="nofollow">Find Yourself at Home: A Conscious Approach to Shaping Your Space and Your Life</a> <br>Another one randomly chosen among the VPL audiobooks for home interior design and decoration<br></p>]]></description>
+            <link>https://neodb.social/@villasv/posts/568406550152571808/</link>
+            <guid isPermaLink="true">https://neodb.social/@villasv/posts/568406550152571808/</guid>
+            <pubDate>Sat, 18 Apr 2026 19:04:41 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Finished reading]]></title>
-            <description><![CDATA[<p><a href="https://neodb.social/~neodb~/book/3FjSyAWbHzhCMXla39GNzJ" rel="nofollow">House Lessons: Renovating a Life, 2 out of 10</a>  <br>Things upper-middle-class people do to cope with therapy material; the home renovation edition. Boring, uninteresting, formulaic.<br></p>]]></description>
+            <description><![CDATA[<p><a href="https://neodb.social/~neodb~/book/3FjSyAWbHzhCMXla39GNzJ" rel="nofollow">House Lessons: Renovating a Life, 3 out of 10</a>  <br>Things upper-middle-class people do to cope with therapy material; the home renovation edition. Boring, uninteresting, formulaic.<br></p>]]></description>
             <link>https://neodb.social/@villasv/posts/568373115461357368/</link>
             <guid isPermaLink="true">https://neodb.social/@villasv/posts/568373115461357368/</guid>
             <pubDate>Sat, 18 Apr 2026 16:51:50 GMT</pubDate>
@@ -279,13 +286,6 @@
             <link>https://neodb.social/@villasv/posts/525814872679055184/</link>
             <guid isPermaLink="true">https://neodb.social/@villasv/posts/525814872679055184/</guid>
             <pubDate>Mon, 22 Dec 2025 06:20:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Wants to read]]></title>
-            <description><![CDATA[<p><a href="https://neodb.social/~neodb~/book/77wBUoxwkHwNHSXvth4Wvq" rel="nofollow">Technofeudalism</a> </p><p></p>]]></description>
-            <link>https://neodb.social/@villasv/posts/516235358555381344/</link>
-            <guid isPermaLink="true">https://neodb.social/@villasv/posts/516235358555381344/</guid>
-            <pubDate>Tue, 25 Nov 2025 19:55:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Media]]></title>
