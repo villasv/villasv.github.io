@@ -5270,7 +5270,7 @@
               "role": "actor",
               "name": "Regina Hall",
               "character_name": "",
-              "person_url": null
+              "person_url": "/api/person/2Vcn0ibaUgPs7CGGfTEwda"
             },
             {
               "role": "actor",
@@ -6401,13 +6401,13 @@
               "url": "https://eggplant.place/movie/2fOGh6h70ar3LJnAkUNEUY"
             },
             {
-              "url": "https://movie.douban.com/subject/35603727/"
-            },
-            {
               "url": "https://bgm.tv/subject/496916"
             },
             {
               "url": "https://www.wikidata.org/wiki/Q125622088"
+            },
+            {
+              "url": "https://movie.douban.com/subject/35603727/"
             }
           ],
           "credits": [
@@ -6415,13 +6415,13 @@
               "role": "director",
               "name": "金兹·兹巴洛迪斯",
               "character_name": "",
-              "person_url": null
+              "person_url": "/api/person/15e5u9nf6u3CwAe5IaXliZ"
             },
             {
               "role": "playwright",
               "name": "金兹·兹巴洛迪斯",
               "character_name": "",
-              "person_url": null
+              "person_url": "/api/person/15e5u9nf6u3CwAe5IaXliZ"
             }
           ]
         },
@@ -7906,7 +7906,7 @@
               "role": "actor",
               "name": "丹尼斯·奎德",
               "character_name": "",
-              "person_url": null
+              "person_url": "/api/person/1tLT13p7OnU9V9z6kylFQx"
             },
             {
               "role": "actor",
@@ -13019,7 +13019,7 @@
               "role": "actor",
               "name": "卢夫斯·塞维尔",
               "character_name": "",
-              "person_url": null
+              "person_url": "/api/person/08E1qjjtEvdX94tvwjqXQ8"
             },
             {
               "role": "actor",
@@ -14112,7 +14112,7 @@
               "role": "actor",
               "name": "Adriana Caselotti",
               "character_name": "",
-              "person_url": null
+              "person_url": "/api/person/1FhuYziT09uBU1jvphn9od"
             },
             {
               "role": "actor",
@@ -14148,7 +14148,7 @@
               "role": "actor",
               "name": "Pinto Colvig",
               "character_name": "",
-              "person_url": null
+              "person_url": "/api/person/7fyzIwyJHH21sUhnf89lAo"
             },
             {
               "role": "actor",
