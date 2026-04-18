@@ -5184,7 +5184,7 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/doubanmovie/2025/09/30/f80bc17b-7fee-46e0-9697-7689772ce7c4.jpg",
           "rating": 7.7,
-          "rating_count": 335,
+          "rating_count": 336,
           "rating_distribution": [
             1,
             3,
@@ -5324,7 +5324,7 @@
               "role": "actor",
               "name": "Sean Penn",
               "character_name": "",
-              "person_url": null
+              "person_url": "/api/person/4k4REpC6Qm4tx6kFm4ED5J"
             },
             {
               "role": "actor",
@@ -6699,7 +6699,7 @@
               "role": "actor",
               "name": "拉尔夫·伊内森",
               "character_name": "",
-              "person_url": null
+              "person_url": "/api/person/5o2rBjCRgVpJcYLyL8JhJS"
             },
             {
               "role": "actor",
@@ -7342,7 +7342,7 @@
               "role": "actor",
               "name": "菲丽希缇·琼斯",
               "character_name": "",
-              "person_url": null
+              "person_url": "/api/person/1m5k1Vo39aMQeO3ziojKC6"
             },
             {
               "role": "actor",
@@ -8590,7 +8590,7 @@
               "role": "actor",
               "name": "Matthew Géczy",
               "character_name": "",
-              "person_url": null
+              "person_url": "/api/person/5FOTiRpsT7Eg2nmq4bDe1r"
             },
             {
               "role": "actor",
@@ -8955,19 +8955,19 @@
               "role": "director",
               "name": "肖恩·贝克",
               "character_name": "",
-              "person_url": null
+              "person_url": "/api/person/0cvAE9wWRbQITk6vOGc9pR"
             },
             {
               "role": "director",
               "name": "Sean Baker",
               "character_name": "",
-              "person_url": null
+              "person_url": "/api/person/0cvAE9wWRbQITk6vOGc9pR"
             },
             {
               "role": "playwright",
               "name": "肖恩·贝克",
               "character_name": "",
-              "person_url": null
+              "person_url": "/api/person/0cvAE9wWRbQITk6vOGc9pR"
             }
           ]
         },
@@ -10074,7 +10074,7 @@
               "role": "actor",
               "name": "迪伦·贝克",
               "character_name": "",
-              "person_url": null
+              "person_url": "/api/person/0p8jqrEJbKHusHerGn3T4C"
             },
             {
               "role": "actor",
@@ -13453,13 +13453,13 @@
               "role": "director",
               "name": "约瑟夫·科辛斯基",
               "character_name": "",
-              "person_url": null
+              "person_url": "/api/person/5tufx5Xj42JDUs7trParJS"
             },
             {
               "role": "playwright",
               "name": "约瑟夫·科辛斯基",
               "character_name": "",
-              "person_url": null
+              "person_url": "/api/person/5tufx5Xj42JDUs7trParJS"
             },
             {
               "role": "playwright",
@@ -13471,7 +13471,7 @@
               "role": "playwright",
               "name": "迈克尔·阿恩特",
               "character_name": "",
-              "person_url": null
+              "person_url": "/api/person/0FyVBVhoBg92tBlyH8b0m5"
             }
           ]
         },
@@ -13745,7 +13745,7 @@
               "role": "actor",
               "name": "Lindsay Rootare",
               "character_name": "",
-              "person_url": null
+              "person_url": "/api/person/4Qqx3HrWYjXlbFHXrTLPT0"
             },
             {
               "role": "actor",
@@ -14046,55 +14046,55 @@
               "role": "actor",
               "name": "朱迪·加兰",
               "character_name": "",
-              "person_url": null
+              "person_url": "/api/person/6N0eKv4LqarD2iZjWP72B4"
             },
             {
               "role": "actor",
               "name": "弗兰克·摩根",
               "character_name": "",
-              "person_url": null
+              "person_url": "/api/person/3n4d7F7dkZnjGgNkZq9VnV"
             },
             {
               "role": "actor",
               "name": "雷·博尔格",
               "character_name": "",
-              "person_url": null
+              "person_url": "/api/person/5MEaepQGHEEARUtXz0CZ6Z"
             },
             {
               "role": "actor",
               "name": "伯特·拉尔",
               "character_name": "",
-              "person_url": null
+              "person_url": "/api/person/0LUOdqxu52GHU3PPoXHFXW"
             },
             {
               "role": "actor",
               "name": "小约翰·约瑟夫·海利",
               "character_name": "",
-              "person_url": null
+              "person_url": "/api/person/7clgZH3efuKfogUIppjEk8"
             },
             {
               "role": "actor",
               "name": "玛丽·伯克",
               "character_name": "",
-              "person_url": null
+              "person_url": "/api/person/4uTtVnJL6Sll3THcrj3CyX"
             },
             {
               "role": "actor",
               "name": "玛格丽特·汉密尔顿",
               "character_name": "",
-              "person_url": null
+              "person_url": "/api/person/41GJF2VRuJKFZcVdxox4Zf"
             },
             {
               "role": "actor",
               "name": "查利· 格雷普韦恩",
               "character_name": "",
-              "person_url": null
+              "person_url": "/api/person/0TvaDc87Blqn976jTeQ5HE"
             },
             {
               "role": "actor",
               "name": "克拉拉·布兰迪克",
               "character_name": "",
-              "person_url": null
+              "person_url": "/api/person/7285p2cQyZUfQmGgw9JeJv"
             },
             {
               "role": "actor",
@@ -14106,7 +14106,7 @@
               "role": "actor",
               "name": "Pat Walshe",
               "character_name": "",
-              "person_url": null
+              "person_url": "/api/person/1fBIjfYSZGN1DLIjKg2rKO"
             },
             {
               "role": "actor",
@@ -14196,25 +14196,25 @@
               "role": "director",
               "name": "维克多·弗莱明",
               "character_name": "",
-              "person_url": null
+              "person_url": "/api/person/3SxdoE5dclVOWfbzA8jneJ"
             },
             {
               "role": "playwright",
               "name": "诺埃尔·兰利",
               "character_name": "",
-              "person_url": null
+              "person_url": "/api/person/0ygJBXW5gRhqSLgOiSHns4"
             },
             {
               "role": "playwright",
               "name": "弗洛伦斯·瑞尔森",
               "character_name": "",
-              "person_url": null
+              "person_url": "/api/person/380U60se9bx7c6WswoBIkL"
             },
             {
               "role": "playwright",
               "name": "埃德加·艾伦·伍尔夫",
               "character_name": "",
-              "person_url": null
+              "person_url": "/api/person/6tN5U9O0dZRslJ25XJ9XfF"
             }
           ]
         },
@@ -14551,7 +14551,7 @@
               "role": "actor",
               "name": "邹时擎",
               "character_name": "",
-              "person_url": null
+              "person_url": "/api/person/6mopFIcnZnxSe5YKMFJeht"
             },
             {
               "role": "actor",
@@ -14593,13 +14593,13 @@
               "role": "director",
               "name": "肖恩·贝克",
               "character_name": "",
-              "person_url": null
+              "person_url": "/api/person/0cvAE9wWRbQITk6vOGc9pR"
             },
             {
               "role": "playwright",
               "name": "肖恩·贝克",
               "character_name": "",
-              "person_url": null
+              "person_url": "/api/person/0cvAE9wWRbQITk6vOGc9pR"
             },
             {
               "role": "playwright",
@@ -14885,13 +14885,13 @@
               "role": "director",
               "name": "维姆·文德斯",
               "character_name": "",
-              "person_url": null
+              "person_url": "/api/person/3eOFAGtn2mRwo3HE3BVTPI"
             },
             {
               "role": "playwright",
               "name": "维姆·文德斯",
               "character_name": "",
-              "person_url": null
+              "person_url": "/api/person/3eOFAGtn2mRwo3HE3BVTPI"
             },
             {
               "role": "playwright",
@@ -16621,7 +16621,7 @@
               "role": "actor",
               "name": "凯文·克莱恩",
               "character_name": "",
-              "person_url": null
+              "person_url": "/api/person/3uawWWFaatC46tMdsxlozh"
             },
             {
               "role": "actor",
