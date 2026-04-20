@@ -9217,13 +9217,13 @@
           ],
           "cover_image_url": "https://neodb.social/m/movie/2021/09/151c1239cd-bcd0-45cf-98ef-583da7c844d3.jpg",
           "rating": 9.1,
-          "rating_count": 115,
+          "rating_count": 114,
           "rating_distribution": [
             0,
             0,
             6,
-            31,
-            63
+            32,
+            62
           ],
           "tags": [
             "2020",
@@ -14231,7 +14231,7 @@
               "role": "actor",
               "name": "Buster Brodie",
               "character_name": "",
-              "person_url": null
+              "person_url": "/api/person/5J1LqPSAUS3yB361s7iz63"
             },
             {
               "role": "actor",
