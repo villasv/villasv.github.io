@@ -1999,6 +1999,89 @@
       {
         "shelf_type": "progress",
         "visibility": 0,
+        "post_id": "568877072552906808",
+        "item": {
+          "type": "Edition",
+          "title": "If on a Winter's Night a Traveler",
+          "description": "Italo Calvino imagines a novel capable of endless mutations in this intricately crafted story about writing and readers.\nIf on a Winter's Night a Traveler turns out to be not one novel but ten, each with a different plot, style, ambience, and author, and each interrupted at a moment of suspense. Together they form a labyrinth of literatures, known and unknown, alive and extinct, through which two readers, a male and a female, pursue both the story lines that intrigue them and one another.",
+          "localized_title": [
+            {
+              "lang": "en",
+              "text": "If on a Winter's Night a Traveler"
+            }
+          ],
+          "localized_description": [
+            {
+              "lang": "en",
+              "text": "Italo Calvino imagines a novel capable of endless mutations in this intricately crafted story about writing and readers.\nIf on a Winter's Night a Traveler turns out to be not one novel but ten, each with a different plot, style, ambience, and author, and each interrupted at a moment of suspense. Together they form a labyrinth of literatures, known and unknown, alive and extinct, through which two readers, a male and a female, pursue both the story lines that intrigue them and one another."
+            }
+          ],
+          "cover_image_url": "https://neodb.social/m/book/2021/09/151fec72e6-4a8f-4ef8-9ce7-8ba080d25566.jpg",
+          "rating": 9.5,
+          "rating_count": 8,
+          "rating_distribution": [
+            0,
+            0,
+            0,
+            25,
+            75
+          ],
+          "tags": [
+            "c",
+            "english",
+            "卡尔维诺",
+            "叙事维度的无限可能",
+            "外国文学",
+            "大三上",
+            "小说",
+            "已购",
+            "意大利",
+            "意大利文英译本",
+            "文学",
+            "长篇小说"
+          ],
+          "brief": "Italo Calvino imagines a novel capable of endless mutations in this intricately crafted story about writing and readers.\nIf on a Winter's Night a Traveler turns out to be not one novel but ten, each with a different plot, style, ambience, and author, and each interrupted at a moment of suspense. Together they form a labyrinth of literatures, known and unknown, alive and extinct, through which two readers, a male and a female, pursue both the story lines that intrigue them and one another.",
+          "id": "https://neodb.social/book/1GAVNb8HK4BNpK82IVyifj",
+          "uuid": "1GAVNb8HK4BNpK82IVyifj",
+          "url": "/book/1GAVNb8HK4BNpK82IVyifj",
+          "api_url": "/api/book/1GAVNb8HK4BNpK82IVyifj",
+          "category": "book",
+          "parent_uuid": "4uADIhNVXWO4OaPgbNawPU",
+          "display_title": "If on a Winter's Night a Traveler",
+          "external_resources": [
+            {
+              "url": "https://book.douban.com/subject/1455954/"
+            }
+          ],
+          "credits": [
+            {
+              "role": "author",
+              "name": "Italo Calvino",
+              "character_name": "",
+              "person_url": null
+            },
+            {
+              "role": "publisher",
+              "name": "Harcourt Brace Jovanovich",
+              "character_name": "",
+              "person_url": null
+            },
+            {
+              "role": "translator",
+              "name": "William Weaver",
+              "character_name": "",
+              "person_url": null
+            }
+          ]
+        },
+        "created_time": "2026-04-20T02:14:23.252Z",
+        "comment_text": "I’ve read Invisible Cities last year while traveling, and it became my overall favourite book; so I’ll take the easy way in and pick up more Italo Calvino for this years big travel",
+        "rating_grade": null,
+        "tags": []
+      },
+      {
+        "shelf_type": "progress",
+        "visibility": 0,
         "post_id": "568406550152571808",
         "item": {
           "type": "Edition",
@@ -6884,7 +6967,7 @@
               "role": "actor",
               "name": "扬·菲利彭斯基",
               "character_name": "",
-              "person_url": null
+              "person_url": "/api/person/75EZm2x17jqzxp37kjMlsu"
             },
             {
               "role": "actor",
@@ -7107,43 +7190,43 @@
               "role": "actor",
               "name": "Julian Brave NoiseCat",
               "character_name": "",
-              "person_url": null
+              "person_url": "/api/person/2tiPsozVYFEDgSFGmKZfzz"
             },
             {
               "role": "actor",
               "name": "Willie Sellars",
               "character_name": "",
-              "person_url": null
+              "person_url": "/api/person/1aMoz76j6Iz4KYkdXSa3GV"
             },
             {
               "role": "actor",
               "name": "Charlene Belleau",
               "character_name": "",
-              "person_url": null
+              "person_url": "/api/person/3avpfDTea9dob9oFtAxlwL"
             },
             {
               "role": "actor",
               "name": "Ed Archie Noisecat",
               "character_name": "",
-              "person_url": null
+              "person_url": "/api/person/0sqryTsxAeomhX1jiTHEGU"
             },
             {
               "role": "actor",
               "name": "Chief Willie Sellars",
               "character_name": "",
-              "person_url": null
+              "person_url": "/api/person/5HCoo0JowmUE157uDN5wSz"
             },
             {
               "role": "director",
               "name": "Julian Brave NoiseCat",
               "character_name": "",
-              "person_url": null
+              "person_url": "/api/person/2tiPsozVYFEDgSFGmKZfzz"
             },
             {
               "role": "director",
               "name": "Emily Kassie",
               "character_name": "",
-              "person_url": null
+              "person_url": "/api/person/30jETg5HsdOXQb8sHh4Tzy"
             }
           ]
         },
@@ -8043,7 +8126,7 @@
               "role": "actor",
               "name": "文森特·科隆布",
               "character_name": "",
-              "person_url": null
+              "person_url": "/api/person/7NltPxgNyDpW5KCmW9enkp"
             },
             {
               "role": "actor",
@@ -11596,7 +11679,7 @@
               "role": "actor",
               "name": "Victoria Hall",
               "character_name": "",
-              "person_url": null
+              "person_url": "/api/person/3AVMv7TKaccIzbqcWDC6Qm"
             },
             {
               "role": "actor",
@@ -11908,7 +11991,7 @@
               "role": "actor",
               "name": "Sébastien Beaulac",
               "character_name": "",
-              "person_url": null
+              "person_url": "/api/person/5JDz6JWlL1CaMjrwO98U2G"
             },
             {
               "role": "director",
@@ -14225,7 +14308,7 @@
               "role": "actor",
               "name": "Mitchell Lewis",
               "character_name": "",
-              "person_url": null
+              "person_url": "/api/person/61VaRYBMDmer40O3mMC1XY"
             },
             {
               "role": "actor",
@@ -17233,7 +17316,7 @@
               "role": "actor",
               "name": "特拉梅尔·提尔曼",
               "character_name": "",
-              "person_url": null
+              "person_url": "/api/person/5oys6RNhoLoDfxdoEDPSQE"
             },
             {
               "role": "actor",
@@ -18424,7 +18507,7 @@
               "role": "actor",
               "name": "Gustave Kervern",
               "character_name": "",
-              "person_url": null
+              "person_url": "/api/person/36fVhzaD8d5nYhaPR0NJ5h"
             },
             {
               "role": "actor",
@@ -18939,7 +19022,7 @@
               "role": "actor",
               "name": "特拉梅尔·提尔曼",
               "character_name": "",
-              "person_url": null
+              "person_url": "/api/person/5oys6RNhoLoDfxdoEDPSQE"
             },
             {
               "role": "actor",
