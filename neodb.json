@@ -11427,19 +11427,19 @@
               "role": "actor",
               "name": "Arthur Erickson",
               "character_name": "",
-              "person_url": null
+              "person_url": "/api/person/2Zd0Ttu5st6nLp54Vjn1Uk"
             },
             {
               "role": "director",
               "name": "Ryan Mah",
               "character_name": "",
-              "person_url": null
+              "person_url": "/api/person/1IIETbD4GolC59vA23igpc"
             },
             {
               "role": "director",
               "name": "Danny Berish",
               "character_name": "",
-              "person_url": null
+              "person_url": "/api/person/2l2Lnpcib6J946O4WtTgr4"
             }
           ]
         },
