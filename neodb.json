@@ -10573,7 +10573,7 @@
               "role": "actor",
               "name": "Marianne Muellerleile",
               "character_name": "",
-              "person_url": null
+              "person_url": "/api/person/5AZZoWFahgW0TI1M7k2eae"
             },
             {
               "role": "actor",
@@ -10842,7 +10842,7 @@
           ],
           "cover_image_url": "https://neodb.social/m/movie/2021/09/13a9c03ef4-33c1-4264-adbf-89a2ec1f34ab.jpg",
           "rating": 8.2,
-          "rating_count": 1931,
+          "rating_count": 1932,
           "rating_distribution": [
             0,
             1,
