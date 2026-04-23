@@ -3808,14 +3808,14 @@
             }
           ],
           "cover_image_url": "https://neodb.social/m/item/doubanbook/2023/05/09/4a6a964c-6855-4236-90dd-432f506f7bd9.jpg",
-          "rating": 7.8,
-          "rating_count": 16,
+          "rating": 7.7,
+          "rating_count": 17,
           "rating_distribution": [
             0,
             6,
             12,
-            44,
-            38
+            47,
+            35
           ],
           "tags": [
             "adhd",
@@ -7242,7 +7242,7 @@
         "item": {
           "type": "Movie",
           "title": "粗野派",
-          "description": "故事围绕匈牙利出生的犹太建筑师拉斯洛·托斯与妻子埃尔兹贝特展开。他们在二战后逃离欧洲，前往美国重启他们的事业，并见证了现代美国的诞生。然而他们的生活被一名神秘而富有的客户改变了。",
+          "description": "战争结束后， 富有远见的建筑师拉斯洛·托特逃离满目疮痍的欧洲，远渡重洋抵达美国，决心在这片陌生的土地上重建自己的人生、事业，以及与妻子伊丽莎白的婚姻——战时变迁的国界与政权曾迫使这对夫妻天各一方。孤独地置身于崭新的国度，拉斯洛在宾夕法尼亚州落脚。其建筑才华被当地财力雄厚、声名显赫的实业家哈里森·李·范布伦赏识。然而，权力与传奇的代价，往往沉重得超乎想象。[A24]",
           "localized_title": [
             {
               "lang": "ko",
@@ -7261,14 +7261,6 @@
               "text": "Der Brutalist"
             },
             {
-              "lang": "fr",
-              "text": "The Brutalist"
-            },
-            {
-              "lang": "es",
-              "text": "The Brutalist"
-            },
-            {
               "lang": "en",
               "text": "The Brutalist"
             },
@@ -7283,58 +7275,6 @@
             {
               "lang": "zh-cn",
               "text": "粗野派"
-            },
-            {
-              "lang": "ja",
-              "text": "The Brutalist"
-            },
-            {
-              "lang": "pt",
-              "text": "The Brutalist"
-            },
-            {
-              "lang": "nn",
-              "text": "The Brutalist"
-            },
-            {
-              "lang": "nb",
-              "text": "The Brutalist"
-            },
-            {
-              "lang": "no",
-              "text": "The Brutalist"
-            },
-            {
-              "lang": "sv",
-              "text": "Brutalisten"
-            },
-            {
-              "lang": "da",
-              "text": "The Brutalist"
-            },
-            {
-              "lang": "zh-cn",
-              "text": "野兽派"
-            },
-            {
-              "lang": "zh-cn",
-              "text": "粗犷派建筑师(港/台)"
-            },
-            {
-              "lang": "zh-cn",
-              "text": "粗野主义者"
-            },
-            {
-              "lang": "zh",
-              "text": "粗獷派建築師"
-            },
-            {
-              "lang": "zh-hant",
-              "text": "粗獷派建築師"
-            },
-            {
-              "lang": "zh-sg",
-              "text": "粗犷派建筑师"
             }
           ],
           "localized_description": [
@@ -7355,71 +7295,23 @@
               "text": "Visionäre Ideen, ein radikaler Neuanfang und die Frage nach dem wahren Preis des Erfolgs: Die Geschichte des jüdisch-ungarischen Architekten László Toth, der nach den Schrecken des Zweiten Weltkriegs alles riskiert, um sein Leben in den USA neu aufzubauen. Auf dem Fundament vom Schmerz und Verlust findet Toth in der kalten und wuchtigen Kraft des Brutalismus den künstlerischen Ausdruck für seine zerrissene Seele. Dabei ist seine Architektur so kompromisslos wie er selbst, getrieben vom unbändigen Willen, die Welt zu prägen – selbst wenn sich sein bedeutendstes Werk als sein größter Fluch erweisen könnte."
             },
             {
-              "lang": "fr",
-              "text": "Pour échapper à l’Europe de l’après-guerre, l’architecte visionnaire László Tóth émigre aux États-Unis. Il veut y reconstruire sa vie, son travail et son mariage avec sa femme Erzsébet, dont il a été séparé pendant la guerre par suite des modifications de frontières et de régimes. Seul dans ce nouveau pays, László s’installe en Pennsylvanie, où le riche industriel Harrison Lee Van Buren remarque son talent pour la construction. Mais le pouvoir et l’héritage se paient au prix fort..."
-            },
-            {
-              "lang": "es",
-              "text": "Después de sobrevivir al Holocausto, László emigra a los Estados Unidos de la posguerra con la aspiración de reconstruir su carrera y su vida junto a su esposa. Su suerte da un giro fundamental cuando un rico industrial encarga a László el diseño de un ambicioso monumento modernista."
-            },
-            {
               "lang": "en",
-              "text": "Escaping post-war Europe, visionary architect László Toth arrives in America to rebuild his life, his work, and his marriage to his wife Erzsébet after being forced apart during wartime by shifting borders and regimes. On his own in a strange new country, László settles in Pennsylvania, where the wealthy and prominent industrialist Harrison Lee Van Buren recognizes his talent for building. But power and legacy come at a heavy cost."
+              "text": "When an innovative modern architect flees post-war Europe, he is given the opportunity to rebuild his legacy. Set during the dawn of the modern United States (in Pennsylvania), his wife joins him, and their lives are forever changed by a demanding, wealthy patron."
             },
             {
               "lang": "zh-hk",
-              "text": "匈牙利裔猶太建築師László Toth在大屠殺中倖存，移居美國，期盼能在新天地迎接受困東歐的妻子。然而，他很快發現這片土地與他的想像截然不同——曾在布達佩斯享譽盛名的建築師，到了費城卻被上流社會拒之門外，美國夢破碎，萬事只能從零開始。面對陌生的文化與全新的生存法則，László只好在異鄉奮力尋找新方向，立志隨著時日一點一滴重拾昔日的榮譽與尊嚴。"
+              "text": "匈牙利裔猶太建築師 László Toth 在大屠殺中倖存，移居美國，期盼能在新天地迎接受困東歐的妻子。然而，他很快發現這片土地與他的想像截然不同——曾在布達佩斯享譽盛名的建築師，到了費城卻被上流社會拒之門外，美國夢破碎，萬事只能從零開始。面對陌生的文化與全新的生存法則，László只好在異鄉奮力尋找新方向，立志隨著時日一點一滴重拾昔日的榮譽與尊嚴。"
             },
             {
               "lang": "zh-tw",
-              "text": "二戰結束，匈牙利猶太裔建築師逃過死劫，遠渡重洋來到美國。他一方面等待被困在歐洲的妻子與姪女前來會合，另方面在賓州定居，受當地富豪賞識才氣，準備在陌生土地上重新展開事業。然而，在歐洲身為成功建築師的地位與聲勢，卻難以在此地的上流社會中延續。隨著建案推進、權力增長，付出的代價亦愈見高昂，心中期待的「美國夢」，反而變得虛幻難觸⋯⋯。"
+              "text": "匈牙利裔猶太建築師拉斯洛托特在納粹大屠殺中倖存下來，移民到美國展開新生活，同時等待妻子艾莉莎貝的到來。拉斯洛來到西方後，發現美國與他想像的截然不同，美國夢只是一場虛幻..."
             },
             {
               "lang": "zh-cn",
-              "text": "故事围绕匈牙利出生的犹太建筑师拉斯洛·托斯与妻子埃尔兹贝特展开。他们在二战后逃离欧洲，前往美国重启他们的事业，并见证了现代美国的诞生。然而他们的生活被一名神秘而富有的客户改变了。"
-            },
-            {
-              "lang": "fr",
-              "text": "Lorsque l'architecte visionnaire László Toth et sa femme Erzsébet fuient l'Europe de l'après-guerre en 1947 pour reconstruire leur héritage et assister à la naissance de l'Amérique moderne, leur vie est changée."
-            },
-            {
-              "lang": "en",
-              "text": "Escaping post-war Europe, visionary architect László Tóth arrives in America to rebuild his life, his work, and his marriage to his wife Erzsébet after being forced apart during wartime by shifting borders and regimes. On his own in a strange new country, László settles in Pennsylvania, where the wealthy and prominent industrialist Harrison Lee Van Buren recognizes his talent for building. But power and legacy come at a heavy cost."
-            },
-            {
-              "lang": "sv",
-              "text": "På flykt från efterkrigstidens Europa anländer den visionäre arkitekten László Tóth till Amerika för att återuppbygga sitt liv och sitt äktenskap med hustrun Erzsébet efter att de har tvingats isär av krigstidens skiftande gränser och regimer. Ensam i ett nytt, främmande land slår László sig ner i Pennsylvania, där den rike och framstående industrimagnaten Harrison Lee Van Buren inser hans talang för byggnation."
-            },
-            {
-              "lang": "en",
-              "text": "Escaping post-war Europe, visionary architect László Toth arrives in America to rebuild his life. On his own in a strange new country, a wealthy industrialist recognizes his talent. But power and legacy come at a heavy cost..."
-            },
-            {
-              "lang": "en",
-              "text": "2024 film directed by Brady Corbet"
-            },
-            {
-              "lang": "es",
-              "text": "película de 2024 dirigida por Brady Corbet"
-            },
-            {
-              "lang": "fr",
-              "text": "film de Brady Corbet, sorti en 2024"
-            },
-            {
-              "lang": "de",
-              "text": "Film von Brady Corbet (2024)"
-            },
-            {
-              "lang": "pt",
-              "text": "filme de 2024 dirigido por Brady Corbet"
-            },
-            {
-              "lang": "ko",
-              "text": "브레이디 코베이 감독의 2024년 영화"
+              "text": "战争结束后， 富有远见的建筑师拉斯洛·托特逃离满目疮痍的欧洲，远渡重洋抵达美国，决心在这片陌生的土地上重建自己的人生、事业，以及与妻子伊丽莎白的婚姻——战时变迁的国界与政权曾迫使这对夫妻天各一方。孤独地置身于崭新的国度，拉斯洛在宾夕法尼亚州落脚。其建筑才华被当地财力雄厚、声名显赫的实业家哈里森·李·范布伦赏识。然而，权力与传奇的代价，往往沉重得超乎想象。[A24]"
             }
           ],
-          "cover_image_url": "https://neodb.social/m/item/movie/2025/03/12/dd6c73e9-ab71-4ff3-8f3d-fbc38d3c16c5.webp",
+          "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2026/04/23/e1a69180-f2ff-4c72-810d-a8fe667242b3.jpg",
           "rating": 6.7,
           "rating_count": 130,
           "rating_distribution": [
@@ -7451,7 +7343,7 @@
             "美国",
             "英国"
           ],
-          "brief": "故事围绕匈牙利出生的犹太建筑师拉斯洛·托斯与妻子埃尔兹贝特展开。他们在二战后逃离欧洲，前往美国重启他们的事业，并见证了现代美国的诞生。然而他们的生活被一名神秘而富有的客户改变了。",
+          "brief": "战争结束后， 富有远见的建筑师拉斯洛·托特逃离满目疮痍的欧洲，远渡重洋抵达美国，决心在这片陌生的土地上重建自己的人生、事业，以及与妻子伊丽莎白的婚姻——战时变迁的国界与政权曾迫使这对夫妻天各一方。孤独地置身于崭新的国度，拉斯洛在宾夕法尼亚州落脚。其建筑才华被当地财力雄厚、声名显赫的实业家哈里森·李·范布伦赏识。然而，权力与传奇的代价，往往沉重得超乎想象。[A24]",
           "id": "https://neodb.social/movie/7Ewenx9aHugGnoOV2DAbs0",
           "uuid": "7Ewenx9aHugGnoOV2DAbs0",
           "url": "/movie/7Ewenx9aHugGnoOV2DAbs0",
@@ -7482,91 +7374,91 @@
           "credits": [
             {
               "role": "actor",
-              "name": "阿德里安·布罗迪",
+              "name": "Adrien Brody",
               "character_name": "",
               "person_url": "/api/person/3kNPgSakHBRPltBbbi669X"
             },
             {
               "role": "actor",
-              "name": "菲丽希缇·琼斯",
+              "name": "Felicity Jones",
               "character_name": "",
               "person_url": "/api/person/1m5k1Vo39aMQeO3ziojKC6"
             },
             {
               "role": "actor",
-              "name": "盖·皮尔斯",
+              "name": "Guy Pearce",
               "character_name": "",
               "person_url": "/api/person/67VlxCfjC6nlkuzD1fMyg8"
             },
             {
               "role": "actor",
-              "name": "乔·阿尔文",
+              "name": "Joe Alwyn",
               "character_name": "",
               "person_url": "/api/person/7hhdCLJvThT3WNLsMsvMjV"
             },
             {
               "role": "actor",
-              "name": "拉菲·卡西迪",
+              "name": "Raffey Cassidy",
               "character_name": "",
               "person_url": "/api/person/3jZlrofUmpw9JHw8BrjAjd"
             },
             {
               "role": "actor",
-              "name": "史黛西·马丁",
+              "name": "斯塔西·马汀",
               "character_name": "",
               "person_url": null
             },
             {
               "role": "actor",
-              "name": "伊萨赫·德·班克尔",
+              "name": "Isaach de Bankolé",
               "character_name": "",
               "person_url": "/api/person/2ITufy5fM2zr14HF5jbeCh"
             },
             {
               "role": "actor",
-              "name": "亚历山德罗·尼沃拉",
+              "name": "亚历桑德罗·尼沃拉",
               "character_name": "",
               "person_url": null
             },
             {
               "role": "actor",
-              "name": "阿丽亚娜·拉贝德",
+              "name": "亚里安妮·拉贝德",
               "character_name": "",
               "person_url": null
             },
             {
               "role": "actor",
-              "name": "Michael Epp",
+              "name": "米迦勒·埃普",
               "character_name": "",
-              "person_url": "/api/person/2Zgu7q0RXJlcZ4yle4QM9A"
+              "person_url": null
             },
             {
               "role": "actor",
-              "name": "艾玛·莱尔德",
+              "name": "Emma Laird",
               "character_name": "",
               "person_url": "/api/person/3q477StlGPlRUJBEsInBlc"
             },
             {
               "role": "actor",
-              "name": "乔纳森·海德",
+              "name": "Jonathan Hyde",
               "character_name": "",
               "person_url": "/api/person/21prjOIJMHXGvNdhl4bDUQ"
             },
             {
               "role": "actor",
-              "name": "Peter Polycarpou",
+              "name": "彼得·多卡普",
               "character_name": "",
               "person_url": null
             },
             {
               "role": "actor",
-              "name": "Maria Sand",
+              "name": "玛利亚·桑德",
               "character_name": "",
               "person_url": null
             },
             {
               "role": "actor",
-              "name": "Salvatore Sansone",
+              "name": "萨尔瓦多·桑索内",
               "character_name": "",
               "person_url": null
             },
@@ -7584,15 +7476,15 @@
             },
             {
               "role": "actor",
-              "name": "Levente Orbán",
+              "name": "列文特·奥尔班",
               "character_name": "",
-              "person_url": "/api/person/4qbeHfQ7IoTaqPgN1A8EZQ"
+              "person_url": null
             },
             {
               "role": "actor",
-              "name": "Benett Vilmányi",
+              "name": "贝内特·维尔曼尼",
               "character_name": "",
-              "person_url": "/api/person/0TuPEvMrU4As5RkVdrsOxy"
+              "person_url": null
             },
             {
               "role": "actor",
@@ -7602,7 +7494,7 @@
             },
             {
               "role": "actor",
-              "name": "Abigél Szőke",
+              "name": "Szőke Abigél",
               "character_name": "",
               "person_url": null
             },
@@ -7620,43 +7512,43 @@
             },
             {
               "role": "actor",
-              "name": "Zsolt Páll",
+              "name": "佐尔特·帕尔",
               "character_name": "",
               "person_url": null
             },
             {
               "role": "actor",
-              "name": "Anna Mészöly",
+              "name": "Mészöly Anna",
               "character_name": "",
               "person_url": null
             },
             {
               "role": "actor",
-              "name": "Mariann Hermányi",
+              "name": "Hermányi Mariann",
               "character_name": "",
               "person_url": null
             },
             {
               "role": "actor",
-              "name": "尼古拉斯·威特曼",
+              "name": "尼克·威特曼",
               "character_name": "",
               "person_url": null
             },
             {
               "role": "actor",
-              "name": "Robert Jackson",
+              "name": "罗伯特·杰克逊",
               "character_name": "",
-              "person_url": "/api/person/7HrXGvqgzGjVLASTaIm5DB"
+              "person_url": null
             },
             {
               "role": "actor",
-              "name": "Peter Linka",
+              "name": "彼得·林卡",
               "character_name": "",
-              "person_url": "/api/person/45vO3DwQJEHwPgxfEs7QYP"
+              "person_url": null
             },
             {
               "role": "actor",
-              "name": "Jeremy Wheeler",
+              "name": "杰瑞米·惠勒",
               "character_name": "",
               "person_url": null
             },
@@ -7668,7 +7560,7 @@
             },
             {
               "role": "actor",
-              "name": "杰姆斯·巴特勒",
+              "name": "杰米斯·巴特勒",
               "character_name": "",
               "person_url": null
             },
@@ -7686,27 +7578,21 @@
             },
             {
               "role": "actor",
-              "name": "Hermina Fátyol",
+              "name": "Fátyol Hermina",
               "character_name": "",
               "person_url": null
             },
             {
               "role": "actor",
-              "name": "Dóra Sztarenki",
-              "character_name": "",
-              "person_url": "/api/person/35t2aVSroox75fpSPmlhQl"
-            },
-            {
-              "role": "actor",
-              "name": "Natalie Shinnick",
+              "name": "多拉·萨塔伦基",
               "character_name": "",
               "person_url": null
             },
             {
-              "role": "director",
-              "name": "布拉迪·科贝特",
+              "role": "actor",
+              "name": "娜塔莉·欣尼克",
               "character_name": "",
-              "person_url": "/api/person/2RUXswGte3hh9ZFZz21bg2"
+              "person_url": null
             },
             {
               "role": "director",
@@ -7716,15 +7602,261 @@
             },
             {
               "role": "playwright",
-              "name": "布拉迪·科贝特",
+              "name": "Brady Corbet",
               "character_name": "",
               "person_url": "/api/person/2RUXswGte3hh9ZFZz21bg2"
             },
             {
               "role": "playwright",
-              "name": "莫娜·法斯特欧德",
+              "name": "Mona Fastvold",
               "character_name": "",
               "person_url": "/api/person/2XRughNYdawtVrNYFpHERJ"
+            },
+            {
+              "role": "producer",
+              "name": "Ron Curtis",
+              "character_name": "",
+              "person_url": null
+            },
+            {
+              "role": "producer",
+              "name": "Mark Gillespie",
+              "character_name": "",
+              "person_url": null
+            },
+            {
+              "role": "producer",
+              "name": "Nick Gordon",
+              "character_name": "",
+              "person_url": null
+            },
+            {
+              "role": "producer",
+              "name": "D.J. Gugenheim",
+              "character_name": "",
+              "person_url": null
+            },
+            {
+              "role": "producer",
+              "name": "Jiarui Guo",
+              "character_name": "",
+              "person_url": null
+            },
+            {
+              "role": "producer",
+              "name": "Aaron Himmel",
+              "character_name": "",
+              "person_url": null
+            },
+            {
+              "role": "producer",
+              "name": "David Hinojosa",
+              "character_name": "",
+              "person_url": null
+            },
+            {
+              "role": "producer",
+              "name": "Joshua Horsfield",
+              "character_name": "",
+              "person_url": null
+            },
+            {
+              "role": "producer",
+              "name": "Pamela Koffler",
+              "character_name": "",
+              "person_url": null
+            },
+            {
+              "role": "producer",
+              "name": "Max Kondziolka",
+              "character_name": "",
+              "person_url": null
+            },
+            {
+              "role": "producer",
+              "name": "Mark Lampert",
+              "character_name": "",
+              "person_url": null
+            },
+            {
+              "role": "producer",
+              "name": "Andrew Lauren",
+              "character_name": "",
+              "person_url": null
+            },
+            {
+              "role": "producer",
+              "name": "Trevor Matthews",
+              "character_name": "",
+              "person_url": null
+            },
+            {
+              "role": "producer",
+              "name": "Andrew Morrison",
+              "character_name": "",
+              "person_url": null
+            },
+            {
+              "role": "producer",
+              "name": "Oleg Nodelman",
+              "character_name": "",
+              "person_url": null
+            },
+            {
+              "role": "producer",
+              "name": "Michael Orcutt",
+              "character_name": "",
+              "person_url": null
+            },
+            {
+              "role": "producer",
+              "name": "Kelly Peck",
+              "character_name": "",
+              "person_url": null
+            },
+            {
+              "role": "producer",
+              "name": "Thomas Pierce",
+              "character_name": "",
+              "person_url": null
+            },
+            {
+              "role": "producer",
+              "name": "Klaudia Śmieja-Rostworowska",
+              "character_name": "",
+              "person_url": null
+            },
+            {
+              "role": "producer",
+              "name": "Carter Stanton",
+              "character_name": "",
+              "person_url": null
+            },
+            {
+              "role": "producer",
+              "name": "Kyle Stroud",
+              "character_name": "",
+              "person_url": null
+            },
+            {
+              "role": "producer",
+              "name": "克里斯婷·瓦陈",
+              "character_name": "",
+              "person_url": null
+            },
+            {
+              "role": "producer",
+              "name": "Ruby Walden",
+              "character_name": "",
+              "person_url": null
+            },
+            {
+              "role": "producer",
+              "name": "Brian Young",
+              "character_name": "",
+              "person_url": null
+            },
+            {
+              "role": "producer",
+              "name": "Scott Weber",
+              "character_name": "",
+              "person_url": null
+            },
+            {
+              "role": "producer",
+              "name": "布拉迪·科贝特",
+              "character_name": "",
+              "person_url": null
+            },
+            {
+              "role": "producer",
+              "name": "莫娜·法斯特欧德",
+              "character_name": "",
+              "person_url": null
+            },
+            {
+              "role": "producer",
+              "name": "Norman Merry",
+              "character_name": "",
+              "person_url": null
+            },
+            {
+              "role": "producer",
+              "name": "Jesse Ozeri",
+              "character_name": "",
+              "person_url": null
+            },
+            {
+              "role": "producer",
+              "name": "Nursultan Tasmagambetov",
+              "character_name": "",
+              "person_url": null
+            },
+            {
+              "role": "producer",
+              "name": "Zach Verdin",
+              "character_name": "",
+              "person_url": null
+            },
+            {
+              "role": "producer",
+              "name": "Heather Nodelman",
+              "character_name": "",
+              "person_url": null
+            },
+            {
+              "role": "producer",
+              "name": "Peter Hampden",
+              "character_name": "",
+              "person_url": null
+            },
+            {
+              "role": "producer",
+              "name": "Evangelo Kioussis",
+              "character_name": "",
+              "person_url": null
+            },
+            {
+              "role": "producer",
+              "name": "Simon Baxter",
+              "character_name": "",
+              "person_url": null
+            },
+            {
+              "role": "producer",
+              "name": "Owen Matthews",
+              "character_name": "",
+              "person_url": null
+            },
+            {
+              "role": "producer",
+              "name": "Sarah Meyohas",
+              "character_name": "",
+              "person_url": null
+            },
+            {
+              "role": "producer",
+              "name": "Matt Sippel",
+              "character_name": "",
+              "person_url": null
+            },
+            {
+              "role": "producer",
+              "name": "Scott Lake",
+              "character_name": "",
+              "person_url": null
+            },
+            {
+              "role": "producer",
+              "name": "Ronald Richardson",
+              "character_name": "",
+              "person_url": null
+            },
+            {
+              "role": "producer",
+              "name": "Emily Richardson",
+              "character_name": "",
+              "person_url": null
             }
           ]
         },
@@ -8702,7 +8834,7 @@
               "role": "actor",
               "name": "Cara Chapman",
               "character_name": "",
-              "person_url": null
+              "person_url": "/api/person/52Bb2urmCOFsfoIsdImcdX"
             },
             {
               "role": "actor",
@@ -18495,7 +18627,7 @@
               "role": "actor",
               "name": "Diego Ribon",
               "character_name": "",
-              "person_url": null
+              "person_url": "/api/person/2297GQKRxCmW280HLCUH0Q"
             },
             {
               "role": "actor",
