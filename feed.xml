@@ -4,9 +4,16 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 24 Apr 2026 19:21:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Apr 2026 21:19:30 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2026]]></copyright>
+        <item>
+            <title><![CDATA[Finished watching]]></title>
+            <description><![CDATA[<p><a href="https://neodb.social/~neodb~/movie/4jmStyO8IGxAxDBxT2AGP7" rel="nofollow">Bugonia, 6 out of 10</a>  <br>A different kind of suspense and thriller, definitely current given the rise of conspiracy theorists in latest decades. The overall acting and directing was good, as unnervingly as probably intended.</p><p>The ending… no way it’s supposed to be taken too literally, after all there’s zero chance that Teddy got anything right; but I can’t help but feel like it was a potential not fully realized. Would making it something obvious and straightforward too boring? Maybe. Maybe still better than what we got. Sometimes a fade to black is better than ending with the bang of a clown gun.<br></p>]]></description>
+            <link>https://neodb.social/@villasv/posts/570597237828013240/</link>
+            <guid isPermaLink="true">https://neodb.social/@villasv/posts/570597237828013240/</guid>
+            <pubDate>Fri, 24 Apr 2026 20:09:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Started reading]]></title>
             <description><![CDATA[<p><a href="https://neodb.social/~neodb~/book/1GAVNb8HK4BNpK82IVyifj" rel="nofollow">If on a Winter&#x27;s Night a Traveler</a> <br>I’ve read Invisible Cities last year while traveling, and it became my overall favourite book; so I’ll take the easy way in and pick up more Italo Calvino for this years big travel<br></p>]]></description>
@@ -279,13 +286,6 @@
             <link>https://neodb.social/@villasv/posts/525816035693989400/</link>
             <guid isPermaLink="true">https://neodb.social/@villasv/posts/525816035693989400/</guid>
             <pubDate>Mon, 22 Dec 2025 06:25:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Started reading]]></title>
-            <description><![CDATA[<p><a href="https://neodb.social/~neodb~/book/2AL2Q5OEDBJY4aibxm5jos" rel="nofollow">The Burnout Society</a> <br>Trying to read it again, after a bad experience reading it the first time. Maybe approaching it with different expectations is going to work differently...<br></p>]]></description>
-            <link>https://neodb.social/@villasv/posts/525815456949591208/</link>
-            <guid isPermaLink="true">https://neodb.social/@villasv/posts/525815456949591208/</guid>
-            <pubDate>Mon, 22 Dec 2025 06:22:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Media]]></title>

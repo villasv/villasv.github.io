@@ -10045,6 +10045,212 @@
       {
         "shelf_type": "complete",
         "visibility": 0,
+        "post_id": "570597237828013240",
+        "item": {
+          "type": "Movie",
+          "title": "拯救地球",
+          "description": "两名深信阴谋论的年轻人绑架了一位有权有势的大型企业女首席执行官（艾玛·斯通 Emma Stone 饰），因为他们坚信她其实是个企图摧毁地球的外星人。",
+          "localized_title": [
+            {
+              "lang": "zh-cn",
+              "text": "拯救地球"
+            },
+            {
+              "lang": "zh-cn",
+              "text": "拯救绿色星球"
+            },
+            {
+              "lang": "en",
+              "text": "Bugonia"
+            },
+            {
+              "lang": "zh-cn",
+              "text": "拯救地球(美版)"
+            },
+            {
+              "lang": "en",
+              "text": "Save the Green Planet‎"
+            },
+            {
+              "lang": "zh-cn",
+              "text": "暴蜂尼亚"
+            }
+          ],
+          "localized_description": [
+            {
+              "lang": "zh-cn",
+              "text": "两名深信阴谋论的年轻人绑架了一位有权有势的大型企业女首席执行官（艾玛·斯通 Emma Stone 饰），因为他们坚信她其实是个企图摧毁地球的外星人。"
+            },
+            {
+              "lang": "en",
+              "text": "Two conspiracy obsessed young men kidnap the high-powered CEO of a major company, convinced that she is an alien intent on destroying planet Earth."
+            },
+            {
+              "lang": "en",
+              "text": "2025 film directed by Yorgos Lanthimos"
+            }
+          ],
+          "cover_image_url": "https://neodb.social/m/item/doubanmovie/2025/12/01/fbb487c3-683f-4a8b-9123-d57738885ac8.jpg",
+          "rating": 6.6,
+          "rating_count": 96,
+          "rating_distribution": [
+            4,
+            12,
+            28,
+            42,
+            14
+          ],
+          "tags": [
+            "2020s",
+            "2025",
+            "amclincolnsquare",
+            "yorgoslanthimos",
+            "喜剧",
+            "杰西 普莱蒙",
+            "欧格斯 兰斯莫斯",
+            "爱尔兰",
+            "犯罪",
+            "电影",
+            "科幻",
+            "美国",
+            "美國",
+            "艾玛 斯通",
+            "荒诞",
+            "蘭斯摩斯",
+            "讽刺",
+            "这就是人类啊",
+            "電影",
+            "韩国"
+          ],
+          "brief": "两名深信阴谋论的年轻人绑架了一位有权有势的大型企业女首席执行官（艾玛·斯通 Emma Stone 饰），因为他们坚信她其实是个企图摧毁地球的外星人。",
+          "id": "https://neodb.social/movie/4jmStyO8IGxAxDBxT2AGP7",
+          "uuid": "4jmStyO8IGxAxDBxT2AGP7",
+          "url": "/movie/4jmStyO8IGxAxDBxT2AGP7",
+          "api_url": "/api/movie/4jmStyO8IGxAxDBxT2AGP7",
+          "category": "movie",
+          "parent_uuid": null,
+          "display_title": "拯救地球",
+          "external_resources": [
+            {
+              "url": "https://www.themoviedb.org/movie/701387"
+            },
+            {
+              "url": "https://www.wikidata.org/wiki/Q125971387"
+            },
+            {
+              "url": "https://fantastika.social/movie/2Lbu7q5Jg63SqEZBOyenEz"
+            },
+            {
+              "url": "https://www.imdb.com/title/tt12300742/"
+            },
+            {
+              "url": "https://movie.douban.com/subject/35064920/"
+            },
+            {
+              "url": "https://reviewdb.app/movie/1uqW6F9DRg7haj30EwyahM"
+            }
+          ],
+          "credits": [
+            {
+              "role": "actor",
+              "name": "艾玛·斯通",
+              "character_name": "",
+              "person_url": "/api/person/4hcKATX1cC7tU3C7jtmjej"
+            },
+            {
+              "role": "actor",
+              "name": "杰西·普莱蒙",
+              "character_name": "",
+              "person_url": "/api/person/5xRRjWonQbXb7duc5KcTXW"
+            },
+            {
+              "role": "actor",
+              "name": "艾丹·德尔比思",
+              "character_name": "",
+              "person_url": null
+            },
+            {
+              "role": "actor",
+              "name": "斯塔夫罗斯·哈尔基阿斯",
+              "character_name": "",
+              "person_url": "/api/person/0hfaV519S4ZQSnARLY8YX9"
+            },
+            {
+              "role": "actor",
+              "name": "艾丽西亚·希尔维斯通",
+              "character_name": "",
+              "person_url": null
+            },
+            {
+              "role": "actor",
+              "name": "帕文德·谢尔吉尔",
+              "character_name": "",
+              "person_url": null
+            },
+            {
+              "role": "actor",
+              "name": "瓦妮莎·恩格",
+              "character_name": "",
+              "person_url": null
+            },
+            {
+              "role": "actor",
+              "name": "亚伊萨",
+              "character_name": "",
+              "person_url": null
+            },
+            {
+              "role": "actor",
+              "name": "塞德里克·迪莫尔内",
+              "character_name": "",
+              "person_url": null
+            },
+            {
+              "role": "actor",
+              "name": "马克·T·刘易斯",
+              "character_name": "",
+              "person_url": null
+            },
+            {
+              "role": "actor",
+              "name": "莫玛·切瑞",
+              "character_name": "",
+              "person_url": null
+            },
+            {
+              "role": "actor",
+              "name": "卡门·加林德斯·巴雷拉",
+              "character_name": "",
+              "person_url": null
+            },
+            {
+              "role": "actor",
+              "name": "罗杰·卡瓦略",
+              "character_name": "",
+              "person_url": null
+            },
+            {
+              "role": "director",
+              "name": "欧格斯·兰斯莫斯",
+              "character_name": "",
+              "person_url": "/api/person/7eQMkZT7fB8ofS3jrL7x6K"
+            },
+            {
+              "role": "playwright",
+              "name": "威尔·崔西",
+              "character_name": "",
+              "person_url": null
+            }
+          ]
+        },
+        "created_time": "2026-04-24T20:09:42.552Z",
+        "comment_text": "A different kind of suspense and thriller, definitely current given the rise of conspiracy theorists in latest decades. The overall acting and directing was good, as unnervingly as probably intended.\r\n\r\nThe ending… no way it’s supposed to be taken too literally, after all there’s zero chance that Teddy got anything right; but I can’t help but feel like it was a potential not fully realized. Would making it something obvious and straightforward too boring? Maybe. Maybe still better than what we got. Sometimes a fade to black is better than ending with the bang of a clown gun.",
+        "rating_grade": 6,
+        "tags": []
+      },
+      {
+        "shelf_type": "complete",
+        "visibility": 0,
         "post_id": "564214246903774408",
         "item": {
           "type": "Movie",
@@ -12530,14 +12736,15 @@
             15
           ],
           "tags": [
-            "2020s",
             "2024",
-            "6",
-            "edward_berger",
             "oscar best picture nominee",
+            "人性",
             "剧情",
             "劇情",
             "宗教",
+            "心理",
+            "悬疑",
+            "摄影",
             "攝影",
             "政治",
             "文學",
