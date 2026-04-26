@@ -4,9 +4,23 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 26 Apr 2026 01:36:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Apr 2026 05:51:36 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2026]]></copyright>
+        <item>
+            <title><![CDATA[Comment]]></title>
+            <description><![CDATA[<p>created collection <a href="https://neodb.social/collection/6DqWGTuotYjcnIWbFWA5x5" rel="nofollow">ABRACCINE Melhores Filmes</a><br> 100 Melhores Filmes <br></p>]]></description>
+            <link>https://neodb.social/@villasv/posts/571069152889398280/</link>
+            <guid isPermaLink="true">https://neodb.social/@villasv/posts/571069152889398280/</guid>
+            <pubDate>Sun, 26 Apr 2026 03:24:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Wants to watch]]></title>
+            <description><![CDATA[<p><a href="https://neodb.social/~neodb~/movie/2ek2Ex45GTjSMiTZP7e4XN" rel="nofollow">Limite</a> </p><p></p>]]></description>
+            <link>https://neodb.social/@villasv/posts/571069088452667128/</link>
+            <guid isPermaLink="true">https://neodb.social/@villasv/posts/571069088452667128/</guid>
+            <pubDate>Sun, 26 Apr 2026 03:24:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Finished watching]]></title>
             <description><![CDATA[<p><a href="https://neodb.social/~neodb~/movie/4jmStyO8IGxAxDBxT2AGP7" rel="nofollow">Bugonia, 6 out of 10</a>  <br>A different kind of suspense and thriller, definitely current given the rise of conspiracy theorists in latest decades. The overall acting and directing was good, as unnervingly as probably intended.</p><p>The ending… no way it’s supposed to be taken too literally, after all there’s zero chance that Teddy got anything right; but I can’t help but feel like it was a potential not fully realized. Would making it something obvious and straightforward too boring? Maybe. Maybe still better than what we got. Sometimes a fade to black is better than ending with the bang of a clown gun.<br></p>]]></description>
@@ -272,20 +286,6 @@
             <link>https://mastodon.social/@villasbc/115832636249499523</link>
             <guid isPermaLink="true">https://mastodon.social/@villasbc/115832636249499523</guid>
             <pubDate>Sat, 03 Jan 2026 18:42:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Finished reading]]></title>
-            <description><![CDATA[<p><a href="https://neodb.social/~neodb~/book/2AL2Q5OEDBJY4aibxm5jos" rel="nofollow">The Burnout Society, 4 out of 10</a>  <br>Read it once; didn&#x27;t went well. Read it again; less worse but still a drag. The book has an interesting thesis, but the form and writing style are definitely not for me. Maybe if I were pursuing a PhD in philosophy. &quot;How to Do Nothing&quot; by Jenny Odell is the book that I&#x27;ve later found to be the one that scratches the itch I&#x27;d imagined &quot;The Burnout Society&quot; should have cauterized.<br></p>]]></description>
-            <link>https://neodb.social/@villasv/posts/528717996664552072/</link>
-            <guid isPermaLink="true">https://neodb.social/@villasv/posts/528717996664552072/</guid>
-            <pubDate>Tue, 30 Dec 2025 06:36:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Started reading]]></title>
-            <description><![CDATA[<p><a href="https://neodb.social/~neodb~/book/79X4fdVZ1Ae5oZUgAKDr07" rel="nofollow">Life After Cars</a> <br>Got it while attending the authors book tour in Vancouver. Very fun event. Also listened to their podcast episode about the cities visited on tour, interesting stuff.<br></p>]]></description>
-            <link>https://neodb.social/@villasv/posts/525816035693989400/</link>
-            <guid isPermaLink="true">https://neodb.social/@villasv/posts/525816035693989400/</guid>
-            <pubDate>Mon, 22 Dec 2025 06:25:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Media]]></title>
