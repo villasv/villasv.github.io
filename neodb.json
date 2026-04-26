@@ -1999,89 +1999,6 @@
       {
         "shelf_type": "progress",
         "visibility": 0,
-        "post_id": "568877072552906808",
-        "item": {
-          "type": "Edition",
-          "title": "If on a Winter's Night a Traveler",
-          "description": "Italo Calvino imagines a novel capable of endless mutations in this intricately crafted story about writing and readers.\nIf on a Winter's Night a Traveler turns out to be not one novel but ten, each with a different plot, style, ambience, and author, and each interrupted at a moment of suspense. Together they form a labyrinth of literatures, known and unknown, alive and extinct, through which two readers, a male and a female, pursue both the story lines that intrigue them and one another.",
-          "localized_title": [
-            {
-              "lang": "en",
-              "text": "If on a Winter's Night a Traveler"
-            }
-          ],
-          "localized_description": [
-            {
-              "lang": "en",
-              "text": "Italo Calvino imagines a novel capable of endless mutations in this intricately crafted story about writing and readers.\nIf on a Winter's Night a Traveler turns out to be not one novel but ten, each with a different plot, style, ambience, and author, and each interrupted at a moment of suspense. Together they form a labyrinth of literatures, known and unknown, alive and extinct, through which two readers, a male and a female, pursue both the story lines that intrigue them and one another."
-            }
-          ],
-          "cover_image_url": "https://neodb.social/m/book/2021/09/151fec72e6-4a8f-4ef8-9ce7-8ba080d25566.jpg",
-          "rating": 9.5,
-          "rating_count": 8,
-          "rating_distribution": [
-            0,
-            0,
-            0,
-            25,
-            75
-          ],
-          "tags": [
-            "c",
-            "english",
-            "卡尔维诺",
-            "叙事维度的无限可能",
-            "外国文学",
-            "大三上",
-            "小说",
-            "已购",
-            "意大利",
-            "意大利文英译本",
-            "文学",
-            "长篇小说"
-          ],
-          "brief": "Italo Calvino imagines a novel capable of endless mutations in this intricately crafted story about writing and readers.\nIf on a Winter's Night a Traveler turns out to be not one novel but ten, each with a different plot, style, ambience, and author, and each interrupted at a moment of suspense. Together they form a labyrinth of literatures, known and unknown, alive and extinct, through which two readers, a male and a female, pursue both the story lines that intrigue them and one another.",
-          "id": "https://neodb.social/book/1GAVNb8HK4BNpK82IVyifj",
-          "uuid": "1GAVNb8HK4BNpK82IVyifj",
-          "url": "/book/1GAVNb8HK4BNpK82IVyifj",
-          "api_url": "/api/book/1GAVNb8HK4BNpK82IVyifj",
-          "category": "book",
-          "parent_uuid": "4uADIhNVXWO4OaPgbNawPU",
-          "display_title": "If on a Winter's Night a Traveler",
-          "external_resources": [
-            {
-              "url": "https://book.douban.com/subject/1455954/"
-            }
-          ],
-          "credits": [
-            {
-              "role": "author",
-              "name": "Italo Calvino",
-              "character_name": "",
-              "person_url": "/api/person/7TztBK9Zms4UaX761WpFwR"
-            },
-            {
-              "role": "publisher",
-              "name": "Harcourt Brace Jovanovich",
-              "character_name": "",
-              "person_url": null
-            },
-            {
-              "role": "translator",
-              "name": "William Weaver",
-              "character_name": "",
-              "person_url": null
-            }
-          ]
-        },
-        "created_time": "2026-04-20T02:14:23.252Z",
-        "comment_text": "I’ve read Invisible Cities last year while traveling, and it became my overall favourite book; so I’ll take the easy way in and pick up more Italo Calvino for this years big travel",
-        "rating_grade": null,
-        "tags": []
-      },
-      {
-        "shelf_type": "progress",
-        "visibility": 0,
         "post_id": "568406550152571808",
         "item": {
           "type": "Edition",
@@ -2429,6 +2346,89 @@
       }
     ],
     "complete": [
+      {
+        "shelf_type": "complete",
+        "visibility": 0,
+        "post_id": "571290469724860464",
+        "item": {
+          "type": "Edition",
+          "title": "If on a Winter's Night a Traveler",
+          "description": "Italo Calvino imagines a novel capable of endless mutations in this intricately crafted story about writing and readers.\nIf on a Winter's Night a Traveler turns out to be not one novel but ten, each with a different plot, style, ambience, and author, and each interrupted at a moment of suspense. Together they form a labyrinth of literatures, known and unknown, alive and extinct, through which two readers, a male and a female, pursue both the story lines that intrigue them and one another.",
+          "localized_title": [
+            {
+              "lang": "en",
+              "text": "If on a Winter's Night a Traveler"
+            }
+          ],
+          "localized_description": [
+            {
+              "lang": "en",
+              "text": "Italo Calvino imagines a novel capable of endless mutations in this intricately crafted story about writing and readers.\nIf on a Winter's Night a Traveler turns out to be not one novel but ten, each with a different plot, style, ambience, and author, and each interrupted at a moment of suspense. Together they form a labyrinth of literatures, known and unknown, alive and extinct, through which two readers, a male and a female, pursue both the story lines that intrigue them and one another."
+            }
+          ],
+          "cover_image_url": "https://neodb.social/m/book/2021/09/151fec72e6-4a8f-4ef8-9ce7-8ba080d25566.jpg",
+          "rating": 9.4,
+          "rating_count": 9,
+          "rating_distribution": [
+            0,
+            0,
+            0,
+            22,
+            78
+          ],
+          "tags": [
+            "c",
+            "english",
+            "卡尔维诺",
+            "叙事维度的无限可能",
+            "外国文学",
+            "大三上",
+            "小说",
+            "已购",
+            "意大利",
+            "意大利文英译本",
+            "文学",
+            "长篇小说"
+          ],
+          "brief": "Italo Calvino imagines a novel capable of endless mutations in this intricately crafted story about writing and readers.\nIf on a Winter's Night a Traveler turns out to be not one novel but ten, each with a different plot, style, ambience, and author, and each interrupted at a moment of suspense. Together they form a labyrinth of literatures, known and unknown, alive and extinct, through which two readers, a male and a female, pursue both the story lines that intrigue them and one another.",
+          "id": "https://neodb.social/book/1GAVNb8HK4BNpK82IVyifj",
+          "uuid": "1GAVNb8HK4BNpK82IVyifj",
+          "url": "/book/1GAVNb8HK4BNpK82IVyifj",
+          "api_url": "/api/book/1GAVNb8HK4BNpK82IVyifj",
+          "category": "book",
+          "parent_uuid": "4uADIhNVXWO4OaPgbNawPU",
+          "display_title": "If on a Winter's Night a Traveler",
+          "external_resources": [
+            {
+              "url": "https://book.douban.com/subject/1455954/"
+            }
+          ],
+          "credits": [
+            {
+              "role": "author",
+              "name": "Italo Calvino",
+              "character_name": "",
+              "person_url": "/api/person/7TztBK9Zms4UaX761WpFwR"
+            },
+            {
+              "role": "publisher",
+              "name": "Harcourt Brace Jovanovich",
+              "character_name": "",
+              "person_url": null
+            },
+            {
+              "role": "translator",
+              "name": "William Weaver",
+              "character_name": "",
+              "person_url": null
+            }
+          ]
+        },
+        "created_time": "2026-04-26T18:04:21.934Z",
+        "comment_text": "So ingenious. A really captivating read. The later half of the book veers into Invisible Cities territory with some surreal settings but overall the story has such a relatability, and Calvino knows it and plays with the reader self identification, it’s surprisingly fun.\r\n\r\nMaybe Calvino got a little bit too “excited” on the sexual relationships here and there… and perhaps this book won’t be as enjoyable from a vantage point other than a cishet male; it’s the work of novelist man in the 80’s after all.",
+        "rating_grade": 9,
+        "tags": []
+      },
       {
         "shelf_type": "complete",
         "visibility": 0,
@@ -3733,9 +3733,6 @@
             "2017",
             "2019",
             "audiobook",
-            "english",
-            "fiction",
-            "non",
             "self help",
             "个人管理",
             "中国",
@@ -3748,8 +3745,11 @@
             "思考方法",
             "成长",
             "文化",
-            "美国",
-            "非小说"
+            "文学",
+            "日本",
+            "社会",
+            "社会学",
+            "美国"
           ],
           "brief": "In this generation-defining self-help guide, a superstar blogger cuts through the crap to show us how to stop trying to be \"positive\" all the time so that we can truly become better, happier people.\nFor decades, we’ve been told that positive thinking is the key to a happy, rich life. \"F**k positivity,\" Mark Manson says. \"Let’s be honest, shit is f**ked and we have to live with it.\" In his wildly popular Internet blog, Manson doesn’t sugarcoat or equivocate. He tells it like it is—a dose of raw, refreshing, honest truth that is sorely lacking today. The Subtle Art of Not Giving a F**k is his antidote to the coddling, let’s-all-feel-good mindset that has infected modern society and spoiled a generation, rewarding them with gold medals just for showing up.\nManson makes the argument, backed both by academic research and well-timed poop jokes, that improving our lives hinges not on our ability to turn lemons into lemonade, but on learning to stomach lemons better. Human beings are flawed and limited—\"not everybody can be extraordinary, there are winners and losers in society, and some of it is not fair or your fault.\" Manson advises us to get to know our limitations and accept them. Once we embrace our fears, faults, and uncertainties, once we stop running and avoiding and start confronting painful truths, we can begin to find the courage, perseverance, honesty, responsibility, curiosity, and forgiveness we seek.\nThere are only so many things we can give a f**k about so we need to figure out which ones really matter, Manson makes clear. While money is nice, caring about what you do with your life is better, because true wealth is about experience. A much-needed grab-you-by-the-shoulders-and-look-you-in-the-eye moment of real-talk, filled with entertaining stories and profane, ruthless humor, The Subtle Art of Not Giving a F**k is a refreshing slap for a generation to help them lead contented, grounded lives.",
           "id": "https://neodb.social/book/24IkK2eGYHU7Kuv8JXzHO6",
@@ -3928,6 +3928,75 @@
       {
         "shelf_type": "complete",
         "visibility": 0,
+        "post_id": "326861775178665456",
+        "item": {
+          "type": "Edition",
+          "title": "The Checklist Manifesto",
+          "description": "The volume and complexity of knowledge today has exceeded out ability as individuals to properly deliver it to people—consistently, correctly, safely. The author Atul shows how producing a ninety-second checklist for complex world of surgery would reduce deaths and complications by more than one-third at virtually no cost and for almost any kind of operation.\nThe checklist cna be very power and bring striking improvement in various fields beyond medications.",
+          "localized_title": [
+            {
+              "lang": "en",
+              "text": "The Checklist Manifesto"
+            }
+          ],
+          "localized_description": [
+            {
+              "lang": "zh-cn",
+              "text": "The volume and complexity of knowledge today has exceeded out ability as individuals to properly deliver it to people—consistently, correctly, safely. The author Atul shows how producing a ninety-second checklist for complex world of surgery would reduce deaths and complications by more than one-third at virtually no cost and for almost any kind of operation.\nThe checklist cna be very power and bring striking improvement in various fields beyond medications."
+            }
+          ],
+          "cover_image_url": "https://neodb.social/m/book/2021/09/16282bd235-aa05-4ca8-9846-c4eea7688348.jpg",
+          "rating": null,
+          "rating_count": 2,
+          "rating_distribution": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "tags": [
+            "医学",
+            "思维",
+            "管理",
+            "美国"
+          ],
+          "brief": "The volume and complexity of knowledge today has exceeded out ability as individuals to properly deliver it to people—consistently, correctly, safely. The author Atul shows how producing a ninety-second checklist for complex world of surgery would reduce deaths and complications by more than one-third at virtually no cost and for almost any kind of operation.\nThe checklist cna be very power and bring striking improvement in various fields beyond medications.",
+          "id": "https://neodb.social/book/3NV6toFwM0vGOUo0QEDQPA",
+          "uuid": "3NV6toFwM0vGOUo0QEDQPA",
+          "url": "/book/3NV6toFwM0vGOUo0QEDQPA",
+          "api_url": "/api/book/3NV6toFwM0vGOUo0QEDQPA",
+          "category": "book",
+          "parent_uuid": "2aRXSyBpYNUrdnKnyKRvdo",
+          "display_title": "The Checklist Manifesto",
+          "external_resources": [
+            {
+              "url": "https://book.douban.com/subject/4748590/"
+            }
+          ],
+          "credits": [
+            {
+              "role": "author",
+              "name": "Atul Gawande",
+              "character_name": "",
+              "person_url": "/api/person/4OckPSXMky8iAoSIHcOSY0"
+            },
+            {
+              "role": "publisher",
+              "name": "Picador",
+              "character_name": "",
+              "person_url": null
+            }
+          ]
+        },
+        "created_time": "2024-06-21T06:12:00Z",
+        "comment_text": "Can’t say I learned anything meaningful from the book other than that doctors have an attitude problem… wait I also knew that.",
+        "rating_grade": 4,
+        "tags": []
+      },
+      {
+        "shelf_type": "complete",
+        "visibility": 0,
         "post_id": "326861775175793856",
         "item": {
           "type": "Edition",
@@ -3993,75 +4062,6 @@
         "created_time": "2024-06-21T06:12:00Z",
         "comment_text": "Now that I’m done with the book I can’t really recall much that will change my habits.",
         "rating_grade": 5,
-        "tags": []
-      },
-      {
-        "shelf_type": "complete",
-        "visibility": 0,
-        "post_id": "326861775178665456",
-        "item": {
-          "type": "Edition",
-          "title": "The Checklist Manifesto",
-          "description": "The volume and complexity of knowledge today has exceeded out ability as individuals to properly deliver it to people—consistently, correctly, safely. The author Atul shows how producing a ninety-second checklist for complex world of surgery would reduce deaths and complications by more than one-third at virtually no cost and for almost any kind of operation.\nThe checklist cna be very power and bring striking improvement in various fields beyond medications.",
-          "localized_title": [
-            {
-              "lang": "en",
-              "text": "The Checklist Manifesto"
-            }
-          ],
-          "localized_description": [
-            {
-              "lang": "zh-cn",
-              "text": "The volume and complexity of knowledge today has exceeded out ability as individuals to properly deliver it to people—consistently, correctly, safely. The author Atul shows how producing a ninety-second checklist for complex world of surgery would reduce deaths and complications by more than one-third at virtually no cost and for almost any kind of operation.\nThe checklist cna be very power and bring striking improvement in various fields beyond medications."
-            }
-          ],
-          "cover_image_url": "https://neodb.social/m/book/2021/09/16282bd235-aa05-4ca8-9846-c4eea7688348.jpg",
-          "rating": null,
-          "rating_count": 2,
-          "rating_distribution": [
-            0,
-            0,
-            0,
-            0,
-            0
-          ],
-          "tags": [
-            "医学",
-            "思维",
-            "管理",
-            "美国"
-          ],
-          "brief": "The volume and complexity of knowledge today has exceeded out ability as individuals to properly deliver it to people—consistently, correctly, safely. The author Atul shows how producing a ninety-second checklist for complex world of surgery would reduce deaths and complications by more than one-third at virtually no cost and for almost any kind of operation.\nThe checklist cna be very power and bring striking improvement in various fields beyond medications.",
-          "id": "https://neodb.social/book/3NV6toFwM0vGOUo0QEDQPA",
-          "uuid": "3NV6toFwM0vGOUo0QEDQPA",
-          "url": "/book/3NV6toFwM0vGOUo0QEDQPA",
-          "api_url": "/api/book/3NV6toFwM0vGOUo0QEDQPA",
-          "category": "book",
-          "parent_uuid": "2aRXSyBpYNUrdnKnyKRvdo",
-          "display_title": "The Checklist Manifesto",
-          "external_resources": [
-            {
-              "url": "https://book.douban.com/subject/4748590/"
-            }
-          ],
-          "credits": [
-            {
-              "role": "author",
-              "name": "Atul Gawande",
-              "character_name": "",
-              "person_url": "/api/person/4OckPSXMky8iAoSIHcOSY0"
-            },
-            {
-              "role": "publisher",
-              "name": "Picador",
-              "character_name": "",
-              "person_url": null
-            }
-          ]
-        },
-        "created_time": "2024-06-21T06:12:00Z",
-        "comment_text": "Can’t say I learned anything meaningful from the book other than that doctors have an attitude problem… wait I also knew that.",
-        "rating_grade": 4,
         "tags": []
       },
       {
@@ -4532,6 +4532,70 @@
       {
         "shelf_type": "complete",
         "visibility": 0,
+        "post_id": "266343001621637280",
+        "item": {
+          "type": "Edition",
+          "title": "Foreverland: On the Divine Tedium of Marriage",
+          "description": "If falling in love is the peak of human experience, then marriage is the slow descent down that mountain, on a trail built from conflict, compromise, and nagging doubts. Considering the limited economic advantages to marriage, the deluge of other mate options a swipe away, and the fact that almost half of all marriages in the United States end in divorce anyway, why do so many of us still chain ourselves to one human being for life?\nIn\n, Heather Havrilesky illustrates the delights, aggravations, and sublime calamities of her marriage over the span of fifteen years, charting an unpredictable course from meeting her one true love to slowly learning just how much energy is required to keep that love aflame. This refreshingly honest portrait of a marriage reveals that our relationships are not simply \"happy\" or \"unhappy,\" but something much murkier--at once unsavory, taxing, and deeply satisfying. With tales of fumbled proposals, harrowing suburban migrations, external temptations, and the bewildering insults of growing older,\nis a work of rare candor and insight. Havrilesky traces a path from daydreaming about forever for the first time to understanding what a tedious, glorious drag forever can be.",
+          "localized_title": [
+            {
+              "lang": "en",
+              "text": "Foreverland: On the Divine Tedium of Marriage"
+            }
+          ],
+          "localized_description": [
+            {
+              "lang": "en",
+              "text": "If falling in love is the peak of human experience, then marriage is the slow descent down that mountain, on a trail built from conflict, compromise, and nagging doubts. Considering the limited economic advantages to marriage, the deluge of other mate options a swipe away, and the fact that almost half of all marriages in the United States end in divorce anyway, why do so many of us still chain ourselves to one human being for life?\nIn\n, Heather Havrilesky illustrates the delights, aggravations, and sublime calamities of her marriage over the span of fifteen years, charting an unpredictable course from meeting her one true love to slowly learning just how much energy is required to keep that love aflame. This refreshingly honest portrait of a marriage reveals that our relationships are not simply \"happy\" or \"unhappy,\" but something much murkier--at once unsavory, taxing, and deeply satisfying. With tales of fumbled proposals, harrowing suburban migrations, external temptations, and the bewildering insults of growing older,\nis a work of rare candor and insight. Havrilesky traces a path from daydreaming about forever for the first time to understanding what a tedious, glorious drag forever can be."
+            }
+          ],
+          "cover_image_url": "https://neodb.social/m/book/2022/07/055fe90224-d4c4-4ae9-8dc7-0f8146a46589.jpg",
+          "rating": null,
+          "rating_count": 1,
+          "rating_distribution": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "tags": [],
+          "brief": "If falling in love is the peak of human experience, then marriage is the slow descent down that mountain, on a trail built from conflict, compromise, and nagging doubts. Considering the limited economic advantages to marriage, the deluge of other mate options a swipe away, and the fact that almost half of all marriages in the United States end in divorce anyway, why do so many of us still chain ourselves to one human being for life?\nIn\n, Heather Havrilesky illustrates the delights, aggravations, and sublime calamities of her marriage over the span of fifteen years, charting an unpredictable course from meeting her one true love to slowly learning just how much energy is required to keep that love aflame. This refreshingly honest portrait of a marriage reveals that our relationships are not simply \"happy\" or \"unhappy,\" but something much murkier--at once unsavory, taxing, and deeply satisfying. With tales of fumbled proposals, harrowing suburban migrations, external temptations, and the bewildering insults of growing older,\nis a work of rare candor and insight. Havrilesky traces a path from daydreaming about forever for the first time to understanding what a tedious, glorious drag forever can be.",
+          "id": "https://neodb.social/book/2BeOuqIxtAhND1EbtgotTL",
+          "uuid": "2BeOuqIxtAhND1EbtgotTL",
+          "url": "/book/2BeOuqIxtAhND1EbtgotTL",
+          "api_url": "/api/book/2BeOuqIxtAhND1EbtgotTL",
+          "category": "book",
+          "parent_uuid": null,
+          "display_title": "Foreverland: On the Divine Tedium of Marriage",
+          "external_resources": [
+            {
+              "url": "https://www.goodreads.com/book/show/58079443"
+            }
+          ],
+          "credits": [
+            {
+              "role": "author",
+              "name": "Heather Havrilesky",
+              "character_name": "",
+              "person_url": null
+            },
+            {
+              "role": "publisher",
+              "name": "Ecco Press",
+              "character_name": "",
+              "person_url": null
+            }
+          ]
+        },
+        "created_time": "2024-01-06T06:12:00Z",
+        "comment_text": "I give the book some extra stars for being well written and captivatingly sincere enough to keep me with it until the end. What gives me hope is that the toxicity was exaggerated for the sake of entertainment. I think a lot of people are going to resonate with a lot of the book, because the author collects a catalogue of character faults - anyone will definitely find theirs represented in here and possibly relate.",
+        "rating_grade": 5,
+        "tags": []
+      },
+      {
+        "shelf_type": "complete",
+        "visibility": 0,
         "post_id": "266343001621637528",
         "item": {
           "type": "Edition",
@@ -4597,70 +4661,6 @@
         "created_time": "2024-01-06T06:12:00Z",
         "comment_text": "Reading both stories can feel slightly repetitive, but it can also be an interesting exercise to approach it as a game of \"find the difference\" in storytelling between Hoffman and Dumas, so the reader has the opportunity of finding out for themselves if Dumas really did water down the criticisms of the bourgeois child education strictness - as stated by so many literary critics.",
         "rating_grade": 8,
-        "tags": []
-      },
-      {
-        "shelf_type": "complete",
-        "visibility": 0,
-        "post_id": "266343001621637280",
-        "item": {
-          "type": "Edition",
-          "title": "Foreverland: On the Divine Tedium of Marriage",
-          "description": "If falling in love is the peak of human experience, then marriage is the slow descent down that mountain, on a trail built from conflict, compromise, and nagging doubts. Considering the limited economic advantages to marriage, the deluge of other mate options a swipe away, and the fact that almost half of all marriages in the United States end in divorce anyway, why do so many of us still chain ourselves to one human being for life?\nIn\n, Heather Havrilesky illustrates the delights, aggravations, and sublime calamities of her marriage over the span of fifteen years, charting an unpredictable course from meeting her one true love to slowly learning just how much energy is required to keep that love aflame. This refreshingly honest portrait of a marriage reveals that our relationships are not simply \"happy\" or \"unhappy,\" but something much murkier--at once unsavory, taxing, and deeply satisfying. With tales of fumbled proposals, harrowing suburban migrations, external temptations, and the bewildering insults of growing older,\nis a work of rare candor and insight. Havrilesky traces a path from daydreaming about forever for the first time to understanding what a tedious, glorious drag forever can be.",
-          "localized_title": [
-            {
-              "lang": "en",
-              "text": "Foreverland: On the Divine Tedium of Marriage"
-            }
-          ],
-          "localized_description": [
-            {
-              "lang": "en",
-              "text": "If falling in love is the peak of human experience, then marriage is the slow descent down that mountain, on a trail built from conflict, compromise, and nagging doubts. Considering the limited economic advantages to marriage, the deluge of other mate options a swipe away, and the fact that almost half of all marriages in the United States end in divorce anyway, why do so many of us still chain ourselves to one human being for life?\nIn\n, Heather Havrilesky illustrates the delights, aggravations, and sublime calamities of her marriage over the span of fifteen years, charting an unpredictable course from meeting her one true love to slowly learning just how much energy is required to keep that love aflame. This refreshingly honest portrait of a marriage reveals that our relationships are not simply \"happy\" or \"unhappy,\" but something much murkier--at once unsavory, taxing, and deeply satisfying. With tales of fumbled proposals, harrowing suburban migrations, external temptations, and the bewildering insults of growing older,\nis a work of rare candor and insight. Havrilesky traces a path from daydreaming about forever for the first time to understanding what a tedious, glorious drag forever can be."
-            }
-          ],
-          "cover_image_url": "https://neodb.social/m/book/2022/07/055fe90224-d4c4-4ae9-8dc7-0f8146a46589.jpg",
-          "rating": null,
-          "rating_count": 1,
-          "rating_distribution": [
-            0,
-            0,
-            0,
-            0,
-            0
-          ],
-          "tags": [],
-          "brief": "If falling in love is the peak of human experience, then marriage is the slow descent down that mountain, on a trail built from conflict, compromise, and nagging doubts. Considering the limited economic advantages to marriage, the deluge of other mate options a swipe away, and the fact that almost half of all marriages in the United States end in divorce anyway, why do so many of us still chain ourselves to one human being for life?\nIn\n, Heather Havrilesky illustrates the delights, aggravations, and sublime calamities of her marriage over the span of fifteen years, charting an unpredictable course from meeting her one true love to slowly learning just how much energy is required to keep that love aflame. This refreshingly honest portrait of a marriage reveals that our relationships are not simply \"happy\" or \"unhappy,\" but something much murkier--at once unsavory, taxing, and deeply satisfying. With tales of fumbled proposals, harrowing suburban migrations, external temptations, and the bewildering insults of growing older,\nis a work of rare candor and insight. Havrilesky traces a path from daydreaming about forever for the first time to understanding what a tedious, glorious drag forever can be.",
-          "id": "https://neodb.social/book/2BeOuqIxtAhND1EbtgotTL",
-          "uuid": "2BeOuqIxtAhND1EbtgotTL",
-          "url": "/book/2BeOuqIxtAhND1EbtgotTL",
-          "api_url": "/api/book/2BeOuqIxtAhND1EbtgotTL",
-          "category": "book",
-          "parent_uuid": null,
-          "display_title": "Foreverland: On the Divine Tedium of Marriage",
-          "external_resources": [
-            {
-              "url": "https://www.goodreads.com/book/show/58079443"
-            }
-          ],
-          "credits": [
-            {
-              "role": "author",
-              "name": "Heather Havrilesky",
-              "character_name": "",
-              "person_url": null
-            },
-            {
-              "role": "publisher",
-              "name": "Ecco Press",
-              "character_name": "",
-              "person_url": null
-            }
-          ]
-        },
-        "created_time": "2024-01-06T06:12:00Z",
-        "comment_text": "I give the book some extra stars for being well written and captivatingly sincere enough to keep me with it until the end. What gives me hope is that the toxicity was exaggerated for the sake of entertainment. I think a lot of people are going to resonate with a lot of the book, because the author collects a catalogue of character faults - anyone will definitely find theirs represented in here and possibly relate.",
-        "rating_grade": 5,
         "tags": []
       },
       {
@@ -4744,70 +4744,6 @@
       {
         "shelf_type": "complete",
         "visibility": 0,
-        "post_id": "63768184753507712",
-        "item": {
-          "type": "Edition",
-          "title": "Guia do Barista: Da origem do café ao espresso perfeito",
-          "description": "Libro usado en buenas condiciones, por su antiguedad podria contener señales normales de uso",
-          "localized_title": [
-            {
-              "lang": "es",
-              "text": "Guia do Barista: Da origem do café ao espresso perfeito"
-            }
-          ],
-          "localized_description": [
-            {
-              "lang": "es",
-              "text": "Libro usado en buenas condiciones, por su antiguedad podria contener señales normales de uso"
-            }
-          ],
-          "cover_image_url": "https://neodb.social/m/item/goodreads/2024/07/26/eead9109-56a9-42d9-a269-88b18c7f4f50.jpg",
-          "rating": null,
-          "rating_count": 1,
-          "rating_distribution": [
-            0,
-            0,
-            0,
-            0,
-            0
-          ],
-          "tags": [],
-          "brief": "Libro usado en buenas condiciones, por su antiguedad podria contener señales normales de uso",
-          "id": "https://neodb.social/book/2jLB7VOQhIh1FZjStJbeUG",
-          "uuid": "2jLB7VOQhIh1FZjStJbeUG",
-          "url": "/book/2jLB7VOQhIh1FZjStJbeUG",
-          "api_url": "/api/book/2jLB7VOQhIh1FZjStJbeUG",
-          "category": "book",
-          "parent_uuid": "2jQ80CaKtxkOCYTmQstTBS",
-          "display_title": "Guia do Barista: Da origem do café ao espresso perfeito",
-          "external_resources": [
-            {
-              "url": "https://www.goodreads.com/book/show/18129763"
-            }
-          ],
-          "credits": [
-            {
-              "role": "author",
-              "name": "Edgard Alexandre Bresani",
-              "character_name": "",
-              "person_url": null
-            },
-            {
-              "role": "publisher",
-              "name": "Café Editora",
-              "character_name": "",
-              "person_url": null
-            }
-          ]
-        },
-        "created_time": "2022-06-26T06:12:00Z",
-        "comment_text": "Defendo a importância de ter material sobre café em Português, motivo suficiente para merecer uma estrela de consolação. Para quem não tem problemas com barreira linguística, recomendo deixar esse livro pra lá e ir atrás dos clássicos internacionais primeiro e usar esse livro apenas como um complemento para aprender o vocabulário e especificadas sobre o Café no Brasil.",
-        "rating_grade": 4,
-        "tags": []
-      },
-      {
-        "shelf_type": "complete",
-        "visibility": 0,
         "post_id": "63768184751317816",
         "item": {
           "type": "Edition",
@@ -4867,6 +4803,70 @@
         "created_time": "2022-06-26T06:12:00Z",
         "comment_text": "Very amusing and well written gardening-focused memoir. A book I’ll forever recommend to any gentleman farmer wannabe. Emphasis on the \"gentleman\", this really captures the framing of the book, for better or worse.",
         "rating_grade": 8,
+        "tags": []
+      },
+      {
+        "shelf_type": "complete",
+        "visibility": 0,
+        "post_id": "63768184753507712",
+        "item": {
+          "type": "Edition",
+          "title": "Guia do Barista: Da origem do café ao espresso perfeito",
+          "description": "Libro usado en buenas condiciones, por su antiguedad podria contener señales normales de uso",
+          "localized_title": [
+            {
+              "lang": "es",
+              "text": "Guia do Barista: Da origem do café ao espresso perfeito"
+            }
+          ],
+          "localized_description": [
+            {
+              "lang": "es",
+              "text": "Libro usado en buenas condiciones, por su antiguedad podria contener señales normales de uso"
+            }
+          ],
+          "cover_image_url": "https://neodb.social/m/item/goodreads/2024/07/26/eead9109-56a9-42d9-a269-88b18c7f4f50.jpg",
+          "rating": null,
+          "rating_count": 1,
+          "rating_distribution": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "tags": [],
+          "brief": "Libro usado en buenas condiciones, por su antiguedad podria contener señales normales de uso",
+          "id": "https://neodb.social/book/2jLB7VOQhIh1FZjStJbeUG",
+          "uuid": "2jLB7VOQhIh1FZjStJbeUG",
+          "url": "/book/2jLB7VOQhIh1FZjStJbeUG",
+          "api_url": "/api/book/2jLB7VOQhIh1FZjStJbeUG",
+          "category": "book",
+          "parent_uuid": "2jQ80CaKtxkOCYTmQstTBS",
+          "display_title": "Guia do Barista: Da origem do café ao espresso perfeito",
+          "external_resources": [
+            {
+              "url": "https://www.goodreads.com/book/show/18129763"
+            }
+          ],
+          "credits": [
+            {
+              "role": "author",
+              "name": "Edgard Alexandre Bresani",
+              "character_name": "",
+              "person_url": null
+            },
+            {
+              "role": "publisher",
+              "name": "Café Editora",
+              "character_name": "",
+              "person_url": null
+            }
+          ]
+        },
+        "created_time": "2022-06-26T06:12:00Z",
+        "comment_text": "Defendo a importância de ter material sobre café em Português, motivo suficiente para merecer uma estrela de consolação. Para quem não tem problemas com barreira linguística, recomendo deixar esse livro pra lá e ir atrás dos clássicos internacionais primeiro e usar esse livro apenas como um complemento para aprender o vocabulário e especificadas sobre o Café no Brasil.",
+        "rating_grade": 4,
         "tags": []
       },
       {
