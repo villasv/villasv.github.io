@@ -4,12 +4,19 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 29 Apr 2026 23:22:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Apr 2026 01:38:45 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2026]]></copyright>
         <item>
+            <title><![CDATA[Started reading]]></title>
+            <description><![CDATA[<p><a href="https://neodb.social/~neodb~/book/7Ka75JbAJMe9gdxuT1xFI6" rel="nofollow">Os ricos e os pobres: O Brasil e a desigualdade</a> <br>O tema da desigualdade é mais antigo do que a própria democracia; me bateu uma curiosidade de saber como anda o debate nesta década.<br></p>]]></description>
+            <link>https://neodb.social/@villasv/posts/572463348281676984/</link>
+            <guid isPermaLink="true">https://neodb.social/@villasv/posts/572463348281676984/</guid>
+            <pubDate>Wed, 29 Apr 2026 23:44:58 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Finished reading]]></title>
-            <description><![CDATA[<p><a href="https://neodb.social/~neodb~/book/1GAVNb8HK4BNpK82IVyifj" rel="nofollow">If on a Winter&#x27;s Night a Traveler, 9 out of 10</a>  <br>So ingenious. A really captivating read. The later half of the book veers into Invisible Cities territory with some surreal settings but overall the story has such a relatability, and Calvino knows it and plays with the reader self identification, it’s surprisingly fun.</p><p>Maybe Calvino got a little bit too “excited” on the sexual relationships here and there… and perhaps this book won’t be as enjoyable from a vantage point other than a cishet male; it’s the work of novelist man in the 80’s after all.<br></p>]]></description>
+            <description><![CDATA[<p><a href="https://neodb.social/~neodb~/book/1GAVNb8HK4BNpK82IVyifj" rel="nofollow">If on a Winter&#x27;s Night a Traveler, 9 out of 10</a>  <br>So ingenious. A really captivating read. The later half of the book veers into Invisible Cities territory with some surreal settings but overall the story has such a relatability, and Calvino knows it and plays with the reader self identification, it’s surprisingly fun.</p><p>Maybe Calvino got a little bit too “excited” on the sexual relationships here and there… and perhaps this book won’t be as enjoyable from a vantage point other than a cishet male; it’s the work of novelist man in the 70’s after all.<br></p>]]></description>
             <link>https://neodb.social/@villasv/posts/571290469724860464/</link>
             <guid isPermaLink="true">https://neodb.social/@villasv/posts/571290469724860464/</guid>
             <pubDate>Sun, 26 Apr 2026 18:04:21 GMT</pubDate>
@@ -237,13 +244,6 @@
             <link>https://neodb.social/@villasv/posts/538440362847541984/</link>
             <guid isPermaLink="true">https://neodb.social/@villasv/posts/538440362847541984/</guid>
             <pubDate>Mon, 26 Jan 2026 02:29:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Wants to watch]]></title>
-            <description><![CDATA[<p><a href="https://neodb.social/~neodb~/tv/season/0JPc01wKGawncNC0VQ9ZQt" rel="nofollow">Vale o Escrito - A Guerra do Jogo do Bicho (Minisseries)</a> </p><p></p>]]></description>
-            <link>https://neodb.social/@villasv/posts/538435976660317944/</link>
-            <guid isPermaLink="true">https://neodb.social/@villasv/posts/538435976660317944/</guid>
-            <pubDate>Mon, 26 Jan 2026 02:12:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Comment]]></title>
