@@ -6397,12 +6397,12 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2025/01/17/c9fb75b7-fe14-462c-a95e-513257203176.jpg",
           "rating": 7.3,
-          "rating_count": 140,
+          "rating_count": 141,
           "rating_distribution": [
             0,
-            4,
+            3,
             25,
-            56,
+            57,
             15
           ],
           "tags": [
@@ -6747,7 +6747,7 @@
           ],
           "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/06/23/566914c0-b514-4cc7-bea4-f5d90945a704.webp",
           "rating": 8.2,
-          "rating_count": 474,
+          "rating_count": 475,
           "rating_distribution": [
             0,
             1,
