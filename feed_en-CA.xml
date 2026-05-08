@@ -5,23 +5,86 @@
     <description><![CDATA[Combined feed of my online posts. Machine translated — please forgive any translation errors.]]></description>
     <link>https://victor.villas</link>
     <generator>translate-feed.py</generator>
-    <lastBuildDate>Fri, 08 May 2026 21:38:35 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 22:48:01 GMT</lastBuildDate>
     <copyright><![CDATA[Victor Villas © 2026]]></copyright>
     <language>en-CA</language>
     <atom:link href="https://victor.villas/feed_en-CA.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title><![CDATA[Comment]]></title>
+      <description><![CDATA[<p>There’s this phenomenon where each generation believes its level of progressiveness is the right one, so everything before was backwards but every step forward is not needed. I guess I should look for things that make me think “ok that’s too much”… perhaps veganism as the ideal diet? Or polyamory as the ideal relationship? These come to mind as the kind of thing that I don’t think I’d ever be able to adjust, but youngsters are welcome to experiment 🤷 (3/2)</p>]]></description>
+      <link>https://mastodon.social/@villasbc/116014785982222424</link>
+      <guid isPermaLink="true">https://mastodon.social/@villasbc/116014785982222424</guid>
+      <pubDate>Wed, 04 Feb 2026 22:45:47 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Comment]]></title>
+      <description><![CDATA[<p>And there’s vegetarianism, urbanism, gender roles, fatphobia, pedagogy… so many things to stay curious and to be instructed. I wonder which layers I’ve yet to peel. I guess if most of these are blind spots for most of my friends, statistically speaking I should conclude there must be a myriad of blind spots of my own. (2/2)</p>]]></description>
+      <link>https://mastodon.social/@villasbc/116014752709672668</link>
+      <guid isPermaLink="true">https://mastodon.social/@villasbc/116014752709672668</guid>
+      <pubDate>Wed, 04 Feb 2026 22:37:19 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Comment]]></title>
+      <description><![CDATA[<p>I’m fully immersed in a circle that believes that vaccines work and human-caused climate change needs to be addressed. I’m grateful for that much. But then there’s an inner circle of people who understand the merits of harm reduction. And another inner circle that don’t think that “immigrants have a duty to assimilate” (is there a word for this?). And a circle that understands there’s no such thing as “apolitical”. (1/2)</p>]]></description>
+      <link>https://mastodon.social/@villasbc/116014752687931757</link>
+      <guid isPermaLink="true">https://mastodon.social/@villasbc/116014752687931757</guid>
+      <pubDate>Wed, 04 Feb 2026 22:37:19 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Wants to read]]></title>
+      <description><![CDATA[<p><a href="https://neodb.social/~neodb~/book/5vIAQyTHO1zaLlFMuW3q8C" rel="nofollow">Sand Talk</a></p>]]></description>
+      <link>https://neodb.social/@villasv/posts/541210768876040160/</link>
+      <guid isPermaLink="true">https://neodb.social/@villasv/posts/541210768876040160/</guid>
+      <pubDate>Mon, 02 Feb 2026 17:58:22 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Comment]]></title>
+      <description><![CDATA[<p># CBC Listen shows are not regular podcasts - ie public RSS I can subscribe with whatever app I want? I didn’t know CBC was in a position to be so selective about how they reach their audience. What’s confusing is that they have tons of podcasts, so they know how to do this</p>]]></description>
+      <link>https://mastodon.social/@villasbc/115984952115330351</link>
+      <guid isPermaLink="true">https://mastodon.social/@villasbc/115984952115330351</guid>
+      <pubDate>Fri, 30 Jan 2026 16:18:38 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Comment]]></title>
+      <description><![CDATA[<p>“Virtue Signaling” = I don’t like what you’re saying but I can’t argue against, but that would mean that I’m wrong and that can’t be it… so I guess the only explanation is that you’re screwing with me</p>]]></description>
+      <link>https://mastodon.social/@villasbc/115980308248244571</link>
+      <guid isPermaLink="true">https://mastodon.social/@villasbc/115980308248244571</guid>
+      <pubDate>Thu, 29 Jan 2026 20:37:38 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Comment]]></title>
+      <description><![CDATA[<p>An American thing that will never not be weird to me is root “beer”. It’s like toothpaste soda that lost some of its carbonation</p>]]></description>
+      <link>https://mastodon.social/@villasbc/115918482469424243</link>
+      <guid isPermaLink="true">https://mastodon.social/@villasbc/115918482469424243</guid>
+      <pubDate>Sun, 18 Jan 2026 22:34:32 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Comment]]></title>
+      <description><![CDATA[<p>If millennials were chained to an abstract notion of “making it” in life mostly based on materialism, Gen Z are going to have it worse because # Wealthsimple just dropped a literal ranking of wealth accumulation so we can track how far/close we are to the 1% (or 0.1%, yes it actually goes there)</p>]]></description>
+      <link>https://mastodon.social/@villasbc/115912663028429283</link>
+      <guid isPermaLink="true">https://mastodon.social/@villasbc/115912663028429283</guid>
+      <pubDate>Sat, 17 Jan 2026 21:54:34 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Comment]]></title>
+      <description><![CDATA[<p>I wish I wasn’t exposed to crypto material every time I came to grab a coffee at Funk</p>]]></description>
+      <link>https://mastodon.social/@villasbc/115907709595439664</link>
+      <guid isPermaLink="true">https://mastodon.social/@villasbc/115907709595439664</guid>
+      <pubDate>Sat, 17 Jan 2026 00:54:51 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Comment]]></title>
+      <description><![CDATA[<p>“The market is not the economy”. I’ve only learned this recently after years of being told Nasdaq numbers going up meant the country/world was going well.</p>]]></description>
+      <link>https://mastodon.social/@villasbc/115872002751717895</link>
+      <guid isPermaLink="true">https://mastodon.social/@villasbc/115872002751717895</guid>
+      <pubDate>Sat, 10 Jan 2026 17:34:08 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[Comment]]></title>
       <description><![CDATA[<p>For the last 3 years of investing in North-American focused total market index funds I’ve noticed a consistent pattern of “bad news, therefore your portfolio went up”. Invasion of Ukraine, high inflation, genocide in Gaza, trade war, high unemployment… it all boils down to more forcing functions for keeping low interest rates, which fund techno-optimism, while techno-feudalism sprawls and tech oligarchs shape the world. (1/2)</p>]]></description>
       <link>https://mastodon.social/@villasbc/115872002724210586</link>
       <guid isPermaLink="true">https://mastodon.social/@villasbc/115872002724210586</guid>
       <pubDate>Sat, 10 Jan 2026 17:34:07 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Comment]]></title>
-      <description><![CDATA[<p>More US imperialism was on my bingo card for 2026 but not kidnapping a president before I had my first groceries of the year. My disgust for this bully nation grows louder. It pains me that I moved inwards on their sphere of influence.</p>]]></description>
-      <link>https://mastodon.social/@villasbc/115832636249499523</link>
-      <guid isPermaLink="true">https://mastodon.social/@villasbc/115832636249499523</guid>
-      <pubDate>Sat, 03 Jan 2026 18:42:43 GMT</pubDate>
     </item>
   </channel>
 </rss>

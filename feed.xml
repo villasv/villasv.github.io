@@ -4,9 +4,16 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 08 May 2026 21:35:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 May 2026 22:45:03 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2026]]></copyright>
+        <item>
+            <title><![CDATA[Comment]]></title>
+            <description><![CDATA[<p>I’ve had this <a href="https://mastodon.social/tags/indieweb" class="mention hashtag" rel="tag">#<span>indieweb</span></a> setup for a while now of aggregating on my personal website the things I say here on mastodon and my media tracking from neodb - Post-Elsewhere, Syndicate to Own Site (#PESOS); and besides putting it together on a home page, it generates an RSS feed.</p><p>Today I was finally able to get a very basic translation model hosted for free that allows me to generate pt-only and en-only versions of that RSS feed. Not awe inspiring results but well, it’s free.</p>]]></description>
+            <link>https://mastodon.social/@villasbc/116541361369730165</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/116541361369730165</guid>
+            <pubDate>Fri, 08 May 2026 22:40:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Started reading]]></title>
             <description><![CDATA[<p><a href="https://neodb.social/~neodb~/book/0a4O9fcv3fQWZtCRG6cU55" rel="nofollow">Coisa de Rico: A Vida dos Endinheirados Brasileiros</a> <br>Peguei esse livro para complementar a leitura de &quot;Os ricos e os pobres: O Brasil e a desigualdade&quot; do sociólogo Marcelo Medeiros (que enfatiza como o problema da pobreza é um problema de desigualdade, e o problema da desigualdade é um problema de riqueza.) Isto posto, além do ponto de vista sociológico, vai ser interessante ver do ponto de vista antropológico como o 0.1% se diferencia do 1%, que se empenha tanto em se diferenciar dos 99%.<br></p>]]></description>
@@ -279,13 +286,6 @@
             <link>https://mastodon.social/@villasbc/115872002724210586</link>
             <guid isPermaLink="true">https://mastodon.social/@villasbc/115872002724210586</guid>
             <pubDate>Sat, 10 Jan 2026 17:34:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Comment]]></title>
-            <description><![CDATA[<p>More US imperialism was on my bingo card for 2026 but not kidnapping a president before I had my first groceries of the year.</p><p>My disgust for this bully nation grows louder. It pains me that I moved inwards on their sphere of influence.</p>]]></description>
-            <link>https://mastodon.social/@villasbc/115832636249499523</link>
-            <guid isPermaLink="true">https://mastodon.social/@villasbc/115832636249499523</guid>
-            <pubDate>Sat, 03 Jan 2026 18:42:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
