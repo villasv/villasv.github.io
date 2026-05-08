@@ -5,10 +5,17 @@
     <description><![CDATA[Combined feed of my online posts. Machine translated — please forgive any translation errors.]]></description>
     <link>https://victor.villas</link>
     <generator>translate-feed.py</generator>
-    <lastBuildDate>Fri, 08 May 2026 22:48:01 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 23:26:23 GMT</lastBuildDate>
     <copyright><![CDATA[Victor Villas © 2026]]></copyright>
     <language>en-CA</language>
     <atom:link href="https://victor.villas/feed_en-CA.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title><![CDATA[Comment]]></title>
+      <description><![CDATA[<p>Is there any other city in this world where we don’t get snow but if you drive 25 min you can do some snowboarding (sure, icy and packed, but still)? And does that city has a moderately walkable downtown with apartments that cost less than 1MM CAD?</p>]]></description>
+      <link>https://mastodon.social/@villasbc/116113198292327618</link>
+      <guid isPermaLink="true">https://mastodon.social/@villasbc/116113198292327618</guid>
+      <pubDate>Sun, 22 Feb 2026 07:53:20 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[Comment]]></title>
       <description><![CDATA[<p>There’s this phenomenon where each generation believes its level of progressiveness is the right one, so everything before was backwards but every step forward is not needed. I guess I should look for things that make me think “ok that’s too much”… perhaps veganism as the ideal diet? Or polyamory as the ideal relationship? These come to mind as the kind of thing that I don’t think I’d ever be able to adjust, but youngsters are welcome to experiment 🤷 (3/2)</p>]]></description>
