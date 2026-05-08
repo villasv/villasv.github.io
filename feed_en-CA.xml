@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title><![CDATA[Victor Villas' Feed]]></title>
+    <description><![CDATA[Combined feed of my online posts. Machine translated — please forgive any translation errors.]]></description>
+    <link>https://victor.villas</link>
+    <generator>translate-feed.py</generator>
+    <lastBuildDate>Fri, 08 May 2026 21:31:10 GMT</lastBuildDate>
+    <copyright><![CDATA[Victor Villas © 2026]]></copyright>
+    <language>en-CA</language>
+    <atom:link href="https://victor.villas/feed_en-CA.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title><![CDATA[Comment]]></title>
+      <description><![CDATA[<p>More US imperialism was on my bingo card for 2026 but not kidnapping a president before I had my first groceries of the year. My disgust for this bully nation grows louder. It pains me that I moved inwards on their sphere of influence.</p>]]></description>
+      <link>https://mastodon.social/@villasbc/115832636249499523</link>
+      <guid isPermaLink="true">https://mastodon.social/@villasbc/115832636249499523</guid>
+      <pubDate>Sat, 03 Jan 2026 18:42:43 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

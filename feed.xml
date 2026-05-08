@@ -4,7 +4,7 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 08 May 2026 20:30:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 May 2026 21:28:35 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2026]]></copyright>
         <item>
@@ -286,22 +286,6 @@
             <link>https://mastodon.social/@villasbc/115832636249499523</link>
             <guid isPermaLink="true">https://mastodon.social/@villasbc/115832636249499523</guid>
             <pubDate>Sat, 03 Jan 2026 18:42:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Media]]></title>
-            <description><![CDATA[Happy as if it&#039;s sunny in Whistler]]></description>
-            <link>https://pxlfd.ca/p/victor/793017654934515063</link>
-            <guid isPermaLink="true">https://pxlfd.ca/p/victor/793017654934515063</guid>
-            <pubDate>Thu, 06 Feb 2025 07:29:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Media]]></title>
-            <description><![CDATA[Garibaldi Lake Trail<br />
-<br />
-<a href="https://pxlfd.ca/discover/tags/hiking?src=hash" title="#hiking" class="u-url hashtag" rel="external nofollow noopener">#hiking</a> <a href="https://pxlfd.ca/discover/tags/mushrooms?src=hash" title="#mushrooms" class="u-url hashtag" rel="external nofollow noopener">#mushrooms</a> <a href="https://pxlfd.ca/discover/tags/coldweather?src=hash" title="#coldweather" class="u-url hashtag" rel="external nofollow noopener">#coldweather</a> <a href="https://pxlfd.ca/discover/tags/graydays?src=hash" title="#graydays" class="u-url hashtag" rel="external nofollow noopener">#graydays</a>]]></description>
-            <link>https://pxlfd.ca/p/victor/790660117523971543</link>
-            <guid isPermaLink="true">https://pxlfd.ca/p/victor/790660117523971543</guid>
-            <pubDate>Thu, 30 Jan 2025 19:21:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
