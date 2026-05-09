@@ -5,10 +5,17 @@
     <description><![CDATA[Combined feed of my online posts. Machine translated — please forgive any translation errors.]]></description>
     <link>https://victor.villas</link>
     <generator>translate-feed.py</generator>
-    <lastBuildDate>Sat, 09 May 2026 01:41:36 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 09 May 2026 02:57:48 GMT</lastBuildDate>
     <copyright><![CDATA[Victor Villas © 2026]]></copyright>
     <language>en-CA</language>
     <atom:link href="https://victor.villas/feed_en-CA.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title><![CDATA[Comment]]></title>
+      <description><![CDATA[<p><a href="https://neodb.social/collection/6xaALHw0TeaWJ2OX3lkbV5" rel="nofollow">Books about Books</a><br>created collection Books on and about reading and books</p>]]></description>
+      <link>https://neodb.social/@villasv/posts/571286791803834624/</link>
+      <guid isPermaLink="true">https://neodb.social/@villasv/posts/571286791803834624/</guid>
+      <pubDate>Sun, 26 Apr 2026 17:49:45 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[Comment]]></title>
       <description><![CDATA[<p><a href="https://neodb.social/collection/6DqWGTuotYjcnIWbFWA5x5" rel="nofollow">ABRACCINE Melhores Filmes</a><br>created collection 100 Melhores Filmes</p>]]></description>
