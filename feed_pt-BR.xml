@@ -5,10 +5,17 @@
     <description><![CDATA[Feed combinado das minhas publicações online. Tradução automática — por favor, perdoem qualquer falha na tradução.]]></description>
     <link>https://victor.villas</link>
     <generator>translate-feed.py</generator>
-    <lastBuildDate>Sat, 09 May 2026 13:35:49 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 09 May 2026 14:44:42 GMT</lastBuildDate>
     <copyright><![CDATA[Victor Villas © 2026]]></copyright>
     <language>pt-BR</language>
     <atom:link href="https://victor.villas/feed_pt-BR.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title><![CDATA[Comentário]]></title>
+      <description><![CDATA[<p><i>[tradução automática do inglês]</i></p><p>Estas reservas de camping #bcparks # estão se tornando mais difíceis de conseguir do que ingressos de shows, é loucura. Mas vamos lá, a viagem para Black Tusk está sendo organizada e seu principal obstáculo logístico foi resolvido!</p>]]></description>
+      <link>https://mastodon.social/@villasbc/116545010307602516</link>
+      <guid isPermaLink="true">https://mastodon.social/@villasbc/116545010307602516</guid>
+      <pubDate>Sat, 09 May 2026 14:08:48 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[Comentário]]></title>
       <description><![CDATA[<p><i>[tradução automática do inglês]</i></p><p>Eu tenho essa configuração # indieweb de agregar no meu site pessoal as coisas que eu digo aqui no mastodon e meu rastreamento de mídia do neodb - Post-Elsewhere, Syndicate to Own Site (#PESOS); e além de reunir tudo isso em uma página inicial, ele gera um feed RSS. Hoje eu finalmente consegui hospedar um modelo de tradução muito básico de graça que me permite gerar versões apenas em pt e apenas em en desse feed RSS. Não são resultados inspiradores, mas bem, é de graça.</p>]]></description>
@@ -281,13 +288,6 @@
       <link>https://mastodon.social/@villasbc/115872002751717895</link>
       <guid isPermaLink="true">https://mastodon.social/@villasbc/115872002751717895</guid>
       <pubDate>Sat, 10 Jan 2026 17:34:08 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Comentário]]></title>
-      <description><![CDATA[<p><i>[tradução automática do inglês]</i></p><p>Nos últimos 3 anos investindo em fundos de índice de mercado total focados na América do Norte, notei um padrão consistente de "más notícias, portanto sua carteira subiu". Invasão da Ucrânia, alta inflação, genocídio em Gaza, guerra comercial, alto desemprego... tudo se resume a mais forças que mantêm juros baixos, que financiam o otimismo tecnológico, enquanto o tecnofeudalismo se espalha e os oligarcas da tecnologia moldam o mundo. (1/2)</p>]]></description>
-      <link>https://mastodon.social/@villasbc/115872002724210586</link>
-      <guid isPermaLink="true">https://mastodon.social/@villasbc/115872002724210586</guid>
-      <pubDate>Sat, 10 Jan 2026 17:34:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
