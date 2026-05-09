@@ -5,10 +5,17 @@
     <description><![CDATA[Feed combinado das minhas publicações online. Tradução automática — por favor, perdoem qualquer falha na tradução.]]></description>
     <link>https://victor.villas</link>
     <generator>translate-feed.py</generator>
-    <lastBuildDate>Sat, 09 May 2026 07:43:28 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 09 May 2026 09:38:45 GMT</lastBuildDate>
     <copyright><![CDATA[Victor Villas © 2026]]></copyright>
     <language>pt-BR</language>
     <atom:link href="https://victor.villas/feed_pt-BR.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title><![CDATA[Comecei a ler]]></title>
+      <description><![CDATA[<p><a href="https://neodb.social/~neodb~/book/0a4O9fcv3fQWZtCRG6cU55" rel="nofollow">Coisa de Rico: A Vida dos Endinheirados Brasileiros</a><br>Peguei esse livro para complementar a leitura de "Os ricos e os pobres: O Brasil e a desigualdade" do sociólogo Marcelo Medeiros (que enfatiza como o problema da pobreza é um problema de desigualdade, e o problema da desigualdade é um problema de riqueza.) Isto posto, além do ponto de vista sociológico, vai ser interessante ver do ponto de vista antropológico como o 0.1% se diferencia do 1%, que se empenha tanto em se diferenciar dos 99%.</p>]]></description>
+      <link>https://neodb.social/@villasv/posts/574243734794532416/</link>
+      <guid isPermaLink="true">https://neodb.social/@villasv/posts/574243734794532416/</guid>
+      <pubDate>Mon, 04 May 2026 21:39:35 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[Terminei de ler]]></title>
       <description><![CDATA[<p><a href="https://neodb.social/~neodb~/book/7Ka75JbAJMe9gdxuT1xFI6" rel="nofollow">Os ricos e os pobres: O Brasil e a desigualdade, 6 out of 10</a><br>Interessante conhecer mais sobre os tipos de desigualdade, as características das métricas de desigualdade, medição de renda e patrimônio, definições de classes sociais etc. Interessante entender um pouco da história e lógica por trás do Imposto de Renda e do IPTU. Argumentos interessantes sobre reformas tributárias formas de enxergar esses impostos. Eu não sei se o livro é muito lúdico porque o público alvo inclui pessoas que não tem familiaridades com porcentagens, mas se for, acho que era melhor desenhar porque tem parágrafos lotados de números que são difíceis de digerir. E se o público alvo é gente que está tranquila de absorver tabelas econométricas em formato de prosa, o livro é muito repetitivo e conturbado com analogias e metáforas, ou historinhas e contextualizações históricas que acrescentam relativamente pouco. No geral achei uma edição um pouco ruim, mas as ideias por trás do livro e a tese defendida são bem argumentadas; se o leitor conseguir conectar os esparsos pontos dentre as repetições e historinhas.</p>]]></description>

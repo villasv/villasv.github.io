@@ -5,10 +5,17 @@
     <description><![CDATA[Combined feed of my online posts. Machine translated — please forgive any translation errors.]]></description>
     <link>https://victor.villas</link>
     <generator>translate-feed.py</generator>
-    <lastBuildDate>Sat, 09 May 2026 07:43:28 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 09 May 2026 09:38:45 GMT</lastBuildDate>
     <copyright><![CDATA[Victor Villas © 2026]]></copyright>
     <language>en-CA</language>
     <atom:link href="https://victor.villas/feed_en-CA.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title><![CDATA[Started reading]]></title>
+      <description><![CDATA[<p><i>[machine-translated from Portuguese]</i></p><p><a href="https://neodb.social/~neodb~/book/0a4O9fcv3fQWZtCRG6cU55" rel="nofollow">Coisa de Rico: A Vida dos Endinheirados Brasileiros</a><br>I picked up this book to complement reading "The Rich and the Poor: Brazil and Inequality" by sociologist Marcelo Medeiros (which emphasizes how the problem of poverty is a problem of inequality, and the problem of inequality is a problem of wealth.) That being said, beyond the sociological point of view, it will be interesting to see from an anthropological point of view how the 0.1% differs from the 1%, who strive so hard to differentiate themselves from the 99%.</p>]]></description>
+      <link>https://neodb.social/@villasv/posts/574243734794532416/</link>
+      <guid isPermaLink="true">https://neodb.social/@villasv/posts/574243734794532416/</guid>
+      <pubDate>Mon, 04 May 2026 21:39:35 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[Finished reading]]></title>
       <description><![CDATA[<p><i>[machine-translated from Portuguese]</i></p><p><a href="https://neodb.social/~neodb~/book/7Ka75JbAJMe9gdxuT1xFI6" rel="nofollow">Os ricos e os pobres: O Brasil e a desigualdade, 6 out of 10</a><br>Interesting to learn more about the types of inequality, the characteristics of inequality metrics, measurement of income and assets, definitions of social classes, etc. Interesting to understand a bit of the history and logic behind the Income Tax and IPTU. Interesting arguments about tax reforms and ways of looking at these taxes. I do not know if the book is very playful because the target audience includes people who are not familiar with percentages, but if it is, I think it would have been better to draw because there are paragraphs full of numbers that are difficult to digest. And if the target audience is people who are comfortable absorbing econometric tables in prose format, the book is very repetitive and troubled with analogies and metaphors, or stories and historical contexts that add relatively little. Overall, I found the edition a bit bad, but the ideas behind the book and the thesis defended are well argued; if the reader can connect the scattered points among the repetitions and stories.</p>]]></description>
