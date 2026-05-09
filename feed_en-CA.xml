@@ -5,10 +5,17 @@
     <description><![CDATA[Combined feed of my online posts. Machine translated — please forgive any translation errors.]]></description>
     <link>https://victor.villas</link>
     <generator>translate-feed.py</generator>
-    <lastBuildDate>Sat, 09 May 2026 09:38:45 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 09 May 2026 11:25:03 GMT</lastBuildDate>
     <copyright><![CDATA[Victor Villas © 2026]]></copyright>
     <language>en-CA</language>
     <atom:link href="https://victor.villas/feed_en-CA.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title><![CDATA[Comment]]></title>
+      <description><![CDATA[<p>I’ve had this # indieweb setup for a while now of aggregating on my personal website the things I say here on mastodon and my media tracking from neodb - Post-Elsewhere, Syndicate to Own Site (#PESOS); and besides putting it together on a home page, it generates an RSS feed. Today I was finally able to get a very basic translation model hosted for free that allows me to generate pt-only and en-only versions of that RSS feed. Not awe inspiring results but well, it’s free.</p>]]></description>
+      <link>https://mastodon.social/@villasbc/116541361369730165</link>
+      <guid isPermaLink="true">https://mastodon.social/@villasbc/116541361369730165</guid>
+      <pubDate>Fri, 08 May 2026 22:40:50 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[Started reading]]></title>
       <description><![CDATA[<p><i>[machine-translated from Portuguese]</i></p><p><a href="https://neodb.social/~neodb~/book/0a4O9fcv3fQWZtCRG6cU55" rel="nofollow">Coisa de Rico: A Vida dos Endinheirados Brasileiros</a><br>I picked up this book to complement reading "The Rich and the Poor: Brazil and Inequality" by sociologist Marcelo Medeiros (which emphasizes how the problem of poverty is a problem of inequality, and the problem of inequality is a problem of wealth.) That being said, beyond the sociological point of view, it will be interesting to see from an anthropological point of view how the 0.1% differs from the 1%, who strive so hard to differentiate themselves from the 99%.</p>]]></description>
