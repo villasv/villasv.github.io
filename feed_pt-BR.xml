@@ -5,97 +5,13 @@
     <description><![CDATA[Feed combinado das minhas publicações online. Tradução automática — por favor, perdoem qualquer falha na tradução.]]></description>
     <link>https://victor.villas</link>
     <generator>translate-feed.py</generator>
-    <lastBuildDate>Sat, 09 May 2026 17:31:04 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 09 May 2026 17:36:12 GMT</lastBuildDate>
     <copyright><![CDATA[Victor Villas © 2026]]></copyright>
     <language>pt-BR</language>
     <atom:link href="https://victor.villas/feed_pt-BR.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title><![CDATA[Atualização de Página]]></title>
-      <description><![CDATA[<p><i>[tradução automática do inglês]</i></p><p><em>Atualização em <a href="https://victor.villas/notes/now">notes/now</a> com novo conteúdo:</em></p><p>Eu sou dono do meu domínio e deste site desde 2019, mas as redes sociais têm sido um caminho muito mais fácil para me comunicar com os outros. Com o surgimento de plataformas abertas federadas e software gerado por LLM, o custo de experimentar alternativas diminuiu significativamente e, ocasionalmente, dou-lhe alguma atenção. O objetivo é usar este site como base para feeds RSS e boletins informativos por e-mail.</p><p>Em junho de 2025, desisti do Pixelfed. Sou grato que o projeto exista, mas ainda não consigo sacudir meu telefone e compartilhar um momento com ele, a experiência do usuário ainda não está lá. Estou de olho no espaço para clientes polidos, mas por enquanto, surpreendentemente, a melhor experiência de compartilhamento de imagens é usar a Mona para postar diretamente no Mastodon.</p><p>A partir de maio de 2026, tenho trabalhado na geração de versões traduzidas por máquina desse feed RSS, uma vez que, como imigrante, vivo nesse mundo intermediário de idiomas. Posto principalmente em inglês, o que dificulta que muitos dos meus entes queridos saibam o que está acontecendo. Estou espantado que eu possa obter resultados bastante decentes hospedando um modelo de código aberto gratuitamente.</p><p>O próximo objetivo é poder entregar essas atualizações por meio de boletim informativo, uma vez que a maioria das pessoas não tem ideia do que é o RSS e, embora o e-mail não seja tão cativante quanto o Facebook, é algo que quase todo mundo é forçado (por enquanto) a ter de uma forma ou de outra.</p>]]></description>
-      <link>https://victor.villas/notes/now</link>
-      <guid isPermaLink="true">https://victor.villas/notes/now</guid>
-      <pubDate>Sat, 09 May 2026 14:40:21 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Atualização de Página]]></title>
-      <description><![CDATA[<p><i>[tradução automática do inglês]</i></p><p><em>Atualização em <a href="https://victor.villas/notes/now">notes/now</a> com novo conteúdo:</em></p><p>A minha imagem de uma boa vida permaneceu simples e consistente desde que eu era adolescente: 1) ir trabalhar de skate comendo uma maçã; 2) jantar e conversar com pessoas interessantes; 3) relaxar à sombra de uma árvore. Ao imaginar a vida ideal, é isso que eu sempre visualizei, embora agora essas imagens sempre tenham a minha parceira nelas, e troquei um skate por uma bicicleta.</p><p>Uma década depois, quando jovem adulto, finalmente estava satisfeito com a formulação do propósito da minha vida. É compatível com essa imagem idílica, mas acrescenta especificidade às coisas que me importam além dos momentos agradáveis. O desafio agora é realmente viver de acordo com ela de forma adequada e consistente porque, embora seja divertido refletir, as aspirações não têm consequências práticas imediatas.</p>]]></description>
-      <link>https://victor.villas/notes/now</link>
-      <guid isPermaLink="true">https://victor.villas/notes/now</guid>
-      <pubDate>Sat, 09 May 2026 14:17:33 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Comentário]]></title>
-      <description><![CDATA[<p><i>[tradução automática do inglês]</i></p><p>Estas reservas de camping #bcparks # estão se tornando mais difíceis de conseguir do que ingressos de shows, é loucura. Mas vamos lá, a viagem para Black Tusk está sendo organizada e seu principal obstáculo logístico foi resolvido!</p>]]></description>
-      <link>https://mastodon.social/@villasbc/116545010307602516</link>
-      <guid isPermaLink="true">https://mastodon.social/@villasbc/116545010307602516</guid>
-      <pubDate>Sat, 09 May 2026 14:08:48 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Atualização de Página]]></title>
-      <description><![CDATA[<p><i>[tradução automática do inglês]</i></p><p><em>Atualização em <a href="https://victor.villas/notes/now">notes/now</a> com novo conteúdo:</em></p><p>Ainda trabalho na AWS, com níveis gerenciáveis de estresse e trabalho fora do horário. No final de 2025, finalmente consegui fazer a transição para uma posição de gerência, e tive sorte de ter uma equipe que funciona bem. A parte mais difícil não é realmente as pessoas, é equilibrar uma quantidade maior de pratos girando, e a maioria deles com dificuldades entre as equipes. O único aspecto perene não resolvido é trabalhar para a Amazon, a megacorp, e isso parece estar piorando, considerando os últimos desenvolvimentos políticos nos EUA. A corrosão da personalidade é real, mas eu me engano para não pensar muito sobre isso - pelo menos não é Meta ou Xitter, e não estou trabalhando em nada eticamente duvidoso; é principalmente melhorias profundas em tolerância a falhas e disponibilidade. Posso dormir bem contanto que não esteja relacionado a criptomoedas, jogos de azar, armas, combustíveis fósseis ou uso antiético de IA.</p>]]></description>
-      <link>https://victor.villas/notes/now</link>
-      <guid isPermaLink="true">https://victor.villas/notes/now</guid>
-      <pubDate>Sat, 09 May 2026 03:43:22 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Atualização de Página]]></title>
-      <description><![CDATA[<p><i>[tradução automática do inglês]</i></p><p><em>Atualização em <a href="https://victor.villas/notes/now">notes/now</a> com novo conteúdo:</em></p><p>Levei algumas décadas, mas finalmente estou satisfeito com a formulação do meu propósito de vida. O desafio é realmente ir em frente e vivê-lo de maneira adequada e consistente, porque, apesar de ser divertido refletir, as aspirações não têm consequências práticas imediatas.</p><p>Ainda faço exercícios com pesos semi-regularmente, não é divertido, mas é a maneira mais eficiente de manter um físico decente que eu preciso para tantas outras coisas que eu gosto.</p><p>🚴🏽 Eu andei de bicicleta o ano todo. O clima de Vancouver raramente é suficientemente desfavorável para tornar um passeio de 20 minutos não valer a pena. Estou acima de 92% em comparação com o período anterior de 1 ano (919 km vs 479 km), e isso não conta a viagem de 85 km de bicicleta elétrica que fizemos no dia dos namorados!</p><p>🏃🏽 Correr está moderadamente acima, 14%. Viajamos para o Brasil no momento certo para perdermos tanto a Sun Run de Vancouver quanto a Maratona BMO de Vancouver, então o treinamento usual não se concretizou. Se não estiver totalmente abaixo, é só porque Aline teve algumas corridas extras para tratar ITBS que eu acompanhei.</p><p>🥾 A caminhada teve um aumento notável, 136% (89 km vs 37 km). Os principais contribuintes foram definitivamente nossa viagem Sunshine Coast e a Caminhada Panorama. Começamos bem a temporada, com uma caminhada no Monte Gardner no início da primavera!</p><p>🏕️ Acampar... Não faço rastreamento, não é realmente um esporte...? Acabei de perceber que é uma das poucas coisas que eu deixo acontecer. Acho que tenho dependido muito de Aline e outros amigos para dirigir isso. Algo para mudar em 2026. No final da primavera, devemos ter vários acampamentos reservados.</p><p>🏂🏽 O snowboard está muito acima, 81% (161 km vs 89 km). Esta temporada teve neve por mais tempo, tivemos um passe de Montanha Grouse pela primeira vez e eu até fui para a montanha sozinho uma vez. Estamos ficando melhores nisso, o que faz com que cada dia renda um pouco mais também.</p>]]></description>
-      <link>https://victor.villas/notes/now</link>
-      <guid isPermaLink="true">https://victor.villas/notes/now</guid>
-      <pubDate>Sat, 09 May 2026 03:26:52 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Atualização de Página]]></title>
-      <description><![CDATA[<p><i>[tradução automática do inglês]</i></p><p><em>Atualização em <a href="https://victor.villas/notes/now">notes/now</a> com novo conteúdo:</em></p><p>É primavera em Vancouver, mas atualmente estou experimentando o outono do Rio de Janeiro. O Rio mal tem estações, apenas alterna entre um verão descontraído e um verão intenso. Aline está fora com seus pais em SP há alguns dias, e oh, como eu sinto falta dela e de Vancouver. Ficar um pouco mais com meus pais é um privilégio, embora pudesse ser melhor se eu tivesse mais férias para passar com eles, mas trabalhar daqui também torna essa tradição anual menos perturbadora. Não sei quantas outras chances como essa terei, e tento me lembrar disso com frequência. Coisas pesadas, mas importantes. Como eu aprendi com Eininji:</p><p>Deixe-me lembrá-lo respeitosamente: A vida e a morte são de suprema importância. O tempo passa rapidamente e a oportunidade é perdida. Cada um de nós deve nos esforçar para despertar Desperte! Preste atenção: Esta noite seus dias são diminuídos em um. Não desperdice sua vida.</p>]]></description>
-      <link>https://victor.villas/notes/now</link>
-      <guid isPermaLink="true">https://victor.villas/notes/now</guid>
-      <pubDate>Sat, 09 May 2026 02:51:58 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Comentário]]></title>
-      <description><![CDATA[<p><i>[tradução automática do inglês]</i></p><p>Eu tenho essa configuração # indieweb de agregar no meu site pessoal as coisas que eu digo aqui no mastodon e meu rastreamento de mídia do neodb - Post-Elsewhere, Syndicate to Own Site (#PESOS); e além de reunir tudo isso em uma página inicial, ele gera um feed RSS. Hoje eu finalmente consegui hospedar um modelo de tradução muito básico de graça que me permite gerar versões apenas em pt e apenas em en desse feed RSS. Não são resultados inspiradores, mas bem, é de graça.</p>]]></description>
-      <link>https://mastodon.social/@villasbc/116541361369730165</link>
-      <guid isPermaLink="true">https://mastodon.social/@villasbc/116541361369730165</guid>
-      <pubDate>Fri, 08 May 2026 22:40:50 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Comecei a ler]]></title>
-      <description><![CDATA[<p><a href="https://neodb.social/~neodb~/book/0a4O9fcv3fQWZtCRG6cU55" rel="nofollow">Coisa de Rico: A Vida dos Endinheirados Brasileiros</a><br>Peguei esse livro para complementar a leitura de "Os ricos e os pobres: O Brasil e a desigualdade" do sociólogo Marcelo Medeiros (que enfatiza como o problema da pobreza é um problema de desigualdade, e o problema da desigualdade é um problema de riqueza.) Isto posto, além do ponto de vista sociológico, vai ser interessante ver do ponto de vista antropológico como o 0.1% se diferencia do 1%, que se empenha tanto em se diferenciar dos 99%.</p>]]></description>
-      <link>https://neodb.social/@villasv/posts/574243734794532416/</link>
-      <guid isPermaLink="true">https://neodb.social/@villasv/posts/574243734794532416/</guid>
-      <pubDate>Mon, 04 May 2026 21:39:35 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Terminei de ler]]></title>
-      <description><![CDATA[<p><a href="https://neodb.social/~neodb~/book/7Ka75JbAJMe9gdxuT1xFI6" rel="nofollow">Os ricos e os pobres: O Brasil e a desigualdade, 6 out of 10</a><br>Interessante conhecer mais sobre os tipos de desigualdade, as características das métricas de desigualdade, medição de renda e patrimônio, definições de classes sociais etc. Interessante entender um pouco da história e lógica por trás do Imposto de Renda e do IPTU. Argumentos interessantes sobre reformas tributárias formas de enxergar esses impostos. Eu não sei se o livro é muito lúdico porque o público alvo inclui pessoas que não tem familiaridades com porcentagens, mas se for, acho que era melhor desenhar porque tem parágrafos lotados de números que são difíceis de digerir. E se o público alvo é gente que está tranquila de absorver tabelas econométricas em formato de prosa, o livro é muito repetitivo e conturbado com analogias e metáforas, ou historinhas e contextualizações históricas que acrescentam relativamente pouco. No geral achei uma edição um pouco ruim, mas as ideias por trás do livro e a tese defendida são bem argumentadas; se o leitor conseguir conectar os esparsos pontos dentre as repetições e historinhas.</p>]]></description>
-      <link>https://neodb.social/@villasv/posts/574240679649257592/</link>
-      <guid isPermaLink="true">https://neodb.social/@villasv/posts/574240679649257592/</guid>
-      <pubDate>Mon, 04 May 2026 21:27:26 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Comecei a ler]]></title>
-      <description><![CDATA[<p><a href="https://neodb.social/~neodb~/book/7Ka75JbAJMe9gdxuT1xFI6" rel="nofollow">Os ricos e os pobres: O Brasil e a desigualdade</a><br>O tema da desigualdade é mais antigo do que a própria democracia; me bateu uma curiosidade de saber como anda o debate nesta década.</p>]]></description>
-      <link>https://neodb.social/@villasv/posts/572463348281676984/</link>
-      <guid isPermaLink="true">https://neodb.social/@villasv/posts/572463348281676984/</guid>
-      <pubDate>Wed, 29 Apr 2026 23:44:58 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Terminei de ler]]></title>
-      <description><![CDATA[<p><i>[tradução automática do inglês]</i></p><p><a href="https://neodb.social/~neodb~/book/1GAVNb8HK4BNpK82IVyifj" rel="nofollow">If on a Winter's Night a Traveler, 9 out of 10</a><br>Se em uma noite de inverno um viajante, 9 em cada 10 são tão engenhosos. Uma leitura realmente cativante. A segunda metade do livro se aproxima do território das Cidades Invisíveis com alguns cenários surreais, mas no geral a história é tão relatável, e Calvino sabe disso e brinca com a identificação do leitor, é surpreendentemente divertido. Talvez Calvino tenha ficado um pouco "animado" com os relacionamentos sexuais aqui e ali... e talvez este livro não seja tão agradável de ler de outro ponto de vista que não seja o de um homem cis-hetero; afinal, é o trabalho de um romancista nos anos 70.</p>]]></description>
-      <link>https://neodb.social/@villasv/posts/571290469724860464/</link>
-      <guid isPermaLink="true">https://neodb.social/@villasv/posts/571290469724860464/</guid>
-      <pubDate>Sun, 26 Apr 2026 18:04:21 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Comentário]]></title>
-      <description><![CDATA[<p><i>[tradução automática do inglês]</i></p><p><a href="https://neodb.social/collection/6xaALHw0TeaWJ2OX3lkbV5" rel="nofollow">Books about Books</a><br>criou a coleção Livros sobre e acerca da leitura e dos livros</p>]]></description>
-      <link>https://neodb.social/@villasv/posts/571286791803834624/</link>
-      <guid isPermaLink="true">https://neodb.social/@villasv/posts/571286791803834624/</guid>
-      <pubDate>Sun, 26 Apr 2026 17:49:45 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Comentário]]></title>
-      <description><![CDATA[<p><i>[tradução automática do inglês]</i></p><p><a href="https://neodb.social/collection/6DqWGTuotYjcnIWbFWA5x5" rel="nofollow">ABRACCINE Melhores Filmes</a><br>criou a coleção 100 Melhores Filmes</p>]]></description>
+      <title><![CDATA[Criei uma coleção]]></title>
+      <description><![CDATA[<p><a href="https://neodb.social/collection/6DqWGTuotYjcnIWbFWA5x5" rel="nofollow">ABRACCINE Melhores Filmes</a><br>100 Melhores Filmes</p>]]></description>
       <link>https://neodb.social/@villasv/posts/571069152889398280/</link>
       <guid isPermaLink="true">https://neodb.social/@villasv/posts/571069152889398280/</guid>
       <pubDate>Sun, 26 Apr 2026 03:24:55 GMT</pubDate>
