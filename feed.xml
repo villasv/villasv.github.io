@@ -4,15 +4,64 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 09 May 2026 15:18:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 May 2026 17:30:29 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2026]]></copyright>
         <item>
+            <title><![CDATA[Updated Page]]></title>
+            <description><![CDATA[<p><em>Updated <a href="https://victor.villas/notes/now">notes/now</a> with new content:</em></p><p>I&#39;ve owned my domain and this website since 2019, but social media has been a much easier path to communicate with others. With the rise of federatd open platforms and LLM-generated software, the cost of experimenting with alternatives has gone down significantly and I occasionaly give it some attention. The goal is to use this website as the basis for RSS feeds and Email newsletters.</p>
+<p>In June 2025 I&#39;ve given up on Pixelfed. I&#39;m thankfull that the project exists, but I still can&#39;t just whip up my phone and share a moment with it, the UX is not there yet. I&#39;m keeping an eye on the space for polished clients, but for now, surprisingly the best image sharing experience is just using Mona to post directly to Mastodon.</p>
+<p>As of May 2026 I&#39;ve been working on generating machine-translated versions of that RSS feed, since as an immigrant I live in this in-between world of languages. I mostly post in English, which makes it hard for many of my loved ones to know what&#39;s up. I&#39;m amazed that I can get pretty decent results hosting an <a href="https://huggingface.co/Unbabel/TowerInstruct-Mistral-7B-v0.2">open source model</a> for free.</p>
+<p>The next stretch goal is being able to deliver those updates via newsletter since most people have no idea what RSS is, and while Email isn&#39;t as catchy as Facebook, it is something that <em>almost</em> everyone is forced (for now) to have one way or another.</p>]]></description>
+            <link>https://victor.villas/notes/now</link>
+            <guid isPermaLink="false">https://victor.villas/notes/now#3e1d75d</guid>
+            <pubDate>Sat, 09 May 2026 14:40:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Updated Page]]></title>
+            <description><![CDATA[<p><em>Updated <a href="https://victor.villas/notes/now">notes/now</a> with new content:</em></p><p>My image of a good life has remained simple and consistent since I was a teenager: 1) skate to work eating an apple; 2) dine and chat with interesting people; 3) chill under the shade of a tree. When imagining the ideal life, that&#39;s what I&#39;ve always visualised, though now those images always have my parter in them, and I swapped a skateboard for a bicycle.</p>
+<p>A decade later as a young adult, I was finally satisfied with my formulation of my <a href="/notes/journey/life">life&#39;s purpose</a>. It&#39;s compatible with that idyllic imagery, but adds some specificity to the things I care about beyond the feel-good moments. The challenge now is to actually go about living it properly and consistently because, while fun to muse about, aspirations don&#39;t have immediate practical consequences.</p>]]></description>
+            <link>https://victor.villas/notes/now</link>
+            <guid isPermaLink="false">https://victor.villas/notes/now#1d72d04</guid>
+            <pubDate>Sat, 09 May 2026 14:17:33 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Comment]]></title>
-            <description><![CDATA[<p>These <a href="https://mastodon.social/tags/bcparks" class="mention hashtag" rel="tag">#<span>bcparks</span></a> <a href="https://mastodon.social/tags/camping" class="mention hashtag" rel="tag">#<span>camping</span></a> reservations are becoming harder to get than concert tickets, it&#39;s wild. But here we go, Black Tusk trip in the works and its main logistics hurdle has been taken care of!</p>]]></description>
+            <description><![CDATA[<p>These <a href="https://mastodon.social/tags/bcparks" class="mention hashtag" rel="tag">#<span>bcparks</span></a> <a href="https://mastodon.social/tags/camping" class="mention hashtag" rel="tag">#<span>camping</span></a> reservations are becoming harder to get than concert tickets, it&#39;s wild. But here we go, Black Tusk trip in the works and its main logistics hurdle has been taken care of!</p><p><img src="https://files.mastodon.social/media_attachments/files/116/544/992/534/594/097/original/03885d2978ed85ef.png" alt="You have successfully made a reservation for Area Garibaldi Lake at Garibaldi on Sun August 9 - Mon August 10, 2026."></p>]]></description>
             <link>https://mastodon.social/@villasbc/116545010307602516</link>
             <guid isPermaLink="true">https://mastodon.social/@villasbc/116545010307602516</guid>
             <pubDate>Sat, 09 May 2026 14:08:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Updated Page]]></title>
+            <description><![CDATA[<p><em>Updated <a href="https://victor.villas/notes/now">notes/now</a> with new content:</em></p><p>I&#39;m still working at AWS, with manageable levels of stress and off-hours work. Late 2025 I was finally able to transtion to a Management position, and I have been lucky to have a team that sails smoothly. The hardest part is not really the people, it&#39;s actually balancing a higher amount of spinning plates and most of them with cross-team hardships.</p>
+<p>The one perenially unresolved aspect is working for Amazon the megacorp, and this seems to be getting worse considering the latest USA political developments. The corrosion of character is real, but I trick myself into not thinking about it too much - at least it&#39;s not Meta or Xitter, and I&#39;m not working on anything ethically dubious; it&#39;s mostly deep in the weeds fault tolerance and availability improvements. I can sleep well as long as it&#39;s not related to crypto, gambling, weapons, fossil fuels, or unethical AI use.</p>]]></description>
+            <link>https://victor.villas/notes/now</link>
+            <guid isPermaLink="false">https://victor.villas/notes/now#f842262</guid>
+            <pubDate>Sat, 09 May 2026 03:43:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Updated Page]]></title>
+            <description><![CDATA[<p><em>Updated <a href="https://victor.villas/notes/now">notes/now</a> with new content:</em></p><p>It took me a few decades but I&#39;m finally satisfied with my formulation of my <a href="/notes/journey/life">life&#39;s purpose</a>. The challenge is to actually go about living it properly and consistently because, while fun to muse about, aspirations don&#39;t have immediate practical consequences.</p>
+<p>I still semi-regularly workout lifting weights, it&#39;s not fun but it&#39;s the most efficient way to maintain a decent physique I need for so many other things that I do enjoy.</p>
+<p>🚴🏽 I&#39;ve been cycling all year round. Vancouver&#39;s weather is rarely inclement enough to make a 20 minute ride not be worth it. I&#39;m up &gt;92% compared to the previous 1Y period (919 km vs 479 km), and that&#39;s not counting the 85 km e-bike ride we did for Valentine&#39;s day!</p>
+<p>🏃🏽 Running is moderately up, 14%. We travelled to Brazil just in time to miss both Vancouver&#39;s Sun Run and the BMO Vancouver Marathon, so the usual training push never materialized. The only reason it&#39;s not totally down is that Aline had some extra runs to treat ITBS that I tagged along.</p>
+<p>🥾 Hiking has had a noteworthy increase as well, 136% (89 km vs 37 km). The main contributors were definitely our Sunshine Coast trip and the Panorama Hike. We started this season well, with an early spring Mt Gardner loop!</p>
+<p>🏕️ Camping... I don&#39;t do any tracking, it&#39;s not actually a sport...? I just realized it&#39;s one of the few things that I just let it happen. I guess I have been relying on Aline and other friends too much to drive this one. Something to change for 2026. End of Spring we should have a bunch of campsites booked.</p>
+<p>🏂🏽 Snowboarding is very much up, 81% (161 km vs 89 km). This season had snow for longer, we had a Grouse Mountain pass for the first time and I even went to the mountain solo once. We&#39;re both getting better at it, which makes each day yield slighly more as well.</p>]]></description>
+            <link>https://victor.villas/notes/now</link>
+            <guid isPermaLink="false">https://victor.villas/notes/now#cf01657</guid>
+            <pubDate>Sat, 09 May 2026 03:26:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Updated Page]]></title>
+            <description><![CDATA[<p><em>Updated <a href="https://victor.villas/notes/now">notes/now</a> with new content:</em></p><p>It&#39;s spring in Vancouver, but I&#39;m currently eperiencing Rio de Janeiro&#39;s Autumn. Rio barely has seasons, it just swings between easygoing and hardcore summer. Aline has been away with her parents in SP for a few days now, and oh do I miss her and Vancouver. Staying a little extra with my parents is a privilege, though; could be better if I had more vacations to spend with them but working from here also makes this yearly tradition be less disruptive overall. I don&#39;t know how many more chances like this I&#39;ll get, and I try to remind myself of that often. Heavy stuff, but important. Like I&#39;ve learned at Eininji:</p>
+<blockquote>
+<p>Let me respectfully remind you: Life and death are of supreme importance. Time swiftly passes by and opportunity is lost. Each of us should strive to awake Awaken! Take heed: This night your days are diminished by one. Do not squander your life.</p>
+</blockquote>]]></description>
+            <link>https://victor.villas/notes/now</link>
+            <guid isPermaLink="false">https://victor.villas/notes/now#73f8564</guid>
+            <pubDate>Sat, 09 May 2026 02:51:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Comment]]></title>
@@ -156,7 +205,7 @@
         </item>
         <item>
             <title><![CDATA[Comment]]></title>
-            <description><![CDATA[<p>The downtown BIA has lots of interesting material and they are generally onboard if self serving urbanism like bike lanes and better transit but… BIAs will BIA and openly advocate for vibes based policy making, whatever it takes to bring in that suburban shopper who’s afraid of visible social issues.</p><p>At least I gotta give it to them the goal of having both… but this is proven a zero-sum dichotomy time and time again in the halls of city council and voting booths</p>]]></description>
+            <description><![CDATA[<p>The downtown BIA has lots of interesting material and they are generally onboard if self serving urbanism like bike lanes and better transit but… BIAs will BIA and openly advocate for vibes based policy making, whatever it takes to bring in that suburban shopper who’s afraid of visible social issues.</p><p>At least I gotta give it to them the goal of having both… but this is proven a zero-sum dichotomy time and time again in the halls of city council and voting booths</p><p><img src="https://files.mastodon.social/media_attachments/files/116/375/439/443/396/765/original/526b5a136c9ed88e.jpeg" alt="BUILD FOR WHAT PEOPLE FEEL Consider Fear of Violence, slightly elevated across some resident segments in the Downtown Van district. People with this trait don’t respond to crime statistics or reassuring press releases. They respond to environments that feel safe and legible: well-lit streets, clear sightlines, intuitive navigation, and clarity. You can tell Alex that downtown is statistically safer than three years ago, but it won’t matter. What matters is whether the street feels orderly and predictable the moment Alex steps off the bus. That’s a design problem with a design solution if you know what you are looking to solve.  The values-based approach asks: what single investment serves multiple value orientations simultaneously?"></p>]]></description>
             <link>https://mastodon.social/@villasbc/116375439491130273</link>
             <guid isPermaLink="true">https://mastodon.social/@villasbc/116375439491130273</guid>
             <pubDate>Thu, 09 Apr 2026 15:24:43 GMT</pubDate>
