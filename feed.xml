@@ -4,7 +4,7 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 11 May 2026 02:54:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 May 2026 04:00:54 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2026]]></copyright>
         <item>
@@ -114,7 +114,7 @@
         </item>
         <item>
             <title><![CDATA[Created collection]]></title>
-            <description><![CDATA[<p><a href="https://neodb.social/collection/6DqWGTuotYjcnIWbFWA5x5" rel="nofollow">ABRACCINE Melhores Filmes</a><br>  <a href="https://pt.wikipedia.org/wiki/Lista_dos_100_melhores_filmes_brasileiros_segundo_a_ABRACCINE" rel="nofollow" class="ellipsis" title="pt.wikipedia.org/wiki/Lista_dos_100_melhores_filmes_brasileiros_segundo_a_ABRACCINE"><span class="invisible">https://</span><span class="ellipsis">pt.wikipedia.org/wiki/Lista_do</span><span class="invisible">s_100_melhores_filmes_brasileiros_segundo_a_ABRACCINE</span></a>  <br></p>]]></description>
+            <description><![CDATA[<p><a href="https://neodb.social/collection/6DqWGTuotYjcnIWbFWA5x5" rel="nofollow">Cinema Brasileiro</a><br>  <a href="https://pt.wikipedia.org/wiki/Lista_dos_100_melhores_filmes_brasileiros_segundo_a_ABRACCINE" rel="nofollow" class="ellipsis" title="pt.wikipedia.org/wiki/Lista_dos_100_melhores_filmes_brasileiros_segundo_a_ABRACCINE"><span class="invisible">https://</span><span class="ellipsis">pt.wikipedia.org/wiki/Lista_do</span><span class="invisible">s_100_melhores_filmes_brasileiros_segundo_a_ABRACCINE</span></a>  <br></p>]]></description>
             <link>https://neodb.social/@villasv/posts/571069152889398280/</link>
             <guid isPermaLink="true">https://neodb.social/@villasv/posts/571069152889398280/</guid>
             <pubDate>Sun, 26 Apr 2026 03:24:55 GMT</pubDate>

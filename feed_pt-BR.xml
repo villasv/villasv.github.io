@@ -5,7 +5,7 @@
     <description><![CDATA[Feed combinado das minhas publicações online. Tradução automática — por favor, perdoem qualquer falha na tradução.]]></description>
     <link>https://victor.villas</link>
     <generator>translate-feed.py</generator>
-    <lastBuildDate>Mon, 11 May 2026 02:58:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 04:01:29 GMT</lastBuildDate>
     <copyright><![CDATA[Victor Villas © 2026]]></copyright>
     <language>pt-BR</language>
     <atom:link href="https://victor.villas/feed_pt-BR.xml" rel="self" type="application/rss+xml"/>
@@ -102,7 +102,7 @@
     </item>
     <item>
       <title><![CDATA[Criei uma coleção]]></title>
-      <description><![CDATA[<p><a href="https://neodb.social/collection/6DqWGTuotYjcnIWbFWA5x5" rel="nofollow">ABRACCINE Melhores Filmes</a><br>https:// pt.wikipedia.org/wiki/Lista_do s_100_melhores_filmes_brasileiros_segundo_a_ABRACCINE</p>]]></description>
+      <description><![CDATA[<p><a href="https://neodb.social/collection/6DqWGTuotYjcnIWbFWA5x5" rel="nofollow">Cinema Brasileiro</a><br>https:// pt.wikipedia.org/wiki/Lista_do s_100_melhores_filmes_brasileiros_segundo_a_ABRACCINE</p>]]></description>
       <link>https://neodb.social/@villasv/posts/571069152889398280/</link>
       <guid isPermaLink="true">https://neodb.social/@villasv/posts/571069152889398280/</guid>
       <pubDate>Sun, 26 Apr 2026 03:24:55 GMT</pubDate>
