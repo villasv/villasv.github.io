@@ -5,10 +5,17 @@
     <description><![CDATA[Feed combinado das minhas publicações online. Tradução automática — por favor, perdoem qualquer falha na tradução.]]></description>
     <link>https://victor.villas</link>
     <generator>translate-feed.py</generator>
-    <lastBuildDate>Mon, 11 May 2026 01:52:46 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 02:58:00 GMT</lastBuildDate>
     <copyright><![CDATA[Victor Villas © 2026]]></copyright>
     <language>pt-BR</language>
     <atom:link href="https://victor.villas/feed_pt-BR.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title><![CDATA[Terminei de assistir]]></title>
+      <description><![CDATA[<p><a href="https://neodb.social/~neodb~/movie/2ek2Ex45GTjSMiTZP7e4XN" rel="nofollow">Limite, 7 out of 10</a><br>Um dos pioneiros e campeões do cinema brasileiro. Acompanha a trajetória de angústia e sofrimento de três personagens que se vêem no limite de suas vidas: sem liberdade, sem amor, sem poder de escolha frente à cruel indiferença do mundo natural. É uma obra de arte, mas é uma beleza trágica. Se a ideia é assistir por assistir, é uma melancolia infindável. Para um crítico de cinema esse pode ser um dos filmes mais aclamados da nossa história, mas para um reles telespectador é necessário esforço. Um peito de frango sem sal e sem tempero: ápice da nutrição mas que só entra no cardápio de quem não está pra brincadeira. Faz mais sentido assistir com curiosidade pelo seu contexto histórico: o primeiro filme de arte do país e 30 anos antes do cinema novo; e a sua suposta universalidade destacada do contexto colonial (porém não totalmente, nunca é).</p>]]></description>
+      <link>https://neodb.social/@villasv/posts/576494485959670928/</link>
+      <guid isPermaLink="true">https://neodb.social/@villasv/posts/576494485959670928/</guid>
+      <pubDate>Mon, 11 May 2026 02:43:16 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[Atualização de Página]]></title>
       <description><![CDATA[<p><i>[tradução automática do inglês]</i></p><p><em>Atualização em <a href="https://victor.villas/notes/now">notes/now</a> com novo conteúdo:</em></p><p>Eu sou dono do meu domínio e deste site desde 2019, mas as redes sociais têm sido um caminho muito mais fácil para me comunicar com os outros. Com o surgimento de plataformas abertas federadas e software gerado por LLM, o custo de experimentar alternativas diminuiu significativamente e, ocasionalmente, dou-lhe alguma atenção. O objetivo é usar este site como base para feeds RSS e boletins informativos por e-mail.</p><p>Em junho de 2025, desisti do Pixelfed. Sou grato que o projeto exista, mas ainda não consigo sacudir meu telefone e compartilhar um momento com ele, a experiência do usuário ainda não está lá. Estou de olho no espaço para clientes polidos, mas por enquanto, surpreendentemente, a melhor experiência de compartilhamento de imagens é usar a Mona para postar diretamente no Mastodon.</p><p>A partir de maio de 2026, tenho trabalhado na geração de versões traduzidas por máquina desse feed RSS, uma vez que, como imigrante, vivo nesse mundo intermediário de idiomas. Posto principalmente em inglês, o que dificulta que muitos dos meus entes queridos saibam o que está acontecendo. Estou espantado que eu possa obter resultados bastante decentes hospedando um modelo de código aberto gratuitamente.</p><p>O próximo objetivo é poder entregar essas atualizações por meio de boletim informativo, uma vez que a maioria das pessoas não tem ideia do que é o RSS e, embora o e-mail não seja tão cativante quanto o Facebook, é algo que quase todo mundo é forçado (por enquanto) a ter de uma forma ou de outra.</p>]]></description>
@@ -274,13 +281,6 @@
       <link>https://mastodon.social/@villasbc/116014752687931757</link>
       <guid isPermaLink="true">https://mastodon.social/@villasbc/116014752687931757</guid>
       <pubDate>Wed, 04 Feb 2026 22:37:19 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Quero ler]]></title>
-      <description><![CDATA[<p><a href="https://neodb.social/~neodb~/book/5vIAQyTHO1zaLlFMuW3q8C" rel="nofollow">Sand Talk</a></p>]]></description>
-      <link>https://neodb.social/@villasv/posts/541210768876040160/</link>
-      <guid isPermaLink="true">https://neodb.social/@villasv/posts/541210768876040160/</guid>
-      <pubDate>Mon, 02 Feb 2026 17:58:22 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[Comentário]]></title>

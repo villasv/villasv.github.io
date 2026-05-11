@@ -5,10 +5,17 @@
     <description><![CDATA[Combined feed of my online posts. Machine translated — please forgive any translation errors.]]></description>
     <link>https://victor.villas</link>
     <generator>translate-feed.py</generator>
-    <lastBuildDate>Mon, 11 May 2026 01:52:46 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 02:58:00 GMT</lastBuildDate>
     <copyright><![CDATA[Victor Villas © 2026]]></copyright>
     <language>en-CA</language>
     <atom:link href="https://victor.villas/feed_en-CA.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title><![CDATA[Finished watching]]></title>
+      <description><![CDATA[<p><i>[machine-translated from Portuguese]</i></p><p><a href="https://neodb.social/~neodb~/movie/2ek2Ex45GTjSMiTZP7e4XN" rel="nofollow">Limite, 7 out of 10</a><br>One of the pioneers and champions of Brazilian cinema. It follows the trajectory of anguish and suffering of three characters who find themselves at the limit of their lives: without freedom, without love, without power of choice in the face of the cruel indifference of the natural world. It is a work of art, but it is a tragic beauty. If the idea is to watch just for watching, it is an endless melancholy. For a film critic, this may be one of the most acclaimed films in our history, but for a mere viewer effort is necessary. A chicken breast without salt and without seasoning: peak nutrition but only on the menu of those who are serious. It makes more sense to watch with curiosity for its historical context: the country's first art film and 30 years before the new cinema; and its supposed universality highlighted out of the colonial context (however not totally, never is).</p>]]></description>
+      <link>https://neodb.social/@villasv/posts/576494485959670928/</link>
+      <guid isPermaLink="true">https://neodb.social/@villasv/posts/576494485959670928/</guid>
+      <pubDate>Mon, 11 May 2026 02:43:16 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[Updated Page]]></title>
       <description><![CDATA[<p><em>Updated <a href="https://victor.villas/notes/now">notes/now</a> with new content:</em></p><p>I've owned my domain and this website since 2019, but social media has been a much easier path to communicate with others. With the rise of federatd open platforms and LLM-generated software, the cost of experimenting with alternatives has gone down significantly and I occasionaly give it some attention. The goal is to use this website as the basis for RSS feeds and Email newsletters.</p><p>In June 2025 I've given up on Pixelfed. I'm thankfull that the project exists, but I still can't just whip up my phone and share a moment with it, the UX is not there yet. I'm keeping an eye on the space for polished clients, but for now, surprisingly the best image sharing experience is just using Mona to post directly to Mastodon.</p><p>As of May 2026 I've been working on generating machine-translated versions of that RSS feed, since as an immigrant I live in this in-between world of languages. I mostly post in English, which makes it hard for many of my loved ones to know what's up. I'm amazed that I can get pretty decent results hosting an open source model for free.</p><p>The next stretch goal is being able to deliver those updates via newsletter since most people have no idea what RSS is, and while Email isn't as catchy as Facebook, it is something that almost everyone is forced (for now) to have one way or another.</p>]]></description>
@@ -274,13 +281,6 @@
       <link>https://mastodon.social/@villasbc/116014752687931757</link>
       <guid isPermaLink="true">https://mastodon.social/@villasbc/116014752687931757</guid>
       <pubDate>Wed, 04 Feb 2026 22:37:19 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Wants to read]]></title>
-      <description><![CDATA[<p><a href="https://neodb.social/~neodb~/book/5vIAQyTHO1zaLlFMuW3q8C" rel="nofollow">Sand Talk</a></p>]]></description>
-      <link>https://neodb.social/@villasv/posts/541210768876040160/</link>
-      <guid isPermaLink="true">https://neodb.social/@villasv/posts/541210768876040160/</guid>
-      <pubDate>Mon, 02 Feb 2026 17:58:22 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[Comment]]></title>

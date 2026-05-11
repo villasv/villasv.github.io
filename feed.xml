@@ -4,9 +4,16 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 11 May 2026 01:52:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 May 2026 02:54:02 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2026]]></copyright>
+        <item>
+            <title><![CDATA[Finished watching]]></title>
+            <description><![CDATA[<p><a href="https://neodb.social/~neodb~/movie/2ek2Ex45GTjSMiTZP7e4XN" rel="nofollow">Limite, 7 out of 10</a>  <br>Um dos pioneiros e campeões do cinema brasileiro. Acompanha a trajetória de angústia e sofrimento de três personagens que se vêem no limite de suas vidas: sem liberdade, sem amor, sem poder de escolha frente à cruel indiferença do mundo natural.</p><p>É uma obra de arte, mas é uma beleza trágica. Se a ideia é assistir por assistir, é uma melancolia infindável. Para um crítico de cinema esse pode ser um dos filmes mais aclamados da nossa história, mas para um reles telespectador é necessário esforço. Um peito de frango sem sal e sem tempero: ápice da nutrição mas que só entra no cardápio de quem não está pra brincadeira.</p><p>Faz mais sentido assistir com curiosidade pelo seu contexto histórico: o primeiro filme de arte do país e 30 anos antes do cinema novo; e a sua suposta universalidade destacada do contexto colonial (porém não totalmente, nunca é).<br></p>]]></description>
+            <link>https://neodb.social/@villasv/posts/576494485959670928/</link>
+            <guid isPermaLink="true">https://neodb.social/@villasv/posts/576494485959670928/</guid>
+            <pubDate>Mon, 11 May 2026 02:43:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Updated Page]]></title>
             <description><![CDATA[<p><em>Updated <a href="https://victor.villas/notes/now">notes/now</a> with new content:</em></p><p>I&#39;ve owned my domain and this website since 2019, but social media has been a much easier path to communicate with others. With the rise of federatd open platforms and LLM-generated software, the cost of experimenting with alternatives has gone down significantly and I occasionaly give it some attention. The goal is to use this website as the basis for RSS feeds and Email newsletters.</p>
@@ -286,13 +293,6 @@
             <link>https://mastodon.social/@villasbc/116014752687931757</link>
             <guid isPermaLink="true">https://mastodon.social/@villasbc/116014752687931757</guid>
             <pubDate>Wed, 04 Feb 2026 22:37:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Wants to read]]></title>
-            <description><![CDATA[<p><a href="https://neodb.social/~neodb~/book/5vIAQyTHO1zaLlFMuW3q8C" rel="nofollow">Sand Talk</a> </p><p></p>]]></description>
-            <link>https://neodb.social/@villasv/posts/541210768876040160/</link>
-            <guid isPermaLink="true">https://neodb.social/@villasv/posts/541210768876040160/</guid>
-            <pubDate>Mon, 02 Feb 2026 17:58:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Comment]]></title>

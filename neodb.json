@@ -1316,31 +1316,6 @@
     "wishlist": [
       {
         "shelf_type": "wishlist",
-        "post_id": "571069088452667128",
-        "created_time": "2026-04-26T03:24:40.569Z",
-        "rating_grade": null,
-        "comment_text": null,
-        "item": {
-          "id": "https://neodb.social/movie/2ek2Ex45GTjSMiTZP7e4XN",
-          "title": "界限",
-          "localized_title": [
-            {
-              "lang": "en",
-              "text": "Limite"
-            },
-            {
-              "lang": "en",
-              "text": "Limit"
-            },
-            {
-              "lang": "pt",
-              "text": "Limite"
-            }
-          ]
-        }
-      },
-      {
-        "shelf_type": "wishlist",
         "post_id": "538112995604319440",
         "created_time": "2026-01-25T04:48:55.743Z",
         "rating_grade": null,
@@ -1686,6 +1661,31 @@
     ],
     "progress": [],
     "complete": [
+      {
+        "shelf_type": "complete",
+        "post_id": "576494485959670928",
+        "created_time": "2026-05-11T02:43:16.109Z",
+        "rating_grade": 7,
+        "comment_text": "Um dos pioneiros e campeões do cinema brasileiro. Acompanha a trajetória de angústia e sofrimento de três personagens que se vêem no limite de suas vidas: sem liberdade, sem amor, sem poder de escolha frente à cruel indiferença do mundo natural.\r\n\r\nÉ uma obra de arte, mas é uma beleza trágica. Se a ideia é assistir por assistir, é uma melancolia infindável. Para um crítico de cinema esse pode ser um dos filmes mais aclamados da nossa história, mas para um reles telespectador é necessário esforço. Um peito de frango sem sal e sem tempero: ápice da nutrição mas que só entra no cardápio de quem não está pra brincadeira.\r\n\r\nFaz mais sentido assistir com curiosidade pelo seu contexto histórico: o primeiro filme de arte do país e 30 anos antes do cinema novo; e a sua suposta universalidade destacada do contexto colonial (porém não totalmente, nunca é).",
+        "item": {
+          "id": "https://neodb.social/movie/2ek2Ex45GTjSMiTZP7e4XN",
+          "title": "界限",
+          "localized_title": [
+            {
+              "lang": "en",
+              "text": "Limite"
+            },
+            {
+              "lang": "en",
+              "text": "Limit"
+            },
+            {
+              "lang": "pt",
+              "text": "Limite"
+            }
+          ]
+        }
+      },
       {
         "shelf_type": "complete",
         "post_id": "570597237828013240",
