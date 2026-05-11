@@ -1,3 +1,3 @@
 :HL["/_next/static/chunks/0bkmrns-sp1vw.css","style"]
 :HL["/_next/static/chunks/0yyt8wte0_7sp.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"notes","param":null,"prefetchHints":0,"slots":{"children":{"name":"outdoor","param":null,"prefetchHints":0,"slots":{"children":{"name":"camping","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}}}},"staleTime":300,"buildId":"DYtfwY6nVZTUcjFdr1NGD"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"notes","param":null,"prefetchHints":0,"slots":{"children":{"name":"outdoor","param":null,"prefetchHints":0,"slots":{"children":{"name":"camping","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}}}},"staleTime":300,"buildId":"T_6AbWwfJcZNzCG3N7SYY"}
