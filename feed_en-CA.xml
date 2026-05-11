@@ -5,10 +5,17 @@
     <description><![CDATA[Combined feed of my online posts. Machine translated — please forgive any translation errors.]]></description>
     <link>https://victor.villas</link>
     <generator>translate-feed.py</generator>
-    <lastBuildDate>Mon, 11 May 2026 18:56:11 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 19:45:51 GMT</lastBuildDate>
     <copyright><![CDATA[Victor Villas © 2026]]></copyright>
     <language>en-CA</language>
     <atom:link href="https://victor.villas/feed_en-CA.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title><![CDATA[Comment]]></title>
+      <description><![CDATA[<p>I remember when back in São Paulo we had 10 different digital wallet apps fighting to death powered by blowing furnaces of VC-money. Every week I had R$15 lunch with R$8 cash back, which is insane (and unsustainable). Of course, years later, almost all of them are irrelevant if at all alive. I miss my lunch discount, but life goes on. GitHub Copilot froze plan upgrades. There's no free lunch, and 50% discount lunch only until you're locked in. Looks like the time to pull rugs is coming.</p>]]></description>
+      <link>https://mastodon.social/@villasbc/116557550252765682</link>
+      <guid isPermaLink="true">https://mastodon.social/@villasbc/116557550252765682</guid>
+      <pubDate>Mon, 11 May 2026 19:17:52 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[Finished watching]]></title>
       <description><![CDATA[<p><i>[machine-translated from Portuguese]</i></p><p><a href="https://neodb.social/~neodb~/movie/2ek2Ex45GTjSMiTZP7e4XN" rel="nofollow">Limite, 7 out of 10</a><br>One of the pioneers and champions of Brazilian cinema. It follows the trajectory of anguish and suffering of three characters who find themselves at the limit of their lives: without freedom, without love, without power of choice in the face of the cruel indifference of the natural world. It is a work of art, but it is a tragic beauty. If the idea is to watch just for watching, it is an endless melancholy. For a film critic, this may be one of the most acclaimed films in our history, but for a mere viewer effort is necessary. A chicken breast without salt and without seasoning: peak nutrition but only on the menu of those who are serious. It makes more sense to watch with curiosity for its historical context: the country's first art film and 30 years before the new cinema; and its supposed universality highlighted out of the colonial context (however not totally, never is).</p>]]></description>
@@ -316,13 +323,6 @@
       <link>https://mastodon.social/@villasbc/115907709595439664</link>
       <guid isPermaLink="true">https://mastodon.social/@villasbc/115907709595439664</guid>
       <pubDate>Sat, 17 Jan 2026 00:54:51 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Comment]]></title>
-      <description><![CDATA[<p>“The market is not the economy”. I’ve only learned this recently after years of being told Nasdaq numbers going up meant the country/world was going well.</p>]]></description>
-      <link>https://mastodon.social/@villasbc/115872002751717895</link>
-      <guid isPermaLink="true">https://mastodon.social/@villasbc/115872002751717895</guid>
-      <pubDate>Sat, 10 Jan 2026 17:34:08 GMT</pubDate>
     </item>
   </channel>
 </rss>

@@ -5,10 +5,17 @@
     <description><![CDATA[Feed combinado das minhas publicações online. Tradução automática — por favor, perdoem qualquer falha na tradução.]]></description>
     <link>https://victor.villas</link>
     <generator>translate-feed.py</generator>
-    <lastBuildDate>Mon, 11 May 2026 18:56:11 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 19:45:51 GMT</lastBuildDate>
     <copyright><![CDATA[Victor Villas © 2026]]></copyright>
     <language>pt-BR</language>
     <atom:link href="https://victor.villas/feed_pt-BR.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title><![CDATA[Comentário]]></title>
+      <description><![CDATA[<p><i>[tradução automática do inglês]</i></p><p>Lembro-me de quando, em São Paulo, tínhamos 10 aplicativos de carteira digital diferentes lutando até a morte, alimentados por fornos de dinheiro de capitalistas de risco. Toda semana eu tinha um almoço de R$15 com R$8 de volta, o que é insano (e insustentável). Claro, anos depois, quase todos eles são irrelevantes, se ainda estão vivos. Sinto falta do meu desconto no almoço, mas a vida continua. O GitHub Copilot congelou upgrades de plano. Não há almoço grátis, e um almoço com 50% de desconto só dura até você ficar preso. Parece que está chegando a hora de puxar os tapetes.</p>]]></description>
+      <link>https://mastodon.social/@villasbc/116557550252765682</link>
+      <guid isPermaLink="true">https://mastodon.social/@villasbc/116557550252765682</guid>
+      <pubDate>Mon, 11 May 2026 19:17:52 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[Terminei de assistir]]></title>
       <description><![CDATA[<p><a href="https://neodb.social/~neodb~/movie/2ek2Ex45GTjSMiTZP7e4XN" rel="nofollow">Limite, 7 out of 10</a><br>Um dos pioneiros e campeões do cinema brasileiro. Acompanha a trajetória de angústia e sofrimento de três personagens que se vêem no limite de suas vidas: sem liberdade, sem amor, sem poder de escolha frente à cruel indiferença do mundo natural. É uma obra de arte, mas é uma beleza trágica. Se a ideia é assistir por assistir, é uma melancolia infindável. Para um crítico de cinema esse pode ser um dos filmes mais aclamados da nossa história, mas para um reles telespectador é necessário esforço. Um peito de frango sem sal e sem tempero: ápice da nutrição mas que só entra no cardápio de quem não está pra brincadeira. Faz mais sentido assistir com curiosidade pelo seu contexto histórico: o primeiro filme de arte do país e 30 anos antes do cinema novo; e a sua suposta universalidade destacada do contexto colonial (porém não totalmente, nunca é).</p>]]></description>
@@ -316,13 +323,6 @@
       <link>https://mastodon.social/@villasbc/115907709595439664</link>
       <guid isPermaLink="true">https://mastodon.social/@villasbc/115907709595439664</guid>
       <pubDate>Sat, 17 Jan 2026 00:54:51 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Comentário]]></title>
-      <description><![CDATA[<p><i>[tradução automática do inglês]</i></p><p>"O mercado não é a economia". Aprendi isso recentemente, depois de anos ouvindo que o aumento dos números da Nasdaq significava que o país/o mundo estava indo bem.</p>]]></description>
-      <link>https://mastodon.social/@villasbc/115872002751717895</link>
-      <guid isPermaLink="true">https://mastodon.social/@villasbc/115872002751717895</guid>
-      <pubDate>Sat, 10 Jan 2026 17:34:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
