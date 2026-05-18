@@ -5,10 +5,17 @@
     <description><![CDATA[Combined feed of my online posts. Machine translated — please forgive any translation errors.]]></description>
     <link>https://victor.villas</link>
     <generator>translate-feed.py</generator>
-    <lastBuildDate>Sat, 16 May 2026 15:07:01 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 06:38:47 GMT</lastBuildDate>
     <copyright><![CDATA[Victor Villas © 2026]]></copyright>
     <language>en-CA</language>
     <atom:link href="https://victor.villas/feed_en-CA.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title><![CDATA[Finished reading]]></title>
+      <description><![CDATA[<p><i>[machine-translated from Portuguese]</i></p><p><a href="https://neodb.social/~neodb~/book/0a4O9fcv3fQWZtCRG6cU55" rel="nofollow">Coisa de Rico: A Vida dos Endinheirados Brasileiros, 8 out of 10</a><br>The focus is not on scientific or political pragmatism, it is not to seek adjustments for a concrete definition of "rich"; on the contrary, the focus is to highlight the blurred impossibility of defining a social position that only makes sense when thought relationally. In the character of the anthropologist with his playful side, the book also reveals a talent for scientific communication. The debauchery and absurd stories bring a tasty seasoning to a very serious subject: these people, obsessed with operating differences between themselves and between us, are in charge of the institutions of power - directly or by influence.</p>]]></description>
+      <link>https://neodb.social/@villasv/posts/579021890659266280/</link>
+      <guid isPermaLink="true">https://neodb.social/@villasv/posts/579021890659266280/</guid>
+      <pubDate>Mon, 18 May 2026 02:06:16 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[Comment]]></title>
       <description><![CDATA[<p>I remember when back in São Paulo we had 10 different digital wallet apps fighting to death powered by blowing furnaces of VC-money. Every week I had R$15 lunch with R$8 cash back, which is insane (and unsustainable). Of course, years later, almost all of them are irrelevant if at all alive. I miss my lunch discount, but life goes on. GitHub Copilot froze plan upgrades. There's no free lunch, and 50% discount lunch only until you're locked in. Looks like the time to pull rugs is coming.</p>]]></description>
@@ -211,20 +218,6 @@
       <link>https://mastodon.social/@villasbc/116375439491130273</link>
       <guid isPermaLink="true">https://mastodon.social/@villasbc/116375439491130273</guid>
       <pubDate>Thu, 09 Apr 2026 15:24:43 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Finished watching]]></title>
-      <description><![CDATA[<p><a href="https://neodb.social/~neodb~/movie/06gPQON41DHTmQLPr6QRlC" rel="nofollow">Requiem for a Dream, 7 out of 10</a><br>The movie is really intense and masterfully executed. The music, the scenes, all the juxtaposition. There are some interesting details like the obvious disregard from doctors, and the choice to include the mother in the parallels, but it’s also kind of obvious how this movie is a product of the drug scare that grew throughout the 90’s.</p>]]></description>
-      <link>https://neodb.social/@villasv/posts/564214246903774408/</link>
-      <guid isPermaLink="true">https://neodb.social/@villasv/posts/564214246903774408/</guid>
-      <pubDate>Tue, 07 Apr 2026 05:25:58 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Finished watching]]></title>
-      <description><![CDATA[<p><a href="https://neodb.social/~neodb~/movie/3P6wROk9oIqMCxD1v4d3hN" rel="nofollow">Memento, 8 out of 10</a><br>Definitely one of the greats in terms of using non linear time as a plot device, but also a great story on its own. Makes me think about the illusion of systematic objectivity and the role of memory for contextual history keeping.</p>]]></description>
-      <link>https://neodb.social/@villasv/posts/564182300911836080/</link>
-      <guid isPermaLink="true">https://neodb.social/@villasv/posts/564182300911836080/</guid>
-      <pubDate>Tue, 07 Apr 2026 03:19:02 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[Comment]]></title>

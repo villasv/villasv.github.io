@@ -495,23 +495,6 @@
     "progress": [
       {
         "shelf_type": "progress",
-        "post_id": "574243734794532416",
-        "created_time": "2026-05-04T21:39:35.226Z",
-        "rating_grade": null,
-        "comment_text": "Peguei esse livro para complementar a leitura de \"Os ricos e os pobres: O Brasil e a desigualdade\" do sociólogo Marcelo Medeiros (que enfatiza como o problema da pobreza é um problema de desigualdade, e o problema da desigualdade é um problema de riqueza.) Isto posto, além do ponto de vista sociológico, vai ser interessante ver do ponto de vista antropológico como o 0.1% se diferencia do 1%, que se empenha tanto em se diferenciar dos 99%.",
-        "item": {
-          "id": "https://neodb.social/book/0a4O9fcv3fQWZtCRG6cU55",
-          "title": "Coisa de Rico: A Vida dos Endinheirados Brasileiros",
-          "localized_title": [
-            {
-              "lang": "pt",
-              "text": "Coisa de Rico: A Vida dos Endinheirados Brasileiros"
-            }
-          ]
-        }
-      },
-      {
-        "shelf_type": "progress",
         "post_id": "568406550152571808",
         "created_time": "2026-04-18T19:04:41.951Z",
         "rating_grade": null,
@@ -592,6 +575,23 @@
       }
     ],
     "complete": [
+      {
+        "shelf_type": "complete",
+        "post_id": "579021890659266280",
+        "created_time": "2026-05-18T02:06:16.356Z",
+        "rating_grade": 8,
+        "comment_text": "O foco não é pragmatismo científico ou político, não é buscar ajustes para uma definição concreta de “rico”; pelo contrario, o foco é evidenciar o embaçada impossibilidade de definir uma posição social que só faz sentido quando pensada de forma relacional.\r\n\r\nNesse personagem de antropólogo com seu lado gozador, o livro revela também um talento de comunicador científico. O deboche e os relatos estapafúrdios trazem um tempero saboroso a um assunto muito sério: essa gente, obcecada por operar diferenças entre si e entre nós, está no comando das instituições de poder - diretamente ou por influência.",
+        "item": {
+          "id": "https://neodb.social/book/0a4O9fcv3fQWZtCRG6cU55",
+          "title": "Coisa de Rico: A Vida dos Endinheirados Brasileiros",
+          "localized_title": [
+            {
+              "lang": "pt",
+              "text": "Coisa de Rico: A Vida dos Endinheirados Brasileiros"
+            }
+          ]
+        }
+      },
       {
         "shelf_type": "complete",
         "post_id": "574240679649257592",
@@ -1184,6 +1184,18 @@
       },
       {
         "shelf_type": "complete",
+        "post_id": "63768184753507712",
+        "created_time": "2022-06-26T06:12:00Z",
+        "rating_grade": 4,
+        "comment_text": "Defendo a importância de ter material sobre café em Português, motivo suficiente para merecer uma estrela de consolação. Para quem não tem problemas com barreira linguística, recomendo deixar esse livro pra lá e ir atrás dos clássicos internacionais primeiro e usar esse livro apenas como um complemento para aprender o vocabulário e especificadas sobre o Café no Brasil.",
+        "item": {
+          "id": "https://neodb.social/book/2jLB7VOQhIh1FZjStJbeUG",
+          "title": "Guia do Barista: Da origem do café ao espresso perfeito",
+          "localized_title": []
+        }
+      },
+      {
+        "shelf_type": "complete",
         "post_id": "63768184751317816",
         "created_time": "2022-06-26T06:12:00Z",
         "rating_grade": 8,
@@ -1197,18 +1209,6 @@
               "text": "The $64 Tomato"
             }
           ]
-        }
-      },
-      {
-        "shelf_type": "complete",
-        "post_id": "63768184753507712",
-        "created_time": "2022-06-26T06:12:00Z",
-        "rating_grade": 4,
-        "comment_text": "Defendo a importância de ter material sobre café em Português, motivo suficiente para merecer uma estrela de consolação. Para quem não tem problemas com barreira linguística, recomendo deixar esse livro pra lá e ir atrás dos clássicos internacionais primeiro e usar esse livro apenas como um complemento para aprender o vocabulário e especificadas sobre o Café no Brasil.",
-        "item": {
-          "id": "https://neodb.social/book/2jLB7VOQhIh1FZjStJbeUG",
-          "title": "Guia do Barista: Da origem do café ao espresso perfeito",
-          "localized_title": []
         }
       },
       {
@@ -1661,6 +1661,31 @@
     ],
     "progress": [],
     "complete": [
+      {
+        "shelf_type": "complete",
+        "post_id": "579025140575936848",
+        "created_time": "2026-05-18T02:19:11.198Z",
+        "rating_grade": 7,
+        "comment_text": "It feels like a good thriller, with some compromises. It kicks off abruptly and it concludes abruptly, using the same narrator to provide a 30 seconds summary. But overall, the flip side of that \"efficiency\" is that it focuses and executes well in keeping the viewer on their toes, wondering what comes next; no time wasted on winding up and down the story. I did find the flying weapon imagery perhaps a bit too... prescient? For the character to think of it that early in the story, at least? I don't know, it feels like it was too on the nose to conjure the name of the movie so literally and so early.",
+        "item": {
+          "id": "https://neodb.social/movie/2dzs9FFBeXx9P6WraHayYW",
+          "title": "凶器",
+          "localized_title": [
+            {
+              "lang": "en",
+              "text": "Weapons"
+            },
+            {
+              "lang": "pt",
+              "text": "Hora do Desaparecimento"
+            },
+            {
+              "lang": "pt",
+              "text": "Weapons"
+            }
+          ]
+        }
+      },
       {
         "shelf_type": "complete",
         "post_id": "576494485959670928",

@@ -4,9 +4,23 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 16 May 2026 15:06:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 May 2026 06:35:43 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2026]]></copyright>
+        <item>
+            <title><![CDATA[Finished watching]]></title>
+            <description><![CDATA[<p><a href="https://neodb.social/~neodb~/movie/2dzs9FFBeXx9P6WraHayYW" rel="nofollow">Weapons, 7 out of 10</a>  <br>It feels like a good thriller, with some compromises. It kicks off abruptly and it concludes abruptly, using the same narrator to provide a 30 seconds summary. But overall, the flip side of that &quot;efficiency&quot; is that it focuses and executes well in keeping the viewer on their toes, wondering what comes next; no time wasted on winding up and down the story. I did find the flying weapon imagery perhaps a bit too... prescient? For the character to think of it that early in the story, at least? I don&#x27;t know, it feels like it was too on the nose to conjure the name of the movie so literally and so early.<br></p>]]></description>
+            <link>https://neodb.social/@villasv/posts/579025140575936848/</link>
+            <guid isPermaLink="true">https://neodb.social/@villasv/posts/579025140575936848/</guid>
+            <pubDate>Mon, 18 May 2026 02:19:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Finished reading]]></title>
+            <description><![CDATA[<p><a href="https://neodb.social/~neodb~/book/0a4O9fcv3fQWZtCRG6cU55" rel="nofollow">Coisa de Rico: A Vida dos Endinheirados Brasileiros, 8 out of 10</a>  <br>O foco não é pragmatismo científico ou político, não é buscar ajustes para uma definição concreta de “rico”; pelo contrario, o foco é evidenciar o embaçada impossibilidade de definir uma posição social que só faz sentido quando pensada de forma relacional.</p><p>Nesse personagem de antropólogo com seu lado gozador, o livro revela também um talento de comunicador científico. O deboche e os relatos estapafúrdios trazem um tempero saboroso a um assunto muito sério: essa gente, obcecada por operar diferenças entre si e entre nós, está no comando das instituições de poder - diretamente ou por influência.<br></p>]]></description>
+            <link>https://neodb.social/@villasv/posts/579021890659266280/</link>
+            <guid isPermaLink="true">https://neodb.social/@villasv/posts/579021890659266280/</guid>
+            <pubDate>Mon, 18 May 2026 02:06:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Comment]]></title>
             <description><![CDATA[<p>I remember when back in São Paulo we had 10 different digital wallet apps fighting to death powered by blowing furnaces of VC-money. Every week I had R$15 lunch with R$8 cash back, which is insane (and unsustainable). Of course, years later, almost all of them are irrelevant if at all alive. I miss my lunch discount, but life goes on.</p><p>GitHub Copilot froze plan upgrades. There&#39;s no free lunch, and 50% discount lunch only until you&#39;re locked in. Looks like the time to pull rugs is coming.</p>]]></description>
@@ -223,20 +237,6 @@
             <link>https://mastodon.social/@villasbc/116375439491130273</link>
             <guid isPermaLink="true">https://mastodon.social/@villasbc/116375439491130273</guid>
             <pubDate>Thu, 09 Apr 2026 15:24:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Finished watching]]></title>
-            <description><![CDATA[<p><a href="https://neodb.social/~neodb~/movie/06gPQON41DHTmQLPr6QRlC" rel="nofollow">Requiem for a Dream, 7 out of 10</a>  <br>The movie is really intense and masterfully executed. The music, the scenes, all the juxtaposition. There are some interesting details like the obvious disregard from doctors, and the choice to include the mother in the parallels, but it’s also kind of obvious how this movie is a product of the drug scare that grew throughout the 90’s.<br></p>]]></description>
-            <link>https://neodb.social/@villasv/posts/564214246903774408/</link>
-            <guid isPermaLink="true">https://neodb.social/@villasv/posts/564214246903774408/</guid>
-            <pubDate>Tue, 07 Apr 2026 05:25:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Finished watching]]></title>
-            <description><![CDATA[<p><a href="https://neodb.social/~neodb~/movie/3P6wROk9oIqMCxD1v4d3hN" rel="nofollow">Memento, 8 out of 10</a>  <br>Definitely one of the greats in terms of using non linear time as a plot device, but also a great story on its own. Makes me think about the illusion of systematic objectivity and the role of memory for contextual history keeping.<br></p>]]></description>
-            <link>https://neodb.social/@villasv/posts/564182300911836080/</link>
-            <guid isPermaLink="true">https://neodb.social/@villasv/posts/564182300911836080/</guid>
-            <pubDate>Tue, 07 Apr 2026 03:19:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Comment]]></title>

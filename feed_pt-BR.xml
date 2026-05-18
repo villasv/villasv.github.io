@@ -5,10 +5,17 @@
     <description><![CDATA[Feed combinado das minhas publicações online. Tradução automática — por favor, perdoem qualquer falha na tradução.]]></description>
     <link>https://victor.villas</link>
     <generator>translate-feed.py</generator>
-    <lastBuildDate>Sat, 16 May 2026 15:07:01 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 06:38:47 GMT</lastBuildDate>
     <copyright><![CDATA[Victor Villas © 2026]]></copyright>
     <language>pt-BR</language>
     <atom:link href="https://victor.villas/feed_pt-BR.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title><![CDATA[Terminei de ler]]></title>
+      <description><![CDATA[<p><a href="https://neodb.social/~neodb~/book/0a4O9fcv3fQWZtCRG6cU55" rel="nofollow">Coisa de Rico: A Vida dos Endinheirados Brasileiros, 8 out of 10</a><br>O foco não é pragmatismo científico ou político, não é buscar ajustes para uma definição concreta de “rico”; pelo contrario, o foco é evidenciar o embaçada impossibilidade de definir uma posição social que só faz sentido quando pensada de forma relacional. Nesse personagem de antropólogo com seu lado gozador, o livro revela também um talento de comunicador científico. O deboche e os relatos estapafúrdios trazem um tempero saboroso a um assunto muito sério: essa gente, obcecada por operar diferenças entre si e entre nós, está no comando das instituições de poder - diretamente ou por influência.</p>]]></description>
+      <link>https://neodb.social/@villasv/posts/579021890659266280/</link>
+      <guid isPermaLink="true">https://neodb.social/@villasv/posts/579021890659266280/</guid>
+      <pubDate>Mon, 18 May 2026 02:06:16 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[Comentário]]></title>
       <description><![CDATA[<p><i>[tradução automática do inglês]</i></p><p>Lembro-me de quando, em São Paulo, tínhamos 10 aplicativos de carteira digital diferentes lutando até a morte, alimentados por fornos de dinheiro de capitalistas de risco. Toda semana eu tinha um almoço de R$15 com R$8 de volta, o que é insano (e insustentável). Claro, anos depois, quase todos eles são irrelevantes, se ainda estão vivos. Sinto falta do meu desconto no almoço, mas a vida continua. O GitHub Copilot congelou upgrades de plano. Não há almoço grátis, e um almoço com 50% de desconto só dura até você ficar preso. Parece que está chegando a hora de puxar os tapetes.</p>]]></description>
@@ -211,20 +218,6 @@
       <link>https://mastodon.social/@villasbc/116375439491130273</link>
       <guid isPermaLink="true">https://mastodon.social/@villasbc/116375439491130273</guid>
       <pubDate>Thu, 09 Apr 2026 15:24:43 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Terminei de assistir]]></title>
-      <description><![CDATA[<p><i>[tradução automática do inglês]</i></p><p><a href="https://neodb.social/~neodb~/movie/06gPQON41DHTmQLPr6QRlC" rel="nofollow">Requiem for a Dream, 7 out of 10</a><br>O filme é realmente intenso e magistralmente executado. A música, as cenas, todas as justaposições. Há alguns detalhes interessantes, como o óbvio desrespeito dos médicos e a escolha de incluir a mãe nos paralelos, mas também é meio óbvio que esse filme é um produto do medo das drogas que cresceu durante os anos 90.</p>]]></description>
-      <link>https://neodb.social/@villasv/posts/564214246903774408/</link>
-      <guid isPermaLink="true">https://neodb.social/@villasv/posts/564214246903774408/</guid>
-      <pubDate>Tue, 07 Apr 2026 05:25:58 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Terminei de assistir]]></title>
-      <description><![CDATA[<p><i>[tradução automática do inglês]</i></p><p><a href="https://neodb.social/~neodb~/movie/3P6wROk9oIqMCxD1v4d3hN" rel="nofollow">Memento, 8 out of 10</a><br>Definitivamente um dos melhores em termos de usar o tempo não linear como um dispositivo de enredo, mas também uma ótima história por si só. Me faz pensar sobre a ilusão da objetividade sistemática e o papel da memória para a manutenção de histórias contextuais.</p>]]></description>
-      <link>https://neodb.social/@villasv/posts/564182300911836080/</link>
-      <guid isPermaLink="true">https://neodb.social/@villasv/posts/564182300911836080/</guid>
-      <pubDate>Tue, 07 Apr 2026 03:19:02 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[Comentário]]></title>
