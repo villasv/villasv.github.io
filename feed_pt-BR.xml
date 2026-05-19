@@ -5,10 +5,17 @@
     <description><![CDATA[Feed combinado das minhas publicações online. Tradução automática — por favor, perdoem qualquer falha na tradução.]]></description>
     <link>https://victor.villas</link>
     <generator>translate-feed.py</generator>
-    <lastBuildDate>Mon, 18 May 2026 08:34:26 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 01:52:00 GMT</lastBuildDate>
     <copyright><![CDATA[Victor Villas © 2026]]></copyright>
     <language>pt-BR</language>
     <atom:link href="https://victor.villas/feed_pt-BR.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title><![CDATA[Comentário]]></title>
+      <description><![CDATA[<p><i>[tradução automática do inglês]</i></p><p>Isso foi surpreendentemente curto # questionário do censo do Canadá. Basicamente, fez um monte de perguntas sobre quais idiomas minha família fala e é isso?</p>]]></description>
+      <link>https://mastodon.social/@villasbc/116598236476759475</link>
+      <guid isPermaLink="true">https://mastodon.social/@villasbc/116598236476759475</guid>
+      <pubDate>Mon, 18 May 2026 23:44:55 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[Terminei de assistir]]></title>
       <description><![CDATA[<p><i>[tradução automática do inglês]</i></p><p><a href="https://neodb.social/~neodb~/movie/2dzs9FFBeXx9P6WraHayYW" rel="nofollow">Weapons, 7 out of 10</a><br>Parece um bom suspense, com alguns compromissos. Começa abruptamente e termina abruptamente, usando o mesmo narrador para fornecer um resumo de 30 segundos. Mas, no geral, o lado negativo dessa "eficiência" é que ela se concentra e executa bem em manter o espectador em alerta, imaginando o que vem a seguir; sem tempo desperdiçado em enrolar a história. Eu achei que a imagem da arma voadora talvez fosse um pouco... presciente? Para o personagem pensar nisso tão cedo na história, pelo menos? Não sei, parece que foi muito direto ao ponto de conjurar o nome do filme tão literalmente e tão cedo.</p>]]></description>
@@ -192,20 +199,6 @@
       <pubDate>Mon, 13 Apr 2026 23:09:22 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[Terminei de ler]]></title>
-      <description><![CDATA[<p><i>[tradução automática do inglês]</i></p><p><a href="https://neodb.social/~neodb~/book/2nX1JpCURI4GKXEMcqt0Mr" rel="nofollow">How to Do Nothing, 8 out of 10</a><br>Muito bom. Eu gosto do incentivo ao ecoregionalismo, ao envolvimento com coisas locais, parar, respirar e olhar ao redor, apreciar os terceiros espaços, o ativismo para proteger esses espaços, a gratidão para com os ativistas do passado que criaram esses espaços, reconsiderar a cultura do trabalho duro e usar lentes monetárias para todas as coisas. Pesa um pouco nas referências literárias, mas acho que o escritor é bem-informado e não se importa em mostrar isso, a intertextualidade não parece forçada - apenas levemente perturbadora. A segunda leitura foi melhor.</p>]]></description>
-      <link>https://neodb.social/@villasv/posts/565898929458152160/</link>
-      <guid isPermaLink="true">https://neodb.social/@villasv/posts/565898929458152160/</guid>
-      <pubDate>Sat, 11 Apr 2026 21:00:18 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Comecei a ler]]></title>
-      <description><![CDATA[<p><i>[tradução automática do inglês]</i></p><p><a href="https://neodb.social/~neodb~/book/3FjSyAWbHzhCMXla39GNzJ" rel="nofollow">House Lessons: Renovating a Life</a><br>Capítulos iniciais muito chatos. Escrita típica de alguém que nunca aceitou realmente a vida na cidade, mas não tem autoconsciência, obcecado com a imagem de uma vida pitoresca em uma mansão em uma cidade pequena; a eterna sede de criar raízes no solo estagnado de outra pessoa.</p>]]></description>
-      <link>https://neodb.social/@villasv/posts/565896624231568992/</link>
-      <guid isPermaLink="true">https://neodb.social/@villasv/posts/565896624231568992/</guid>
-      <pubDate>Sat, 11 Apr 2026 20:51:08 GMT</pubDate>
-    </item>
-    <item>
       <title><![CDATA[Comentário]]></title>
       <description><![CDATA[<p><i>[tradução automática do inglês]</i></p><p>Vancouver teve uma semana abençoada com tempo e o humor está totalmente restaurado. É o momento perfeito para me comprometer demais com planos de acampar e fazer caminhadas que eu um pouco me arrependerei depois, mas depois serei muito grato por ter feito isso de qualquer maneira</p>]]></description>
       <link>https://mastodon.social/@villasbc/116387740878125132</link>
@@ -316,13 +309,6 @@
       <link>https://mastodon.social/@villasbc/115912663028429283</link>
       <guid isPermaLink="true">https://mastodon.social/@villasbc/115912663028429283</guid>
       <pubDate>Sat, 17 Jan 2026 21:54:34 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Comentário]]></title>
-      <description><![CDATA[<p><i>[tradução automática do inglês]</i></p><p>Eu gostaria de não ser exposto a material sobre criptomoedas toda vez que vou tomar um café no Funk</p>]]></description>
-      <link>https://mastodon.social/@villasbc/115907709595439664</link>
-      <guid isPermaLink="true">https://mastodon.social/@villasbc/115907709595439664</guid>
-      <pubDate>Sat, 17 Jan 2026 00:54:51 GMT</pubDate>
     </item>
   </channel>
 </rss>

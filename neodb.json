@@ -1663,6 +1663,60 @@
     "complete": [
       {
         "shelf_type": "complete",
+        "post_id": "579362097681335512",
+        "created_time": "2026-05-19T00:38:07.980Z",
+        "rating_grade": 7,
+        "comment_text": "A story of power imbalance, abuse and misconduct. It's interesting to contrast the behaviour of the character against her own discourse/ideology from the \"masterclass\": if confounding the artist with their work is a slippery slope, how about the belief that their morals are fully personal? Is that ideology of the amoral genius not a slippery slope towards excusing oneself to immoral conduct?\r\n\r\nI find it a bit disappointing that the finale outcome comes from a big escalation, the kind that is nowhere as pervasive and realistic as everything else in the movie. Power corrupts and blinds, yes, but it also mutes and grows numb, cynic. And, most importantly, power acquits; to extents that most would find unbelievable.",
+        "item": {
+          "id": "https://neodb.social/movie/4oSoMyy123Wh4shIPLk3cU",
+          "title": "塔尔",
+          "localized_title": [
+            {
+              "lang": "pt",
+              "text": "TÁR"
+            },
+            {
+              "lang": "en",
+              "text": "TÁR"
+            },
+            {
+              "lang": "en",
+              "text": "Tár"
+            },
+            {
+              "lang": "pt",
+              "text": "Tár"
+            }
+          ]
+        }
+      },
+      {
+        "shelf_type": "complete",
+        "post_id": "579350553766254696",
+        "created_time": "2026-05-18T23:52:15.734Z",
+        "rating_grade": 7,
+        "comment_text": "Another well executed \"slice of life hyperbole\", a little bit of drama and a little bit of surreal and absurd. Overall the movie was fine, good acting and a plot that isn't more of the same, but once the theme established itself, I did catch myself thinking: oh, now we're going to have to watch him do this two more times to see where it lands. The very ending itself was a bit of a surprise, but I think it fits the overall message. It's just how it is, no other choice. The social commentary and symbolism is rich but straightforward.",
+        "item": {
+          "id": "https://neodb.social/movie/1iFeoGvCEp37fIK1XzpTmq",
+          "title": "无可奈何",
+          "localized_title": [
+            {
+              "lang": "pt",
+              "text": "A Única Saída"
+            },
+            {
+              "lang": "en",
+              "text": "No Other Choice"
+            },
+            {
+              "lang": "pt",
+              "text": "Sem Outra Escolha"
+            }
+          ]
+        }
+      },
+      {
+        "shelf_type": "complete",
         "post_id": "579025140575936848",
         "created_time": "2026-05-18T02:19:11.198Z",
         "rating_grade": 7,
@@ -1799,7 +1853,7 @@
         "shelf_type": "complete",
         "post_id": "460492740727638608",
         "created_time": "2025-06-25T00:13:44.856Z",
-        "rating_grade": 10,
+        "rating_grade": 8,
         "comment_text": "Found this doc/movie by accident and found it so interesting. I ride bicycles, I live in Vancouver, and I caught myself wondering about courier life. This film allowed me to peek behind the reality, awesomeness and toxicity of courier culture in the area.",
         "item": {
           "id": "https://neodb.social/movie/3YnzikjZGgXf7ki6iBkYcv",
@@ -1816,7 +1870,7 @@
         "shelf_type": "complete",
         "post_id": "443384359179709792",
         "created_time": "2025-05-08T19:11:08.832Z",
-        "rating_grade": 7,
+        "rating_grade": 8,
         "comment_text": "We've got jazz, intense soundtrack, black power and entrepreneurship, AAVE, >!vampires!<, shootouts, wild west mood. It's a modern fusion with no restrains on its quirkiness, so it's definitely not an all-round crowd pleaser. I enjoyed the central role that music played in the story, and it's not as if >!vampires!< ever needed justification to attack people but this tried something different so that's fun. I do think the villains are a bit overpowered, though, to a point where it's hard to believe they wouldn't be more widely known through folk tales, but that's a bit of world building nitpicking. I also found the epilogue a bit too \"fan service\" - of course it's rewarding to watch >!klan racists be rampaged by the protagonist!< but the whole scene was a bit too obvious.",
         "item": {
           "id": "https://neodb.social/movie/4yXzvM0r9737LcjSXwrtxr",
@@ -1951,7 +2005,7 @@
         "shelf_type": "complete",
         "post_id": "419488538539615368",
         "created_time": "2025-03-03T20:37:41.241Z",
-        "rating_grade": 9,
+        "rating_grade": 8,
         "comment_text": "The best kind of science fiction, presenting the bare minimum technology context to support the ensuing drama. The tension buildup as she fails the tests, fails to find privacy and communicate, then >!dissolves tension into anger as she learns that she is a robot, the emotional crutches her partner seems to be dependent on, then despair as she realizes her shackles!<, it's all expertly conveyed with a sweet deal of \"show, don't tell\".",
         "item": {
           "id": "https://neodb.social/movie/6EcqClLZq6WlEoWPuet1qM",
