@@ -5,10 +5,17 @@
     <description><![CDATA[Combined feed of my online posts. Machine translated — please forgive any translation errors.]]></description>
     <link>https://victor.villas</link>
     <generator>translate-feed.py</generator>
-    <lastBuildDate>Tue, 19 May 2026 08:22:33 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 19:46:18 GMT</lastBuildDate>
     <copyright><![CDATA[Victor Villas © 2026]]></copyright>
     <language>en-CA</language>
     <atom:link href="https://victor.villas/feed_en-CA.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title><![CDATA[Comment]]></title>
+      <description><![CDATA[<p>"Vancouver has the world's longest uninterrupted waterfront path. The 28 km seaside greenway is an uninterrupted pathway, including the Stanley Park Seawall, that extends from the # Vancouver Convention Centre to Spanish Banks Park." Is it though? Is it uninterrupted? Is it the longest? Every time I hear/read this, I contrast it with my real experience riding through it (full of interruptions) and wonder if we're holding the competition to the same standards</p>]]></description>
+      <link>https://mastodon.social/@villasbc/116602751317531191</link>
+      <guid isPermaLink="true">https://mastodon.social/@villasbc/116602751317531191</guid>
+      <pubDate>Tue, 19 May 2026 18:53:06 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[Finished watching]]></title>
       <description><![CDATA[<p><a href="https://neodb.social/~neodb~/movie/4oSoMyy123Wh4shIPLk3cU" rel="nofollow">TÁR, 7 out of 10</a><br>A story of power imbalance, abuse and misconduct. It's interesting to contrast the behaviour of the character against her own discourse/ideology from the "masterclass": if confounding the artist with their work is a slippery slope, how about the belief that their morals are fully personal? Is that ideology of the amoral genius not a slippery slope towards excusing oneself to immoral conduct? I find it a bit disappointing that the finale outcome comes from a big escalation, the kind that is nowhere as pervasive and realistic as everything else in the movie. Power corrupts and blinds, yes, but it also mutes and grows numb, cynic. And, most importantly, power acquits; to extents that most would find unbelievable.</p>]]></description>
@@ -302,27 +309,6 @@
       <link>https://mastodon.social/@villasbc/115984952115330351</link>
       <guid isPermaLink="true">https://mastodon.social/@villasbc/115984952115330351</guid>
       <pubDate>Fri, 30 Jan 2026 16:18:38 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Comment]]></title>
-      <description><![CDATA[<p>“Virtue Signaling” = I don’t like what you’re saying but I can’t argue against, but that would mean that I’m wrong and that can’t be it… so I guess the only explanation is that you’re screwing with me</p>]]></description>
-      <link>https://mastodon.social/@villasbc/115980308248244571</link>
-      <guid isPermaLink="true">https://mastodon.social/@villasbc/115980308248244571</guid>
-      <pubDate>Thu, 29 Jan 2026 20:37:38 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Comment]]></title>
-      <description><![CDATA[<p>An American thing that will never not be weird to me is root “beer”. It’s like toothpaste soda that lost some of its carbonation</p>]]></description>
-      <link>https://mastodon.social/@villasbc/115918482469424243</link>
-      <guid isPermaLink="true">https://mastodon.social/@villasbc/115918482469424243</guid>
-      <pubDate>Sun, 18 Jan 2026 22:34:32 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Comment]]></title>
-      <description><![CDATA[<p>If millennials were chained to an abstract notion of “making it” in life mostly based on materialism, Gen Z are going to have it worse because # Wealthsimple just dropped a literal ranking of wealth accumulation so we can track how far/close we are to the 1% (or 0.1%, yes it actually goes there)</p>]]></description>
-      <link>https://mastodon.social/@villasbc/115912663028429283</link>
-      <guid isPermaLink="true">https://mastodon.social/@villasbc/115912663028429283</guid>
-      <pubDate>Sat, 17 Jan 2026 21:54:34 GMT</pubDate>
     </item>
   </channel>
 </rss>

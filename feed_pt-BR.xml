@@ -5,10 +5,17 @@
     <description><![CDATA[Feed combinado das minhas publicações online. Tradução automática — por favor, perdoem qualquer falha na tradução.]]></description>
     <link>https://victor.villas</link>
     <generator>translate-feed.py</generator>
-    <lastBuildDate>Tue, 19 May 2026 08:22:33 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 19:46:18 GMT</lastBuildDate>
     <copyright><![CDATA[Victor Villas © 2026]]></copyright>
     <language>pt-BR</language>
     <atom:link href="https://victor.villas/feed_pt-BR.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title><![CDATA[Comentário]]></title>
+      <description><![CDATA[<p><i>[tradução automática do inglês]</i></p><p>"Vancouver tem o caminho mais longo do mundo ininterrupto à beira-mar. A via verde de 28 km ao longo da costa é uma via ininterrupta, incluindo o Stanley Park Seawall, que se estende do Centro de Convenções de Vancouver até o Spanish Banks Park". É verdade? É ininterrupto? É o mais longo? Toda vez que ouço/leio isso, comparo com a minha experiência real de andar de bicicleta por ele (cheio de interrupções) e me pergunto se estamos fazendo a competição com os mesmos padrões</p>]]></description>
+      <link>https://mastodon.social/@villasbc/116602751317531191</link>
+      <guid isPermaLink="true">https://mastodon.social/@villasbc/116602751317531191</guid>
+      <pubDate>Tue, 19 May 2026 18:53:06 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[Terminei de assistir]]></title>
       <description><![CDATA[<p><i>[tradução automática do inglês]</i></p><p><a href="https://neodb.social/~neodb~/movie/4oSoMyy123Wh4shIPLk3cU" rel="nofollow">TÁR, 7 out of 10</a><br>Uma história de desequilíbrio de poder, abuso e má conduta. É interessante contrastar o comportamento da personagem com seu próprio discurso/ideologia da "masterclass": se confundir o artista com seu trabalho é um caminho escorregadio, e a crença de que sua moral é totalmente pessoal? Não é essa ideologia do gênio amoral um caminho escorregadio para desculpar uma conduta imoral? Acho um pouco decepcionante que o resultado final venha de uma grande escalada, do tipo que não é tão difundido e realista quanto todo o resto do filme. O poder corrompe e cega, sim, mas também amortece e engrossa, cinicamente. E, o mais importante, o poder absolve; em graus que a maioria acharia inacreditável.</p>]]></description>
@@ -302,27 +309,6 @@
       <link>https://mastodon.social/@villasbc/115984952115330351</link>
       <guid isPermaLink="true">https://mastodon.social/@villasbc/115984952115330351</guid>
       <pubDate>Fri, 30 Jan 2026 16:18:38 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Comentário]]></title>
-      <description><![CDATA[<p><i>[tradução automática do inglês]</i></p><p>“Virtue Signaling” = Não gosto do que você está dizendo, mas não posso argumentar contra, mas isso significaria que estou errado e não pode ser assim... então acho que a única explicação é que você está me enganando</p>]]></description>
-      <link>https://mastodon.social/@villasbc/115980308248244571</link>
-      <guid isPermaLink="true">https://mastodon.social/@villasbc/115980308248244571</guid>
-      <pubDate>Thu, 29 Jan 2026 20:37:38 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Comentário]]></title>
-      <description><![CDATA[<p><i>[tradução automática do inglês]</i></p><p>Uma coisa americana que nunca deixará de ser estranha para mim é a "cerveja raiz". É como um refrigerante de pasta de dente que perdeu um pouco de sua carbonatação</p>]]></description>
-      <link>https://mastodon.social/@villasbc/115918482469424243</link>
-      <guid isPermaLink="true">https://mastodon.social/@villasbc/115918482469424243</guid>
-      <pubDate>Sun, 18 Jan 2026 22:34:32 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Comentário]]></title>
-      <description><![CDATA[<p><i>[tradução automática do inglês]</i></p><p>Se os millennials estavam acorrentados a uma noção abstrata de "fazer sucesso" na vida, baseada principalmente no materialismo, a Geração Z vai ter mais dificuldade porque # Wealthsimple acaba de lançar um ranking literal de acumulação de riqueza para que possamos acompanhar o quão longe/perto estamos do 1% (ou 0,1%, sim, isso realmente existe).</p>]]></description>
-      <link>https://mastodon.social/@villasbc/115912663028429283</link>
-      <guid isPermaLink="true">https://mastodon.social/@villasbc/115912663028429283</guid>
-      <pubDate>Sat, 17 Jan 2026 21:54:34 GMT</pubDate>
     </item>
   </channel>
 </rss>
