@@ -5,10 +5,17 @@
     <description><![CDATA[Combined feed of my online posts. Machine translated — please forgive any translation errors.]]></description>
     <link>https://victor.villas</link>
     <generator>translate-feed.py</generator>
-    <lastBuildDate>Tue, 19 May 2026 19:46:18 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 21:43:44 GMT</lastBuildDate>
     <copyright><![CDATA[Victor Villas © 2026]]></copyright>
     <language>en-CA</language>
     <atom:link href="https://victor.villas/feed_en-CA.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title><![CDATA[Comment]]></title>
+      <description><![CDATA[<p>Is this a waterfront greenway? Well, these sure are waterfront properties, and they have lots of green landscaping going on... so maybe? But riding it, it feels as if I'm in between Kits and Spanish Banks, and I'm just riding through a rich and quiet neighbourhood. Checks the greenway checkbox? 🤷🏽 Interestingly, vancouver.ca says "The seawall refers to the 22km path that lines Vancouver's waterfront from the Convention Centre on Burrard Inlet, ... ending at Kitsilano Beach Park."</p><img alt="A residential street lined with houses with pretty landscaping, a few cars parked on the street, no bike lanes in sight" src="https://files.mastodon.social/media_attachments/files/116/602/813/728/801/133/original/28577ac3dfcd3056.png"/>]]></description>
+      <link>https://mastodon.social/@villasbc/116602830860008912</link>
+      <guid isPermaLink="true">https://mastodon.social/@villasbc/116602830860008912</guid>
+      <pubDate>Tue, 19 May 2026 19:13:20 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[Comment]]></title>
       <description><![CDATA[<p>"Vancouver has the world's longest uninterrupted waterfront path. The 28 km seaside greenway is an uninterrupted pathway, including the Stanley Park Seawall, that extends from the # Vancouver Convention Centre to Spanish Banks Park." Is it though? Is it uninterrupted? Is it the longest? Every time I hear/read this, I contrast it with my real experience riding through it (full of interruptions) and wonder if we're holding the competition to the same standards</p>]]></description>
