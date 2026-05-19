@@ -5,10 +5,17 @@
     <description><![CDATA[Feed combinado das minhas publicações online. Tradução automática — por favor, perdoem qualquer falha na tradução.]]></description>
     <link>https://victor.villas</link>
     <generator>translate-feed.py</generator>
-    <lastBuildDate>Tue, 19 May 2026 21:43:44 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 23:36:32 GMT</lastBuildDate>
     <copyright><![CDATA[Victor Villas © 2026]]></copyright>
     <language>pt-BR</language>
     <atom:link href="https://victor.villas/feed_pt-BR.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title><![CDATA[Comentário]]></title>
+      <description><![CDATA[<p><i>[tradução automática do inglês]</i></p><p>Se é uma estrada à beira-mar, por que é que esta estrada de 45 km não conta? Teria de perguntar à câmara municipal de Vancouver quais os segmentos exatos que desqualificam a estrada</p><img alt="Screen capture of a bike route in Rio de Janeiro, from Leme to Pontal, approximately 45 km long" src="https://files.mastodon.social/media_attachments/files/116/602/893/261/658/529/original/a2e431c5e1d140a2.png"/>]]></description>
+      <link>https://mastodon.social/@villasbc/116602900599467077</link>
+      <guid isPermaLink="true">https://mastodon.social/@villasbc/116602900599467077</guid>
+      <pubDate>Tue, 19 May 2026 19:31:04 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[Comentário]]></title>
       <description><![CDATA[<p><i>[tradução automática do inglês]</i></p><p>Isso é uma ciclovia à beira-mar? Bem, essas são propriedades à beira-mar, e elas têm muita paisagem verde... então talvez. Mas andando nela, parece que estou entre Kits e Spanish Banks, e estou apenas passando por um bairro rico e tranquilo. Marca a caixa de ciclovia? 🤷🏽 Curiosamente, vancouver.ca diz "O muro do mar refere-se ao caminho de 22 km que fica ao longo da orla marítima de Vancouver a partir do Centro de Convenções na Burrard Inlet, ... terminando no Parque da Praia de Kitsilano".</p><img alt="A residential street lined with houses with pretty landscaping, a few cars parked on the street, no bike lanes in sight" src="https://files.mastodon.social/media_attachments/files/116/602/813/728/801/133/original/28577ac3dfcd3056.png"/>]]></description>
