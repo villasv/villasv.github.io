@@ -495,6 +495,23 @@
     "progress": [
       {
         "shelf_type": "progress",
+        "post_id": "580690065528325264",
+        "created_time": "2026-05-22T16:35:00.246Z",
+        "rating_grade": null,
+        "comment_text": null,
+        "item": {
+          "id": "https://neodb.social/book/2Klprp3rs1QVhfzaaqv7Cf",
+          "title": "Memórias de um Sargento de Milícias",
+          "localized_title": [
+            {
+              "lang": "pt",
+              "text": "Memórias de um Sargento de Milícias"
+            }
+          ]
+        }
+      },
+      {
+        "shelf_type": "progress",
         "post_id": "568406550152571808",
         "created_time": "2026-04-18T19:04:41.951Z",
         "rating_grade": null,

@@ -5,10 +5,17 @@
     <description><![CDATA[Feed combinado das minhas publicações online. Tradução automática — por favor, perdoem qualquer falha na tradução.]]></description>
     <link>https://victor.villas</link>
     <generator>translate-feed.py</generator>
-    <lastBuildDate>Fri, 22 May 2026 06:20:44 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 17:43:58 GMT</lastBuildDate>
     <copyright><![CDATA[Victor Villas © 2026]]></copyright>
     <language>pt-BR</language>
     <atom:link href="https://victor.villas/feed_pt-BR.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title><![CDATA[Comecei a ler]]></title>
+      <description><![CDATA[<p><a href="https://neodb.social/~neodb~/book/2Klprp3rs1QVhfzaaqv7Cf" rel="nofollow">Memórias de um Sargento de Milícias</a></p>]]></description>
+      <link>https://neodb.social/@villasv/posts/580690065528325264/</link>
+      <guid isPermaLink="true">https://neodb.social/@villasv/posts/580690065528325264/</guid>
+      <pubDate>Fri, 22 May 2026 16:35:00 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[Comentário]]></title>
       <description><![CDATA[<p><i>[tradução automática do inglês]</i></p><p>Se é uma estrada à beira-mar, por que é que esta estrada de 45 km não conta? Teria de perguntar à câmara municipal de Vancouver quais os segmentos exatos que desqualificam a estrada</p><img alt="Screen capture of a bike route in Rio de Janeiro, from Leme to Pontal, approximately 45 km long" src="https://files.mastodon.social/media_attachments/files/116/602/893/261/658/529/original/a2e431c5e1d140a2.png"/>]]></description>
@@ -225,13 +232,6 @@
       <link>https://neodb.social/@villasv/posts/566904881147008808/</link>
       <guid isPermaLink="true">https://neodb.social/@villasv/posts/566904881147008808/</guid>
       <pubDate>Tue, 14 Apr 2026 15:37:36 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Comentário]]></title>
-      <description><![CDATA[<p><i>[tradução automática do inglês]</i></p><p>“George, o empreiteiro que eu estava esperando subiu. Enquanto ele subia os degraus da frente, eu pude ver que ele tinha um corpo robusto e um rosto aberto. Eu senti uma confiança instintiva nele, mas não havia química entre nós. Bom, pensei. Quando os especialistas te dizem como selecionar um empreiteiro geral, eles geralmente se concentram em questões como orçamentos, experiência, licenciamento e vínculos, e referências. Mas como uma mulher casada, tenho alguns outros critérios que raramente são mencionados. O primeiro é: nunca se sinta atraído pelo seu construtor. Na minha lista de regras fundamentais, está no topo, porque embora seja sabido que ocorrem casos de affair entre um arquiteto e um cliente, há muitas evidências anedóticas de que é muito mais provável que ocorra com um construtor. Pense nisso. Um construtor é quase sempre um homem forte e capaz, trabalhando dentro de sua casa dia após dia. Ele faz o que você pede. Ele limpa quando termina. Ele te vê de manhã com seu roupão de banho. Ouve você gritando com seus filhos e ele ainda volta no dia seguinte. Pode ser como catnip para as mulheres, então eu me certifico de que é um não-iniciador desde o começo”. Uau. Não sei se devo rir ou me envergonhar. — House Lessons: Renovating a Life Percentage: 37%</p>]]></description>
-      <link>https://neodb.social/@villasv/posts/566656185382554864/</link>
-      <guid isPermaLink="true">https://neodb.social/@villasv/posts/566656185382554864/</guid>
-      <pubDate>Mon, 13 Apr 2026 23:09:22 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[Comentário]]></title>
