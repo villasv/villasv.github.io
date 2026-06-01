@@ -5,10 +5,17 @@
     <description><![CDATA[Feed combinado das minhas publicações online. Tradução automática — por favor, perdoem qualquer falha na tradução.]]></description>
     <link>https://victor.villas</link>
     <generator>translate-feed.py</generator>
-    <lastBuildDate>Sat, 23 May 2026 02:55:14 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2026 23:43:24 GMT</lastBuildDate>
     <copyright><![CDATA[Victor Villas © 2026]]></copyright>
     <language>pt-BR</language>
     <atom:link href="https://victor.villas/feed_pt-BR.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title><![CDATA[Comentário]]></title>
+      <description><![CDATA[<p><i>[tradução automática do inglês]</i></p><p>Emocionado para ver os 20 anos do artigo do Bitcoin e talvez ver uma atualização deste artigo: https://web.archive.org/web/20171223005413/https://medium.com/@kaistinchcombe/ten-years-in-nobody-has-come-up-with-a-use-case-for-blockchain-ee98c180100</p>]]></description>
+      <link>https://mastodon.social/@villasbc/116676475293709519</link>
+      <guid isPermaLink="true">https://mastodon.social/@villasbc/116676475293709519</guid>
+      <pubDate>Mon, 01 Jun 2026 19:22:05 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[Comecei a ler]]></title>
       <description><![CDATA[<p><a href="https://neodb.social/~neodb~/book/2Klprp3rs1QVhfzaaqv7Cf" rel="nofollow">Memórias de um Sargento de Milícias</a></p>]]></description>
@@ -316,13 +323,6 @@
       <link>https://mastodon.social/@villasbc/116014752687931757</link>
       <guid isPermaLink="true">https://mastodon.social/@villasbc/116014752687931757</guid>
       <pubDate>Wed, 04 Feb 2026 22:37:19 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Comentário]]></title>
-      <description><![CDATA[<p><i>[tradução automática do inglês]</i></p><p># Os programas do CBC Listen não são podcasts regulares - ou seja, RSS públicos que eu possa assinar com qualquer aplicativo que eu queira? Eu não sabia que o CBC estava em uma posição de ser tão seletivo sobre como eles alcançam seu público. O que confunde é que eles têm toneladas de podcasts, então eles sabem como fazer isso</p>]]></description>
-      <link>https://mastodon.social/@villasbc/115984952115330351</link>
-      <guid isPermaLink="true">https://mastodon.social/@villasbc/115984952115330351</guid>
-      <pubDate>Fri, 30 Jan 2026 16:18:38 GMT</pubDate>
     </item>
   </channel>
 </rss>

@@ -4,9 +4,16 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 23 May 2026 02:54:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Jun 2026 23:41:09 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2026]]></copyright>
+        <item>
+            <title><![CDATA[Comment]]></title>
+            <description><![CDATA[<p>Excited to see the 20 year mark of the Bitcoin paper and maybe see a refresh of this article:</p><p><a href="https://web.archive.org/web/20171223005413/https://medium.com/@kaistinchcombe/ten-years-in-nobody-has-come-up-with-a-use-case-for-blockchain-ee98c180100" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">web.archive.org/web/2017122300</span><span class="invisible">5413/https://medium.com/@kaistinchcombe/ten-years-in-nobody-has-come-up-with-a-use-case-for-blockchain-ee98c180100</span></a></p>]]></description>
+            <link>https://mastodon.social/@villasbc/116676475293709519</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/116676475293709519</guid>
+            <pubDate>Mon, 01 Jun 2026 19:22:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Started reading]]></title>
             <description><![CDATA[<p><a href="https://neodb.social/~neodb~/book/2Klprp3rs1QVhfzaaqv7Cf" rel="nofollow">Memórias de um Sargento de Milícias</a> </p><p></p>]]></description>
@@ -328,13 +335,6 @@
             <link>https://mastodon.social/@villasbc/116014752687931757</link>
             <guid isPermaLink="true">https://mastodon.social/@villasbc/116014752687931757</guid>
             <pubDate>Wed, 04 Feb 2026 22:37:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Comment]]></title>
-            <description><![CDATA[<p><a href="https://mastodon.social/tags/CBC" class="mention hashtag" rel="tag">#<span>CBC</span></a> Listen shows are not regular podcasts - ie public RSS I can subscribe with whatever app I want?</p><p>I didn’t know CBC was in a position to be so selective about how they reach their audience. What’s confusing is that they have tons of podcasts, so they know how to do this</p>]]></description>
-            <link>https://mastodon.social/@villasbc/115984952115330351</link>
-            <guid isPermaLink="true">https://mastodon.social/@villasbc/115984952115330351</guid>
-            <pubDate>Fri, 30 Jan 2026 16:18:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
