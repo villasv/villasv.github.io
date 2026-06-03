@@ -5,10 +5,17 @@
     <description><![CDATA[Feed combinado das minhas publicações online. Tradução automática — por favor, perdoem qualquer falha na tradução.]]></description>
     <link>https://victor.villas</link>
     <generator>translate-feed.py</generator>
-    <lastBuildDate>Mon, 01 Jun 2026 23:43:24 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 23:43:46 GMT</lastBuildDate>
     <copyright><![CDATA[Victor Villas © 2026]]></copyright>
     <language>pt-BR</language>
     <atom:link href="https://victor.villas/feed_pt-BR.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title><![CDATA[Comentário]]></title>
+      <description><![CDATA[<p><i>[tradução automática do inglês]</i></p><p>RE: https://mstdn.ca/@thetyee/116687314955 490592 Comportamento consistentemente vilanesco de Montague e Sim, apoiado por uma equipe de facilitadores coadjuvantes</p>]]></description>
+      <link>https://mastodon.social/@villasbc/116687801521644176</link>
+      <guid isPermaLink="true">https://mastodon.social/@villasbc/116687801521644176</guid>
+      <pubDate>Wed, 03 Jun 2026 19:22:29 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[Comentário]]></title>
       <description><![CDATA[<p><i>[tradução automática do inglês]</i></p><p>Emocionado para ver os 20 anos do artigo do Bitcoin e talvez ver uma atualização deste artigo: https://web.archive.org/web/20171223005413/https://medium.com/@kaistinchcombe/ten-years-in-nobody-has-come-up-with-a-use-case-for-blockchain-ee98c180100</p>]]></description>
@@ -315,13 +322,6 @@
       <description><![CDATA[<p><i>[tradução automática do inglês]</i></p><p>E há vegetarianismo, urbanismo, papéis de gênero, gordofobia, pedagogia... tantas coisas para se manter curioso e para ser instruído. Eu me pergunto quais camadas eu ainda tenho que descascar. Acho que se a maioria dessas coisas são pontos cegos para a maioria dos meus amigos, estatisticamente falando, eu deveria concluir que deve haver uma miríade de pontos cegos meus próprios. (2/2)</p>]]></description>
       <link>https://mastodon.social/@villasbc/116014752709672668</link>
       <guid isPermaLink="true">https://mastodon.social/@villasbc/116014752709672668</guid>
-      <pubDate>Wed, 04 Feb 2026 22:37:19 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Comentário]]></title>
-      <description><![CDATA[<p><i>[tradução automática do inglês]</i></p><p>Estou totalmente imerso em um círculo que acredita que as vacinas funcionam e que a mudança climática causada pelo homem precisa ser abordada. Sou grato por isso. Mas há um círculo interno de pessoas que entendem os méritos da redução de danos. E outro círculo interno que não acha que "os imigrantes têm o dever de assimilar" (existe uma palavra para isso?). E um círculo que entende que não existe algo como "apolítico". (1/2)</p>]]></description>
-      <link>https://mastodon.social/@villasbc/116014752687931757</link>
-      <guid isPermaLink="true">https://mastodon.social/@villasbc/116014752687931757</guid>
       <pubDate>Wed, 04 Feb 2026 22:37:19 GMT</pubDate>
     </item>
   </channel>

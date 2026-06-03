@@ -5,10 +5,17 @@
     <description><![CDATA[Combined feed of my online posts. Machine translated — please forgive any translation errors.]]></description>
     <link>https://victor.villas</link>
     <generator>translate-feed.py</generator>
-    <lastBuildDate>Mon, 01 Jun 2026 23:43:24 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 23:43:46 GMT</lastBuildDate>
     <copyright><![CDATA[Victor Villas © 2026]]></copyright>
     <language>en-CA</language>
     <atom:link href="https://victor.villas/feed_en-CA.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title><![CDATA[Comment]]></title>
+      <description><![CDATA[<p>RE: https:// mstdn.ca/@thetyee/116687314955 490592 Consistently villainous behavior from Montague and Sim, supported by a team of sidekick enablers</p>]]></description>
+      <link>https://mastodon.social/@villasbc/116687801521644176</link>
+      <guid isPermaLink="true">https://mastodon.social/@villasbc/116687801521644176</guid>
+      <pubDate>Wed, 03 Jun 2026 19:22:29 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[Comment]]></title>
       <description><![CDATA[<p>Excited to see the 20 year mark of the Bitcoin paper and maybe see a refresh of this article: https:// web.archive.org/web/2017122300 5413/https://medium.com/@kaistinchcombe/ten-years-in-nobody-has-come-up-with-a-use-case-for-blockchain-ee98c180100</p>]]></description>
@@ -315,13 +322,6 @@
       <description><![CDATA[<p>And there’s vegetarianism, urbanism, gender roles, fatphobia, pedagogy… so many things to stay curious and to be instructed. I wonder which layers I’ve yet to peel. I guess if most of these are blind spots for most of my friends, statistically speaking I should conclude there must be a myriad of blind spots of my own. (2/2)</p>]]></description>
       <link>https://mastodon.social/@villasbc/116014752709672668</link>
       <guid isPermaLink="true">https://mastodon.social/@villasbc/116014752709672668</guid>
-      <pubDate>Wed, 04 Feb 2026 22:37:19 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Comment]]></title>
-      <description><![CDATA[<p>I’m fully immersed in a circle that believes that vaccines work and human-caused climate change needs to be addressed. I’m grateful for that much. But then there’s an inner circle of people who understand the merits of harm reduction. And another inner circle that don’t think that “immigrants have a duty to assimilate” (is there a word for this?). And a circle that understands there’s no such thing as “apolitical”. (1/2)</p>]]></description>
-      <link>https://mastodon.social/@villasbc/116014752687931757</link>
-      <guid isPermaLink="true">https://mastodon.social/@villasbc/116014752687931757</guid>
       <pubDate>Wed, 04 Feb 2026 22:37:19 GMT</pubDate>
     </item>
   </channel>
