@@ -4,9 +4,16 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 14 Jun 2026 10:21:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Jun 2026 23:39:47 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2026]]></copyright>
+        <item>
+            <title><![CDATA[Comment]]></title>
+            <description><![CDATA[<p>The power of propaganda.</p><p>A government stepping in to stabilize prices while also putting the assets to use for the public good is a brilliant example of what governments are useful for.</p><p>The unreasonable effectiveness of labeling it as a bailout is concerning. <span class="h-card" translate="no"><a href="https://bsky.brid.gy/r/https://bsky.app/profile/ruofan.ca" class="u-url mention">@<span>ruofan.ca</span></a></span> <a href="https://fed.brid.gy/r/https://bsky.app/profile/did:plc:72dxiqkmwffom76vmbg3qdcs/post/3moysqc7ujc2i" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">fed.brid.gy/r/https://bsky.app</span><span class="invisible">/profile/did:plc:72dxiqkmwffom76vmbg3qdcs/post/3moysqc7ujc2i</span></a></p>]]></description>
+            <link>https://mastodon.social/@villasbc/116805870458452938</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/116805870458452938</guid>
+            <pubDate>Wed, 24 Jun 2026 15:48:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Comment]]></title>
             <description><![CDATA[<p class="quote-inline">RE: <a href="https://mstdn.ca/@thetyee/116687314955490592" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">mstdn.ca/@thetyee/116687314955</span><span class="invisible">490592</span></a></p><p>Consistently villainous behavior from Montague and Sim, supported by a team of sidekick enablers</p>]]></description>
@@ -328,13 +335,6 @@
             <link>https://mastodon.social/@villasbc/116014785982222424</link>
             <guid isPermaLink="true">https://mastodon.social/@villasbc/116014785982222424</guid>
             <pubDate>Wed, 04 Feb 2026 22:45:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Comment]]></title>
-            <description><![CDATA[<p>And there’s vegetarianism, urbanism, gender roles, fatphobia, pedagogy… so many things to stay curious and to be instructed. I wonder which layers I’ve yet to peel.</p><p>I guess if most of these are blind spots for most of my friends, statistically speaking I should conclude there must be a myriad of blind spots of my own. (2/2)</p>]]></description>
-            <link>https://mastodon.social/@villasbc/116014752709672668</link>
-            <guid isPermaLink="true">https://mastodon.social/@villasbc/116014752709672668</guid>
-            <pubDate>Wed, 04 Feb 2026 22:37:19 GMT</pubDate>
         </item>
     </channel>
 </rss>

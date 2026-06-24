@@ -5,10 +5,17 @@
     <description><![CDATA[Combined feed of my online posts. Machine translated — please forgive any translation errors.]]></description>
     <link>https://victor.villas</link>
     <generator>translate-feed.py</generator>
-    <lastBuildDate>Sun, 14 Jun 2026 10:21:54 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 23:42:16 GMT</lastBuildDate>
     <copyright><![CDATA[Victor Villas © 2026]]></copyright>
     <language>en-CA</language>
     <atom:link href="https://victor.villas/feed_en-CA.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title><![CDATA[Comment]]></title>
+      <description><![CDATA[<p>The power of propaganda. A government stepping in to stabilize prices while also putting the assets to use for the public good is a brilliant example of what governments are useful for. The unreasonable effectiveness of labeling it as a bailout is concerning. @ ruofan.ca https:// fed.brid.gy/r/https://bsky.app /profile/did:plc:72dxiqkmwffom76vmbg3qdcs/post/3moysqc7ujc2i</p>]]></description>
+      <link>https://mastodon.social/@villasbc/116805870458452938</link>
+      <guid isPermaLink="true">https://mastodon.social/@villasbc/116805870458452938</guid>
+      <pubDate>Wed, 24 Jun 2026 15:48:58 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[Comment]]></title>
       <description><![CDATA[<p>RE: https:// mstdn.ca/@thetyee/116687314955 490592 Consistently villainous behavior from Montague and Sim, supported by a team of sidekick enablers</p>]]></description>
@@ -316,13 +323,6 @@
       <link>https://mastodon.social/@villasbc/116014785982222424</link>
       <guid isPermaLink="true">https://mastodon.social/@villasbc/116014785982222424</guid>
       <pubDate>Wed, 04 Feb 2026 22:45:47 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Comment]]></title>
-      <description><![CDATA[<p>And there’s vegetarianism, urbanism, gender roles, fatphobia, pedagogy… so many things to stay curious and to be instructed. I wonder which layers I’ve yet to peel. I guess if most of these are blind spots for most of my friends, statistically speaking I should conclude there must be a myriad of blind spots of my own. (2/2)</p>]]></description>
-      <link>https://mastodon.social/@villasbc/116014752709672668</link>
-      <guid isPermaLink="true">https://mastodon.social/@villasbc/116014752709672668</guid>
-      <pubDate>Wed, 04 Feb 2026 22:37:19 GMT</pubDate>
     </item>
   </channel>
 </rss>
