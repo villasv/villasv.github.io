@@ -5,10 +5,17 @@
     <description><![CDATA[Feed combinado das minhas publicações online. Tradução automática — por favor, perdoem qualquer falha na tradução.]]></description>
     <link>https://victor.villas</link>
     <generator>translate-feed.py</generator>
-    <lastBuildDate>Wed, 24 Jun 2026 23:42:16 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 10:19:53 GMT</lastBuildDate>
     <copyright><![CDATA[Victor Villas © 2026]]></copyright>
     <language>pt-BR</language>
     <atom:link href="https://victor.villas/feed_pt-BR.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title><![CDATA[Comentário]]></title>
+      <description><![CDATA[<p><i>[tradução automática do inglês]</i></p><p>RE: https://mastodon.social/@villasbc/116805870458452938 Agora eu entendi. Muita gente é politicamente orientada por ódio. Os desenvolvedores são odiados pela população, e, portanto, qualquer tipo de programa governamental que beneficie os desenvolvedores de alguma forma será enquadrado como um mau negócio. As pessoas preferem ver esses condomínios sendo incendiados do que ver os desenvolvedores lucrando, porque isso frustra o sonho delas de "desenvolvedores gananciosos" indo à falência.</p>]]></description>
+      <link>https://mastodon.social/@villasbc/116813809688425692</link>
+      <guid isPermaLink="true">https://mastodon.social/@villasbc/116813809688425692</guid>
+      <pubDate>Fri, 26 Jun 2026 01:28:01 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[Comentário]]></title>
       <description><![CDATA[<p><i>[tradução automática do inglês]</i></p><p>O poder da propaganda. Um governo intervindo para estabilizar os preços enquanto coloca os ativos para uso para o bem público é um exemplo brilhante do que os governos são úteis. A injustificada eficácia de rotulá-lo como um resgate é preocupante. @ ruofan.ca https://fed.brid.gy/r/https://bsky.app /profile/did:plc:72dxiqkmwffom76vmbg3qdcs/post/3moysqc7ujc2i</p>]]></description>
@@ -316,13 +323,6 @@
       <link>https://mastodon.social/@villasbc/116113198292327618</link>
       <guid isPermaLink="true">https://mastodon.social/@villasbc/116113198292327618</guid>
       <pubDate>Sun, 22 Feb 2026 07:53:20 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Comentário]]></title>
-      <description><![CDATA[<p><i>[tradução automática do inglês]</i></p><p>Existe esse fenômeno onde cada geração acredita que seu nível de progressismo é o certo, então tudo que veio antes era retrógrado, mas cada passo à frente não é necessário. Acho que devo procurar coisas que me façam pensar "ok, isso é demais"... talvez veganismo como dieta ideal? Ou poliamor como relacionamento ideal? Essas vêm à mente como o tipo de coisa que eu não acho que eu seria capaz de me adaptar, mas os jovens são bem-vindos para experimentar 🤷 (3/2)</p>]]></description>
-      <link>https://mastodon.social/@villasbc/116014785982222424</link>
-      <guid isPermaLink="true">https://mastodon.social/@villasbc/116014785982222424</guid>
-      <pubDate>Wed, 04 Feb 2026 22:45:47 GMT</pubDate>
     </item>
   </channel>
 </rss>

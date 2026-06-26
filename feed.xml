@@ -4,9 +4,16 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 24 Jun 2026 23:39:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Jun 2026 10:17:11 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2026]]></copyright>
+        <item>
+            <title><![CDATA[Comment]]></title>
+            <description><![CDATA[<p class="quote-inline">RE: <a href="https://mastodon.social/@villasbc/116805870458452938" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">mastodon.social/@villasbc/1168</span><span class="invisible">05870458452938</span></a></p><p>I get it now.</p><p>Lots of people are politically oriented by spite. Developers are hated by the populace, and therefore any sort of government program that benefits developers in any way will be framed as a bad deal.</p><p>People would rather see those condos set on fire than see developers make a profit because it frustrates their dream of &quot;greedy developers&quot; going bankrupt.</p>]]></description>
+            <link>https://mastodon.social/@villasbc/116813809688425692</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/116813809688425692</guid>
+            <pubDate>Fri, 26 Jun 2026 01:28:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Comment]]></title>
             <description><![CDATA[<p>The power of propaganda.</p><p>A government stepping in to stabilize prices while also putting the assets to use for the public good is a brilliant example of what governments are useful for.</p><p>The unreasonable effectiveness of labeling it as a bailout is concerning. <span class="h-card" translate="no"><a href="https://bsky.brid.gy/r/https://bsky.app/profile/ruofan.ca" class="u-url mention">@<span>ruofan.ca</span></a></span> <a href="https://fed.brid.gy/r/https://bsky.app/profile/did:plc:72dxiqkmwffom76vmbg3qdcs/post/3moysqc7ujc2i" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">fed.brid.gy/r/https://bsky.app</span><span class="invisible">/profile/did:plc:72dxiqkmwffom76vmbg3qdcs/post/3moysqc7ujc2i</span></a></p>]]></description>
@@ -328,13 +335,6 @@
             <link>https://mastodon.social/@villasbc/116113198292327618</link>
             <guid isPermaLink="true">https://mastodon.social/@villasbc/116113198292327618</guid>
             <pubDate>Sun, 22 Feb 2026 07:53:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Comment]]></title>
-            <description><![CDATA[<p>There’s this phenomenon where each generation believes its level of progressiveness is the right one, so everything before was backwards but every step forward is not needed.</p><p>I guess I should look for things that make me think “ok that’s too much”… perhaps veganism as the ideal diet? Or polyamory as the ideal relationship? These come to mind as the kind of thing that I don’t think I’d ever be able to adjust, but youngsters are welcome to experiment 🤷 (3/2)</p>]]></description>
-            <link>https://mastodon.social/@villasbc/116014785982222424</link>
-            <guid isPermaLink="true">https://mastodon.social/@villasbc/116014785982222424</guid>
-            <pubDate>Wed, 04 Feb 2026 22:45:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
