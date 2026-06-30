@@ -5,10 +5,17 @@
     <description><![CDATA[Combined feed of my online posts. Machine translated — please forgive any translation errors.]]></description>
     <link>https://victor.villas</link>
     <generator>translate-feed.py</generator>
-    <lastBuildDate>Fri, 26 Jun 2026 10:19:53 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 23:42:50 GMT</lastBuildDate>
     <copyright><![CDATA[Victor Villas © 2026]]></copyright>
     <language>en-CA</language>
     <atom:link href="https://victor.villas/feed_en-CA.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title><![CDATA[Comment]]></title>
+      <description><![CDATA[<p>A world scale game of the prisoner’s dilemma, where the biggest and most powerful prisoner is a power tripping rich senile rapist… so I’m activist in the streets and hedging my defeat in the sheets.</p><img alt="Meme: “you buy stocks because you think capitalism is succeeding and society is progressing. I buy stocks because I think we’re accelerating wealth inequality and going backwards in social welfare. We are not the same”" src="https://files.mastodon.social/media_attachments/files/116/839/857/956/697/104/original/08f5b267188ecbca.jpeg"/>]]></description>
+      <link>https://mastodon.social/@villasbc/116839886734703593</link>
+      <guid isPermaLink="true">https://mastodon.social/@villasbc/116839886734703593</guid>
+      <pubDate>Tue, 30 Jun 2026 15:59:45 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[Comment]]></title>
       <description><![CDATA[<p>RE: https:// mastodon.social/@villasbc/1168 05870458452938 I get it now. Lots of people are politically oriented by spite. Developers are hated by the populace, and therefore any sort of government program that benefits developers in any way will be framed as a bad deal. People would rather see those condos set on fire than see developers make a profit because it frustrates their dream of "greedy developers" going bankrupt.</p>]]></description>
@@ -316,13 +323,6 @@
       <link>https://mastodon.social/@villasbc/116205703195661707</link>
       <guid isPermaLink="true">https://mastodon.social/@villasbc/116205703195661707</guid>
       <pubDate>Tue, 10 Mar 2026 15:58:32 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Comment]]></title>
-      <description><![CDATA[<p>Is there any other city in this world where we don’t get snow but if you drive 25 min you can do some snowboarding (sure, icy and packed, but still)? And does that city has a moderately walkable downtown with apartments that cost less than 1MM CAD?</p>]]></description>
-      <link>https://mastodon.social/@villasbc/116113198292327618</link>
-      <guid isPermaLink="true">https://mastodon.social/@villasbc/116113198292327618</guid>
-      <pubDate>Sun, 22 Feb 2026 07:53:20 GMT</pubDate>
     </item>
   </channel>
 </rss>

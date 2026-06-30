@@ -5,10 +5,17 @@
     <description><![CDATA[Feed combinado das minhas publicações online. Tradução automática — por favor, perdoem qualquer falha na tradução.]]></description>
     <link>https://victor.villas</link>
     <generator>translate-feed.py</generator>
-    <lastBuildDate>Fri, 26 Jun 2026 10:19:53 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 23:42:50 GMT</lastBuildDate>
     <copyright><![CDATA[Victor Villas © 2026]]></copyright>
     <language>pt-BR</language>
     <atom:link href="https://victor.villas/feed_pt-BR.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title><![CDATA[Comentário]]></title>
+      <description><![CDATA[<p><i>[tradução automática do inglês]</i></p><p>Um jogo de escala mundial do dilema do prisioneiro, onde o maior e mais poderoso prisioneiro é um estuprador rico, senil e triunfante do poder... então eu sou um ativista nas ruas e protejo minha derrota nos lençóis.</p><img alt="Meme: “you buy stocks because you think capitalism is succeeding and society is progressing. I buy stocks because I think we’re accelerating wealth inequality and going backwards in social welfare. We are not the same”" src="https://files.mastodon.social/media_attachments/files/116/839/857/956/697/104/original/08f5b267188ecbca.jpeg"/>]]></description>
+      <link>https://mastodon.social/@villasbc/116839886734703593</link>
+      <guid isPermaLink="true">https://mastodon.social/@villasbc/116839886734703593</guid>
+      <pubDate>Tue, 30 Jun 2026 15:59:45 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[Comentário]]></title>
       <description><![CDATA[<p><i>[tradução automática do inglês]</i></p><p>RE: https://mastodon.social/@villasbc/116805870458452938 Agora eu entendi. Muita gente é politicamente orientada por ódio. Os desenvolvedores são odiados pela população, e, portanto, qualquer tipo de programa governamental que beneficie os desenvolvedores de alguma forma será enquadrado como um mau negócio. As pessoas preferem ver esses condomínios sendo incendiados do que ver os desenvolvedores lucrando, porque isso frustra o sonho delas de "desenvolvedores gananciosos" indo à falência.</p>]]></description>
@@ -316,13 +323,6 @@
       <link>https://mastodon.social/@villasbc/116205703195661707</link>
       <guid isPermaLink="true">https://mastodon.social/@villasbc/116205703195661707</guid>
       <pubDate>Tue, 10 Mar 2026 15:58:32 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Comentário]]></title>
-      <description><![CDATA[<p><i>[tradução automática do inglês]</i></p><p>Existe alguma outra cidade neste mundo onde não neva, mas se você dirigir 25 min, você pode fazer snowboarding (claro, gelado e compactado, mas ainda assim)? E essa cidade tem um centro moderadamente acessível a pé com apartamentos que custam menos de 1MM CAD?</p>]]></description>
-      <link>https://mastodon.social/@villasbc/116113198292327618</link>
-      <guid isPermaLink="true">https://mastodon.social/@villasbc/116113198292327618</guid>
-      <pubDate>Sun, 22 Feb 2026 07:53:20 GMT</pubDate>
     </item>
   </channel>
 </rss>

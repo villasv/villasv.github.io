@@ -4,9 +4,16 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 26 Jun 2026 10:17:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Jun 2026 23:41:08 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2026]]></copyright>
+        <item>
+            <title><![CDATA[Comment]]></title>
+            <description><![CDATA[<p>A world scale game of the prisoner’s dilemma, where the biggest and most powerful prisoner is a power tripping rich senile rapist… so I’m activist in the streets and hedging my defeat in the sheets.</p><p><img src="https://files.mastodon.social/media_attachments/files/116/839/857/956/697/104/original/08f5b267188ecbca.jpeg" alt="Meme: “you buy stocks because you think capitalism is succeeding and society is progressing. I buy stocks because I think we’re accelerating wealth inequality and going backwards in social welfare. We are not the same”"></p>]]></description>
+            <link>https://mastodon.social/@villasbc/116839886734703593</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/116839886734703593</guid>
+            <pubDate>Tue, 30 Jun 2026 15:59:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Comment]]></title>
             <description><![CDATA[<p class="quote-inline">RE: <a href="https://mastodon.social/@villasbc/116805870458452938" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">mastodon.social/@villasbc/1168</span><span class="invisible">05870458452938</span></a></p><p>I get it now.</p><p>Lots of people are politically oriented by spite. Developers are hated by the populace, and therefore any sort of government program that benefits developers in any way will be framed as a bad deal.</p><p>People would rather see those condos set on fire than see developers make a profit because it frustrates their dream of &quot;greedy developers&quot; going bankrupt.</p>]]></description>
@@ -328,13 +335,6 @@
             <link>https://mastodon.social/@villasbc/116205703195661707</link>
             <guid isPermaLink="true">https://mastodon.social/@villasbc/116205703195661707</guid>
             <pubDate>Tue, 10 Mar 2026 15:58:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Comment]]></title>
-            <description><![CDATA[<p>Is there any other city in this world where we don’t get snow but if you drive 25 min you can do some snowboarding (sure, icy and packed, but still)?</p><p>And does that city has a moderately walkable downtown with apartments that cost less than 1MM CAD?</p>]]></description>
-            <link>https://mastodon.social/@villasbc/116113198292327618</link>
-            <guid isPermaLink="true">https://mastodon.social/@villasbc/116113198292327618</guid>
-            <pubDate>Sun, 22 Feb 2026 07:53:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
