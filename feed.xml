@@ -4,9 +4,16 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 30 Jun 2026 23:41:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Jul 2026 11:15:09 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2026]]></copyright>
+        <item>
+            <title><![CDATA[Comment]]></title>
+            <description><![CDATA[<p>The Modo <a href="https://mastodon.social/tags/podcast" class="mention hashtag" rel="tag">#<span>podcast</span></a> is surprisingly interesting as they bring lots of small scale community building orgs working in the <a href="https://mastodon.social/tags/Vancouver" class="mention hashtag" rel="tag">#<span>Vancouver</span></a> metro region</p>]]></description>
+            <link>https://mastodon.social/@villasbc/116864609099750115</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/116864609099750115</guid>
+            <pubDate>Sun, 05 Jul 2026 00:46:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Comment]]></title>
             <description><![CDATA[<p>A world scale game of the prisoner’s dilemma, where the biggest and most powerful prisoner is a power tripping rich senile rapist… so I’m activist in the streets and hedging my defeat in the sheets.</p><p><img src="https://files.mastodon.social/media_attachments/files/116/839/857/956/697/104/original/08f5b267188ecbca.jpeg" alt="Meme: “you buy stocks because you think capitalism is succeeding and society is progressing. I buy stocks because I think we’re accelerating wealth inequality and going backwards in social welfare. We are not the same”"></p>]]></description>
@@ -328,13 +335,6 @@
             <link>https://mastodon.social/@villasbc/116206986859652375</link>
             <guid isPermaLink="true">https://mastodon.social/@villasbc/116206986859652375</guid>
             <pubDate>Tue, 10 Mar 2026 21:25:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Comment]]></title>
-            <description><![CDATA[<p>Good on Texas for having an upcoming progressive (at least for Texas) politician that is broadly appealing, ie a white evangelical guy.</p><p>But I will never not find it funny that his surname is slang (in pt_BR) for someone who gets involved (sexually) with a friends’ partner, probably because of a song from the early 90’s</p>]]></description>
-            <link>https://mastodon.social/@villasbc/116205703195661707</link>
-            <guid isPermaLink="true">https://mastodon.social/@villasbc/116205703195661707</guid>
-            <pubDate>Tue, 10 Mar 2026 15:58:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
