@@ -5,10 +5,17 @@
     <description><![CDATA[Feed combinado das minhas publicações online. Tradução automática — por favor, perdoem qualquer falha na tradução.]]></description>
     <link>https://victor.villas</link>
     <generator>translate-feed.py</generator>
-    <lastBuildDate>Thu, 09 Jul 2026 12:18:03 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 00:19:48 GMT</lastBuildDate>
     <copyright><![CDATA[Victor Villas © 2026]]></copyright>
     <language>pt-BR</language>
     <atom:link href="https://victor.villas/feed_pt-BR.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title><![CDATA[Comentário]]></title>
+      <description><![CDATA[<p><i>[tradução automática do inglês]</i></p><p>Orçamento louco à parte, no meio de cortes "zero means zero", vou torcer e tentar apoiar a extensão da pedestrianização de Granville duas vezes mais do que apoiei o piloto de Gastown. #vanpoli O dt do BIA é muito mais sensato e se eles comerem o almoço de Gastown, estou totalmente de acordo.</p>]]></description>
+      <link>https://mastodon.social/@villasbc/116891752928166286</link>
+      <guid isPermaLink="true">https://mastodon.social/@villasbc/116891752928166286</guid>
+      <pubDate>Thu, 09 Jul 2026 19:50:01 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[Comentário]]></title>
       <description><![CDATA[<p><i>[tradução automática do inglês]</i></p><p>O podcast do Modo # é surpreendentemente interessante, pois eles trazem muitas organizações de construção de comunidade em pequena escala que trabalham na região metropolitana de # Vancouver</p>]]></description>
@@ -316,13 +323,6 @@
       <link>https://mastodon.social/@villasbc/116224010089117255</link>
       <guid isPermaLink="true">https://mastodon.social/@villasbc/116224010089117255</guid>
       <pubDate>Fri, 13 Mar 2026 21:34:13 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Comentário]]></title>
-      <description><![CDATA[<p><i>[tradução automática do inglês]</i></p><p>As pessoas de software se tornaram valiosas ao promover a narrativa de que poderiam automatizar outros trabalhos. A ideia vendeu como pão quente, e a transformação digital se tornou uma história de deslocamento em vez de aumento. Agora, verificou-se que o desenvolvimento de software se tornou tão valioso e abundante que se tornou o alvo ideal para LLMs, então os bots que escrevem código estão decolando antes mesmo dos veículos autônomos. Inadvertidamente, os desenvolvedores se tornaram um único ponto de falha para o trabalho, e então implodiram.</p>]]></description>
-      <link>https://mastodon.social/@villasbc/116206986859652375</link>
-      <guid isPermaLink="true">https://mastodon.social/@villasbc/116206986859652375</guid>
-      <pubDate>Tue, 10 Mar 2026 21:25:00 GMT</pubDate>
     </item>
   </channel>
 </rss>

@@ -4,9 +4,16 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 09 Jul 2026 12:17:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jul 2026 00:17:51 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2026]]></copyright>
+        <item>
+            <title><![CDATA[Comment]]></title>
+            <description><![CDATA[<p>Crazy budget in the midst of “zero means zero” cuts aside, I’ll be rooting and try supporting the Granville pedestrianization extension twice as much as I did the Gastown pilot. <a href="https://mastodon.social/tags/vanpoli" class="mention hashtag" rel="tag">#<span>vanpoli</span></a> </p><p>The dt van BIA is much more sensible and if they eat Gastown’s lunch I’m all here for it.</p>]]></description>
+            <link>https://mastodon.social/@villasbc/116891752928166286</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/116891752928166286</guid>
+            <pubDate>Thu, 09 Jul 2026 19:50:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Comment]]></title>
             <description><![CDATA[<p>The Modo <a href="https://mastodon.social/tags/podcast" class="mention hashtag" rel="tag">#<span>podcast</span></a> is surprisingly interesting as they bring lots of small scale community building orgs working in the <a href="https://mastodon.social/tags/Vancouver" class="mention hashtag" rel="tag">#<span>Vancouver</span></a> metro region</p>]]></description>
@@ -328,13 +335,6 @@
             <link>https://mastodon.social/@villasbc/116224010089117255</link>
             <guid isPermaLink="true">https://mastodon.social/@villasbc/116224010089117255</guid>
             <pubDate>Fri, 13 Mar 2026 21:34:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Comment]]></title>
-            <description><![CDATA[<p>Software people made themselves valuable pushing the narrative that they could automate away other jobs. The idea sold like hot cake, and digital transformation became a story of displacement instead of augmentation.</p><p>Now it turns out that software development became so valuable and abundant that it became the ideal target for LLMs, so bots writing code are taking off even before self driving vehicles. Inadvertently developers made themselves a single point of failure for labour, then imploded.</p>]]></description>
-            <link>https://mastodon.social/@villasbc/116206986859652375</link>
-            <guid isPermaLink="true">https://mastodon.social/@villasbc/116206986859652375</guid>
-            <pubDate>Tue, 10 Mar 2026 21:25:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
