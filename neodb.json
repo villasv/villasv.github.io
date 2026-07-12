@@ -2735,7 +2735,25 @@
   "music": {
     "wishlist": [],
     "progress": [],
-    "complete": [],
+    "complete": [
+      {
+        "shelf_type": "complete",
+        "post_id": "598887787832459064",
+        "created_time": "2026-07-11T21:46:15.325Z",
+        "rating_grade": 8,
+        "comment_text": "Really dig Da funk, Alive, Burnin and Around the World. Incredible for such an early studio album.",
+        "item": {
+          "id": "https://neodb.social/album/4WInItweCmqyF8bbyXpOsb",
+          "title": "Homework",
+          "localized_title": [
+            {
+              "lang": "en",
+              "text": "Homework"
+            }
+          ]
+        }
+      }
+    ],
     "dropped": []
   },
   "game": {

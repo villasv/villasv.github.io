@@ -4,9 +4,16 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 11 Jul 2026 00:11:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Jul 2026 00:08:08 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2026]]></copyright>
+        <item>
+            <title><![CDATA[Finished listening]]></title>
+            <description><![CDATA[<p><a href="https://neodb.social/~neodb~/album/4WInItweCmqyF8bbyXpOsb" rel="nofollow">Homework, 8 out of 10</a>  <br>Really dig Da funk, Alive, Burnin and Around the World. Incredible for such an early studio album.<br></p>]]></description>
+            <link>https://neodb.social/@villasv/posts/598887787832459064/</link>
+            <guid isPermaLink="true">https://neodb.social/@villasv/posts/598887787832459064/</guid>
+            <pubDate>Sat, 11 Jul 2026 21:46:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Comment]]></title>
             <description><![CDATA[<p>Crazy budget in the midst of “zero means zero” cuts aside, I’ll be rooting and try supporting the Granville pedestrianization extension twice as much as I did the Gastown pilot. <a href="https://mastodon.social/tags/vanpoli" class="mention hashtag" rel="tag">#<span>vanpoli</span></a> </p><p>The dt van BIA is much more sensible and if they eat Gastown’s lunch I’m all here for it.</p>]]></description>
@@ -286,13 +293,6 @@
             <link>https://neodb.social/@villasv/posts/566905307535020280/</link>
             <guid isPermaLink="true">https://neodb.social/@villasv/posts/566905307535020280/</guid>
             <pubDate>Tue, 14 Apr 2026 15:39:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Finished reading]]></title>
-            <description><![CDATA[<p><a href="https://neodb.social/~neodb~/book/79X4fdVZ1Ae5oZUgAKDr07" rel="nofollow">Life After Cars, 8 out of 10</a>  <br>The book is quite packed, each chapter its own thesis, but then the book closes up nicely with guidance on activism and creating change. If you are in the know about car dependency the middle of book can feel a bit slow, but it will have a little something new for almost everyone.<br></p>]]></description>
-            <link>https://neodb.social/@villasv/posts/566904881147008808/</link>
-            <guid isPermaLink="true">https://neodb.social/@villasv/posts/566904881147008808/</guid>
-            <pubDate>Tue, 14 Apr 2026 15:37:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Comment]]></title>
