@@ -5,10 +5,17 @@
     <description><![CDATA[Combined feed of my online posts. Machine translated — please forgive any translation errors.]]></description>
     <link>https://victor.villas</link>
     <generator>translate-feed.py</generator>
-    <lastBuildDate>Sun, 12 Jul 2026 00:09:39 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 15:50:14 GMT</lastBuildDate>
     <copyright><![CDATA[Victor Villas © 2026]]></copyright>
     <language>en-CA</language>
     <atom:link href="https://victor.villas/feed_en-CA.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title><![CDATA[Comment]]></title>
+      <description><![CDATA[<p>As if I needed another reason to stop using # Google Search… cant search things while AirPlay’ing something to the TV because Google will include videos **which will autoplay** as I scroll the search results, hijacking the TV Give me a three page AI summary full of slop but please miss me with autoplay garbage</p>]]></description>
+      <link>https://mastodon.social/@villasbc/116930360217826938</link>
+      <guid isPermaLink="true">https://mastodon.social/@villasbc/116930360217826938</guid>
+      <pubDate>Thu, 16 Jul 2026 15:28:21 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[Finished listening]]></title>
       <description><![CDATA[<p><a href="https://neodb.social/~neodb~/album/4WInItweCmqyF8bbyXpOsb" rel="nofollow">Homework, 8 out of 10</a><br>Really dig Da funk, Alive, Burnin and Around the World. Incredible for such an early studio album.</p>]]></description>
@@ -316,13 +323,6 @@
       <link>https://mastodon.social/@villasbc/116324444666501378</link>
       <guid isPermaLink="true">https://mastodon.social/@villasbc/116324444666501378</guid>
       <pubDate>Tue, 31 Mar 2026 15:16:03 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Comment]]></title>
-      <description><![CDATA[<p>Sam Altman is selling the commoditization of intelligence. What does the economy look like in a world where you can get metered human-level language and reasoning on demand? I don’t believe we’re close to that, but it’s still an interesting thought exercise. How much more worthless can human life get under capitalism?</p>]]></description>
-      <link>https://mastodon.social/@villasbc/116224010089117255</link>
-      <guid isPermaLink="true">https://mastodon.social/@villasbc/116224010089117255</guid>
-      <pubDate>Fri, 13 Mar 2026 21:34:13 GMT</pubDate>
     </item>
   </channel>
 </rss>

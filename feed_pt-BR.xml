@@ -5,10 +5,17 @@
     <description><![CDATA[Feed combinado das minhas publicações online. Tradução automática — por favor, perdoem qualquer falha na tradução.]]></description>
     <link>https://victor.villas</link>
     <generator>translate-feed.py</generator>
-    <lastBuildDate>Sun, 12 Jul 2026 00:09:39 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 15:50:14 GMT</lastBuildDate>
     <copyright><![CDATA[Victor Villas © 2026]]></copyright>
     <language>pt-BR</language>
     <atom:link href="https://victor.villas/feed_pt-BR.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title><![CDATA[Comentário]]></title>
+      <description><![CDATA[<p><i>[tradução automática do inglês]</i></p><p>Como se eu precisasse de outro motivo para parar de usar # Pesquisa do Google... não consigo pesquisar coisas enquanto estou transmitindo algo para a TV com o AirPlay, porque o Google inclui vídeos **que serão reproduzidos automaticamente** enquanto eu rolo pelos resultados da pesquisa, sequestrando a TV. Me dê um resumo de IA de três páginas cheio de lixo, mas por favor, não me incomode com esse lixo de reprodução automática</p>]]></description>
+      <link>https://mastodon.social/@villasbc/116930360217826938</link>
+      <guid isPermaLink="true">https://mastodon.social/@villasbc/116930360217826938</guid>
+      <pubDate>Thu, 16 Jul 2026 15:28:21 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[Terminei de ouvir]]></title>
       <description><![CDATA[<p><i>[tradução automática do inglês]</i></p><p><a href="https://neodb.social/~neodb~/album/4WInItweCmqyF8bbyXpOsb" rel="nofollow">Homework, 8 out of 10</a><br>Realmente gosto de Da funk, Alive, Burnin e Around the World. Incrível para um álbum de estúdio tão antigo.</p>]]></description>
@@ -316,13 +323,6 @@
       <link>https://mastodon.social/@villasbc/116324444666501378</link>
       <guid isPermaLink="true">https://mastodon.social/@villasbc/116324444666501378</guid>
       <pubDate>Tue, 31 Mar 2026 15:16:03 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Comentário]]></title>
-      <description><![CDATA[<p><i>[tradução automática do inglês]</i></p><p>Sam Altman está a vender a mercantilização da inteligência. Como é a economia num mundo onde pode obter linguagem e raciocínio ao nível humano, mediante pedido? Não acredito que estejamos perto disso, mas continua a ser um exercício de reflexão interessante. Quão mais sem valor a vida humana pode ficar sob o capitalismo?</p>]]></description>
-      <link>https://mastodon.social/@villasbc/116224010089117255</link>
-      <guid isPermaLink="true">https://mastodon.social/@villasbc/116224010089117255</guid>
-      <pubDate>Fri, 13 Mar 2026 21:34:13 GMT</pubDate>
     </item>
   </channel>
 </rss>

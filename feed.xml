@@ -4,9 +4,16 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 12 Jul 2026 00:08:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jul 2026 15:48:05 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2026]]></copyright>
+        <item>
+            <title><![CDATA[Comment]]></title>
+            <description><![CDATA[<p>As if I needed another reason to stop using <a href="https://mastodon.social/tags/Google" class="mention hashtag" rel="tag">#<span>Google</span></a> Search… cant search things while AirPlay’ing something to the TV because Google will include videos **which will autoplay** as I scroll the search results, hijacking the TV</p><p>Give me a three page AI summary full of slop but please miss me with autoplay garbage</p>]]></description>
+            <link>https://mastodon.social/@villasbc/116930360217826938</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/116930360217826938</guid>
+            <pubDate>Thu, 16 Jul 2026 15:28:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Finished listening]]></title>
             <description><![CDATA[<p><a href="https://neodb.social/~neodb~/album/4WInItweCmqyF8bbyXpOsb" rel="nofollow">Homework, 8 out of 10</a>  <br>Really dig Da funk, Alive, Burnin and Around the World. Incredible for such an early studio album.<br></p>]]></description>
@@ -328,13 +335,6 @@
             <link>https://mastodon.social/@villasbc/116324444666501378</link>
             <guid isPermaLink="true">https://mastodon.social/@villasbc/116324444666501378</guid>
             <pubDate>Tue, 31 Mar 2026 15:16:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Comment]]></title>
-            <description><![CDATA[<p>Sam Altman is selling the commoditization of intelligence. What does the economy look like in a world where you can get metered human-level language and reasoning on demand?</p><p>I don’t believe we’re close to that, but it’s still an interesting thought exercise. How much more worthless can human life get under capitalism?</p>]]></description>
-            <link>https://mastodon.social/@villasbc/116224010089117255</link>
-            <guid isPermaLink="true">https://mastodon.social/@villasbc/116224010089117255</guid>
-            <pubDate>Fri, 13 Mar 2026 21:34:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
