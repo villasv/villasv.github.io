@@ -4,9 +4,16 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 17 Jul 2026 00:10:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jul 2026 00:07:36 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2026]]></copyright>
+        <item>
+            <title><![CDATA[Wants to watch]]></title>
+            <description><![CDATA[<p><a href="https://neodb.social/~neodb~/movie/3HaZzASznemDzHecTgqP2T" rel="nofollow">The Menu</a> </p><p></p>]]></description>
+            <link>https://neodb.social/@villasv/posts/601759430670164496/</link>
+            <guid isPermaLink="true">https://neodb.social/@villasv/posts/601759430670164496/</guid>
+            <pubDate>Sun, 19 Jul 2026 19:57:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Comment]]></title>
             <description><![CDATA[<p>As if I needed another reason to stop using <a href="https://mastodon.social/tags/Google" class="mention hashtag" rel="tag">#<span>Google</span></a> Search… cant search things while AirPlay’ing something to the TV because Google will include videos **which will autoplay** as I scroll the search results, hijacking the TV</p><p>Give me a three page AI summary full of slop but please miss me with autoplay garbage</p>]]></description>
@@ -293,13 +300,6 @@
             <link>https://neodb.social/@villasv/posts/568373115461357368/</link>
             <guid isPermaLink="true">https://neodb.social/@villasv/posts/568373115461357368/</guid>
             <pubDate>Sat, 18 Apr 2026 16:51:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Started watching]]></title>
-            <description><![CDATA[<p><a href="https://neodb.social/~neodb~/tv/season/12LZVyETl08hM4TQL6YUBt" rel="nofollow">SPY x FAMILY Season 1, 9 out of 10</a>  <br>So cute and wholesome that it pierced the bubble. Re-watching with my partner.<br></p>]]></description>
-            <link>https://neodb.social/@villasv/posts/566905307535020280/</link>
-            <guid isPermaLink="true">https://neodb.social/@villasv/posts/566905307535020280/</guid>
-            <pubDate>Tue, 14 Apr 2026 15:39:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Comment]]></title>
