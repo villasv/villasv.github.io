@@ -4,9 +4,16 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 25 Jul 2026 00:17:17 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jul 2026 00:11:32 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2026]]></copyright>
+        <item>
+            <title><![CDATA[Comment]]></title>
+            <description><![CDATA[<p>I’m watching people plug claude opus into everything, including things that can be done in 10 ms combining grep &amp; sed; and organizations applaud the use of AI regardless of efficiency — the opposite really, the over the top approach is easier to sell as praiseworthy.</p><p>I wonder if the future of small businesses is going to be won by low operating expense orgs that use no LLM APIs, at worst some basic &amp; capable local models, and are not outsourcing the foundations of their operations</p><p><a href="https://mastodon.social/tags/softwaredev" class="mention hashtag" rel="tag">#<span>softwaredev</span></a></p>]]></description>
+            <link>https://mastodon.social/@villasbc/116981741871459196</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/116981741871459196</guid>
+            <pubDate>Sat, 25 Jul 2026 17:15:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Wants to watch]]></title>
             <description><![CDATA[<p><a href="https://neodb.social/~neodb~/movie/3HaZzASznemDzHecTgqP2T" rel="nofollow">The Menu</a> </p><p></p>]]></description>
@@ -328,13 +335,6 @@
             <link>https://mastodon.social/@villasbc/116335662863996586</link>
             <guid isPermaLink="true">https://mastodon.social/@villasbc/116335662863996586</guid>
             <pubDate>Thu, 02 Apr 2026 14:49:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Comment]]></title>
-            <description><![CDATA[<p>L: cities are noisy </p><p>T: cars are noisy, cities without them are musical <span class="h-card" translate="no"><a href="https://bsky.brid.gy/r/https://bsky.app/profile/urbantruth.bsky.social" class="u-url mention">@<span>urbantruth.bsky.social</span></a></span> <a href="https://fed.brid.gy/r/https://bsky.app/profile/did:plc:thigatosnyxffhfeyxgaahdf/post/3midms2rba22y" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">fed.brid.gy/r/https://bsky.app</span><span class="invisible">/profile/did:plc:thigatosnyxffhfeyxgaahdf/post/3midms2rba22y</span></a></p>]]></description>
-            <link>https://mastodon.social/@villasbc/116324444666501378</link>
-            <guid isPermaLink="true">https://mastodon.social/@villasbc/116324444666501378</guid>
-            <pubDate>Tue, 31 Mar 2026 15:16:03 GMT</pubDate>
         </item>
     </channel>
 </rss>

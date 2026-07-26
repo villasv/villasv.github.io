@@ -5,10 +5,17 @@
     <description><![CDATA[Feed combinado das minhas publicações online. Tradução automática — por favor, perdoem qualquer falha na tradução.]]></description>
     <link>https://victor.villas</link>
     <generator>translate-feed.py</generator>
-    <lastBuildDate>Sat, 25 Jul 2026 00:17:54 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2026 00:14:19 GMT</lastBuildDate>
     <copyright><![CDATA[Victor Villas © 2026]]></copyright>
     <language>pt-BR</language>
     <atom:link href="https://victor.villas/feed_pt-BR.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title><![CDATA[Comentário]]></title>
+      <description><![CDATA[<p><i>[tradução automática do inglês]</i></p><p>Estou vendo pessoas usando o claude opus em tudo, incluindo coisas que podem ser feitas em 10 ms combinando grep &amp; sed; e organizações aplaudindo o uso de IA independentemente da eficiência — na verdade, o oposto, a abordagem exagerada é mais fácil de vender como louvável. Eu me pergunto se o futuro das pequenas empresas será ganho por organizações de baixo custo operacional que não usam APIs LLM, na pior das hipóteses alguns modelos básicos e capazes localmente, e não estão terceirizando as fundações de suas operações # softwaredev</p>]]></description>
+      <link>https://mastodon.social/@villasbc/116981741871459196</link>
+      <guid isPermaLink="true">https://mastodon.social/@villasbc/116981741871459196</guid>
+      <pubDate>Sat, 25 Jul 2026 17:15:23 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[Quero assistir]]></title>
       <description><![CDATA[<p><a href="https://neodb.social/~neodb~/movie/3HaZzASznemDzHecTgqP2T" rel="nofollow">The Menu</a></p>]]></description>
@@ -316,13 +323,6 @@
       <link>https://mastodon.social/@villasbc/116335662863996586</link>
       <guid isPermaLink="true">https://mastodon.social/@villasbc/116335662863996586</guid>
       <pubDate>Thu, 02 Apr 2026 14:49:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Comentário]]></title>
-      <description><![CDATA[<p><i>[tradução automática do inglês]</i></p><p>L: as cidades são barulhentas T: os carros são barulhentos, as cidades sem eles são musicais @urbantruth.bsky.social https://fed.brid.gy/r/https://bsky.app /profile/did:plc:thigatosnyxffhfeyxgaahdf/post/3midms2rba22y</p>]]></description>
-      <link>https://mastodon.social/@villasbc/116324444666501378</link>
-      <guid isPermaLink="true">https://mastodon.social/@villasbc/116324444666501378</guid>
-      <pubDate>Tue, 31 Mar 2026 15:16:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
