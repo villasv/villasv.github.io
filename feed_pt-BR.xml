@@ -5,10 +5,17 @@
     <description><![CDATA[Feed combinado das minhas publicações online. Tradução automática — por favor, perdoem qualquer falha na tradução.]]></description>
     <link>https://victor.villas</link>
     <generator>translate-feed.py</generator>
-    <lastBuildDate>Sun, 26 Jul 2026 00:14:19 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 00:16:45 GMT</lastBuildDate>
     <copyright><![CDATA[Victor Villas © 2026]]></copyright>
     <language>pt-BR</language>
     <atom:link href="https://victor.villas/feed_pt-BR.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title><![CDATA[Comentário]]></title>
+      <description><![CDATA[<p><i>[tradução automática do inglês]</i></p><p>uff... Foi divertido enquanto eles estavam associados apenas a atividades ao ar livre. Me serviu muito bem para andar de bicicleta e praticar snowboard. Eu dei a minha versão wayfarer para a minha família experimentar por acessibilidade; agora eu tenho apenas a versão esportiva, que espero que seja muito estúpida para que pervertidos a adotem. Acho que vou ter que voltar a usar uma Go Pro nos meus capacetes como um Teletubby e encontrar uma combinação decente de fones de ouvido com abertura e um microfone que funcione contra o vento. https://www.emilywrites.co.nz/pervert-glasses-estao-aqui-e-nao-estamos-preparados/</p>]]></description>
+      <link>https://mastodon.social/@villasbc/116993243536902537</link>
+      <guid isPermaLink="true">https://mastodon.social/@villasbc/116993243536902537</guid>
+      <pubDate>Mon, 27 Jul 2026 18:00:24 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[Comentário]]></title>
       <description><![CDATA[<p><i>[tradução automática do inglês]</i></p><p>Estou vendo pessoas usando o claude opus em tudo, incluindo coisas que podem ser feitas em 10 ms combinando grep &amp; sed; e organizações aplaudindo o uso de IA independentemente da eficiência — na verdade, o oposto, a abordagem exagerada é mais fácil de vender como louvável. Eu me pergunto se o futuro das pequenas empresas será ganho por organizações de baixo custo operacional que não usam APIs LLM, na pior das hipóteses alguns modelos básicos e capazes localmente, e não estão terceirizando as fundações de suas operações # softwaredev</p>]]></description>
@@ -316,13 +323,6 @@
       <link>https://mastodon.social/@villasbc/116375439491130273</link>
       <guid isPermaLink="true">https://mastodon.social/@villasbc/116375439491130273</guid>
       <pubDate>Thu, 09 Apr 2026 15:24:43 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Comentário]]></title>
-      <description><![CDATA[<p><i>[tradução automática do inglês]</i></p><p>#maptap é divertido, mas estou ficando seriamente cansado de receber pequenas cidades dos EUA como "fáceis" todos os dias, enquanto países inteiros por aí ainda não apareceram. É um jogo feito por americanos para americanos, acho que estou farto</p>]]></description>
-      <link>https://mastodon.social/@villasbc/116335662863996586</link>
-      <guid isPermaLink="true">https://mastodon.social/@villasbc/116335662863996586</guid>
-      <pubDate>Thu, 02 Apr 2026 14:49:00 GMT</pubDate>
     </item>
   </channel>
 </rss>

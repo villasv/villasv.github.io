@@ -5,10 +5,17 @@
     <description><![CDATA[Combined feed of my online posts. Machine translated — please forgive any translation errors.]]></description>
     <link>https://victor.villas</link>
     <generator>translate-feed.py</generator>
-    <lastBuildDate>Sun, 26 Jul 2026 00:14:19 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 00:16:45 GMT</lastBuildDate>
     <copyright><![CDATA[Victor Villas © 2026]]></copyright>
     <language>en-CA</language>
     <atom:link href="https://victor.villas/feed_en-CA.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title><![CDATA[Comment]]></title>
+      <description><![CDATA[<p>sigh… It was fun while these were just associated with outdoor activities. It served me really well for cycling and snowboarding. I gave my wayfarer version to my family to experiment with it for accessibility; now I have just the sports version, which hopefully is too dorky for perverts to adopt. Guess I’ll have to go back to a go pro in my helmets like a Teletubby and find a decent combination of open ear headphones and a mic that works against the wind. https://www. emilywrites.co.nz/pervert-glas ses-are-here-and-were-not-ready/</p>]]></description>
+      <link>https://mastodon.social/@villasbc/116993243536902537</link>
+      <guid isPermaLink="true">https://mastodon.social/@villasbc/116993243536902537</guid>
+      <pubDate>Mon, 27 Jul 2026 18:00:24 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[Comment]]></title>
       <description><![CDATA[<p>I’m watching people plug claude opus into everything, including things that can be done in 10 ms combining grep &amp; sed; and organizations applaud the use of AI regardless of efficiency — the opposite really, the over the top approach is easier to sell as praiseworthy. I wonder if the future of small businesses is going to be won by low operating expense orgs that use no LLM APIs, at worst some basic &amp; capable local models, and are not outsourcing the foundations of their operations # softwaredev</p>]]></description>
@@ -316,13 +323,6 @@
       <link>https://mastodon.social/@villasbc/116375439491130273</link>
       <guid isPermaLink="true">https://mastodon.social/@villasbc/116375439491130273</guid>
       <pubDate>Thu, 09 Apr 2026 15:24:43 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Comment]]></title>
-      <description><![CDATA[<p># maptap is fun but seriously getting tired of getting small time US cities every day as “easy” while whole countries out there haven’t shown up yet. It’s a game by Americans for Americans I guess, so I think I’m over it</p>]]></description>
-      <link>https://mastodon.social/@villasbc/116335662863996586</link>
-      <guid isPermaLink="true">https://mastodon.social/@villasbc/116335662863996586</guid>
-      <pubDate>Thu, 02 Apr 2026 14:49:00 GMT</pubDate>
     </item>
   </channel>
 </rss>

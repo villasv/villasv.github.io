@@ -4,9 +4,16 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 26 Jul 2026 00:11:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jul 2026 00:13:38 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2026]]></copyright>
+        <item>
+            <title><![CDATA[Comment]]></title>
+            <description><![CDATA[<p>sigh… It was fun while these were just associated with outdoor activities.</p><p>It served me really well for cycling and snowboarding. I gave my wayfarer version to my family to experiment with it for accessibility; now I have just the sports version, which hopefully is too dorky for perverts to adopt.</p><p>Guess I’ll have to go back to a go pro in my helmets like a Teletubby and find a decent combination of open ear headphones and a mic that works against the wind.</p><p><a href="https://www.emilywrites.co.nz/pervert-glasses-are-here-and-were-not-ready/" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://www.</span><span class="ellipsis">emilywrites.co.nz/pervert-glas</span><span class="invisible">ses-are-here-and-were-not-ready/</span></a></p>]]></description>
+            <link>https://mastodon.social/@villasbc/116993243536902537</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/116993243536902537</guid>
+            <pubDate>Mon, 27 Jul 2026 18:00:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Comment]]></title>
             <description><![CDATA[<p>I’m watching people plug claude opus into everything, including things that can be done in 10 ms combining grep &amp; sed; and organizations applaud the use of AI regardless of efficiency — the opposite really, the over the top approach is easier to sell as praiseworthy.</p><p>I wonder if the future of small businesses is going to be won by low operating expense orgs that use no LLM APIs, at worst some basic &amp; capable local models, and are not outsourcing the foundations of their operations</p><p><a href="https://mastodon.social/tags/softwaredev" class="mention hashtag" rel="tag">#<span>softwaredev</span></a></p>]]></description>
@@ -328,13 +335,6 @@
             <link>https://mastodon.social/@villasbc/116375439491130273</link>
             <guid isPermaLink="true">https://mastodon.social/@villasbc/116375439491130273</guid>
             <pubDate>Thu, 09 Apr 2026 15:24:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Comment]]></title>
-            <description><![CDATA[<p><a href="https://mastodon.social/tags/maptap" class="mention hashtag" rel="tag">#<span>maptap</span></a> is fun but seriously getting tired of getting small time US cities every day as “easy” while whole countries out there haven’t shown up yet. It’s a game by Americans for Americans I guess, so I think I’m over it</p>]]></description>
-            <link>https://mastodon.social/@villasbc/116335662863996586</link>
-            <guid isPermaLink="true">https://mastodon.social/@villasbc/116335662863996586</guid>
-            <pubDate>Thu, 02 Apr 2026 14:49:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
