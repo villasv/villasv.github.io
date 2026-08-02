@@ -1713,6 +1713,31 @@
     "complete": [
       {
         "shelf_type": "complete",
+        "post_id": "606625505528480968",
+        "created_time": "2026-08-02T06:13:10.944Z",
+        "rating_grade": 8,
+        "comment_text": "Beautiful landscapes and expositions, well executed renditions of the challenges, like the whirlpool and the animal shape shifting.\r\n\r\nI felt a bit distracted with a lot of focus on Penelope’s suitors, and a lot of conversation with gods, but overall the movie embodies key aspects of the tragedy.\r\n\r\nThe final moments of the movie were the weakest for me. The one man against all felt like a stretch, the fight overall reminds me of 007 villains that come at the hero almost one by one, but oh no he’s actually surrounded, but then aha, and bam, victory.\r\n\r\nAlso his comment about the end of the Bronze Age is a bit cringy.",
+        "item": {
+          "id": "https://neodb.social/movie/5Sd0Dw4oPFeRC5uF64tqQ4",
+          "title": "The Odyssey",
+          "localized_title": [
+            {
+              "lang": "en",
+              "text": "The Odyssey"
+            },
+            {
+              "lang": "pt",
+              "text": "The Odyssey"
+            },
+            {
+              "lang": "pt",
+              "text": "The Odyssey (filme de 2026)"
+            }
+          ]
+        }
+      },
+      {
+        "shelf_type": "complete",
         "post_id": "579362097681335512",
         "created_time": "2026-05-19T00:38:07.980Z",
         "rating_grade": 7,
