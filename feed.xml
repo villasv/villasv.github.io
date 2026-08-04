@@ -4,9 +4,16 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 02 Aug 2026 10:52:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Aug 2026 16:21:32 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2026]]></copyright>
+        <item>
+            <title><![CDATA[Finished watching]]></title>
+            <description><![CDATA[<p><a href="https://neodb.social/~neodb~/movie/0p2zNbJGVlkmWckcdSLhRL" rel="nofollow">Project Hail Mary, 8 out of 10</a>  <br>A bit silly and the humor style is totally Ryan Goslig’s whole thing, but the story is great and the visuals have their wow moments.<br></p>]]></description>
+            <link>https://neodb.social/@villasv/posts/607475740165131904/</link>
+            <guid isPermaLink="true">https://neodb.social/@villasv/posts/607475740165131904/</guid>
+            <pubDate>Tue, 04 Aug 2026 14:31:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Finished watching]]></title>
             <description><![CDATA[<p><a href="https://neodb.social/~neodb~/movie/5Sd0Dw4oPFeRC5uF64tqQ4" rel="nofollow">The Odyssey, 8 out of 10</a>  <br>Beautiful landscapes and expositions, well executed renditions of the challenges, like the whirlpool and the animal shape shifting.</p><p>I felt a bit distracted with a lot of focus on Penelope’s suitors, and a lot of conversation with gods, but overall the movie embodies key aspects of the tragedy.</p><p>The final moments of the movie were the weakest for me. The one man against all felt like a stretch, the fight overall reminds me of 007 villains that come at the hero almost one by one, but oh no he’s actually surrounded, but then aha, and bam, victory.</p><p>Also his comment about the end of the Bronze Age is a bit cringy.<br></p>]]></description>
@@ -307,13 +314,6 @@
             <link>https://neodb.social/@villasv/posts/568791760537907488/</link>
             <guid isPermaLink="true">https://neodb.social/@villasv/posts/568791760537907488/</guid>
             <pubDate>Sun, 19 Apr 2026 20:35:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Started reading]]></title>
-            <description><![CDATA[<p><a href="https://neodb.social/~neodb~/book/2C3xJXL4MCkl8gzecRwIKi" rel="nofollow">Find Yourself at Home: A Conscious Approach to Shaping Your Space and Your Life</a> <br>Another one randomly chosen among the VPL audiobooks for home interior design and decoration<br></p>]]></description>
-            <link>https://neodb.social/@villasv/posts/568406550152571808/</link>
-            <guid isPermaLink="true">https://neodb.social/@villasv/posts/568406550152571808/</guid>
-            <pubDate>Sat, 18 Apr 2026 19:04:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Comment]]></title>

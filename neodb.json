@@ -1713,6 +1713,31 @@
     "complete": [
       {
         "shelf_type": "complete",
+        "post_id": "607475740165131904",
+        "created_time": "2026-08-04T14:31:42.735Z",
+        "rating_grade": 8,
+        "comment_text": "A bit silly and the humor style is totally Ryan Goslig’s whole thing, but the story is great and the visuals have their wow moments.",
+        "item": {
+          "id": "https://neodb.social/movie/0p2zNbJGVlkmWckcdSLhRL",
+          "title": "Project Hail Mary",
+          "localized_title": [
+            {
+              "lang": "en",
+              "text": "Project Hail Mary"
+            },
+            {
+              "lang": "pt",
+              "text": "Projeto Hail Mary"
+            },
+            {
+              "lang": "pt-br",
+              "text": "Devoradores de Estrelas"
+            }
+          ]
+        }
+      },
+      {
+        "shelf_type": "complete",
         "post_id": "606625505528480968",
         "created_time": "2026-08-02T06:13:10.944Z",
         "rating_grade": 8,
