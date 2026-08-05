@@ -5,10 +5,17 @@
     <description><![CDATA[Combined feed of my online posts. Machine translated — please forgive any translation errors.]]></description>
     <link>https://victor.villas</link>
     <generator>translate-feed.py</generator>
-    <lastBuildDate>Tue, 04 Aug 2026 16:22:52 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 10:05:14 GMT</lastBuildDate>
     <copyright><![CDATA[Victor Villas © 2026]]></copyright>
     <language>en-CA</language>
     <atom:link href="https://victor.villas/feed_en-CA.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title><![CDATA[Comment]]></title>
+      <description><![CDATA[<p>Two parties coming out of nowhere and doing better than COPE and OneCity is wild We are so over @ grids.reillywood.com https:// fed.brid.gy/r/https://bsky.app /profile/did:plc:mxqc6fi5nqfh5giucyskyxgv/post/3msbqrqqq3c2g</p>]]></description>
+      <link>https://mastodon.social/@villasbc/117039972703250604</link>
+      <guid isPermaLink="true">https://mastodon.social/@villasbc/117039972703250604</guid>
+      <pubDate>Wed, 05 Aug 2026 00:04:15 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[Finished watching]]></title>
       <description><![CDATA[<p><a href="https://neodb.social/~neodb~/movie/0p2zNbJGVlkmWckcdSLhRL" rel="nofollow">Project Hail Mary, 8 out of 10</a><br>A bit silly and the humor style is totally Ryan Goslig’s whole thing, but the story is great and the visuals have their wow moments.</p>]]></description>
@@ -316,13 +323,6 @@
       <link>https://mastodon.social/@villasbc/116377190368975964</link>
       <guid isPermaLink="true">https://mastodon.social/@villasbc/116377190368975964</guid>
       <pubDate>Thu, 09 Apr 2026 22:49:59 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Comment]]></title>
-      <description><![CDATA[<p>The downtown BIA has lots of interesting material and they are generally onboard if self serving urbanism like bike lanes and better transit but… BIAs will BIA and openly advocate for vibes based policy making, whatever it takes to bring in that suburban shopper who’s afraid of visible social issues. At least I gotta give it to them the goal of having both… but this is proven a zero-sum dichotomy time and time again in the halls of city council and voting booths</p><img alt="BUILD FOR WHAT PEOPLE FEEL Consider Fear of Violence, slightly elevated across some resident segments in the Downtown Van district. People with this trait don’t respond to crime statistics or reassuring press releases. They respond to environments that feel safe and legible: well-lit streets, clear sightlines, intuitive navigation, and clarity. You can tell Alex that downtown is statistically safer than three years ago, but it won’t matter. What matters is whether the street feels orderly and predictable the moment Alex steps off the bus. That’s a design problem with a design solution if you know what you are looking to solve.  The values-based approach asks: what single investment serves multiple value orientations simultaneously?" src="https://files.mastodon.social/media_attachments/files/116/375/439/443/396/765/original/526b5a136c9ed88e.jpeg"/>]]></description>
-      <link>https://mastodon.social/@villasbc/116375439491130273</link>
-      <guid isPermaLink="true">https://mastodon.social/@villasbc/116375439491130273</guid>
-      <pubDate>Thu, 09 Apr 2026 15:24:43 GMT</pubDate>
     </item>
   </channel>
 </rss>
