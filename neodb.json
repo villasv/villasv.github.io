@@ -594,6 +594,23 @@
     "complete": [
       {
         "shelf_type": "complete",
+        "post_id": "623814097113606144",
+        "created_time": "2026-09-18T16:34:30.561Z",
+        "rating_grade": null,
+        "comment_text": "Some parts resonated a lot, some not so much; and that's about how I expect a good poem collection to be like, right around the edge of what feels comfortable versus what's there to expand.  The passages dancing around finding peace with loss, but still reserving some anger… powerful stuff.",
+        "item": {
+          "id": "https://neodb.social/book/779cpDIOZl8aUkZr1ZB7sv",
+          "title": "November, November: Poems",
+          "localized_title": [
+            {
+              "lang": "en",
+              "text": "November, November: Poems"
+            }
+          ]
+        }
+      },
+      {
+        "shelf_type": "complete",
         "post_id": "579021890659266280",
         "created_time": "2026-05-18T02:06:16.356Z",
         "rating_grade": 8,
@@ -1713,6 +1730,48 @@
     "complete": [
       {
         "shelf_type": "complete",
+        "post_id": "621436909260967432",
+        "created_time": "2026-09-12T03:08:24.805Z",
+        "rating_grade": 8,
+        "comment_text": "The concept of the doc is super neat, I really enjoyed and I think it’s a memorable one, might even re watch one day; and it’s probably the intention but it’s just so uncomfortable watching people glazing this company from the notorious villain of this epoch",
+        "item": {
+          "id": "https://neodb.social/movie/67GTH9VutAgGJ4HFzrapxG",
+          "title": "Shifting Baselines",
+          "localized_title": [
+            {
+              "lang": "en",
+              "text": "Shifting Baselines"
+            }
+          ]
+        }
+      },
+      {
+        "shelf_type": "complete",
+        "post_id": "614231574431099800",
+        "created_time": "2026-08-23T05:56:59.145Z",
+        "rating_grade": 7,
+        "comment_text": "Funnier than I expected. American movies about relationships are often super unrelatable to me because the starting point is often so absurdly broken that it’s even hard to immerse myself in the story; this one has the same issue but at least the story developed quickly and in ways I was not expecting.",
+        "item": {
+          "id": "https://neodb.social/movie/17jArVhpoCCcurQvQaaUTD",
+          "title": "The Invite",
+          "localized_title": [
+            {
+              "lang": "en",
+              "text": "The Invite"
+            },
+            {
+              "lang": "en",
+              "text": "The People Upstairs"
+            },
+            {
+              "lang": "en",
+              "text": "Sentimental"
+            }
+          ]
+        }
+      },
+      {
+        "shelf_type": "complete",
         "post_id": "607475740165131904",
         "created_time": "2026-08-04T14:31:42.735Z",
         "rating_grade": 8,
@@ -1747,16 +1806,12 @@
           "title": "The Odyssey",
           "localized_title": [
             {
+              "lang": "pt",
+              "text": "A Odisseia"
+            },
+            {
               "lang": "en",
               "text": "The Odyssey"
-            },
-            {
-              "lang": "pt",
-              "text": "The Odyssey"
-            },
-            {
-              "lang": "pt",
-              "text": "The Odyssey (filme de 2026)"
             }
           ]
         }
@@ -1973,7 +2028,7 @@
         "rating_grade": 8,
         "comment_text": "We've got jazz, intense soundtrack, black power and entrepreneurship, AAVE, >!vampires!<, shootouts, wild west mood. It's a modern fusion with no restrains on its quirkiness, so it's definitely not an all-round crowd pleaser. I enjoyed the central role that music played in the story, and it's not as if >!vampires!< ever needed justification to attack people but this tried something different so that's fun. I do think the villains are a bit overpowered, though, to a point where it's hard to believe they wouldn't be more widely known through folk tales, but that's a bit of world building nitpicking. I also found the epilogue a bit too \"fan service\" - of course it's rewarding to watch >!klan racists be rampaged by the protagonist!< but the whole scene was a bit too obvious.",
         "item": {
-          "id": "https://neodb.social/movie/4yXzvM0r9737LcjSXwrtxr",
+          "id": "https://neodb.social/movie/2Kw48SfPW3N1lWUhMjhkaz",
           "title": "Sinners",
           "localized_title": [
             {
@@ -2414,6 +2469,23 @@
     "progress": [
       {
         "shelf_type": "progress",
+        "post_id": "617029142519858384",
+        "created_time": "2026-08-30T23:13:31.375Z",
+        "rating_grade": null,
+        "comment_text": null,
+        "item": {
+          "id": "https://neodb.social/tv/season/1DJnNhyitFhsD8aCF2Fz1J",
+          "title": "Succession Season 1",
+          "localized_title": [
+            {
+              "lang": "en",
+              "text": "Succession"
+            }
+          ]
+        }
+      },
+      {
+        "shelf_type": "progress",
         "post_id": "566905307535020280",
         "created_time": "2026-04-14T15:39:17.819Z",
         "rating_grade": 9,
@@ -2477,6 +2549,31 @@
       }
     ],
     "complete": [
+      {
+        "shelf_type": "complete",
+        "post_id": "617021702243918184",
+        "created_time": "2026-08-30T22:43:57.456Z",
+        "rating_grade": 8,
+        "comment_text": "A guy out of his mind doing things out of the ordinary. Great watch for anyone interested in climbing and extreme sports like BASE jumping.\r\n\r\nA bit over dramatic as one would normally expect for this kind of documentary, but 4 episodes total felt like it wasn’t stretched.",
+        "item": {
+          "id": "https://neodb.social/tv/season/1xl4ERElSG4mrx2R38eAuD",
+          "title": "The Dark Wizard (Miniseries)",
+          "localized_title": [
+            {
+              "lang": "pt",
+              "text": "Temporada 1"
+            },
+            {
+              "lang": "en",
+              "text": "Miniseries"
+            },
+            {
+              "lang": "en",
+              "text": "The Dark Wizard"
+            }
+          ]
+        }
+      },
       {
         "shelf_type": "complete",
         "post_id": "492757244125517648",
@@ -2804,6 +2901,10 @@
             {
               "lang": "en",
               "text": "Severance"
+            },
+            {
+              "lang": "en",
+              "text": "Severance - Season 1"
             }
           ]
         }
