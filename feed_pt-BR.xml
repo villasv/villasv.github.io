@@ -5,10 +5,17 @@
     <description><![CDATA[Feed combinado das minhas publicações online. Tradução automática — por favor, perdoem qualquer falha na tradução.]]></description>
     <link>https://victor.villas</link>
     <generator>translate-feed.py</generator>
-    <lastBuildDate>Sun, 27 Sep 2026 09:07:47 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 14:07:30 GMT</lastBuildDate>
     <copyright><![CDATA[Victor Villas © 2026]]></copyright>
     <language>pt-BR</language>
     <atom:link href="https://victor.villas/feed_pt-BR.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title><![CDATA[Atualização de Página]]></title>
+      <description><![CDATA[<p><i>[tradução automática do inglês]</i></p><p><em>Atualização em <a href="https://victor.villas/notes/now">notes/now</a> com novo conteúdo:</em></p><p>A minha imagem de uma boa vida permaneceu simples e consistente desde que eu era adolescente: 1) ir trabalhar de skate e comer uma maçã; 2) jantar e conversar com pessoas interessantes; 3) relaxar à sombra de uma árvore. Ao imaginar a vida ideal, é o que eu sempre visualizei, embora agora essas imagens sempre tenham a minha parceira nelas, e troquei um skate por uma bicicleta.</p><p>Uma década depois, quando jovem adulto, finalmente estava satisfeito com a formulação do propósito da minha vida. É compatível com essa imagem idílica, mas acrescenta especificidade às coisas que me importam além dos momentos agradáveis. O desafio agora é realmente viver de acordo com ela de forma adequada e consistente porque, embora seja divertido refletir, as aspirações não têm consequências práticas imediatas.</p>]]></description>
+      <link>https://victor.villas/notes/now</link>
+      <guid isPermaLink="true">https://victor.villas/notes/now</guid>
+      <pubDate>Sat, 09 May 2026 14:17:33 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[Atualização de Página]]></title>
       <description><![CDATA[<p><i>[tradução automática do inglês]</i></p><p><em>Atualização em <a href="https://victor.villas/notes/now">notes/now</a> com novo conteúdo:</em></p><p>Ainda trabalho na AWS, com níveis gerenciáveis de estresse e trabalho fora do horário. No final de 2025, finalmente consegui fazer a transição para uma posição de gerência, e tive sorte de ter uma equipe que funciona bem. A parte mais difícil não é realmente as pessoas, é equilibrar uma quantidade maior de pratos girando, e a maioria deles com dificuldades entre as equipes. O único aspecto permanentemente não resolvido é trabalhar para a Amazon, a megacorp, e isso parece estar piorando, considerando os últimos desenvolvimentos políticos nos EUA. A corrosão da personalidade é real, mas engano a mim mesmo para não pensar muito sobre isso - pelo menos não é Meta ou Xitter, e não estou trabalhando em nada eticamente duvidoso; é principalmente melhorias profundas em tolerância a falhas e disponibilidade. Posso dormir bem contanto que não esteja relacionado a criptomoedas, jogos de azar, armas, combustíveis fósseis ou uso antiético de IA.</p>]]></description>

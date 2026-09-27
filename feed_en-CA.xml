@@ -5,10 +5,17 @@
     <description><![CDATA[Combined feed of my online posts. Machine translated — please forgive any translation errors.]]></description>
     <link>https://victor.villas</link>
     <generator>translate-feed.py</generator>
-    <lastBuildDate>Sun, 27 Sep 2026 09:07:47 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 14:07:30 GMT</lastBuildDate>
     <copyright><![CDATA[Victor Villas © 2026]]></copyright>
     <language>en-CA</language>
     <atom:link href="https://victor.villas/feed_en-CA.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title><![CDATA[Updated Page]]></title>
+      <description><![CDATA[<p><em>Updated <a href="https://victor.villas/notes/now">notes/now</a> with new content:</em></p><p>My image of a good life has remained simple and consistent since I was a teenager: 1) skate to work eating an apple; 2) dine and chat with interesting people; 3) chill under the shade of a tree. When imagining the ideal life, that's what I've always visualised, though now those images always have my parter in them, and I swapped a skateboard for a bicycle.</p><p>A decade later as a young adult, I was finally satisfied with my formulation of my life's purpose . It's compatible with that idyllic imagery, but adds some specificity to the things I care about beyond the feel-good moments. The challenge now is to actually go about living it properly and consistently because, while fun to muse about, aspirations don't have immediate practical consequences.</p>]]></description>
+      <link>https://victor.villas/notes/now</link>
+      <guid isPermaLink="true">https://victor.villas/notes/now</guid>
+      <pubDate>Sat, 09 May 2026 14:17:33 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[Updated Page]]></title>
       <description><![CDATA[<p><em>Updated <a href="https://victor.villas/notes/now">notes/now</a> with new content:</em></p><p>I'm still working at AWS, with manageable levels of stress and off-hours work. Late 2025 I was finally able to transtion to a Management position, and I have been lucky to have a team that sails smoothly. The hardest part is not really the people, it's actually balancing a higher amount of spinning plates and most of them with cross-team hardships.</p><p>The one perenially unresolved aspect is working for Amazon the megacorp, and this seems to be getting worse considering the latest USA political developments. The corrosion of character is real, but I trick myself into not thinking about it too much - at least it's not Meta or Xitter, and I'm not working on anything ethically dubious; it's mostly deep in the weeds fault tolerance and availability improvements. I can sleep well as long as it's not related to crypto, gambling, weapons, fossil fuels, or unethical AI use.</p>]]></description>
