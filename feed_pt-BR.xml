@@ -5,10 +5,17 @@
     <description><![CDATA[Feed combinado das minhas publicações online. Tradução automática — por favor, perdoem qualquer falha na tradução.]]></description>
     <link>https://victor.villas</link>
     <generator>translate-feed.py</generator>
-    <lastBuildDate>Sun, 27 Sep 2026 23:09:23 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 09:09:04 GMT</lastBuildDate>
     <copyright><![CDATA[Victor Villas © 2026]]></copyright>
     <language>pt-BR</language>
     <atom:link href="https://victor.villas/feed_pt-BR.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title><![CDATA[Comentário]]></title>
+      <description><![CDATA[<p><i>[tradução automática do inglês]</i></p><p>Ouvir este quadro da CBC sobre as melhores atrações de beira de estrada é tão desagradável, basicamente pessoas a avaliarem a natureza com base no tamanho e proximidade do parque de estacionamento mais próximo 🤡</p>]]></description>
+      <link>https://mastodon.social/@villasbc/117051580027890256</link>
+      <guid isPermaLink="true">https://mastodon.social/@villasbc/117051580027890256</guid>
+      <pubDate>Fri, 07 Aug 2026 01:16:09 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[Comentário]]></title>
       <description><![CDATA[<p><i>[tradução automática do inglês]</i></p><p>Duas partidos surgindo do nada e fazendo melhor que o COPE e o OneCity é incrível. Estamos muito acima de @grids.reillywood.com https://fed.brid.gy/r/https://bsky.app/profile/did:plc:mxqc6fi5nqfh5giucyskyxgv/post/3msbqrqqq3c2g</p>]]></description>

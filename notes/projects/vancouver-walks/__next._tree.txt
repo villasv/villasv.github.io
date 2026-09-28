@@ -1,3 +1,3 @@
 :HL["/_next/static/chunks/0-hl0_q8arian.css","style"]
 :HL["/_next/static/chunks/118hhijdxoj3u.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"notes","param":null,"prefetchHints":4192,"slots":{"children":{"name":"projects","param":null,"prefetchHints":4192,"slots":{"children":{"name":"vancouver-walks","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}}}},"staleTime":300,"buildId":"nBfDV2ksMOngkAWA0ozNE"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"notes","param":null,"prefetchHints":4192,"slots":{"children":{"name":"projects","param":null,"prefetchHints":4192,"slots":{"children":{"name":"vancouver-walks","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}}}},"staleTime":300,"buildId":"RoKnEmIfu57ZObEraPOKW"}
