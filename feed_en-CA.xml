@@ -5,10 +5,17 @@
     <description><![CDATA[Combined feed of my online posts. Machine translated — please forgive any translation errors.]]></description>
     <link>https://victor.villas</link>
     <generator>translate-feed.py</generator>
-    <lastBuildDate>Mon, 28 Sep 2026 09:09:04 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 14:05:45 GMT</lastBuildDate>
     <copyright><![CDATA[Victor Villas © 2026]]></copyright>
     <language>en-CA</language>
     <atom:link href="https://victor.villas/feed_en-CA.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title><![CDATA[Comment]]></title>
+      <description><![CDATA[<p>Not an original quip by any means, but once again I find myself lamenting the bad societal moment to be a fan of em dashes</p>]]></description>
+      <link>https://mastodon.social/@villasbc/117118195885302744</link>
+      <guid isPermaLink="true">https://mastodon.social/@villasbc/117118195885302744</guid>
+      <pubDate>Tue, 18 Aug 2026 19:37:26 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[Comment]]></title>
       <description><![CDATA[<p>Listening to this CBC bracket about the best roadside attractions and it's so distasteful, basically people evaluating nature based on the size and proximity of the nearest parking lot 🤡</p>]]></description>

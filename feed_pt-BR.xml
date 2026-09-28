@@ -5,10 +5,17 @@
     <description><![CDATA[Feed combinado das minhas publicações online. Tradução automática — por favor, perdoem qualquer falha na tradução.]]></description>
     <link>https://victor.villas</link>
     <generator>translate-feed.py</generator>
-    <lastBuildDate>Mon, 28 Sep 2026 09:09:04 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 14:05:45 GMT</lastBuildDate>
     <copyright><![CDATA[Victor Villas © 2026]]></copyright>
     <language>pt-BR</language>
     <atom:link href="https://victor.villas/feed_pt-BR.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title><![CDATA[Comentário]]></title>
+      <description><![CDATA[<p><i>[tradução automática do inglês]</i></p><p>Não é uma piada original, mas mais uma vez me vejo lamentando o péssimo momento social de ser fã de traços.</p>]]></description>
+      <link>https://mastodon.social/@villasbc/117118195885302744</link>
+      <guid isPermaLink="true">https://mastodon.social/@villasbc/117118195885302744</guid>
+      <pubDate>Tue, 18 Aug 2026 19:37:26 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[Comentário]]></title>
       <description><![CDATA[<p><i>[tradução automática do inglês]</i></p><p>Ouvir este quadro da CBC sobre as melhores atrações de beira de estrada é tão desagradável, basicamente pessoas a avaliarem a natureza com base no tamanho e proximidade do parque de estacionamento mais próximo 🤡</p>]]></description>
