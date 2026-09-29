@@ -5,10 +5,17 @@
     <description><![CDATA[Feed combinado das minhas publicações online. Tradução automática — por favor, perdoem qualquer falha na tradução.]]></description>
     <link>https://victor.villas</link>
     <generator>translate-feed.py</generator>
-    <lastBuildDate>Tue, 29 Sep 2026 09:07:06 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 14:06:40 GMT</lastBuildDate>
     <copyright><![CDATA[Victor Villas © 2026]]></copyright>
     <language>pt-BR</language>
     <atom:link href="https://victor.villas/feed_pt-BR.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title><![CDATA[Comentário]]></title>
+      <description><![CDATA[<p><i>[tradução automática do inglês]</i></p><p>É um pouco triste, mas é tão difícil de simpatizar com pessoas que entram em dívidas para comprar um caminhão que não precisam. Eu entendo que estamos do mesmo lado da guerra de classes, mas vamos lá, meus irmãos e irmãs, acordem, vocês são parte do problema! @ferricoxide https://blahaj.zone/notes/apx1smzz3ny0 088q</p>]]></description>
+      <link>https://mastodon.social/@villasbc/117169973398731153</link>
+      <guid isPermaLink="true">https://mastodon.social/@villasbc/117169973398731153</guid>
+      <pubDate>Thu, 27 Aug 2026 23:05:08 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[Terminei de assistir]]></title>
       <description><![CDATA[<p><i>[tradução automática do inglês]</i></p><p><a href="https://neodb.social/~neodb~/movie/17jArVhpoCCcurQvQaaUTD" rel="nofollow">The Invite, 7 out of 10</a><br>Mais engraçado do que eu esperava. Os filmes americanos sobre relacionamentos geralmente não têm nada a ver comigo porque o ponto de partida é frequentemente tão absurdamente quebrado que é difícil até mesmo me envolver na história; este tem o mesmo problema, mas pelo menos a história se desenvolveu rapidamente e de maneiras que eu não esperava.</p>]]></description>
