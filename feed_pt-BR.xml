@@ -5,10 +5,17 @@
     <description><![CDATA[Feed combinado das minhas publicações online. Tradução automática — por favor, perdoem qualquer falha na tradução.]]></description>
     <link>https://victor.villas</link>
     <generator>translate-feed.py</generator>
-    <lastBuildDate>Wed, 30 Sep 2026 09:04:32 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 14:07:18 GMT</lastBuildDate>
     <copyright><![CDATA[Victor Villas © 2026]]></copyright>
     <language>pt-BR</language>
     <atom:link href="https://victor.villas/feed_pt-BR.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title><![CDATA[Comentário]]></title>
+      <description><![CDATA[<p><i>[tradução automática do inglês]</i></p><p>RE: https://mastodon.social/@MatWright/117236646169213943 Não que eu pense que essa era a intenção, mas pelo menos todo esse alarido deu a Fry uma cobertura extra que ele poderia não ter tido se a “pré-candidatura progressista” tivesse sido resolvida dois meses atrás; eles realmente o exploraram até o fim</p>]]></description>
+      <link>https://mastodon.social/@villasbc/117238982253483094</link>
+      <guid isPermaLink="true">https://mastodon.social/@villasbc/117238982253483094</guid>
+      <pubDate>Wed, 09 Sep 2026 03:35:00 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[Comecei a assistir]]></title>
       <description><![CDATA[<p><a href="https://neodb.social/~neodb~/tv/season/1DJnNhyitFhsD8aCF2Fz1J" rel="nofollow">Succession Season 1</a></p>]]></description>

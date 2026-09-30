@@ -5,10 +5,17 @@
     <description><![CDATA[Combined feed of my online posts. Machine translated — please forgive any translation errors.]]></description>
     <link>https://victor.villas</link>
     <generator>translate-feed.py</generator>
-    <lastBuildDate>Wed, 30 Sep 2026 09:04:32 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 14:07:18 GMT</lastBuildDate>
     <copyright><![CDATA[Victor Villas © 2026]]></copyright>
     <language>en-CA</language>
     <atom:link href="https://victor.villas/feed_en-CA.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title><![CDATA[Comment]]></title>
+      <description><![CDATA[<p>RE: https:// mastodon.social/@MatWright/117 236646169213943 Not that I think this was the intention, but at least all this kerfuffle gave Fry some extra media coverage that he might not have gotten if the “progressive primary” had resolved two months ago; they really milked it to the end</p>]]></description>
+      <link>https://mastodon.social/@villasbc/117238982253483094</link>
+      <guid isPermaLink="true">https://mastodon.social/@villasbc/117238982253483094</guid>
+      <pubDate>Wed, 09 Sep 2026 03:35:00 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[Started watching]]></title>
       <description><![CDATA[<p><a href="https://neodb.social/~neodb~/tv/season/1DJnNhyitFhsD8aCF2Fz1J" rel="nofollow">Succession Season 1</a></p>]]></description>
