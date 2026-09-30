@@ -5,10 +5,17 @@
     <description><![CDATA[Combined feed of my online posts. Machine translated — please forgive any translation errors.]]></description>
     <link>https://victor.villas</link>
     <generator>translate-feed.py</generator>
-    <lastBuildDate>Tue, 29 Sep 2026 23:06:51 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 09:04:32 GMT</lastBuildDate>
     <copyright><![CDATA[Victor Villas © 2026]]></copyright>
     <language>en-CA</language>
     <atom:link href="https://victor.villas/feed_en-CA.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title><![CDATA[Started watching]]></title>
+      <description><![CDATA[<p><a href="https://neodb.social/~neodb~/tv/season/1DJnNhyitFhsD8aCF2Fz1J" rel="nofollow">Succession Season 1</a></p>]]></description>
+      <link>https://neodb.social/@villasv/posts/617029142519858384/</link>
+      <guid isPermaLink="true">https://neodb.social/@villasv/posts/617029142519858384/</guid>
+      <pubDate>Sun, 30 Aug 2026 23:13:31 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[Finished watching]]></title>
       <description><![CDATA[<p><a href="https://neodb.social/~neodb~/tv/season/1xl4ERElSG4mrx2R38eAuD" rel="nofollow">The Dark Wizard (Miniseries), 8 out of 10</a><br>A guy out of his mind doing things out of the ordinary. Great watch for anyone interested in climbing and extreme sports like BASE jumping. A bit over dramatic as one would normally expect for this kind of documentary, but 4 episodes total felt like it wasn’t stretched.</p>]]></description>

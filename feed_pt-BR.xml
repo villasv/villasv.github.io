@@ -5,10 +5,17 @@
     <description><![CDATA[Feed combinado das minhas publicações online. Tradução automática — por favor, perdoem qualquer falha na tradução.]]></description>
     <link>https://victor.villas</link>
     <generator>translate-feed.py</generator>
-    <lastBuildDate>Tue, 29 Sep 2026 23:06:51 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 09:04:32 GMT</lastBuildDate>
     <copyright><![CDATA[Victor Villas © 2026]]></copyright>
     <language>pt-BR</language>
     <atom:link href="https://victor.villas/feed_pt-BR.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title><![CDATA[Comecei a assistir]]></title>
+      <description><![CDATA[<p><a href="https://neodb.social/~neodb~/tv/season/1DJnNhyitFhsD8aCF2Fz1J" rel="nofollow">Succession Season 1</a></p>]]></description>
+      <link>https://neodb.social/@villasv/posts/617029142519858384/</link>
+      <guid isPermaLink="true">https://neodb.social/@villasv/posts/617029142519858384/</guid>
+      <pubDate>Sun, 30 Aug 2026 23:13:31 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[Terminei de assistir]]></title>
       <description><![CDATA[<p><i>[tradução automática do inglês]</i></p><p><a href="https://neodb.social/~neodb~/tv/season/1xl4ERElSG4mrx2R38eAuD" rel="nofollow">The Dark Wizard (Miniseries), 8 out of 10</a><br>Um cara fora de si fazendo coisas fora do comum. Ótimo relógio para quem gosta de escalada e esportes radicais como o BASE jumping. Um pouco exagerado do que se esperaria normalmente para esse tipo de documentário, mas 4 episódios no total não me pareceram exagerados.</p>]]></description>

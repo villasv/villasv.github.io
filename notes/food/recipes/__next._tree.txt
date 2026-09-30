@@ -1,3 +1,3 @@
 :HL["/_next/static/chunks/0-hl0_q8arian.css","style"]
 :HL["/_next/static/chunks/1_f2rza2kp5yc.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"notes","param":null,"prefetchHints":4192,"slots":{"children":{"name":"food","param":null,"prefetchHints":4192,"slots":{"children":{"name":"recipes","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}}}},"staleTime":300,"buildId":"8b6PNIHfpCxfNb6uGdIrl"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"notes","param":null,"prefetchHints":4192,"slots":{"children":{"name":"food","param":null,"prefetchHints":4192,"slots":{"children":{"name":"recipes","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}}}},"staleTime":300,"buildId":"hKyx0Dxnc1rI3lZsLXXMV"}
