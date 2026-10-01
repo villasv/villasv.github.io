@@ -5,10 +5,17 @@
     <description><![CDATA[Feed combinado das minhas publicações online. Tradução automática — por favor, perdoem qualquer falha na tradução.]]></description>
     <link>https://victor.villas</link>
     <generator>translate-feed.py</generator>
-    <lastBuildDate>Thu, 01 Oct 2026 14:12:40 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 23:09:01 GMT</lastBuildDate>
     <copyright><![CDATA[Victor Villas © 2026]]></copyright>
     <language>pt-BR</language>
     <atom:link href="https://victor.villas/feed_pt-BR.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title><![CDATA[Comentário]]></title>
+      <description><![CDATA[<p><i>[tradução automática do inglês]</i></p><p>RE: https://glammr.us/@carkner/11729423174 9397992 Neste momento, mesmo que não tenhamos uma eleição antecipada, apenas forçando os Conservadores a jogar cadeiras musicais sob pressão é um grande jogo do NDP. A grande tenda de circo de Rustad não durou muito tempo; que tal uma tenda improvisada? Viva o partido Centrista, embora. Quanto mais tempo eles sobreviverem, melhor para todos. Obrigado pelo seu serviço.</p>]]></description>
+      <link>https://mastodon.social/@villasbc/117294542502975619</link>
+      <guid isPermaLink="true">https://mastodon.social/@villasbc/117294542502975619</guid>
+      <pubDate>Fri, 18 Sep 2026 23:04:42 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[Terminei de ler]]></title>
       <description><![CDATA[<p><i>[tradução automática do inglês]</i></p><p><a href="https://neodb.social/~neodb~/book/779cpDIOZl8aUkZr1ZB7sv" rel="nofollow">November, November: Poems</a><br>Algumas partes ressoaram muito, outras nem tanto; e é assim que espero que seja uma boa coleção de poemas, bem no limite do que é confortável versus o que está lá para expandir. As passagens dançando em torno de encontrar paz com a perda, mas ainda reservando alguma raiva... coisas poderosas.</p>]]></description>
