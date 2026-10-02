@@ -5,10 +5,17 @@
     <description><![CDATA[Combined feed of my online posts. Machine translated — please forgive any translation errors.]]></description>
     <link>https://victor.villas</link>
     <generator>translate-feed.py</generator>
-    <lastBuildDate>Fri, 02 Oct 2026 09:11:13 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 14:12:24 GMT</lastBuildDate>
     <copyright><![CDATA[Victor Villas © 2026]]></copyright>
     <language>en-CA</language>
     <atom:link href="https://victor.villas/feed_en-CA.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title><![CDATA[Comment]]></title>
+      <description><![CDATA[<p>As a young adult and fresh grad I got really excited about much of this stuff, and declared myself a rationalist sympathetic to effective altruism. A decade later, it just feels silly. "I'm not going to do the laundry, my time is more valuable if I spend my free time reading about sci-fi, here's how I can mathematically prove that", metastasizing for years.</p>]]></description>
+      <link>https://mastodon.social/@villasbc/117298971233059362</link>
+      <guid isPermaLink="true">https://mastodon.social/@villasbc/117298971233059362</guid>
+      <pubDate>Sat, 19 Sep 2026 17:50:59 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[Comment]]></title>
       <description><![CDATA[<p>I haven't been engaged with algorithmic fairness as much in the last few years but when @ timnitGebru drops a banger like this, better late than never to give it a read The TESCREAL bundle: Eugenics and the promise of utopia through artificial general intelligence | First Monday https:// firstmonday.org/ojs/index.php/ fm/article/view/13636</p>]]></description>
