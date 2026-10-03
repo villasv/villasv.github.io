@@ -5,10 +5,17 @@
     <description><![CDATA[Feed combinado das minhas publicações online. Tradução automática — por favor, perdoem qualquer falha na tradução.]]></description>
     <link>https://victor.villas</link>
     <generator>translate-feed.py</generator>
-    <lastBuildDate>Sat, 03 Oct 2026 09:09:47 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 15:01:23 GMT</lastBuildDate>
     <copyright><![CDATA[Victor Villas © 2026]]></copyright>
     <language>pt-BR</language>
     <atom:link href="https://victor.villas/feed_pt-BR.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title><![CDATA[Comentário]]></title>
+      <description><![CDATA[<p><i>[tradução automática do inglês]</i></p><p>Renovo meu apelo aos camaradas progressistas para abolirem o conceito de "sinalização de virtude" do seu vocabulário. Esse é um termo que os trolls usam quando alguém se importa com uma causa para a qual não há uma razão realmente racional para ser contra; então, a única opção que resta é negar que o cuidado é sincero. Claro, às vezes algumas pessoas podem ser performáticas e/ou equivocadas em seu ativismo. Mas os únicos que fingem virtude são aqueles que pregam, mas não praticam, já temos uma palavra para isso: hipócritas.</p>]]></description>
+      <link>https://mastodon.social/@villasbc/117351568196877999</link>
+      <guid isPermaLink="true">https://mastodon.social/@villasbc/117351568196877999</guid>
+      <pubDate>Tue, 29 Sep 2026 00:47:05 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[Comentário]]></title>
       <description><![CDATA[<p><i>[tradução automática do inglês]</i></p><p>O dia 3 de outubro é o dia da eleição presidencial no Brasil, primeiro turno. Para os eleitores devidamente registrados em BC, o local de votação será o Pinnacle Hotel no centro de Vancouver. O VIFF também está acontecendo, então estou pensando em duplicar a festa da democracia com uma festa do cinema e assistir a um filme ou dois nos locais próximos. Navegando pelo programa, recebendo recomendações.</p>]]></description>
