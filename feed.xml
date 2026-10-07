@@ -4,9 +4,16 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 04 Oct 2026 10:57:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Oct 2026 09:12:11 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2026]]></copyright>
+        <item>
+            <title><![CDATA[Comment]]></title>
+            <description><![CDATA[<p>Galera, deu ruim</p>]]></description>
+            <link>https://mastodon.social/@villasbc/117386297140197925</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/117386297140197925</guid>
+            <pubDate>Mon, 05 Oct 2026 03:59:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Comment]]></title>
             <description><![CDATA[<p>The founders of a Vancouver-based compassion club that sold uncontaminated drugs to its members have had their drug trafficking convictions stayed after they successfully challenged the constitutionality of Canada&#39;s drug laws. ✊🏽</p><p><a href="https://www.cbc.ca/news/canada/british-columbia/bc-supreme-court-ruling-dulf-constitutional-challenge-9.7362274" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://www.</span><span class="ellipsis">cbc.ca/news/canada/british-col</span><span class="invisible">umbia/bc-supreme-court-ruling-dulf-constitutional-challenge-9.7362274</span></a></p><p><a href="https://mastodon.social/tags/CanPoli" class="mention hashtag" rel="tag">#<span>CanPoli</span></a> <a href="https://mastodon.social/tags/vancouver" class="mention hashtag" rel="tag">#<span>vancouver</span></a></p>]]></description>
@@ -202,13 +209,6 @@
             <link>https://mastodon.social/@villasbc/116864609099750115</link>
             <guid isPermaLink="true">https://mastodon.social/@villasbc/116864609099750115</guid>
             <pubDate>Sun, 05 Jul 2026 00:46:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Comment]]></title>
-            <description><![CDATA[<p>A world scale game of the prisoner’s dilemma, where the biggest and most powerful prisoner is a power tripping rich senile rapist… so I’m activist in the streets and hedging my defeat in the sheets.</p><p><img src="https://files.mastodon.social/media_attachments/files/116/839/857/956/697/104/original/08f5b267188ecbca.jpeg" alt="Meme: “you buy stocks because you think capitalism is succeeding and society is progressing. I buy stocks because I think we’re accelerating wealth inequality and going backwards in social welfare. We are not the same”"></p>]]></description>
-            <link>https://mastodon.social/@villasbc/116839886734703593</link>
-            <guid isPermaLink="true">https://mastodon.social/@villasbc/116839886734703593</guid>
-            <pubDate>Tue, 30 Jun 2026 15:59:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Started reading]]></title>
