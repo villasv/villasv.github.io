@@ -5,10 +5,17 @@
     <description><![CDATA[Combined feed of my online posts. Machine translated — please forgive any translation errors.]]></description>
     <link>https://victor.villas</link>
     <generator>translate-feed.py</generator>
-    <lastBuildDate>Wed, 07 Oct 2026 09:13:03 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 23:05:23 GMT</lastBuildDate>
     <copyright><![CDATA[Victor Villas © 2026]]></copyright>
     <language>en-CA</language>
     <atom:link href="https://victor.villas/feed_en-CA.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title><![CDATA[Comment]]></title>
+      <description><![CDATA[<p>Most fictional plot point is the US president using long and coherent sentences to admit consciousness of terrible acts @ faraiwe https:// mstdn.social/@faraiwe/11741252 7498081520</p>]]></description>
+      <link>https://mastodon.social/@villasbc/117412868550181159</link>
+      <guid isPermaLink="true">https://mastodon.social/@villasbc/117412868550181159</guid>
+      <pubDate>Fri, 09 Oct 2026 20:36:34 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[Comment]]></title>
       <description><![CDATA[<p><i>[machine-translated from Portuguese]</i></p><p>Guys, it didn't work.</p>]]></description>
@@ -204,13 +211,6 @@
       <link>https://mastodon.social/@villasbc/116891752928166286</link>
       <guid isPermaLink="true">https://mastodon.social/@villasbc/116891752928166286</guid>
       <pubDate>Thu, 09 Jul 2026 19:50:01 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Comment]]></title>
-      <description><![CDATA[<p>The Modo # podcast is surprisingly interesting as they bring lots of small scale community building orgs working in the # Vancouver metro region</p>]]></description>
-      <link>https://mastodon.social/@villasbc/116864609099750115</link>
-      <guid isPermaLink="true">https://mastodon.social/@villasbc/116864609099750115</guid>
-      <pubDate>Sun, 05 Jul 2026 00:46:59 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[Started reading]]></title>

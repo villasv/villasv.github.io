@@ -4,9 +4,16 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 07 Oct 2026 09:12:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Oct 2026 23:04:19 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2026]]></copyright>
+        <item>
+            <title><![CDATA[Comment]]></title>
+            <description><![CDATA[<p>Most fictional plot point is the US president using long and coherent sentences to admit consciousness of terrible acts <span class="h-card" translate="no"><a href="https://mstdn.social/@faraiwe" class="u-url mention">@<span>faraiwe</span></a></span> <a href="https://mstdn.social/@faraiwe/117412527498081520" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">mstdn.social/@faraiwe/11741252</span><span class="invisible">7498081520</span></a></p>]]></description>
+            <link>https://mastodon.social/@villasbc/117412868550181159</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/117412868550181159</guid>
+            <pubDate>Fri, 09 Oct 2026 20:36:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Comment]]></title>
             <description><![CDATA[<p>Galera, deu ruim</p>]]></description>
@@ -202,13 +209,6 @@
             <link>https://mastodon.social/@villasbc/116891752928166286</link>
             <guid isPermaLink="true">https://mastodon.social/@villasbc/116891752928166286</guid>
             <pubDate>Thu, 09 Jul 2026 19:50:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Comment]]></title>
-            <description><![CDATA[<p>The Modo <a href="https://mastodon.social/tags/podcast" class="mention hashtag" rel="tag">#<span>podcast</span></a> is surprisingly interesting as they bring lots of small scale community building orgs working in the <a href="https://mastodon.social/tags/Vancouver" class="mention hashtag" rel="tag">#<span>Vancouver</span></a> metro region</p>]]></description>
-            <link>https://mastodon.social/@villasbc/116864609099750115</link>
-            <guid isPermaLink="true">https://mastodon.social/@villasbc/116864609099750115</guid>
-            <pubDate>Sun, 05 Jul 2026 00:46:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Started reading]]></title>
