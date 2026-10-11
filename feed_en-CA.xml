@@ -5,10 +5,17 @@
     <description><![CDATA[Combined feed of my online posts. Machine translated — please forgive any translation errors.]]></description>
     <link>https://victor.villas</link>
     <generator>translate-feed.py</generator>
-    <lastBuildDate>Fri, 09 Oct 2026 23:05:23 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 23:05:19 GMT</lastBuildDate>
     <copyright><![CDATA[Victor Villas © 2026]]></copyright>
     <language>en-CA</language>
     <atom:link href="https://victor.villas/feed_en-CA.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title><![CDATA[Comment]]></title>
+      <description><![CDATA[<p>“… the takeout number for Fine Dining stands at 18%, more that four times the pre-pandemic level.” https://www. nerd4cities.com/the-car-as-din ing-room/</p>]]></description>
+      <link>https://mastodon.social/@villasbc/117423232479213087</link>
+      <guid isPermaLink="true">https://mastodon.social/@villasbc/117423232479213087</guid>
+      <pubDate>Sun, 11 Oct 2026 16:32:15 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[Comment]]></title>
       <description><![CDATA[<p>Most fictional plot point is the US president using long and coherent sentences to admit consciousness of terrible acts @ faraiwe https:// mstdn.social/@faraiwe/11741252 7498081520</p>]]></description>
@@ -178,13 +185,6 @@
       <pubDate>Mon, 27 Jul 2026 18:00:24 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[Comment]]></title>
-      <description><![CDATA[<p>I’m watching people plug claude opus into everything, including things that can be done in 10 ms combining grep &amp; sed; and organizations applaud the use of AI regardless of efficiency — the opposite really, the over the top approach is easier to sell as praiseworthy. I wonder if the future of small businesses is going to be won by low operating expense orgs that use no LLM APIs, at worst some basic &amp; capable local models, and are not outsourcing the foundations of their operations # softwaredev</p>]]></description>
-      <link>https://mastodon.social/@villasbc/116981741871459196</link>
-      <guid isPermaLink="true">https://mastodon.social/@villasbc/116981741871459196</guid>
-      <pubDate>Sat, 25 Jul 2026 17:15:23 GMT</pubDate>
-    </item>
-    <item>
       <title><![CDATA[Wants to watch]]></title>
       <description><![CDATA[<p><a href="https://neodb.social/~neodb~/movie/3HaZzASznemDzHecTgqP2T" rel="nofollow">The Menu</a></p>]]></description>
       <link>https://neodb.social/@villasv/posts/601759430670164496/</link>
@@ -192,25 +192,11 @@
       <pubDate>Sun, 19 Jul 2026 19:57:08 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[Comment]]></title>
-      <description><![CDATA[<p>As if I needed another reason to stop using # Google Search… cant search things while AirPlay’ing something to the TV because Google will include videos **which will autoplay** as I scroll the search results, hijacking the TV Give me a three page AI summary full of slop but please miss me with autoplay garbage</p>]]></description>
-      <link>https://mastodon.social/@villasbc/116930360217826938</link>
-      <guid isPermaLink="true">https://mastodon.social/@villasbc/116930360217826938</guid>
-      <pubDate>Thu, 16 Jul 2026 15:28:21 GMT</pubDate>
-    </item>
-    <item>
       <title><![CDATA[Finished listening]]></title>
       <description><![CDATA[<p><a href="https://neodb.social/~neodb~/album/4WInItweCmqyF8bbyXpOsb" rel="nofollow">Homework, 8 out of 10</a><br>Really dig Da funk, Alive, Burnin and Around the World. Incredible for such an early studio album.</p>]]></description>
       <link>https://neodb.social/@villasv/posts/598887787832459064/</link>
       <guid isPermaLink="true">https://neodb.social/@villasv/posts/598887787832459064/</guid>
       <pubDate>Sat, 11 Jul 2026 21:46:15 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Comment]]></title>
-      <description><![CDATA[<p>Crazy budget in the midst of “zero means zero” cuts aside, I’ll be rooting and try supporting the Granville pedestrianization extension twice as much as I did the Gastown pilot. # vanpoli The dt van BIA is much more sensible and if they eat Gastown’s lunch I’m all here for it.</p>]]></description>
-      <link>https://mastodon.social/@villasbc/116891752928166286</link>
-      <guid isPermaLink="true">https://mastodon.social/@villasbc/116891752928166286</guid>
-      <pubDate>Thu, 09 Jul 2026 19:50:01 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[Started reading]]></title>

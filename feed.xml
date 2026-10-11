@@ -4,9 +4,30 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 09 Oct 2026 23:04:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Oct 2026 23:04:01 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2026]]></copyright>
+        <item>
+            <title><![CDATA[Comment]]></title>
+            <description><![CDATA[<p>In any case, you read with exasperation or amusement the multiple errors in a story, and then turn the page to national or international affairs, and read as if the rest of the newspaper was somehow more accurate about Palestine than the baloney you just read. You turn the page, and forget what you know.&quot;  – Michael Crichton (1942-2008) (2/2)</p>]]></description>
+            <link>https://mastodon.social/@villasbc/117423704543883208</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/117423704543883208</guid>
+            <pubDate>Sun, 11 Oct 2026 18:32:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Comment]]></title>
+            <description><![CDATA[<p>&quot;Briefly stated, the Gell-Mann Amnesia effect is as follows. You open the newspaper to an article on some subject you know well. In Murray&#39;s case, physics. In mine, show business. You read the article and see the journalist has absolutely no understanding of either the facts or the issues. Often, the article is so wrong it actually presents the story backward—reversing cause and effect. I call these the &quot;wet streets cause rain&quot; stories. Paper&#39;s full of them. (1/2)</p>]]></description>
+            <link>https://mastodon.social/@villasbc/117423704514781924</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/117423704514781924</guid>
+            <pubDate>Sun, 11 Oct 2026 18:32:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Comment]]></title>
+            <description><![CDATA[<p>“… the takeout number for Fine Dining stands at 18%, more that four times the pre-pandemic level.”</p><p><a href="https://www.nerd4cities.com/the-car-as-dining-room/" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://www.</span><span class="ellipsis">nerd4cities.com/the-car-as-din</span><span class="invisible">ing-room/</span></a></p>]]></description>
+            <link>https://mastodon.social/@villasbc/117423232479213087</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/117423232479213087</guid>
+            <pubDate>Sun, 11 Oct 2026 16:32:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Comment]]></title>
             <description><![CDATA[<p>Most fictional plot point is the US president using long and coherent sentences to admit consciousness of terrible acts <span class="h-card" translate="no"><a href="https://mstdn.social/@faraiwe" class="u-url mention">@<span>faraiwe</span></a></span> <a href="https://mstdn.social/@faraiwe/117412527498081520" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">mstdn.social/@faraiwe/11741252</span><span class="invisible">7498081520</span></a></p>]]></description>
@@ -176,13 +197,6 @@
             <pubDate>Mon, 27 Jul 2026 18:00:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Comment]]></title>
-            <description><![CDATA[<p>I’m watching people plug claude opus into everything, including things that can be done in 10 ms combining grep &amp; sed; and organizations applaud the use of AI regardless of efficiency — the opposite really, the over the top approach is easier to sell as praiseworthy.</p><p>I wonder if the future of small businesses is going to be won by low operating expense orgs that use no LLM APIs, at worst some basic &amp; capable local models, and are not outsourcing the foundations of their operations</p><p><a href="https://mastodon.social/tags/softwaredev" class="mention hashtag" rel="tag">#<span>softwaredev</span></a></p>]]></description>
-            <link>https://mastodon.social/@villasbc/116981741871459196</link>
-            <guid isPermaLink="true">https://mastodon.social/@villasbc/116981741871459196</guid>
-            <pubDate>Sat, 25 Jul 2026 17:15:23 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Wants to watch]]></title>
             <description><![CDATA[<p><a href="https://neodb.social/~neodb~/movie/3HaZzASznemDzHecTgqP2T" rel="nofollow">The Menu</a> </p><p></p>]]></description>
             <link>https://neodb.social/@villasv/posts/601759430670164496/</link>
@@ -190,25 +204,11 @@
             <pubDate>Sun, 19 Jul 2026 19:57:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Comment]]></title>
-            <description><![CDATA[<p>As if I needed another reason to stop using <a href="https://mastodon.social/tags/Google" class="mention hashtag" rel="tag">#<span>Google</span></a> Search… cant search things while AirPlay’ing something to the TV because Google will include videos **which will autoplay** as I scroll the search results, hijacking the TV</p><p>Give me a three page AI summary full of slop but please miss me with autoplay garbage</p>]]></description>
-            <link>https://mastodon.social/@villasbc/116930360217826938</link>
-            <guid isPermaLink="true">https://mastodon.social/@villasbc/116930360217826938</guid>
-            <pubDate>Thu, 16 Jul 2026 15:28:21 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Finished listening]]></title>
             <description><![CDATA[<p><a href="https://neodb.social/~neodb~/album/4WInItweCmqyF8bbyXpOsb" rel="nofollow">Homework, 8 out of 10</a>  <br>Really dig Da funk, Alive, Burnin and Around the World. Incredible for such an early studio album.<br></p>]]></description>
             <link>https://neodb.social/@villasv/posts/598887787832459064/</link>
             <guid isPermaLink="true">https://neodb.social/@villasv/posts/598887787832459064/</guid>
             <pubDate>Sat, 11 Jul 2026 21:46:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Comment]]></title>
-            <description><![CDATA[<p>Crazy budget in the midst of “zero means zero” cuts aside, I’ll be rooting and try supporting the Granville pedestrianization extension twice as much as I did the Gastown pilot. <a href="https://mastodon.social/tags/vanpoli" class="mention hashtag" rel="tag">#<span>vanpoli</span></a> </p><p>The dt van BIA is much more sensible and if they eat Gastown’s lunch I’m all here for it.</p>]]></description>
-            <link>https://mastodon.social/@villasbc/116891752928166286</link>
-            <guid isPermaLink="true">https://mastodon.social/@villasbc/116891752928166286</guid>
-            <pubDate>Thu, 09 Jul 2026 19:50:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Started reading]]></title>
