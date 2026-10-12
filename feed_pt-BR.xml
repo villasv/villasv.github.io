@@ -5,10 +5,17 @@
     <description><![CDATA[Feed combinado das minhas publicações online. Tradução automática — por favor, perdoem qualquer falha na tradução.]]></description>
     <link>https://victor.villas</link>
     <generator>translate-feed.py</generator>
-    <lastBuildDate>Mon, 12 Oct 2026 14:12:43 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 23:05:51 GMT</lastBuildDate>
     <copyright><![CDATA[Victor Villas © 2026]]></copyright>
     <language>pt-BR</language>
     <atom:link href="https://victor.villas/feed_pt-BR.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title><![CDATA[Comentário]]></title>
+      <description><![CDATA[<p><i>[tradução automática do inglês]</i></p><p>RE: https://mstdn.ca/@CanadianPolling/1174 29453469902784 Avi Lewis next PM aqui vamos nós? Pode sonhar</p>]]></description>
+      <link>https://mastodon.social/@villasbc/117430214238668379</link>
+      <guid isPermaLink="true">https://mastodon.social/@villasbc/117430214238668379</guid>
+      <pubDate>Mon, 12 Oct 2026 22:07:48 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[Comentário]]></title>
       <description><![CDATA[<p><i>[tradução automática do inglês]</i></p><p>De qualquer forma, você lê com exasperação ou diversão os múltiplos erros em uma história, e então vira a página para assuntos nacionais ou internacionais, e lê como se o resto do jornal fosse de alguma forma mais preciso sobre a Palestina do que a besteira que você acabou de ler. Você vira a página e esquece o que sabe." - Michael Crichton (1942-2008) (2/2)</p>]]></description>
@@ -190,13 +197,6 @@
       <link>https://neodb.social/@villasv/posts/606625505528480968/</link>
       <guid isPermaLink="true">https://neodb.social/@villasv/posts/606625505528480968/</guid>
       <pubDate>Sun, 02 Aug 2026 06:13:10 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Comentário]]></title>
-      <description><![CDATA[<p><i>[tradução automática do inglês]</i></p><p>uff... Foi divertido enquanto eles estavam associados apenas a atividades ao ar livre. Me serviu muito bem para andar de bicicleta e praticar snowboard. Eu dei a minha versão wayfarer para a minha família experimentar por acessibilidade; agora eu tenho apenas a versão esportiva, que espero que seja muito estúpida para que pervertidos a adotem. Acho que vou ter que voltar a usar uma Go Pro nos meus capacetes como um Teletubby e encontrar uma combinação decente de fones de ouvido com abertura e um microfone que funcione contra o vento. https://www.emilywrites.co.nz/pervert-glasses-estao-aqui-e-nao-estamos-preparados/</p>]]></description>
-      <link>https://mastodon.social/@villasbc/116993243536902537</link>
-      <guid isPermaLink="true">https://mastodon.social/@villasbc/116993243536902537</guid>
-      <pubDate>Mon, 27 Jul 2026 18:00:24 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[Quero assistir]]></title>
