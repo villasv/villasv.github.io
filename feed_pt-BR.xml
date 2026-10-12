@@ -5,10 +5,17 @@
     <description><![CDATA[Feed combinado das minhas publicações online. Tradução automática — por favor, perdoem qualquer falha na tradução.]]></description>
     <link>https://victor.villas</link>
     <generator>translate-feed.py</generator>
-    <lastBuildDate>Sun, 11 Oct 2026 23:05:19 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 09:17:17 GMT</lastBuildDate>
     <copyright><![CDATA[Victor Villas © 2026]]></copyright>
     <language>pt-BR</language>
     <atom:link href="https://victor.villas/feed_pt-BR.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title><![CDATA[Comentário]]></title>
+      <description><![CDATA[<p><i>[tradução automática do inglês]</i></p><p>De qualquer forma, você lê com exasperação ou diversão os múltiplos erros em uma história, e então vira a página para assuntos nacionais ou internacionais, e lê como se o resto do jornal fosse de alguma forma mais preciso sobre a Palestina do que a besteira que você acabou de ler. Você vira a página e esquece o que sabe." - Michael Crichton (1942-2008) (2/2)</p>]]></description>
+      <link>https://mastodon.social/@villasbc/117423704543883208</link>
+      <guid isPermaLink="true">https://mastodon.social/@villasbc/117423704543883208</guid>
+      <pubDate>Sun, 11 Oct 2026 18:32:18 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[Comentário]]></title>
       <description><![CDATA[<p><i>[tradução automática do inglês]</i></p><p>“… o número de entregas de jantares sofisticados é de 18%, mais de quatro vezes o nível pré-pandemia.” https://www.nerd4cities.com/the-car-as-din ing-room/</p>]]></description>
