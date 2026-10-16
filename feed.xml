@@ -4,9 +4,23 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 16 Oct 2026 09:04:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Oct 2026 23:03:42 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2026]]></copyright>
+        <item>
+            <title><![CDATA[Comment]]></title>
+            <description><![CDATA[<p>Kareem Allam actually did pretty well in the interview with Stephen Quinn, if I didn’t know any better about his work in getting ABC elected in the first place it could have fooled me</p><p>Pete Fry wasn’t amazing, but it’s always easier to poke the guy who’s walking a tightrope of representing the “progressive front” while also not really being that much progressive.</p>]]></description>
+            <link>https://mastodon.social/@villasbc/117452616858636000</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/117452616858636000</guid>
+            <pubDate>Fri, 16 Oct 2026 21:05:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Comment]]></title>
+            <description><![CDATA[<p>You know, I could make fun of air-maneuvering cars all day; but ultimately I’m just bitter because the world’s douchebag-in-chief captures so much of humankind’s engineering talent. If it was Porsche doing this I’d be like “eh cool trick, must have been challenging” and not “dear lord protect NHTSA well meaning employees”</p>]]></description>
+            <link>https://mastodon.social/@villasbc/117451345836786506</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/117451345836786506</guid>
+            <pubDate>Fri, 16 Oct 2026 15:41:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Comment]]></title>
             <description><![CDATA[<p>10 lanes… I thought this was The Beaverton!</p><p>So the plan is to merge 5 incoming into the 3 that exist at the end of that corridor?</p><p>Go build a 10 lane bridge across your own damn city, which happens to be 500km away from here so of course this demon is shielded from all the negative externalities that this car sewer disaster would bring.</p><p>Come on people, <a href="https://mastodon.social/tags/BCPoli" class="mention hashtag" rel="tag">#<span>BCPoli</span></a> needs you to get out and vote.</p><p><img src="https://files.mastodon.social/media_attachments/files/117/446/328/600/204/827/original/273673ab25836253.png" alt="A bridge? A tunnel? A bridge?  The plan to replace the George Massey Tunnel, built in the 1950s, has changed under successive governments.  And now, B.C. Conservative Leader Lorne Doerkson said he will build a 10-lane bridge to replace the tunnel if his party forms government after the Oct. 24 election."></p>]]></description>
@@ -167,20 +181,6 @@
             <link>https://mastodon.social/@villasbc/117140960754980753</link>
             <guid isPermaLink="true">https://mastodon.social/@villasbc/117140960754980753</guid>
             <pubDate>Sat, 22 Aug 2026 20:06:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Comment]]></title>
-            <description><![CDATA[<p>Not an original quip by any means, but once again I find myself lamenting the bad societal moment to be a fan of em dashes</p>]]></description>
-            <link>https://mastodon.social/@villasbc/117118195885302744</link>
-            <guid isPermaLink="true">https://mastodon.social/@villasbc/117118195885302744</guid>
-            <pubDate>Tue, 18 Aug 2026 19:37:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Comment]]></title>
-            <description><![CDATA[<p>Listening to this CBC bracket about the best roadside attractions and it&#39;s so distasteful, basically people evaluating nature based on the size and proximity of the nearest parking lot 🤡</p>]]></description>
-            <link>https://mastodon.social/@villasbc/117051580027890256</link>
-            <guid isPermaLink="true">https://mastodon.social/@villasbc/117051580027890256</guid>
-            <pubDate>Fri, 07 Aug 2026 01:16:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Finished watching]]></title>
