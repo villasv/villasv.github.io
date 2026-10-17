@@ -5,10 +5,17 @@
     <description><![CDATA[Combined feed of my online posts. Machine translated — please forgive any translation errors.]]></description>
     <link>https://victor.villas</link>
     <generator>translate-feed.py</generator>
-    <lastBuildDate>Fri, 16 Oct 2026 23:05:31 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 09:05:30 GMT</lastBuildDate>
     <copyright><![CDATA[Victor Villas © 2026]]></copyright>
     <language>en-CA</language>
     <atom:link href="https://victor.villas/feed_en-CA.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title><![CDATA[Comment]]></title>
+      <description><![CDATA[<p>Kareem Allam actually did pretty well in the interview with Stephen Quinn, if I didn’t know any better about his work in getting ABC elected in the first place it could have fooled me Pete Fry wasn’t amazing, but it’s always easier to poke the guy who’s walking a tightrope of representing the “progressive front” while also not really being that much progressive.</p>]]></description>
+      <link>https://mastodon.social/@villasbc/117452616858636000</link>
+      <guid isPermaLink="true">https://mastodon.social/@villasbc/117452616858636000</guid>
+      <pubDate>Fri, 16 Oct 2026 21:05:05 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[Comment]]></title>
       <description><![CDATA[<p>You know, I could make fun of air-maneuvering cars all day; but ultimately I’m just bitter because the world’s douchebag-in-chief captures so much of humankind’s engineering talent. If it was Porsche doing this I’d be like “eh cool trick, must have been challenging” and not “dear lord protect NHTSA well meaning employees”</p>]]></description>
@@ -169,13 +176,6 @@
       <link>https://neodb.social/@villasv/posts/614231574431099800/</link>
       <guid isPermaLink="true">https://neodb.social/@villasv/posts/614231574431099800/</guid>
       <pubDate>Sun, 23 Aug 2026 05:56:59 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Comment]]></title>
-      <description><![CDATA[<p>Just watched PMMC speech on the trade deal. The man was so ready to go full realpolitik and compromise a lot, and yet here we go towards trade war. I have no doubt this was the right path; if anything, it took surprisingly long considering how long ago the US offence started. The US empire is spread thin and decided to attack all fronts at once, will lose in all fronts at once. Bring in the Chinese EV manufacturers, the DST, follow the sovereignty infrastructure initiatives. # CanPoli</p>]]></description>
-      <link>https://mastodon.social/@villasbc/117140960754980753</link>
-      <guid isPermaLink="true">https://mastodon.social/@villasbc/117140960754980753</guid>
-      <pubDate>Sat, 22 Aug 2026 20:06:50 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[Finished watching]]></title>

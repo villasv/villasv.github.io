@@ -4,9 +4,16 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 16 Oct 2026 23:03:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Oct 2026 09:03:50 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2026]]></copyright>
+        <item>
+            <title><![CDATA[Comment]]></title>
+            <description><![CDATA[<p>TIL that in <a href="https://mastodon.social/tags/Canada" class="mention hashtag" rel="tag">#<span>Canada</span></a> a business can refuse cash payments. Even though <a href="https://mastodon.social/tags/Brazil" class="mention hashtag" rel="tag">#<span>Brazil</span></a> is probably has a more modern “digital payments” infrastructure overall, there cash can’t be refused as a form of payment</p>]]></description>
+            <link>https://mastodon.social/@villasbc/117453385643817112</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/117453385643817112</guid>
+            <pubDate>Sat, 17 Oct 2026 00:20:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Comment]]></title>
             <description><![CDATA[<p>Kareem Allam actually did pretty well in the interview with Stephen Quinn, if I didn’t know any better about his work in getting ABC elected in the first place it could have fooled me</p><p>Pete Fry wasn’t amazing, but it’s always easier to poke the guy who’s walking a tightrope of representing the “progressive front” while also not really being that much progressive.</p>]]></description>
@@ -174,13 +181,6 @@
             <link>https://neodb.social/@villasv/posts/614231574431099800/</link>
             <guid isPermaLink="true">https://neodb.social/@villasv/posts/614231574431099800/</guid>
             <pubDate>Sun, 23 Aug 2026 05:56:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Comment]]></title>
-            <description><![CDATA[<p>Just watched PMMC speech on the trade deal. The man was so ready to go full realpolitik and compromise a lot, and yet here we go towards trade war.</p><p>I have no doubt this was the right path; if anything, it took surprisingly long considering how long ago the US offence started.</p><p>The US empire is spread thin and decided to attack all fronts at once, will lose in all fronts at once. Bring in the Chinese EV manufacturers, the DST, follow the sovereignty infrastructure initiatives.</p><p><a href="https://mastodon.social/tags/CanPoli" class="mention hashtag" rel="tag">#<span>CanPoli</span></a></p>]]></description>
-            <link>https://mastodon.social/@villasbc/117140960754980753</link>
-            <guid isPermaLink="true">https://mastodon.social/@villasbc/117140960754980753</guid>
-            <pubDate>Sat, 22 Aug 2026 20:06:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Finished watching]]></title>
