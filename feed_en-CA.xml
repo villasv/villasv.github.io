@@ -5,10 +5,17 @@
     <description><![CDATA[Combined feed of my online posts. Machine translated — please forgive any translation errors.]]></description>
     <link>https://victor.villas</link>
     <generator>translate-feed.py</generator>
-    <lastBuildDate>Sat, 17 Oct 2026 09:05:30 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 14:05:47 GMT</lastBuildDate>
     <copyright><![CDATA[Victor Villas © 2026]]></copyright>
     <language>en-CA</language>
     <atom:link href="https://victor.villas/feed_en-CA.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title><![CDATA[Comment]]></title>
+      <description><![CDATA[<p>TIL that in # Canada a business can refuse cash payments. Even though # Brazil is probably has a more modern “digital payments” infrastructure overall, there cash can’t be refused as a form of payment</p>]]></description>
+      <link>https://mastodon.social/@villasbc/117453385643817112</link>
+      <guid isPermaLink="true">https://mastodon.social/@villasbc/117453385643817112</guid>
+      <pubDate>Sat, 17 Oct 2026 00:20:36 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[Comment]]></title>
       <description><![CDATA[<p>Kareem Allam actually did pretty well in the interview with Stephen Quinn, if I didn’t know any better about his work in getting ABC elected in the first place it could have fooled me Pete Fry wasn’t amazing, but it’s always easier to poke the guy who’s walking a tightrope of representing the “progressive front” while also not really being that much progressive.</p>]]></description>

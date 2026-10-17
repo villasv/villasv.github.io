@@ -5,10 +5,17 @@
     <description><![CDATA[Feed combinado das minhas publicações online. Tradução automática — por favor, perdoem qualquer falha na tradução.]]></description>
     <link>https://victor.villas</link>
     <generator>translate-feed.py</generator>
-    <lastBuildDate>Sat, 17 Oct 2026 09:05:30 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 14:05:47 GMT</lastBuildDate>
     <copyright><![CDATA[Victor Villas © 2026]]></copyright>
     <language>pt-BR</language>
     <atom:link href="https://victor.villas/feed_pt-BR.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title><![CDATA[Comentário]]></title>
+      <description><![CDATA[<p><i>[tradução automática do inglês]</i></p><p>Descobri que no #Canadá uma empresa pode recusar pagamentos em dinheiro. Embora o #Brasil provavelmente tenha uma infraestrutura de "pagamentos digitais" mais moderna, o dinheiro não pode ser recusado como forma de pagamento</p>]]></description>
+      <link>https://mastodon.social/@villasbc/117453385643817112</link>
+      <guid isPermaLink="true">https://mastodon.social/@villasbc/117453385643817112</guid>
+      <pubDate>Sat, 17 Oct 2026 00:20:36 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[Comentário]]></title>
       <description><![CDATA[<p><i>[tradução automática do inglês]</i></p><p>Kareem Allam fez uma entrevista muito boa com Stephen Quinn, se eu não soubesse nada sobre seu trabalho para eleger a ABC, poderia ter me enganado. Pete Fry não foi incrível, mas é sempre mais fácil criticar o cara que está andando sobre uma corda bamba representando a "frente progressista" enquanto também não é tão progressista assim.</p>]]></description>
