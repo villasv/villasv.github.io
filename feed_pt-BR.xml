@@ -5,10 +5,17 @@
     <description><![CDATA[Feed combinado das minhas publicações online. Tradução automática — por favor, perdoem qualquer falha na tradução.]]></description>
     <link>https://victor.villas</link>
     <generator>translate-feed.py</generator>
-    <lastBuildDate>Sat, 17 Oct 2026 14:05:47 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 23:04:16 GMT</lastBuildDate>
     <copyright><![CDATA[Victor Villas © 2026]]></copyright>
     <language>pt-BR</language>
     <atom:link href="https://victor.villas/feed_pt-BR.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title><![CDATA[Comentário]]></title>
+      <description><![CDATA[<p><i>[tradução automática do inglês]</i></p><p>Eu adoro o conceito de que estou a meio caminho entre zero e zero dólares na minha conta de outubro, o que faz sentido porque é quase a metade do mês</p><img alt="A bar chart where the y axis starts on zero, and the maximum value on top of the graph is also zero; past months show a full height bar, current month show a 50% height bar; all saying that the total cost is zero." src="https://files.mastodon.social/media_attachments/files/117/457/451/355/764/505/original/83e2c392ef057d6d.jpg"/>]]></description>
+      <link>https://mastodon.social/@villasbc/117457458326808951</link>
+      <guid isPermaLink="true">https://mastodon.social/@villasbc/117457458326808951</guid>
+      <pubDate>Sat, 17 Oct 2026 17:36:20 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[Comentário]]></title>
       <description><![CDATA[<p><i>[tradução automática do inglês]</i></p><p>Descobri que no #Canadá uma empresa pode recusar pagamentos em dinheiro. Embora o #Brasil provavelmente tenha uma infraestrutura de "pagamentos digitais" mais moderna, o dinheiro não pode ser recusado como forma de pagamento</p>]]></description>
@@ -169,13 +176,6 @@
       <link>https://neodb.social/@villasv/posts/617021702243918184/</link>
       <guid isPermaLink="true">https://neodb.social/@villasv/posts/617021702243918184/</guid>
       <pubDate>Sun, 30 Aug 2026 22:43:57 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Comentário]]></title>
-      <description><![CDATA[<p><i>[tradução automática do inglês]</i></p><p>É um pouco triste, mas é tão difícil de simpatizar com pessoas que entram em dívidas para comprar um caminhão que não precisam. Eu entendo que estamos do mesmo lado da guerra de classes, mas vamos lá, meus irmãos e irmãs, acordem, vocês são parte do problema! @ferricoxide https://blahaj.zone/notes/apx1smzz3ny0 088q</p>]]></description>
-      <link>https://mastodon.social/@villasbc/117169973398731153</link>
-      <guid isPermaLink="true">https://mastodon.social/@villasbc/117169973398731153</guid>
-      <pubDate>Thu, 27 Aug 2026 23:05:08 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[Terminei de assistir]]></title>

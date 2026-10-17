@@ -5,10 +5,17 @@
     <description><![CDATA[Combined feed of my online posts. Machine translated — please forgive any translation errors.]]></description>
     <link>https://victor.villas</link>
     <generator>translate-feed.py</generator>
-    <lastBuildDate>Sat, 17 Oct 2026 14:05:47 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 23:04:16 GMT</lastBuildDate>
     <copyright><![CDATA[Victor Villas © 2026]]></copyright>
     <language>en-CA</language>
     <atom:link href="https://victor.villas/feed_en-CA.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title><![CDATA[Comment]]></title>
+      <description><![CDATA[<p>I love the concept that I'm halfway between zero and zero dollars in my October bill, which makes sense because it's about halfway through the month</p><img alt="A bar chart where the y axis starts on zero, and the maximum value on top of the graph is also zero; past months show a full height bar, current month show a 50% height bar; all saying that the total cost is zero." src="https://files.mastodon.social/media_attachments/files/117/457/451/355/764/505/original/83e2c392ef057d6d.jpg"/>]]></description>
+      <link>https://mastodon.social/@villasbc/117457458326808951</link>
+      <guid isPermaLink="true">https://mastodon.social/@villasbc/117457458326808951</guid>
+      <pubDate>Sat, 17 Oct 2026 17:36:20 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[Comment]]></title>
       <description><![CDATA[<p>TIL that in # Canada a business can refuse cash payments. Even though # Brazil is probably has a more modern “digital payments” infrastructure overall, there cash can’t be refused as a form of payment</p>]]></description>
@@ -169,13 +176,6 @@
       <link>https://neodb.social/@villasv/posts/617021702243918184/</link>
       <guid isPermaLink="true">https://neodb.social/@villasv/posts/617021702243918184/</guid>
       <pubDate>Sun, 30 Aug 2026 22:43:57 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Comment]]></title>
-      <description><![CDATA[<p>It’s a bit sad but it’s so hard to empathize with people going into debt to get a truck they don’t need. I understand we’re in the same side of class warfare, but come on my brothers and sisters wake uuup, you’re a part of the problem! @ ferricoxide https:// blahaj.zone/notes/apx1smzz3ny0 088q</p>]]></description>
-      <link>https://mastodon.social/@villasbc/117169973398731153</link>
-      <guid isPermaLink="true">https://mastodon.social/@villasbc/117169973398731153</guid>
-      <pubDate>Thu, 27 Aug 2026 23:05:08 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[Finished watching]]></title>
