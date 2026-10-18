@@ -5,10 +5,17 @@
     <description><![CDATA[Combined feed of my online posts. Machine translated — please forgive any translation errors.]]></description>
     <link>https://victor.villas</link>
     <generator>translate-feed.py</generator>
-    <lastBuildDate>Sat, 17 Oct 2026 23:04:16 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 09:04:58 GMT</lastBuildDate>
     <copyright><![CDATA[Victor Villas © 2026]]></copyright>
     <language>en-CA</language>
     <atom:link href="https://victor.villas/feed_en-CA.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title><![CDATA[Comment]]></title>
+      <description><![CDATA[<p>Well actually it turns out that this month's $0 is actually 5% more than the $0 forecasted so maybe I should watch out</p><img alt="A screenshot of a billing dashboard that says: Total forecasted cost for current month = $0.00 5% increase compared to last month's total costs" src="https://files.mastodon.social/media_attachments/files/117/460/342/569/336/473/original/f0e5aff4fa7e2681.jpg"/>]]></description>
+      <link>https://mastodon.social/@villasbc/117460348043767153</link>
+      <guid isPermaLink="true">https://mastodon.social/@villasbc/117460348043767153</guid>
+      <pubDate>Sun, 18 Oct 2026 05:51:14 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[Comment]]></title>
       <description><![CDATA[<p>I love the concept that I'm halfway between zero and zero dollars in my October bill, which makes sense because it's about halfway through the month</p><img alt="A bar chart where the y axis starts on zero, and the maximum value on top of the graph is also zero; past months show a full height bar, current month show a 50% height bar; all saying that the total cost is zero." src="https://files.mastodon.social/media_attachments/files/117/457/451/355/764/505/original/83e2c392ef057d6d.jpg"/>]]></description>
@@ -155,13 +162,6 @@
       <link>https://neodb.social/@villasv/posts/621436909260967432/</link>
       <guid isPermaLink="true">https://neodb.social/@villasv/posts/621436909260967432/</guid>
       <pubDate>Sat, 12 Sep 2026 03:08:24 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Comment]]></title>
-      <description><![CDATA[<p>RE: https:// mastodon.social/@MatWright/117 236646169213943 Not that I think this was the intention, but at least all this kerfuffle gave Fry some extra media coverage that he might not have gotten if the “progressive primary” had resolved two months ago; they really milked it to the end</p>]]></description>
-      <link>https://mastodon.social/@villasbc/117238982253483094</link>
-      <guid isPermaLink="true">https://mastodon.social/@villasbc/117238982253483094</guid>
-      <pubDate>Wed, 09 Sep 2026 03:35:00 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[Started watching]]></title>

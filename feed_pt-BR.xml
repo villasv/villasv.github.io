@@ -5,10 +5,17 @@
     <description><![CDATA[Feed combinado das minhas publicações online. Tradução automática — por favor, perdoem qualquer falha na tradução.]]></description>
     <link>https://victor.villas</link>
     <generator>translate-feed.py</generator>
-    <lastBuildDate>Sat, 17 Oct 2026 23:04:16 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 09:04:58 GMT</lastBuildDate>
     <copyright><![CDATA[Victor Villas © 2026]]></copyright>
     <language>pt-BR</language>
     <atom:link href="https://victor.villas/feed_pt-BR.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title><![CDATA[Comentário]]></title>
+      <description><![CDATA[<p><i>[tradução automática do inglês]</i></p><p>Bem, na verdade, o $0 deste mês é, na verdade, 5% mais do que o $0 previsto, então talvez eu deva tomar cuidado</p><img alt="A screenshot of a billing dashboard that says: Total forecasted cost for current month = $0.00 5% increase compared to last month's total costs" src="https://files.mastodon.social/media_attachments/files/117/460/342/569/336/473/original/f0e5aff4fa7e2681.jpg"/>]]></description>
+      <link>https://mastodon.social/@villasbc/117460348043767153</link>
+      <guid isPermaLink="true">https://mastodon.social/@villasbc/117460348043767153</guid>
+      <pubDate>Sun, 18 Oct 2026 05:51:14 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[Comentário]]></title>
       <description><![CDATA[<p><i>[tradução automática do inglês]</i></p><p>Eu adoro o conceito de que estou a meio caminho entre zero e zero dólares na minha conta de outubro, o que faz sentido porque é quase a metade do mês</p><img alt="A bar chart where the y axis starts on zero, and the maximum value on top of the graph is also zero; past months show a full height bar, current month show a 50% height bar; all saying that the total cost is zero." src="https://files.mastodon.social/media_attachments/files/117/457/451/355/764/505/original/83e2c392ef057d6d.jpg"/>]]></description>
@@ -155,13 +162,6 @@
       <link>https://neodb.social/@villasv/posts/621436909260967432/</link>
       <guid isPermaLink="true">https://neodb.social/@villasv/posts/621436909260967432/</guid>
       <pubDate>Sat, 12 Sep 2026 03:08:24 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Comentário]]></title>
-      <description><![CDATA[<p><i>[tradução automática do inglês]</i></p><p>RE: https://mastodon.social/@MatWright/117236646169213943 Não que eu pense que essa era a intenção, mas pelo menos todo esse alarido deu a Fry uma cobertura extra que ele poderia não ter tido se a “pré-candidatura progressista” tivesse sido resolvida dois meses atrás; eles realmente o exploraram até o fim</p>]]></description>
-      <link>https://mastodon.social/@villasbc/117238982253483094</link>
-      <guid isPermaLink="true">https://mastodon.social/@villasbc/117238982253483094</guid>
-      <pubDate>Wed, 09 Sep 2026 03:35:00 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[Comecei a assistir]]></title>
