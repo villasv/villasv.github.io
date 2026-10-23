@@ -4,9 +4,16 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 22 Oct 2026 23:04:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Oct 2026 23:04:35 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2026]]></copyright>
+        <item>
+            <title><![CDATA[Comment]]></title>
+            <description><![CDATA[<p>The sugar rush from Vancouver’s municipal election didn’t last long. The dread of a double upset is here; elections in BC and Brazil are looking dire. And what hits hardest is not even the terrible consequences of these decisions, but the fact that more than half of us will vote for change even if change means devilish people in power.</p>]]></description>
+            <link>https://mastodon.social/@villasbc/117491159764691484</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/117491159764691484</guid>
+            <pubDate>Fri, 23 Oct 2026 16:27:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Comment]]></title>
             <description><![CDATA[<p>This is nuts. People, don’t give AI permission to exchange messages with strangers on your behalf. More generally, don’t give Meta any more permissions than you already have.</p><p>We are _so_ not ready for this thing being the top most installed App of the last month; but you know Silicon Valley; move fast, break things, ruin lives.</p><p><a href="https://www.cbc.ca/news/canada/montreal/meta-agent-muse-concerns-9.7389277" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://www.</span><span class="ellipsis">cbc.ca/news/canada/montreal/me</span><span class="invisible">ta-agent-muse-concerns-9.7389277</span></a></p><p><a href="https://mastodon.social/tags/InfoSec" class="mention hashtag" rel="tag">#<span>InfoSec</span></a></p>]]></description>
@@ -139,13 +146,6 @@
             <link>https://mastodon.social/@villasbc/117298979830234230</link>
             <guid isPermaLink="true">https://mastodon.social/@villasbc/117298979830234230</guid>
             <pubDate>Sat, 19 Sep 2026 17:53:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Comment]]></title>
-            <description><![CDATA[<p>As a young adult and fresh grad I got really excited about much of this stuff, and declared myself a rationalist sympathetic to effective altruism.</p><p>A decade later, it just feels silly. &quot;I&#39;m not going to do the laundry, my time is more valuable if I spend my free time reading about sci-fi, here&#39;s how I can mathematically prove that&quot;, metastasizing for years.</p>]]></description>
-            <link>https://mastodon.social/@villasbc/117298971233059362</link>
-            <guid isPermaLink="true">https://mastodon.social/@villasbc/117298971233059362</guid>
-            <pubDate>Sat, 19 Sep 2026 17:50:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Finished reading]]></title>
