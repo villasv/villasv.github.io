@@ -5,10 +5,17 @@
     <description><![CDATA[Combined feed of my online posts. Machine translated — please forgive any translation errors.]]></description>
     <link>https://victor.villas</link>
     <generator>translate-feed.py</generator>
-    <lastBuildDate>Mon, 26 Oct 2026 14:57:03 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 23:05:01 GMT</lastBuildDate>
     <copyright><![CDATA[Victor Villas © 2026]]></copyright>
     <language>en-CA</language>
     <atom:link href="https://victor.villas/feed_en-CA.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title><![CDATA[Comment]]></title>
+      <description><![CDATA[<p>Meanwhile in BC https://www. thebeaverton.com/2026/10/bc-no bly-sacrifices-good-governance-to-teach-one-man-about-hubris/ ?</p>]]></description>
+      <link>https://mastodon.social/@villasbc/117505560492616450</link>
+      <guid isPermaLink="true">https://mastodon.social/@villasbc/117505560492616450</guid>
+      <pubDate>Mon, 26 Oct 2026 05:29:21 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[Comment]]></title>
       <description><![CDATA[<p>RE: https:// mastodon.social/@villasbc/1174 97263051291676 Indeed, democracy won today in Brazil once more. The first time ever that the winner of the first turn was surpassed in the final vote. Take note, NDP, Greens, COPE, OneCity. That’s how you get organized, get people out in the streets, engaged online, vote en masse, and win.</p>]]></description>
@@ -309,13 +316,6 @@
       <link>https://neodb.social/@villasv/posts/571290469724860464/</link>
       <guid isPermaLink="true">https://neodb.social/@villasv/posts/571290469724860464/</guid>
       <pubDate>Sun, 26 Apr 2026 18:04:21 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Created collection]]></title>
-      <description><![CDATA[<p><a href="https://neodb.social/collection/6xaALHw0TeaWJ2OX3lkbV5" rel="nofollow">Books about Books</a><br>Books on and about reading and books</p>]]></description>
-      <link>https://neodb.social/@villasv/posts/571286791803834624/</link>
-      <guid isPermaLink="true">https://neodb.social/@villasv/posts/571286791803834624/</guid>
-      <pubDate>Sun, 26 Apr 2026 17:49:45 GMT</pubDate>
     </item>
   </channel>
 </rss>

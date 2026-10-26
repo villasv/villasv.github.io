@@ -4,9 +4,16 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 26 Oct 2026 14:55:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Oct 2026 23:03:54 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2026]]></copyright>
+        <item>
+            <title><![CDATA[Finished watching]]></title>
+            <description><![CDATA[<p><a href="https://neodb.social/~neodb~/movie/6rFLomKp9MIZkZGT8up9ff" rel="nofollow">You Can See Everything, 10 out of 10</a>  <br>If the documentary had stopped at just the first half, it would have already been a pretty good documentary. The whole second half is even wilder. Disgusting power dynamics, unhinged thought processes, filthy rich and out of touch hubris.<br></p>]]></description>
+            <link>https://neodb.social/@villasv/posts/637595327466798120/</link>
+            <guid isPermaLink="true">https://neodb.social/@villasv/posts/637595327466798120/</guid>
+            <pubDate>Mon, 26 Oct 2026 17:16:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Comment]]></title>
             <description><![CDATA[<p>Meanwhile in BC</p><p><a href="https://www.thebeaverton.com/2026/10/bc-nobly-sacrifices-good-governance-to-teach-one-man-about-hubris/" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://www.</span><span class="ellipsis">thebeaverton.com/2026/10/bc-no</span><span class="invisible">bly-sacrifices-good-governance-to-teach-one-man-about-hubris/</span></a>?</p>]]></description>
@@ -328,13 +335,6 @@
             <link>https://neodb.social/@villasv/posts/571290469724860464/</link>
             <guid isPermaLink="true">https://neodb.social/@villasv/posts/571290469724860464/</guid>
             <pubDate>Sun, 26 Apr 2026 18:04:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Created collection]]></title>
-            <description><![CDATA[<p><a href="https://neodb.social/collection/6xaALHw0TeaWJ2OX3lkbV5" rel="nofollow">Books about Books</a><br> Books on and about reading and books <br></p>]]></description>
-            <link>https://neodb.social/@villasv/posts/571286791803834624/</link>
-            <guid isPermaLink="true">https://neodb.social/@villasv/posts/571286791803834624/</guid>
-            <pubDate>Sun, 26 Apr 2026 17:49:45 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -1730,6 +1730,23 @@
     "complete": [
       {
         "shelf_type": "complete",
+        "post_id": "637595327466798120",
+        "created_time": "2026-10-26T17:16:11.907Z",
+        "rating_grade": 10,
+        "comment_text": "If the documentary had stopped at just the first half, it would have already been a pretty good documentary. The whole second half is even wilder. Disgusting power dynamics, unhinged thought processes, filthy rich and out of touch hubris.",
+        "item": {
+          "id": "https://neodb.social/movie/6rFLomKp9MIZkZGT8up9ff",
+          "title": "You Can See Everything",
+          "localized_title": [
+            {
+              "lang": "en",
+              "text": "You Can See Everything"
+            }
+          ]
+        }
+      },
+      {
+        "shelf_type": "complete",
         "post_id": "621436909260967432",
         "created_time": "2026-09-12T03:08:24.805Z",
         "rating_grade": 8,
