@@ -5,10 +5,17 @@
     <description><![CDATA[Combined feed of my online posts. Machine translated — please forgive any translation errors.]]></description>
     <link>https://victor.villas</link>
     <generator>translate-feed.py</generator>
-    <lastBuildDate>Sun, 25 Oct 2026 23:04:57 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 09:10:51 GMT</lastBuildDate>
     <copyright><![CDATA[Victor Villas © 2026]]></copyright>
     <language>en-CA</language>
     <atom:link href="https://victor.villas/feed_en-CA.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title><![CDATA[Comment]]></title>
+      <description><![CDATA[<p>On my way to vote Lula. By end of day I’ll know if it’s all going to shit or if we can have nice things once in a while</p>]]></description>
+      <link>https://mastodon.social/@villasbc/117503048499523670</link>
+      <guid isPermaLink="true">https://mastodon.social/@villasbc/117503048499523670</guid>
+      <pubDate>Sun, 25 Oct 2026 18:50:31 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[Comment]]></title>
       <description><![CDATA[<p>Christine Boyle re-elected, but to do what. To watch supportive housing policies get demolished from up close I suppose. However angry and despondent I’m right now, I can only imagine what’s it like for those who were already feeling the compromises from the NDP slipping rightward. All those compromises to avoid what is now unavoidable.</p>]]></description>
@@ -127,20 +134,6 @@
       <link>https://mastodon.social/@villasbc/117412868550181159</link>
       <guid isPermaLink="true">https://mastodon.social/@villasbc/117412868550181159</guid>
       <pubDate>Fri, 09 Oct 2026 20:36:34 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Comment]]></title>
-      <description><![CDATA[<p><i>[machine-translated from Portuguese]</i></p><p>Guys, it didn't work.</p>]]></description>
-      <link>https://mastodon.social/@villasbc/117386297140197925</link>
-      <guid isPermaLink="true">https://mastodon.social/@villasbc/117386297140197925</guid>
-      <pubDate>Mon, 05 Oct 2026 03:59:06 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Comment]]></title>
-      <description><![CDATA[<p>The founders of a Vancouver-based compassion club that sold uncontaminated drugs to its members have had their drug trafficking convictions stayed after they successfully challenged the constitutionality of Canada's drug laws. ✊🏽 https://www. cbc.ca/news/canada/british-col umbia/bc-supreme-court-ruling-dulf-constitutional-challenge-9.7362274 # CanPoli # vancouver</p>]]></description>
-      <link>https://mastodon.social/@villasbc/117356672205541476</link>
-      <guid isPermaLink="true">https://mastodon.social/@villasbc/117356672205541476</guid>
-      <pubDate>Tue, 29 Sep 2026 22:25:06 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[Finished reading]]></title>
