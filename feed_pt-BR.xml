@@ -5,7 +5,7 @@
     <description><![CDATA[Feed combinado das minhas publicações online. Tradução automática — por favor, perdoem qualquer falha na tradução.]]></description>
     <link>https://victor.villas</link>
     <generator>translate-feed.py</generator>
-    <lastBuildDate>Tue, 27 Oct 2026 09:06:57 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 14:07:36 GMT</lastBuildDate>
     <copyright><![CDATA[Victor Villas © 2026]]></copyright>
     <language>pt-BR</language>
     <atom:link href="https://victor.villas/feed_pt-BR.xml" rel="self" type="application/rss+xml"/>
@@ -18,7 +18,7 @@
     </item>
     <item>
       <title><![CDATA[Comentário]]></title>
-      <description><![CDATA[<p><i>[tradução automática do inglês]</i></p><p>Enquanto isso em BC https://www.thebeaverton.com/2026/10/bc-no-bly-sacrifica-boa governança para ensinar a um homem sobre hubris/?</p>]]></description>
+      <description><![CDATA[<p><i>[tradução automática do inglês]</i></p><p>Enquanto isso em BC https://www.thebeaverton.com/2026/10/bc-no-bly-sacrifices-good-governance-to-teach-one-man-about-hubris/?</p>]]></description>
       <link>https://mastodon.social/@villasbc/117505560492616450</link>
       <guid isPermaLink="true">https://mastodon.social/@villasbc/117505560492616450</guid>
       <pubDate>Mon, 26 Oct 2026 05:29:21 GMT</pubDate>
