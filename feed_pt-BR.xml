@@ -5,10 +5,17 @@
     <description><![CDATA[Feed combinado das minhas publicações online. Tradução automática — por favor, perdoem qualquer falha na tradução.]]></description>
     <link>https://victor.villas</link>
     <generator>translate-feed.py</generator>
-    <lastBuildDate>Tue, 27 Oct 2026 14:07:36 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 23:06:44 GMT</lastBuildDate>
     <copyright><![CDATA[Victor Villas © 2026]]></copyright>
     <language>pt-BR</language>
     <atom:link href="https://victor.villas/feed_pt-BR.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title><![CDATA[Comentário]]></title>
+      <description><![CDATA[<p><i>[tradução automática do inglês]</i></p><p>Voltei ao wordle. Isso me lembra tempos mais simples, e acontece que o The Vancity Lookout enviou seu próprio Tente este wordle: https://mywordle.strivemath.com/?word=odrfp&amp;utm_source=www.vancitylookout.com&amp;utm_medium=newsletter&amp;utm_campaign=new-mount-pleasant-coworking-space&amp;_bhlid=8544fbfa75d4d8f36b40c9a39742fd4ca6ed4a7e ▫▫🟩▫🟨▫ 🟩▫🟩▫🟨▫ 🟩▫🟩▫🟨▫ 🟩▫🟩▫🟨▫ 🟩▫🟩▫🟨▫ 🟩▫🟩▫🟨▫</p>]]></description>
+      <link>https://mastodon.social/@villasbc/117525006152719598</link>
+      <guid isPermaLink="true">https://mastodon.social/@villasbc/117525006152719598</guid>
+      <pubDate>Thu, 29 Oct 2026 15:54:38 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[Terminei de assistir]]></title>
       <description><![CDATA[<p><i>[tradução automática do inglês]</i></p><p><a href="https://neodb.social/~neodb~/movie/6rFLomKp9MIZkZGT8up9ff" rel="nofollow">You Can See Everything, 10 out of 10</a><br>Se o documentário tivesse parado na primeira metade, já teria sido um documentário muito bom. A segunda metade é ainda mais selvagem. Dinâmicas de poder repugnantes, processos de pensamento desequilibrados, arrogância de pessoas imensamente ricas e fora de contato com a realidade.</p>]]></description>
@@ -148,13 +155,6 @@
       <link>https://mastodon.social/@villasbc/117423232479213087</link>
       <guid isPermaLink="true">https://mastodon.social/@villasbc/117423232479213087</guid>
       <pubDate>Sun, 11 Oct 2026 16:32:15 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Comentário]]></title>
-      <description><![CDATA[<p><i>[tradução automática do inglês]</i></p><p>O ponto mais fictício da trama é o presidente dos EUA usando frases longas e coerentes para admitir a consciência de atos terríveis @faraiwe https://mstdn.social/@faraiwe/11741252 7498081520</p>]]></description>
-      <link>https://mastodon.social/@villasbc/117412868550181159</link>
-      <guid isPermaLink="true">https://mastodon.social/@villasbc/117412868550181159</guid>
-      <pubDate>Fri, 09 Oct 2026 20:36:34 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[Terminei de ler]]></title>
