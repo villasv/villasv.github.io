@@ -5,10 +5,17 @@
     <description><![CDATA[Feed combinado das minhas publicações online. Tradução automática — por favor, perdoem qualquer falha na tradução.]]></description>
     <link>https://victor.villas</link>
     <generator>translate-feed.py</generator>
-    <lastBuildDate>Thu, 29 Oct 2026 23:06:44 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 09:07:20 GMT</lastBuildDate>
     <copyright><![CDATA[Victor Villas © 2026]]></copyright>
     <language>pt-BR</language>
     <atom:link href="https://victor.villas/feed_pt-BR.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title><![CDATA[Comentário]]></title>
+      <description><![CDATA[<p><i>[tradução automática do inglês]</i></p><p>Trabalhar como engenheiro sênior de software ou gerente na AWS é famoso por ser uma profissão de escrever os documentos mais chatos e secos de todos os tempos e participar de reuniões sobre esses documentos o dia todo. Imagine o quão melhor isso fica quando a IA está fazendo toda a escrita (100% ilegível e desleixado, 200% mais páginas) e "discutir o documento" significa perguntar à IA sobre isso porque nem mesmo o autor entende o que está escrito.</p>]]></description>
+      <link>https://mastodon.social/@villasbc/117532852213536842</link>
+      <guid isPermaLink="true">https://mastodon.social/@villasbc/117532852213536842</guid>
+      <pubDate>Sat, 31 Oct 2026 01:09:59 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[Comentário]]></title>
       <description><![CDATA[<p><i>[tradução automática do inglês]</i></p><p>Voltei ao wordle. Isso me lembra tempos mais simples, e acontece que o The Vancity Lookout enviou seu próprio Tente este wordle: https://mywordle.strivemath.com/?word=odrfp&amp;utm_source=www.vancitylookout.com&amp;utm_medium=newsletter&amp;utm_campaign=new-mount-pleasant-coworking-space&amp;_bhlid=8544fbfa75d4d8f36b40c9a39742fd4ca6ed4a7e ▫▫🟩▫🟨▫ 🟩▫🟩▫🟨▫ 🟩▫🟩▫🟨▫ 🟩▫🟩▫🟨▫ 🟩▫🟩▫🟨▫ 🟩▫🟩▫🟨▫</p>]]></description>
@@ -148,13 +155,6 @@
       <link>https://mastodon.social/@villasbc/117423704514781924</link>
       <guid isPermaLink="true">https://mastodon.social/@villasbc/117423704514781924</guid>
       <pubDate>Sun, 11 Oct 2026 18:32:18 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Comentário]]></title>
-      <description><![CDATA[<p><i>[tradução automática do inglês]</i></p><p>“… o número de entregas de jantares sofisticados é de 18%, mais de quatro vezes o nível pré-pandemia.” https://www.nerd4cities.com/the-car-as-din ing-room/</p>]]></description>
-      <link>https://mastodon.social/@villasbc/117423232479213087</link>
-      <guid isPermaLink="true">https://mastodon.social/@villasbc/117423232479213087</guid>
-      <pubDate>Sun, 11 Oct 2026 16:32:15 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[Terminei de ler]]></title>
