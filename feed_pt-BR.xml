@@ -5,10 +5,17 @@
     <description><![CDATA[Feed combinado das minhas publicações online. Tradução automática — por favor, perdoem qualquer falha na tradução.]]></description>
     <link>https://victor.villas</link>
     <generator>translate-feed.py</generator>
-    <lastBuildDate>Sun, 01 Nov 2026 14:05:44 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 23:05:33 GMT</lastBuildDate>
     <copyright><![CDATA[Victor Villas © 2026]]></copyright>
     <language>pt-BR</language>
     <atom:link href="https://victor.villas/feed_pt-BR.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title><![CDATA[Comentário]]></title>
+      <description><![CDATA[<p><i>[tradução automática do inglês]</i></p><p>Não entendo como o Google ainda tem alguma credibilidade, e definitivamente devo parar de voltar para ele (apesar de devo começar a colecionar essas joias)</p><img alt="Mobile Google search results for “pct time now,” corrected to “pst time now,” showing 8:38:41 AM Pacific Time on Sunday, November 1, 2026. One hour earlier than it should." src="https://files.mastodon.social/media_attachments/files/117/542/176/254/937/794/original/7b5519a85cd083f1.png"/>]]></description>
+      <link>https://mastodon.social/@villasbc/117542181628470542</link>
+      <guid isPermaLink="true">https://mastodon.social/@villasbc/117542181628470542</guid>
+      <pubDate>Sun, 01 Nov 2026 16:42:35 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[Terminei de assistir]]></title>
       <description><![CDATA[<p><i>[tradução automática do inglês]</i></p><p><a href="https://neodb.social/~neodb~/movie/3dtKfdV17PYQ9yv9N9L8Ul" rel="nofollow">The Silence of the Lambs, 9 out of 10</a><br>É realmente um clássico. É um filme de outra época, então o retrato da sexualidade do vilão como assustador e como as mulheres são “gordas” por usarem 14… bem, nem tudo envelhece como vinho. Além disso, uma grande porção de vidraceira do FBI; décadas depois, é interessante como Hannibal era a estrela real.</p>]]></description>
@@ -162,13 +169,6 @@
       <link>https://mastodon.social/@villasbc/117430214238668379</link>
       <guid isPermaLink="true">https://mastodon.social/@villasbc/117430214238668379</guid>
       <pubDate>Mon, 12 Oct 2026 22:07:48 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Comentário]]></title>
-      <description><![CDATA[<p><i>[tradução automática do inglês]</i></p><p>De qualquer forma, você lê com exasperação ou diversão os múltiplos erros em uma história, e então vira a página para assuntos nacionais ou internacionais, e lê como se o resto do jornal fosse de alguma forma mais preciso sobre a Palestina do que a besteira que você acabou de ler. Você vira a página e esquece o que sabe." - Michael Crichton (1942-2008) (2/2)</p>]]></description>
-      <link>https://mastodon.social/@villasbc/117423704543883208</link>
-      <guid isPermaLink="true">https://mastodon.social/@villasbc/117423704543883208</guid>
-      <pubDate>Sun, 11 Oct 2026 18:32:18 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[Terminei de ler]]></title>

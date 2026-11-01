@@ -4,9 +4,16 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 01 Nov 2026 14:04:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Nov 2026 23:04:22 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2026]]></copyright>
+        <item>
+            <title><![CDATA[Comment]]></title>
+            <description><![CDATA[<p>I don’t understand how Google has any credibility left, and I should definitely stop coming back to it (though I should start collecting these gems)</p><p><img src="https://files.mastodon.social/media_attachments/files/117/542/176/254/937/794/original/7b5519a85cd083f1.png" alt="Mobile Google search results for “pct time now,” corrected to “pst time now,” showing 8:38:41 AM Pacific Time on Sunday, November 1, 2026. One hour earlier than it should."></p>]]></description>
+            <link>https://mastodon.social/@villasbc/117542181628470542</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/117542181628470542</guid>
+            <pubDate>Sun, 01 Nov 2026 16:42:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Finished watching]]></title>
             <description><![CDATA[<p><a href="https://neodb.social/~neodb~/movie/3dtKfdV17PYQ9yv9N9L8Ul" rel="nofollow">The Silence of the Lambs, 9 out of 10</a>  <br>It truly stands as a classic. It’s a movie from different times though, so the portrayal of the villain’s sexuality as creepy and how women are “fat” for wearing 14… well, not everything ages like wine. Also, a big dollop of FBI glazing; decades later it’s interesting how Hannibal was the real star.<br></p>]]></description>
@@ -160,13 +167,6 @@
             <link>https://mastodon.social/@villasbc/117430214238668379</link>
             <guid isPermaLink="true">https://mastodon.social/@villasbc/117430214238668379</guid>
             <pubDate>Mon, 12 Oct 2026 22:07:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Comment]]></title>
-            <description><![CDATA[<p>In any case, you read with exasperation or amusement the multiple errors in a story, and then turn the page to national or international affairs, and read as if the rest of the newspaper was somehow more accurate about Palestine than the baloney you just read. You turn the page, and forget what you know.&quot;  – Michael Crichton (1942-2008) (2/2)</p>]]></description>
-            <link>https://mastodon.social/@villasbc/117423704543883208</link>
-            <guid isPermaLink="true">https://mastodon.social/@villasbc/117423704543883208</guid>
-            <pubDate>Sun, 11 Oct 2026 18:32:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Finished reading]]></title>
