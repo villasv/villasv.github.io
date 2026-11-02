@@ -4,9 +4,16 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 01 Nov 2026 23:04:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Nov 2026 09:05:15 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2026]]></copyright>
+        <item>
+            <title><![CDATA[Finished watching]]></title>
+            <description><![CDATA[<p><a href="https://neodb.social/~neodb~/movie/4c5H6Gs9Cl9obG2NvzdXgA" rel="nofollow">It, 5 out of 10</a>  <br>You know Derry is cursed because the adults are deranged and the bullying levels are criminal. Unless… this is what people actually are like in some USA small towns? I can only hope not.</p><p>Watching this after Stranger Things is interesting. The parallels are so abundant,  almost a cookie-cutter film style. I suppose this wasn’t the first of its form either.<br></p>]]></description>
+            <link>https://neodb.social/@villasv/posts/639979215536415264/</link>
+            <guid isPermaLink="true">https://neodb.social/@villasv/posts/639979215536415264/</guid>
+            <pubDate>Mon, 02 Nov 2026 07:08:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Comment]]></title>
             <description><![CDATA[<p>I don’t understand how Google has any credibility left, and I should definitely stop coming back to it (though I should start collecting these gems)</p><p><img src="https://files.mastodon.social/media_attachments/files/117/542/176/254/937/794/original/7b5519a85cd083f1.png" alt="Mobile Google search results for “pct time now,” corrected to “pst time now,” showing 8:38:41 AM Pacific Time on Sunday, November 1, 2026. One hour earlier than it should."></p>]]></description>
@@ -328,13 +335,6 @@
             <link>https://neodb.social/@villasv/posts/574243734794532416/</link>
             <guid isPermaLink="true">https://neodb.social/@villasv/posts/574243734794532416/</guid>
             <pubDate>Mon, 04 May 2026 21:39:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Finished reading]]></title>
-            <description><![CDATA[<p><a href="https://neodb.social/~neodb~/book/7Ka75JbAJMe9gdxuT1xFI6" rel="nofollow">Os ricos e os pobres: O Brasil e a desigualdade, 6 out of 10</a>  <br>Interessante conhecer mais sobre os tipos de desigualdade, as características das métricas de desigualdade, medição de renda e patrimônio, definições de classes sociais etc. Interessante entender um pouco da história e lógica por trás do Imposto de Renda e do IPTU. Argumentos interessantes sobre reformas tributárias formas de enxergar esses impostos.</p><p>Eu não sei se o livro é muito lúdico porque o público alvo inclui pessoas que não tem familiaridades com porcentagens, mas se for, acho que era melhor desenhar porque tem parágrafos lotados de números que são difíceis de digerir. E se o público alvo é gente que está tranquila de absorver tabelas econométricas em formato de prosa, o livro é muito repetitivo e conturbado com analogias e metáforas, ou historinhas e contextualizações históricas que acrescentam relativamente pouco.</p><p>No geral achei uma edição um pouco ruim, mas as ideias por trás do livro e a tese defendida são bem argumentadas; se o leitor conseguir conectar os esparsos pontos dentre as repetições e historinhas.<br></p>]]></description>
-            <link>https://neodb.social/@villasv/posts/574240679649257592/</link>
-            <guid isPermaLink="true">https://neodb.social/@villasv/posts/574240679649257592/</guid>
-            <pubDate>Mon, 04 May 2026 21:27:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
