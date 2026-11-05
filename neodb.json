@@ -1730,6 +1730,31 @@
     "complete": [
       {
         "shelf_type": "complete",
+        "post_id": "641014698517134216",
+        "created_time": "2026-11-05T03:43:33.521Z",
+        "rating_grade": 4,
+        "comment_text": "Good acting and production can’t save you from terribly predictable dialogue lines. Some of the jokes were flat out lame, some worthy of a nose exhale.",
+        "item": {
+          "id": "https://neodb.social/movie/0SgXAqh2k62EO5auHsAFSR",
+          "title": "Masters of the Universe",
+          "localized_title": [
+            {
+              "lang": "en",
+              "text": "Masters of the Universe"
+            },
+            {
+              "lang": "en",
+              "text": "Grayskull"
+            },
+            {
+              "lang": "en",
+              "text": "He-Man"
+            }
+          ]
+        }
+      },
+      {
+        "shelf_type": "complete",
         "post_id": "639979215536415264",
         "created_time": "2026-11-02T07:08:55.071Z",
         "rating_grade": 5,
@@ -3040,6 +3065,10 @@
           "localized_title": [
             {
               "lang": "en",
+              "text": "Manifold Garden"
+            },
+            {
+              "lang": "pt",
               "text": "Manifold Garden"
             }
           ]

@@ -5,10 +5,17 @@
     <description><![CDATA[Combined feed of my online posts. Machine translated — please forgive any translation errors.]]></description>
     <link>https://victor.villas</link>
     <generator>translate-feed.py</generator>
-    <lastBuildDate>Mon, 02 Nov 2026 09:07:02 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 09:06:24 GMT</lastBuildDate>
     <copyright><![CDATA[Victor Villas © 2026]]></copyright>
     <language>en-CA</language>
     <atom:link href="https://victor.villas/feed_en-CA.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title><![CDATA[Finished watching]]></title>
+      <description><![CDATA[<p><a href="https://neodb.social/~neodb~/movie/0SgXAqh2k62EO5auHsAFSR" rel="nofollow">Masters of the Universe, 4 out of 10</a><br>Good acting and production can’t save you from terribly predictable dialogue lines. Some of the jokes were flat out lame, some worthy of a nose exhale.</p>]]></description>
+      <link>https://neodb.social/@villasv/posts/641014698517134216/</link>
+      <guid isPermaLink="true">https://neodb.social/@villasv/posts/641014698517134216/</guid>
+      <pubDate>Thu, 05 Nov 2026 03:43:33 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[Finished watching]]></title>
       <description><![CDATA[<p><a href="https://neodb.social/~neodb~/movie/4c5H6Gs9Cl9obG2NvzdXgA" rel="nofollow">It, 5 out of 10</a><br>You know Derry is cursed because the adults are deranged and the bullying levels are criminal. Unless… this is what people actually are like in some USA small towns? I can only hope not. Watching this after Stranger Things is interesting. The parallels are so abundant,  almost a cookie-cutter film style. I suppose this wasn’t the first of its form either.</p>]]></description>
@@ -316,13 +323,6 @@
       <link>https://victor.villas/notes/now</link>
       <guid isPermaLink="true">https://victor.villas/notes/now</guid>
       <pubDate>Sat, 09 May 2026 02:51:58 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Started reading]]></title>
-      <description><![CDATA[<p><i>[machine-translated from Portuguese]</i></p><p><a href="https://neodb.social/~neodb~/book/0a4O9fcv3fQWZtCRG6cU55" rel="nofollow">Coisa de Rico: A Vida dos Endinheirados Brasileiros</a><br>I picked up this book to complement reading "The Rich and the Poor: Brazil and Inequality" by sociologist Marcelo Medeiros (which emphasizes how the problem of poverty is a problem of inequality, and the problem of inequality is a problem of wealth.) That being said, beyond the sociological point of view, it will be interesting to see from an anthropological point of view how the 0.1% differs from the 1%, who strive so hard to differentiate themselves from the 99%.</p>]]></description>
-      <link>https://neodb.social/@villasv/posts/574243734794532416/</link>
-      <guid isPermaLink="true">https://neodb.social/@villasv/posts/574243734794532416/</guid>
-      <pubDate>Mon, 04 May 2026 21:39:35 GMT</pubDate>
     </item>
   </channel>
 </rss>

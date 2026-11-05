@@ -4,9 +4,16 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 02 Nov 2026 09:05:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Nov 2026 09:05:13 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2026]]></copyright>
+        <item>
+            <title><![CDATA[Finished watching]]></title>
+            <description><![CDATA[<p><a href="https://neodb.social/~neodb~/movie/0SgXAqh2k62EO5auHsAFSR" rel="nofollow">Masters of the Universe, 4 out of 10</a>  <br>Good acting and production can’t save you from terribly predictable dialogue lines. Some of the jokes were flat out lame, some worthy of a nose exhale.<br></p>]]></description>
+            <link>https://neodb.social/@villasv/posts/641014698517134216/</link>
+            <guid isPermaLink="true">https://neodb.social/@villasv/posts/641014698517134216/</guid>
+            <pubDate>Thu, 05 Nov 2026 03:43:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Finished watching]]></title>
             <description><![CDATA[<p><a href="https://neodb.social/~neodb~/movie/4c5H6Gs9Cl9obG2NvzdXgA" rel="nofollow">It, 5 out of 10</a>  <br>You know Derry is cursed because the adults are deranged and the bullying levels are criminal. Unless… this is what people actually are like in some USA small towns? I can only hope not.</p><p>Watching this after Stranger Things is interesting. The parallels are so abundant,  almost a cookie-cutter film style. I suppose this wasn’t the first of its form either.<br></p>]]></description>
@@ -328,13 +335,6 @@
             <link>https://victor.villas/notes/now</link>
             <guid isPermaLink="false">https://victor.villas/notes/now#9e98342</guid>
             <pubDate>Sat, 09 May 2026 02:51:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Started reading]]></title>
-            <description><![CDATA[<p><a href="https://neodb.social/~neodb~/book/0a4O9fcv3fQWZtCRG6cU55" rel="nofollow">Coisa de Rico: A Vida dos Endinheirados Brasileiros</a> <br>Peguei esse livro para complementar a leitura de &quot;Os ricos e os pobres: O Brasil e a desigualdade&quot; do sociólogo Marcelo Medeiros (que enfatiza como o problema da pobreza é um problema de desigualdade, e o problema da desigualdade é um problema de riqueza.) Isto posto, além do ponto de vista sociológico, vai ser interessante ver do ponto de vista antropológico como o 0.1% se diferencia do 1%, que se empenha tanto em se diferenciar dos 99%.<br></p>]]></description>
-            <link>https://neodb.social/@villasv/posts/574243734794532416/</link>
-            <guid isPermaLink="true">https://neodb.social/@villasv/posts/574243734794532416/</guid>
-            <pubDate>Mon, 04 May 2026 21:39:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
