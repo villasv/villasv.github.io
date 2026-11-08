@@ -5,10 +5,17 @@
     <description><![CDATA[Feed combinado das minhas publicações online. Tradução automática — por favor, perdoem qualquer falha na tradução.]]></description>
     <link>https://victor.villas</link>
     <generator>translate-feed.py</generator>
-    <lastBuildDate>Thu, 05 Nov 2026 09:06:24 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 14:05:45 GMT</lastBuildDate>
     <copyright><![CDATA[Victor Villas © 2026]]></copyright>
     <language>pt-BR</language>
     <atom:link href="https://victor.villas/feed_pt-BR.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title><![CDATA[Comentário]]></title>
+      <description><![CDATA[<p><i>[tradução automática do inglês]</i></p><p>Quem vai editar a entrada da arma das 9 horas na wiki para notar que, devido à mudança do PCT, agora é uma arma das 10 horas https://en.wikipedia.org/wiki/9_O%27Cl%20Gun</p>]]></description>
+      <link>https://mastodon.social/@villasbc/117579052282164949</link>
+      <guid isPermaLink="true">https://mastodon.social/@villasbc/117579052282164949</guid>
+      <pubDate>Sun, 08 Nov 2026 04:59:16 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[Terminei de assistir]]></title>
       <description><![CDATA[<p><i>[tradução automática do inglês]</i></p><p><a href="https://neodb.social/~neodb~/movie/0SgXAqh2k62EO5auHsAFSR" rel="nofollow">Masters of the Universe, 4 out of 10</a><br>Boa atuação e produção não podem salvá-lo de linhas de diálogo terrivelmente previsíveis. Algumas das piadas eram chatas, algumas dignas de um suspiro.</p>]]></description>
@@ -176,13 +183,6 @@
       <link>https://mastodon.social/@villasbc/117446343499677588</link>
       <guid isPermaLink="true">https://mastodon.social/@villasbc/117446343499677588</guid>
       <pubDate>Thu, 15 Oct 2026 18:29:41 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Comentário]]></title>
-      <description><![CDATA[<p><i>[tradução automática do inglês]</i></p><p>RE: https://mstdn.ca/@CanadianPolling/1174 29453469902784 Avi Lewis next PM aqui vamos nós? Pode sonhar</p>]]></description>
-      <link>https://mastodon.social/@villasbc/117430214238668379</link>
-      <guid isPermaLink="true">https://mastodon.social/@villasbc/117430214238668379</guid>
-      <pubDate>Mon, 12 Oct 2026 22:07:48 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[Terminei de ler]]></title>

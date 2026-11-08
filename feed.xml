@@ -4,9 +4,16 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 05 Nov 2026 09:05:13 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Nov 2026 14:04:20 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2026]]></copyright>
+        <item>
+            <title><![CDATA[Comment]]></title>
+            <description><![CDATA[<p>Who is going to edit the 9 o clock gun wiki entry to note that due to the PCT change it is now a 10 o clock gun</p><p><a href="https://en.wikipedia.org/wiki/9_O%27Clock_Gun" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">en.wikipedia.org/wiki/9_O%27Cl</span><span class="invisible">ock_Gun</span></a></p>]]></description>
+            <link>https://mastodon.social/@villasbc/117579052282164949</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/117579052282164949</guid>
+            <pubDate>Sun, 08 Nov 2026 04:59:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Finished watching]]></title>
             <description><![CDATA[<p><a href="https://neodb.social/~neodb~/movie/0SgXAqh2k62EO5auHsAFSR" rel="nofollow">Masters of the Universe, 4 out of 10</a>  <br>Good acting and production can’t save you from terribly predictable dialogue lines. Some of the jokes were flat out lame, some worthy of a nose exhale.<br></p>]]></description>
@@ -174,13 +181,6 @@
             <link>https://mastodon.social/@villasbc/117446343499677588</link>
             <guid isPermaLink="true">https://mastodon.social/@villasbc/117446343499677588</guid>
             <pubDate>Thu, 15 Oct 2026 18:29:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Comment]]></title>
-            <description><![CDATA[<p class="quote-inline">RE: <a href="https://mstdn.ca/@CanadianPolling/117429453469902784" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">mstdn.ca/@CanadianPolling/1174</span><span class="invisible">29453469902784</span></a></p><p>Avi Lewis next PM here we go? One can dream</p>]]></description>
-            <link>https://mastodon.social/@villasbc/117430214238668379</link>
-            <guid isPermaLink="true">https://mastodon.social/@villasbc/117430214238668379</guid>
-            <pubDate>Mon, 12 Oct 2026 22:07:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Finished reading]]></title>
