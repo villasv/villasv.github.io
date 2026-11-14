@@ -4,9 +4,16 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 11 Nov 2026 23:04:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Nov 2026 19:14:09 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2026]]></copyright>
+        <item>
+            <title><![CDATA[Comment]]></title>
+            <description><![CDATA[<p>I’m curious to see how the blameless postmortem culture will fare when it turns out it really is hard to find a human to hold accountable.</p><p>Or rather, the accountable human is clear but a few pay grades above those where the buck would have normally stopped in the past</p>]]></description>
+            <link>https://mastodon.social/@villasbc/117610878146296648</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/117610878146296648</guid>
+            <pubDate>Fri, 13 Nov 2026 19:53:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Comment]]></title>
             <description><![CDATA[<p>Anyone got recommendations for Remembrance Day media? Relevant documentaries, books, etc</p>]]></description>
@@ -181,13 +188,6 @@
             <link>https://mastodon.social/@villasbc/117452616858636000</link>
             <guid isPermaLink="true">https://mastodon.social/@villasbc/117452616858636000</guid>
             <pubDate>Fri, 16 Oct 2026 21:05:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Comment]]></title>
-            <description><![CDATA[<p>You know, I could make fun of air-maneuvering cars all day; but ultimately I’m just bitter because the world’s douchebag-in-chief captures so much of humankind’s engineering talent. If it was Porsche doing this I’d be like “eh cool trick, must have been challenging” and not “dear lord protect NHTSA well meaning employees”</p>]]></description>
-            <link>https://mastodon.social/@villasbc/117451345836786506</link>
-            <guid isPermaLink="true">https://mastodon.social/@villasbc/117451345836786506</guid>
-            <pubDate>Fri, 16 Oct 2026 15:41:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Finished reading]]></title>
