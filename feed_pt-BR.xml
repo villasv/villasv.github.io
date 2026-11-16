@@ -5,10 +5,17 @@
     <description><![CDATA[Feed combinado das minhas publicações online. Tradução automática — por favor, perdoem qualquer falha na tradução.]]></description>
     <link>https://victor.villas</link>
     <generator>translate-feed.py</generator>
-    <lastBuildDate>Sat, 14 Nov 2026 19:15:25 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 09:05:44 GMT</lastBuildDate>
     <copyright><![CDATA[Victor Villas © 2026]]></copyright>
     <language>pt-BR</language>
     <atom:link href="https://victor.villas/feed_pt-BR.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title><![CDATA[Quero ler]]></title>
+      <description><![CDATA[<p><i>[tradução automática do inglês]</i></p><p><a href="https://neodb.social/~neodb~/book/1AZgnnISH4pHud4SoXAZ3j" rel="nofollow">How Buildings Learn: What Happens After They're Built</a><br>Como os edifícios aprendem: o que acontece depois de construídos</p>]]></description>
+      <link>https://neodb.social/@villasv/posts/644980932302135376/</link>
+      <guid isPermaLink="true">https://neodb.social/@villasv/posts/644980932302135376/</guid>
+      <pubDate>Mon, 16 Nov 2026 02:23:57 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[Comentário]]></title>
       <description><![CDATA[<p><i>[tradução automática do inglês]</i></p><p>Estou curioso para ver como a cultura de post mortem sem culpados se sairá quando se descobrir que é realmente difícil encontrar um humano para ser responsabilizado. Ou melhor, o humano responsável é claro, mas alguns níveis acima daqueles em que a responsabilidade normalmente parava no passado.</p>]]></description>
@@ -281,13 +288,6 @@
       <link>https://neodb.social/@villasv/posts/579025140575936848/</link>
       <guid isPermaLink="true">https://neodb.social/@villasv/posts/579025140575936848/</guid>
       <pubDate>Mon, 18 May 2026 02:19:11 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Terminei de ler]]></title>
-      <description><![CDATA[<p><a href="https://neodb.social/~neodb~/book/0a4O9fcv3fQWZtCRG6cU55" rel="nofollow">Coisa de Rico: A Vida dos Endinheirados Brasileiros, 8 out of 10</a><br>O foco não é pragmatismo científico ou político, não é buscar ajustes para uma definição concreta de “rico”; pelo contrario, o foco é evidenciar o embaçada impossibilidade de definir uma posição social que só faz sentido quando pensada de forma relacional. Nesse personagem de antropólogo com seu lado gozador, o livro revela também um talento de comunicador científico. O deboche e os relatos estapafúrdios trazem um tempero saboroso a um assunto muito sério: essa gente, obcecada por operar diferenças entre si e entre nós, está no comando das instituições de poder - diretamente ou por influência.</p>]]></description>
-      <link>https://neodb.social/@villasv/posts/579021890659266280/</link>
-      <guid isPermaLink="true">https://neodb.social/@villasv/posts/579021890659266280/</guid>
-      <pubDate>Mon, 18 May 2026 02:06:16 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[Atualização de Página]]></title>

@@ -5,10 +5,17 @@
     <description><![CDATA[Combined feed of my online posts. Machine translated — please forgive any translation errors.]]></description>
     <link>https://victor.villas</link>
     <generator>translate-feed.py</generator>
-    <lastBuildDate>Sat, 14 Nov 2026 19:15:25 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 09:05:44 GMT</lastBuildDate>
     <copyright><![CDATA[Victor Villas © 2026]]></copyright>
     <language>en-CA</language>
     <atom:link href="https://victor.villas/feed_en-CA.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title><![CDATA[Wants to read]]></title>
+      <description><![CDATA[<p><a href="https://neodb.social/~neodb~/book/1AZgnnISH4pHud4SoXAZ3j" rel="nofollow">How Buildings Learn: What Happens After They're Built</a><br>How Buildings Learn: What Happens After They're Built</p>]]></description>
+      <link>https://neodb.social/@villasv/posts/644980932302135376/</link>
+      <guid isPermaLink="true">https://neodb.social/@villasv/posts/644980932302135376/</guid>
+      <pubDate>Mon, 16 Nov 2026 02:23:57 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[Comment]]></title>
       <description><![CDATA[<p>I’m curious to see how the blameless postmortem culture will fare when it turns out it really is hard to find a human to hold accountable. Or rather, the accountable human is clear but a few pay grades above those where the buck would have normally stopped in the past</p>]]></description>
@@ -281,13 +288,6 @@
       <link>https://neodb.social/@villasv/posts/579025140575936848/</link>
       <guid isPermaLink="true">https://neodb.social/@villasv/posts/579025140575936848/</guid>
       <pubDate>Mon, 18 May 2026 02:19:11 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Finished reading]]></title>
-      <description><![CDATA[<p><i>[machine-translated from Portuguese]</i></p><p><a href="https://neodb.social/~neodb~/book/0a4O9fcv3fQWZtCRG6cU55" rel="nofollow">Coisa de Rico: A Vida dos Endinheirados Brasileiros, 8 out of 10</a><br>The focus is not on scientific or political pragmatism, it is not to seek adjustments for a concrete definition of "rich"; on the contrary, the focus is to highlight the blurred impossibility of defining a social position that only makes sense when thought relationally. In the character of the anthropologist with his playful side, the book also reveals a talent for scientific communication. The debauchery and absurd stories bring a tasty seasoning to a very serious subject: these people, obsessed with operating differences between themselves and between us, are in charge of the institutions of power - directly or by influence.</p>]]></description>
-      <link>https://neodb.social/@villasv/posts/579021890659266280/</link>
-      <guid isPermaLink="true">https://neodb.social/@villasv/posts/579021890659266280/</guid>
-      <pubDate>Mon, 18 May 2026 02:06:16 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[Updated Page]]></title>
