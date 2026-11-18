@@ -5,10 +5,17 @@
     <description><![CDATA[Combined feed of my online posts. Machine translated — please forgive any translation errors.]]></description>
     <link>https://victor.villas</link>
     <generator>translate-feed.py</generator>
-    <lastBuildDate>Wed, 18 Nov 2026 14:07:26 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 23:05:42 GMT</lastBuildDate>
     <copyright><![CDATA[Victor Villas © 2026]]></copyright>
     <language>en-CA</language>
     <atom:link href="https://victor.villas/feed_en-CA.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title><![CDATA[Comment]]></title>
+      <description><![CDATA[<p>RE: https:// fed.brid.gy/r/https://bsky.app /profile/did:plc:hsqwcidfez66lwm3gxhfv5in/post/3n2kk5slnd52s Just another way in which cagers are taken for suckers, this one slightly more on the nose than others</p>]]></description>
+      <link>https://mastodon.social/@villasbc/117635704733686496</link>
+      <guid isPermaLink="true">https://mastodon.social/@villasbc/117635704733686496</guid>
+      <pubDate>Wed, 18 Nov 2026 05:06:44 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[Wants to read]]></title>
       <description><![CDATA[<p><a href="https://neodb.social/~neodb~/book/1AZgnnISH4pHud4SoXAZ3j" rel="nofollow">How Buildings Learn: What Happens After They're Built</a><br>How Buildings Learn: What Happens After They're Built</p>]]></description>
