@@ -5,7 +5,7 @@
     <description><![CDATA[Feed combinado das minhas publicações online. Tradução automática — por favor, perdoem qualquer falha na tradução.]]></description>
     <link>https://victor.villas</link>
     <generator>translate-feed.py</generator>
-    <lastBuildDate>Mon, 16 Nov 2026 09:05:44 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 14:07:26 GMT</lastBuildDate>
     <copyright><![CDATA[Victor Villas © 2026]]></copyright>
     <language>pt-BR</language>
     <atom:link href="https://victor.villas/feed_pt-BR.xml" rel="self" type="application/rss+xml"/>
@@ -22,6 +22,13 @@
       <link>https://mastodon.social/@villasbc/117610878146296648</link>
       <guid isPermaLink="true">https://mastodon.social/@villasbc/117610878146296648</guid>
       <pubDate>Fri, 13 Nov 2026 19:53:01 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Terminei de assistir]]></title>
+      <description><![CDATA[<p><i>[tradução automática do inglês]</i></p><p><a href="https://neodb.social/~neodb~/tv/season/7DGXFKbcmAdQuTEAWhek5t" rel="nofollow">Canada Remembers</a><br>O documentário escolhido para o Dia da Lembrança deste ano. Assisti a série de três partes de uma só vez. Boas ideias sobre o contexto cultural mais amplo, e não apenas os efeitos da guerra nos indivíduos nas trincheiras, mas no Canadá como um todo; ajuda a colocar em perspectiva o tanto que entra no chamado "esforço de guerra". Ângulos interessantes explorados, como a emancipação das mulheres e o recrutamento de imigrantes.</p>]]></description>
+      <link>https://neodb.social/@villasv/posts/645753951255773616/</link>
+      <guid isPermaLink="true">https://neodb.social/@villasv/posts/645753951255773616/</guid>
+      <pubDate>Thu, 12 Nov 2026 06:12:00 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[Comentário]]></title>
@@ -192,13 +199,6 @@
       <pubDate>Sat, 17 Oct 2026 00:20:36 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[Comentário]]></title>
-      <description><![CDATA[<p><i>[tradução automática do inglês]</i></p><p>Kareem Allam fez uma entrevista muito boa com Stephen Quinn, se eu não soubesse nada sobre seu trabalho para eleger a ABC, poderia ter me enganado. Pete Fry não foi incrível, mas é sempre mais fácil criticar o cara que está andando sobre uma corda bamba representando a "frente progressista" enquanto também não é tão progressista assim.</p>]]></description>
-      <link>https://mastodon.social/@villasbc/117452616858636000</link>
-      <guid isPermaLink="true">https://mastodon.social/@villasbc/117452616858636000</guid>
-      <pubDate>Fri, 16 Oct 2026 21:05:05 GMT</pubDate>
-    </item>
-    <item>
       <title><![CDATA[Terminei de ler]]></title>
       <description><![CDATA[<p><i>[tradução automática do inglês]</i></p><p><a href="https://neodb.social/~neodb~/book/779cpDIOZl8aUkZr1ZB7sv" rel="nofollow">November, November: Poems</a><br>Algumas partes ressoaram muito, outras nem tanto; e é assim que espero que seja uma boa coleção de poemas, bem no limite do que é confortável versus o que está lá para expandir. As passagens dançando em torno de encontrar paz com a perda, mas ainda reservando alguma raiva... coisas poderosas.</p>]]></description>
       <link>https://neodb.social/@villasv/posts/623814097113606144/</link>
@@ -281,13 +281,6 @@
       <link>https://neodb.social/@villasv/posts/579350553766254696/</link>
       <guid isPermaLink="true">https://neodb.social/@villasv/posts/579350553766254696/</guid>
       <pubDate>Mon, 18 May 2026 23:52:15 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Terminei de assistir]]></title>
-      <description><![CDATA[<p><i>[tradução automática do inglês]</i></p><p><a href="https://neodb.social/~neodb~/movie/2dzs9FFBeXx9P6WraHayYW" rel="nofollow">Weapons, 7 out of 10</a><br>Parece um bom suspense, com alguns compromissos. Começa abruptamente e termina abruptamente, usando o mesmo narrador para fornecer um resumo de 30 segundos. Mas, no geral, o lado negativo dessa "eficiência" é que ela se concentra e executa bem em manter o espectador em alerta, imaginando o que vem a seguir; sem tempo desperdiçado em enrolar a história. Eu achei que a imagem da arma voadora talvez fosse um pouco... presciente? Para o personagem pensar nisso tão cedo na história, pelo menos? Não sei, parece que foi muito direto ao ponto de conjurar o nome do filme tão literalmente e tão cedo.</p>]]></description>
-      <link>https://neodb.social/@villasv/posts/579025140575936848/</link>
-      <guid isPermaLink="true">https://neodb.social/@villasv/posts/579025140575936848/</guid>
-      <pubDate>Mon, 18 May 2026 02:19:11 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[Atualização de Página]]></title>

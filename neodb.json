@@ -2705,6 +2705,23 @@
     "complete": [
       {
         "shelf_type": "complete",
+        "post_id": "645753951255773616",
+        "created_time": "2026-11-12T06:12:00Z",
+        "rating_grade": null,
+        "comment_text": "The chosen documentary for this year's Remembrance Day. Watched the three-part series in one go. Good insights on the broader cultural context, and not only the after-effects of the war on the individuals on the trenches but Canada as a whole; it helps put into perspective how much goes into the so called \"war effort\". Interesting angles explored, like the emancipation of women and the deployment of immigrants.",
+        "item": {
+          "id": "https://neodb.social/tv/season/7DGXFKbcmAdQuTEAWhek5t",
+          "title": "Canada Remembers",
+          "localized_title": [
+            {
+              "lang": "en",
+              "text": "Canada Remembers"
+            }
+          ]
+        }
+      },
+      {
+        "shelf_type": "complete",
         "post_id": "617021702243918184",
         "created_time": "2026-08-30T22:43:57.456Z",
         "rating_grade": 8,

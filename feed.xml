@@ -4,9 +4,16 @@
         <description><![CDATA[The combined feed of my online stuff.]]></description>
         <link>https://victor.villas</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 16 Nov 2026 09:04:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Nov 2026 14:04:57 GMT</lastBuildDate>
         <atom:link href="https://victor.villas/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Victor Villas © 2026]]></copyright>
+        <item>
+            <title><![CDATA[Comment]]></title>
+            <description><![CDATA[<p class="quote-inline">RE: <a href="https://fed.brid.gy/r/https://bsky.app/profile/did:plc:hsqwcidfez66lwm3gxhfv5in/post/3n2kk5slnd52s" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">fed.brid.gy/r/https://bsky.app</span><span class="invisible">/profile/did:plc:hsqwcidfez66lwm3gxhfv5in/post/3n2kk5slnd52s</span></a></p><p>Just another way in which cagers are taken for suckers, this one slightly more on the nose than others</p>]]></description>
+            <link>https://mastodon.social/@villasbc/117635704733686496</link>
+            <guid isPermaLink="true">https://mastodon.social/@villasbc/117635704733686496</guid>
+            <pubDate>Wed, 18 Nov 2026 05:06:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Wants to read]]></title>
             <description><![CDATA[<p><a href="https://neodb.social/~neodb~/book/1AZgnnISH4pHud4SoXAZ3j" rel="nofollow">How Buildings Learn: What Happens After They&#x27;re Built</a> </p><p></p>]]></description>
@@ -20,6 +27,13 @@
             <link>https://mastodon.social/@villasbc/117610878146296648</link>
             <guid isPermaLink="true">https://mastodon.social/@villasbc/117610878146296648</guid>
             <pubDate>Fri, 13 Nov 2026 19:53:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Finished watching]]></title>
+            <description><![CDATA[<p><a href="https://neodb.social/~neodb~/tv/season/7DGXFKbcmAdQuTEAWhek5t" rel="nofollow">Canada Remembers</a> <br>The chosen documentary for this year&#x27;s Remembrance Day. Watched the three-part series in one go. Good insights on the broader cultural context, and not only the after-effects of the war on the individuals on the trenches but Canada as a whole; it helps put into perspective how much goes into the so called &quot;war effort&quot;. Interesting angles explored, like the emancipation of women and the deployment of immigrants.<br></p>]]></description>
+            <link>https://neodb.social/@villasv/posts/645753951255773616/</link>
+            <guid isPermaLink="true">https://neodb.social/@villasv/posts/645753951255773616/</guid>
+            <pubDate>Thu, 12 Nov 2026 06:12:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Comment]]></title>
@@ -190,13 +204,6 @@
             <pubDate>Sat, 17 Oct 2026 00:20:36 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Comment]]></title>
-            <description><![CDATA[<p>Kareem Allam actually did pretty well in the interview with Stephen Quinn, if I didn’t know any better about his work in getting ABC elected in the first place it could have fooled me</p><p>Pete Fry wasn’t amazing, but it’s always easier to poke the guy who’s walking a tightrope of representing the “progressive front” while also not really being that much progressive.</p>]]></description>
-            <link>https://mastodon.social/@villasbc/117452616858636000</link>
-            <guid isPermaLink="true">https://mastodon.social/@villasbc/117452616858636000</guid>
-            <pubDate>Fri, 16 Oct 2026 21:05:05 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Finished reading]]></title>
             <description><![CDATA[<p><a href="https://neodb.social/~neodb~/book/779cpDIOZl8aUkZr1ZB7sv" rel="nofollow">November, November: Poems</a> <br>Some parts resonated a lot, some not so much; and that&#x27;s about how I expect a good poem collection to be like, right around the edge of what feels comfortable versus what&#x27;s there to expand.  The passages dancing around finding peace with loss, but still reserving some anger… powerful stuff.<br></p>]]></description>
             <link>https://neodb.social/@villasv/posts/623814097113606144/</link>
@@ -279,13 +286,6 @@
             <link>https://neodb.social/@villasv/posts/579350553766254696/</link>
             <guid isPermaLink="true">https://neodb.social/@villasv/posts/579350553766254696/</guid>
             <pubDate>Mon, 18 May 2026 23:52:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Finished watching]]></title>
-            <description><![CDATA[<p><a href="https://neodb.social/~neodb~/movie/2dzs9FFBeXx9P6WraHayYW" rel="nofollow">Weapons, 7 out of 10</a>  <br>It feels like a good thriller, with some compromises. It kicks off abruptly and it concludes abruptly, using the same narrator to provide a 30 seconds summary. But overall, the flip side of that &quot;efficiency&quot; is that it focuses and executes well in keeping the viewer on their toes, wondering what comes next; no time wasted on winding up and down the story. I did find the flying weapon imagery perhaps a bit too... prescient? For the character to think of it that early in the story, at least? I don&#x27;t know, it feels like it was too on the nose to conjure the name of the movie so literally and so early.<br></p>]]></description>
-            <link>https://neodb.social/@villasv/posts/579025140575936848/</link>
-            <guid isPermaLink="true">https://neodb.social/@villasv/posts/579025140575936848/</guid>
-            <pubDate>Mon, 18 May 2026 02:19:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Updated Page]]></title>
