@@ -1742,6 +1742,31 @@
     "complete": [
       {
         "shelf_type": "complete",
+        "post_id": "647542336792530168",
+        "created_time": "2026-11-23T04:02:03.720Z",
+        "rating_grade": 8,
+        "comment_text": "I’m not the biggest fan of terror and psychological thrillers, but I can see how this movie would please the critics. The premise is straightforward but the execution is what sets it apart. There’s a proper tension buildout, and a surprising restraint in saving the most disturbing developments until the setting is right.\n\nI also like how it’s a terror movie in which not only the protagonist is the one responsible for bringing about their own demise, but there’s a noticeable dose of character development that makes the viewer see him as a pathetic but still effective villain for the plot.",
+        "item": {
+          "id": "https://neodb.social/movie/1h6eSFaFOKzV3ElOnk0BnA",
+          "title": "Obsession",
+          "localized_title": [
+            {
+              "lang": "en",
+              "text": "Obsession"
+            },
+            {
+              "lang": "pt",
+              "text": "Obsession: A Felicidade é Relativa"
+            },
+            {
+              "lang": "pt-br",
+              "text": "Obsessão"
+            }
+          ]
+        }
+      },
+      {
+        "shelf_type": "complete",
         "post_id": "642501081419310712",
         "created_time": "2026-11-09T06:09:54.758Z",
         "rating_grade": 6,
