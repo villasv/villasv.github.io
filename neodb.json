@@ -2730,6 +2730,27 @@
     "complete": [
       {
         "shelf_type": "complete",
+        "post_id": "648664141389409856",
+        "created_time": "2026-11-26T06:19:42.778Z",
+        "rating_grade": 8,
+        "comment_text": "Strange, but not just for the sake of forced quirkiness; it really is a strange idea, taken to its extreme end thanks to Nathan’s commitment. One of the sentences he says as he’s about to invade and live on someone else’s apartment sums up what makes this unique: “I felt like I wasn’t going deep enough”.\n\nWhat if you could rehearse life? But that’s not quite it. How about… what if you had the resources to rehearse some of your imagined alternate realities? I wouldn’t have thought a strange premise like this would make me laugh and get seriously moved by some of the people who went through it.\n\nAlso, wow people are weird.",
+        "item": {
+          "id": "https://neodb.social/tv/season/0FjyyV9pRCqaYJFoIULqiJ",
+          "title": "The Rehearsal",
+          "localized_title": [
+            {
+              "lang": "en",
+              "text": "The Rehearsal"
+            },
+            {
+              "lang": "en",
+              "text": "The Rehearsal - Season 1"
+            }
+          ]
+        }
+      },
+      {
+        "shelf_type": "complete",
         "post_id": "645753951255773616",
         "created_time": "2026-11-12T06:12:00Z",
         "rating_grade": null,
