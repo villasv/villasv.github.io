@@ -5,10 +5,17 @@
     <description><![CDATA[Feed combinado das minhas publicações online. Tradução automática — por favor, perdoem qualquer falha na tradução.]]></description>
     <link>https://victor.villas</link>
     <generator>translate-feed.py</generator>
-    <lastBuildDate>Thu, 26 Nov 2026 09:07:10 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 09:08:32 GMT</lastBuildDate>
     <copyright><![CDATA[Victor Villas © 2026]]></copyright>
     <language>pt-BR</language>
     <atom:link href="https://victor.villas/feed_pt-BR.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title><![CDATA[Comentário]]></title>
+      <description><![CDATA[<p><i>[tradução automática do inglês]</i></p><p>Os contra vão contra, então não é surpresa o material sobre SOGI, mas a tristeza é inevitável. Nota: é cansativo ver as pessoas do # bcpoli desculparem os eleitores e colocarem toda a culpa em Eby porque ele "não explicou adequadamente por que precisávamos de uma eleição". Amigo, o problema é que isso precisa de explicação em primeiro lugar, e 200 mil pessoas acharam que estava tudo bem ficar de fora. Votem verde pelo menos, se o objetivo é ensinar uma lição ao NDP. Não votar contra isso é endossá-lo.</p>]]></description>
+      <link>https://mastodon.social/@villasbc/117684343715859444</link>
+      <guid isPermaLink="true">https://mastodon.social/@villasbc/117684343715859444</guid>
+      <pubDate>Thu, 26 Nov 2026 19:16:16 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[Terminei de assistir]]></title>
       <description><![CDATA[<p><i>[tradução automática do inglês]</i></p><p><a href="https://neodb.social/~neodb~/tv/season/0FjyyV9pRCqaYJFoIULqiJ" rel="nofollow">The Rehearsal, 8 out of 10</a><br>Estranho, mas não apenas por uma questão de excentricidade forçada; é realmente uma ideia estranha, levada ao extremo graças ao compromisso de Nathan. Uma das frases que ele diz quando está prestes a invadir e viver no apartamento de outra pessoa resume o que torna isso único: "Eu senti que não estava indo fundo o suficiente". E se você pudesse ensaiar a vida? Mas não é bem isso. Que tal... se você tivesse os recursos para ensaiar algumas das suas realidades alternativas imaginadas? Eu não teria pensado que uma premissa estranha como essa me faria rir e me comover seriamente com algumas das pessoas que passaram por isso. Além disso, uau, as pessoas são estranhas.</p>]]></description>
@@ -204,20 +211,6 @@
       <link>https://mastodon.social/@villasbc/117460348043767153</link>
       <guid isPermaLink="true">https://mastodon.social/@villasbc/117460348043767153</guid>
       <pubDate>Sun, 18 Oct 2026 05:51:14 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Comentário]]></title>
-      <description><![CDATA[<p><i>[tradução automática do inglês]</i></p><p>Eu adoro o conceito de que estou a meio caminho entre zero e zero dólares na minha conta de outubro, o que faz sentido porque é quase a metade do mês</p><img alt="A bar chart where the y axis starts on zero, and the maximum value on top of the graph is also zero; past months show a full height bar, current month show a 50% height bar; all saying that the total cost is zero." src="https://files.mastodon.social/media_attachments/files/117/457/451/355/764/505/original/83e2c392ef057d6d.jpg"/>]]></description>
-      <link>https://mastodon.social/@villasbc/117457458326808951</link>
-      <guid isPermaLink="true">https://mastodon.social/@villasbc/117457458326808951</guid>
-      <pubDate>Sat, 17 Oct 2026 17:36:20 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Comentário]]></title>
-      <description><![CDATA[<p><i>[tradução automática do inglês]</i></p><p>Descobri que no #Canadá uma empresa pode recusar pagamentos em dinheiro. Embora o #Brasil provavelmente tenha uma infraestrutura de "pagamentos digitais" mais moderna, o dinheiro não pode ser recusado como forma de pagamento</p>]]></description>
-      <link>https://mastodon.social/@villasbc/117453385643817112</link>
-      <guid isPermaLink="true">https://mastodon.social/@villasbc/117453385643817112</guid>
-      <pubDate>Sat, 17 Oct 2026 00:20:36 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[Terminei de ler]]></title>
